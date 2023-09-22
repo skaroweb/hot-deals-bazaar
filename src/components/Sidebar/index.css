@@ -1,0 +1,114 @@
+.sticky_sidebar {
+  position: sticky;
+  top: 10px;
+}
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+}
+.panel-heading {
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  color: #333;
+  background-color: #000;
+  border-color: #d3e0e9;
+  border-bottom: 0;
+}
+.panel-title {
+  color: #fff;
+  text-decoration: none;
+}
+.panel.categoryList .panel-body,
+.panel.shopsList .panel-body {
+  padding: 10px;
+}
+.panel-body {
+  border-top: 1px solid #d3e0e9;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.panel.panel-default.shopsList {
+  border: 1px #d3e0e9 solid;
+  overflow: hidden;
+  border-radius: 3px;
+}
+ul#shopsFilterul {
+  max-height: 158px;
+  overflow: auto;
+}
+/* width */
+ul#shopsFilterul::-webkit-scrollbar {
+  width: 7px;
+  border-radius: 10px;
+}
+
+/* Track */
+ul#shopsFilterul::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+/* Handle */
+ul#shopsFilterul::-webkit-scrollbar-thumb {
+  background: #ffb300;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+ul#shopsFilterul::-webkit-scrollbar-thumb:hover {
+  background: #ffb300;
+  border-radius: 10px;
+}
+li.list-group-item {
+  border: none;
+}
+.sidebar label {
+  margin-left: 5px;
+}
+li.list-group-item {
+  padding-bottom: 0px;
+}
+#shopsFilterul input[type="checkbox"] {
+  display: none;
+}
+#shopsFilterul label {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+#shopsFilterul label:before {
+  top: 3px;
+  left: -5px;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  pointer-events: none;
+  content: "";
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 2px #000 solid;
+  border-radius: 3px;
+  margin-right: 0;
+  position: relative;
+  flex-shrink: 0;
+}
+
+#shopsFilterul input[type="checkbox"]:checked + label:after {
+  content: "";
+  position: absolute;
+  left: 1px;
+  top: 6px;
+  display: inline-block;
+  transform: rotate(45deg);
+  height: 10px;
+  width: 6px;
+  border-bottom: 3px solid #ffb300;
+  border-right: 3px solid #ffb300;
+}

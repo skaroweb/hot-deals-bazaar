@@ -1,0 +1,10 @@
+.Single_post_img_holder {
+  text-align: center;
+  margin-bottom: 25px;
+}
+.single_post_para {
+  padding-top: 30px;
+}
+.single_post_para a {
+  color: #ffb300 !important;
+}

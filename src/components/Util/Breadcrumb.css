@@ -1,0 +1,7 @@
+.breadcrumb a {
+  color: #ffb300;
+  text-decoration: none;
+}
+li.breadcrumb-item.active {
+  color: #000;
+}
