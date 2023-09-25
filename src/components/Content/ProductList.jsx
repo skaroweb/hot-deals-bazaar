@@ -16,7 +16,7 @@ function ProductList({ platform }) {
   const [isLoading, setIsLoading] = useState(true); // Add isLoading state
 
   const itemsToLoad = 12; // Adjust the number of items to load each time
-  const StrapiCMSURL = "http://localhost:1337";
+  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
 
   useEffect(() => {
     const apiUrl = `${

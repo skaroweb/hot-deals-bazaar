@@ -8,7 +8,7 @@ import Breadcrumb from "../Util/Breadcrumb";
 
 function BlogSinglePost({ setBlogExcept }) {
   const [post, setPost] = useState(null);
-  const StrapiCMSURL = "http://localhost:1337";
+  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
 
   const { id } = useParams();
 

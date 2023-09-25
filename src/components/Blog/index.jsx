@@ -13,7 +13,7 @@ const BlogList = () => {
 
   //   console.log(searchText);
 
-  const StrapiCMSURL = "http://localhost:1337";
+  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
 
   const formatDate = (publishedAt) => {
     const date = new Date(publishedAt);

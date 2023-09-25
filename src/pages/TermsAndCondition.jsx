@@ -5,7 +5,7 @@ import axios from "axios";
 const TermsAndCondition = () => {
   const [page, setPage] = useState([]);
 
-  const StrapiCMSURL = "http://localhost:1337";
+  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/api/terms-and-condition?populate=*"}`;

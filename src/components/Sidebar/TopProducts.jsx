@@ -6,7 +6,7 @@ import ProductListImg from "../Content/ProductListImg";
 const TopProducts = () => {
   const [topProducts, setTopProducts] = useState([]);
 
-  const StrapiCMSURL = "http://localhost:1337";
+  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
 
   useEffect(() => {
     const apiUrl = `${
