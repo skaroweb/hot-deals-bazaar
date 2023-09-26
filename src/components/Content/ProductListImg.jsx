@@ -4,55 +4,55 @@ const ProductListImg = ({ platform }) => {
     <div>
       {platform === "Amazon" ? (
         <img
-          src={`${StrapiCMSURL + "/uploads/Amazon_0c7ce7f518.png"}`}
+          src={`${StrapiCMSURL + "/uploads/Amazon_972ce3627e.png"}`}
           alt="Amazon"
           className="img-fluid"
         />
       ) : platform === "Flipkart" ? (
         <img
-          src={`${StrapiCMSURL + "/uploads/Flipkart_e57c87dc70.png"}`}
+          src={`${StrapiCMSURL + "/uploads/Flipkart_2040ee091e.png"}`}
           alt="Flipkart"
           className="img-fluid"
         />
       ) : platform === "Myntra" ? (
         <img
-          src={`${StrapiCMSURL + "/uploads/Myntra_38c5594447.png"}`}
+          src={`${StrapiCMSURL + "/uploads/Myntra_ed63da776d.png"}`}
           alt="Myntra"
           className="img-fluid"
         />
       ) : platform === "Paytm" ? (
         <img
-          src={`${StrapiCMSURL + "/uploads/paytm_14f2542a8b.png"}`}
+          src={`${StrapiCMSURL + "/uploads/paytm_5cc03d32d6.png"}`}
           alt="Paytm"
           className="img-fluid"
         />
       ) : platform === "Jiomart" ? (
         <img
-          src={`${StrapiCMSURL + "/uploads/jiomart_d044ac8b4a.png"}`}
+          src={`${StrapiCMSURL + "/uploads/jiomart_c497dfce9b.png"}`}
           alt="Jiomart"
           className="img-fluid"
         />
       ) : platform === "Croma" ? (
         <img
-          src={`${StrapiCMSURL + "/uploads/croma_cdce11efe3.png"}`}
+          src={`${StrapiCMSURL + "/uploads/croma_2fcb34dd16.png"}`}
           alt="Croma"
           className="img-fluid"
         />
       ) : platform === "Ajio" ? (
         <img
-          src={`${StrapiCMSURL + "/uploads/AJIO_3e99680326.png"}`}
+          src={`${StrapiCMSURL + "/uploads/AJIO_b4874b7895.png"}`}
           alt="Ajio"
           className="img-fluid"
         />
       ) : platform === "Pepperfry" ? (
         <img
-          src={`${StrapiCMSURL + "/uploads/Pepperfry_121efb7657.png"}`}
+          src={`${StrapiCMSURL + "/uploads/Pepperfry_043d2087c5.png"}`}
           alt="Pepperfry"
           className="img-fluid"
         />
       ) : (
         <img
-          src={`${StrapiCMSURL + "/uploads/other_a4f7156973.png"}`}
+          src={`${StrapiCMSURL + "/uploads/other_7158b35552.png"}`}
           alt="other"
           className="img-fluid"
         />
