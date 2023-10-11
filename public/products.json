@@ -1,6 +1,44 @@
 {
   "data": [
     {
+      "id": 3636,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B07VNFP3C2?tag=thuttu-21&ascsubtag=1284349",
+        "title": "Prestige PKOSS 1.5 1500 Watts Kettle | Red | 1.8 Litre | Automatic Cut-Off | Power Indicator | Single-Touch Lid Locking | 360 Degree Swivel Base | Concealed Elements",
+        "dealPrice": "₹ 575",
+        "originalPrice": "₹ 1245",
+        "createdAt": "2023-10-11T10:47:02.249Z",
+        "updatedAt": "2023-10-11T10:47:02.249Z",
+        "publishedAt": "2023-10-11T10:47:02.242Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "54",
+        "ProductImgUrl": "uploads/Prestige PKOSS 15 1500 Watts Kettle Red 18 Litre Automatic Cut Off Power Indicator Single Touch Lid Locking 360 Degree Swivel Base Concealed Elements.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3635,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/boult-audio-x45-quad-mic-enc-40h-playtime-45ms-ultra-low-latency-made-india-5-3-bluetooth-headset/p/itm49b6c65230cbe?pid=ACCGHMMYUFJWFTMH",
+        "title": "Boult Audio X45 with Quad Mic ENC, 40H Playtime, 45ms Ultra Low Latency, Made In India, 5.3 Bluetooth Headset  (Black, True Wireless)",
+        "dealPrice": "₹ 799",
+        "originalPrice": "₹ 4999",
+        "createdAt": "2023-10-11T10:46:02.841Z",
+        "updatedAt": "2023-10-11T10:46:02.841Z",
+        "publishedAt": "2023-10-11T10:46:02.838Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "84",
+        "ProductImgUrl": "uploads/Boult Audio X45 with Quad Mic ENC 40H Playtime 45ms Ultra Low Latency Made In India 53 Bluetooth Headset Black True Wireless.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 3634,
       "attributes": {
         "productLink": "https://www.flipkart.com/aquire-extra-large-pvc-vinyl-sticker/p/itme4vr5zgpgyfud?pid=ACCG3QTDFHY68WUS",
@@ -5174,7 +5212,7 @@
       "page": 1,
       "pageSize": 1000000,
       "pageCount": 1,
-      "total": 272
+      "total": 274
     }
   }
 }
