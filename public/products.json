@@ -1,6 +1,63 @@
 {
   "data": [
     {
+      "id": 3675,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/nivea-shower-gel-frangipani-oil-body-wash/p/itm9b97fa7749568?pid=BWSFS9CAX5FFBJGP",
+        "title": "NIVEA Shower Gel, Frangipani & Oil Body Wash  (500 ml)",
+        "dealPrice": "₹ 107",
+        "originalPrice": "₹ 449",
+        "createdAt": "2023-10-11T11:48:02.716Z",
+        "updatedAt": "2023-10-11T11:48:02.716Z",
+        "publishedAt": "2023-10-11T11:48:02.713Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "76",
+        "ProductImgUrl": "uploads/NIVEA Shower Gel Frangipani Oil Body Wash 500 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3674,
+      "attributes": {
+        "productLink": "https://amazon.in/gp/product/B08H654828/?tag=thuttu-21&ascsubtag=1287807",
+        "title": "Tata Tea Premium | Desh Ki Chai | Unique Blend Crafted For Chai Lovers Across India | Black Tea | 1.5kg",
+        "dealPrice": "₹ 465",
+        "originalPrice": "₹ 705",
+        "createdAt": "2023-10-11T11:47:03.541Z",
+        "updatedAt": "2023-10-11T11:47:03.541Z",
+        "publishedAt": "2023-10-11T11:47:03.537Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "34",
+        "ProductImgUrl": "uploads/Tata Tea Premium Desh Ki Chai Unique Blend Crafted For Chai Lovers Across India Black Tea 15kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3673,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/search?q=crocs",
+        "title": "Crocs @ Mini 60% off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "createdAt": "2023-10-11T11:47:02.593Z",
+        "updatedAt": "2023-10-11T11:47:02.593Z",
+        "publishedAt": "2023-10-11T11:47:02.586Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "",
+        "ProductImgUrl": "uploads/Crocs Mini 60 off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 3672,
       "attributes": {
         "productLink": "https://www.amazon.in/dp/B08TX1XD1D?tag=thuttu-21&ascsubtag=1287805",
@@ -5896,7 +5953,7 @@
       "page": 1,
       "pageSize": 1000000,
       "pageCount": 1,
-      "total": 310
+      "total": 313
     }
   }
 }
