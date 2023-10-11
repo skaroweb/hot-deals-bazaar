@@ -16,7 +16,7 @@ function ProductList({ platform }) {
   const [isLoading, setIsLoading] = useState(true); // Add isLoading state
 
   const itemsToLoad = 12; // Adjust the number of items to load each time
-  const StrapiCMSURL = "http://localhost:3000";
+  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/products.json"}`;

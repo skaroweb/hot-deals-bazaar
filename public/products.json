@@ -1,6 +1,101 @@
 {
   "data": [
     {
+      "id": 3581,
+      "attributes": {
+        "productLink": "https://www.amazon.in/s?k=diverse+shirt+for+men&rh=p_85%3A10440599031&s=price-asc-rank&dc=&ds=v1%3AmRf408DLo8Xy%2FcN2dHpeX8OgJe1Owu59UgiddyymAw0&crid=3AR88JTUDD8RS&qid=1697001533&rnid=10440598031&sprefix=Diverse%2Caps%2C221&tag=thuttu-21&ascsubtag=1287580",
+        "title": "Diverse Mens Casual Shirt from 259",
+        "dealPrice": "",
+        "originalPrice": "",
+        "createdAt": "2023-10-11T06:05:04.374Z",
+        "updatedAt": "2023-10-11T06:05:04.374Z",
+        "publishedAt": "2023-10-11T06:05:04.371Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "",
+        "ProductImgUrl": "uploads/Diverse Mens Casual Shirt from 259.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3580,
+      "attributes": {
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Fstory-at-home%3Ff%3DCategories%253ABlankets%2BQuilts%2Band%2BDohars%253A%253AType%253AComforter%26sort%3Dprice_asc",
+        "title": "Story@Home Blue & Red 180 GSM Reversible Double Bed Comforter",
+        "dealPrice": "₹ 879",
+        "originalPrice": "₹ 3999",
+        "createdAt": "2023-10-11T06:02:03.471Z",
+        "updatedAt": "2023-10-11T06:02:03.471Z",
+        "publishedAt": "2023-10-11T06:02:03.468Z",
+        "platform": "Myntra",
+        "affiliate_product_link": null,
+        "discount": "78",
+        "ProductImgUrl": "uploads/StoryHome Blue Red 180 GSM Reversible Double Bed Comforter.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3579,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/poco-c50-country-green-32-gb/p/itm0b3d5144d9c22?pid=MOBGK8WZYEJ3G5AA",
+        "title": "[For ICICI Debit Card] POCO C50 (Country Green, 32 GB)  (2 GB RAM)",
+        "dealPrice": "₹ 4770",
+        "originalPrice": "₹ 8999",
+        "createdAt": "2023-10-11T06:01:06.267Z",
+        "updatedAt": "2023-10-11T06:01:06.267Z",
+        "publishedAt": "2023-10-11T06:01:06.264Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "47",
+        "ProductImgUrl": "uploads/For ICICI Debit Card POCO C50 Country Green 32 GB 2 GB RAM.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3578,
+      "attributes": {
+        "productLink": null,
+        "title": "Beco Bamboo Super Soft 2-Ply Tissue Box 100 Pulls Each, 100% Natural and Ecofriendly Tissue Papers (Pack of 4, 400 Tissue)",
+        "dealPrice": "₹ 209",
+        "originalPrice": "₹ 420",
+        "createdAt": "2023-10-11T06:01:04.791Z",
+        "updatedAt": "2023-10-11T06:01:04.791Z",
+        "publishedAt": "2023-10-11T06:01:04.789Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "50",
+        "ProductImgUrl": "uploads/Beco Bamboo Super Soft 2 Ply Tissue Box 100 Pulls Each 100 Natural and Ecofriendly Tissue Papers Pack of 4 400 Tissue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3577,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BWDZYN9F/?tag=thuttu-21&ascsubtag=1287576",
+        "title": "amazon basics Digital Safe For Home With Electronic Keypad Locker, 51L, Black",
+        "dealPrice": "₹ 6499",
+        "originalPrice": "₹ 13999",
+        "createdAt": "2023-10-11T06:01:02.968Z",
+        "updatedAt": "2023-10-11T06:01:02.968Z",
+        "publishedAt": "2023-10-11T06:01:02.964Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "54",
+        "ProductImgUrl": "uploads/amazon basics Digital Safe For Home With Electronic Keypad Locker 51L Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 3576,
       "attributes": {
         "productLink": "https://www.amazon.in/s?i=apparel&bbn=1968116031&rh=n%3A1968116031%2Cp_36%3A4595084031&s=popularity-rank&tag=thuttu-21&ascsubtag=1287575",
@@ -4072,7 +4167,7 @@
       "page": 1,
       "pageSize": 1000000,
       "pageCount": 1,
-      "total": 214
+      "total": 219
     }
   }
 }

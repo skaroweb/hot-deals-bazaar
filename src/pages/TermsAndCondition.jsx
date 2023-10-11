@@ -5,7 +5,7 @@ import axios from "axios";
 const TermsAndCondition = () => {
   const [page, setPage] = useState([]);
 
-  const StrapiCMSURL = "http://localhost:3000";
+  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/terms-and-condition.json"}`;

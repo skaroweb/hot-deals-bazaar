@@ -5,7 +5,7 @@ import axios from "axios";
 const Disclaimer = () => {
   const [page, setPage] = useState([]);
 
-  const StrapiCMSURL = "http://localhost:3000";
+  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/disclaimer.json"}`;

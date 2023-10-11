@@ -6,7 +6,7 @@ import ProductListImg from "../Content/ProductListImg";
 const TopProducts = () => {
   const [topProducts, setTopProducts] = useState([]);
 
-  const StrapiCMSURL = "http://localhost:3000";
+  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/products.json"}`;
