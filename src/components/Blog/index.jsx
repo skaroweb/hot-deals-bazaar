@@ -71,7 +71,7 @@ const BlogList = () => {
                       >
                         <img
                           src={
-                            "http://localhost:1337" +
+                            StrapiCMSURL +
                             blog.attributes.Featured_image.data.attributes.url
                           }
                           alt={blog.attributes.title}
@@ -81,8 +81,7 @@ const BlogList = () => {
                     ) : (
                       <img
                         src={`${
-                          StrapiCMSURL +
-                          "/uploads/Image_not_available_8a8e4a7492.png"
+                          StrapiCMSURL + "/uploads/Image_not_available.png"
                         }`}
                         alt="no_image"
                         className="img-fluid"

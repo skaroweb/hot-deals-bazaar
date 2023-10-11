@@ -177,8 +177,7 @@ function ProductList({ platform }) {
                     ) : (
                       <img
                         src={`${
-                          StrapiCMSURL +
-                          "/uploads/Image_not_available_8a8e4a7492.png"
+                          StrapiCMSURL + "/uploads/Image_not_available.png"
                         }`}
                         alt="no_image"
                         className="img-fluid"
