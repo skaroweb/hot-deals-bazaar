@@ -56,3 +56,8 @@
 #nav .dropdown > ul li {
   padding: 5px 0px;
 }
+@media (max-width: 768px) {
+  #nav .dropdown ul {
+    left: -130px;
+  }
+}
