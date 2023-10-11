@@ -7,15 +7,16 @@ const LatestBlog = ({ blogExcept }) => {
   const [blogs, setBlogs] = useState([]);
   const location = useLocation();
   const url = useParams();
-  const StrapiCMSURL = "http://localhost:1337";
+  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
 
   useEffect(() => {
-    const apiUrl = `${StrapiCMSURL + "/api/blogs?pagination[limit]=4"}`;
+    const apiUrl = `${StrapiCMSURL + "/blogs.json"}`;
     axios
       .get(apiUrl)
       .then((response) => {
         // Assuming the API response contains an array of blogs
-        const fetchedBlogs = response.data.data;
+        const topFourblogs = response.data.data;
+        const fetchedBlogs = topFourblogs.slice(0, 4);
 
         const matchingPost = fetchedBlogs.find(
           (post) =>
