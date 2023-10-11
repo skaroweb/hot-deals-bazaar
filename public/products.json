@@ -1,6 +1,310 @@
 {
   "data": [
     {
+      "id": 3597,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0B563T8JH/?tag=thuttu-21&ascsubtag=1287706",
+        "title": "Callus Remover",
+        "dealPrice": "₹ 699",
+        "originalPrice": "₹ 1599",
+        "createdAt": "2023-10-11T09:40:06.689Z",
+        "updatedAt": "2023-10-11T09:40:06.689Z",
+        "publishedAt": "2023-10-11T09:40:06.682Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "56",
+        "ProductImgUrl": "uploads/Callus Remover.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3596,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/lifelong-llhfd425-1000w-hot-air-circulation-technology-timer-selection-adjustable-temperature-control-true-digital-preset-menu-uses-upto-90-less-oil-fry-grill-roast-reheat-bake-black-fryer/p/itm7cee0bfe0a998?pid=AFRGRHDZVRWJK2RP",
+        "title": "Lifelong LLHFD425 1000W with Hot Air Circulation Technology with Timer Selection & Adjustable Temperature Control | True Digital |Preset Menu |Uses upto 90% Less Oil |Fry, Grill, Roast, Reheat and Bake (Black) Air Fryer  (2.5 L)",
+        "dealPrice": "₹ 1699",
+        "originalPrice": "₹ 8499",
+        "createdAt": "2023-10-11T09:40:06.330Z",
+        "updatedAt": "2023-10-11T09:40:06.330Z",
+        "publishedAt": "2023-10-11T09:40:06.322Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "80",
+        "ProductImgUrl": "uploads/Lifelong LLHFD425 1000W with Hot Air Circulation Technology with Timer Selection Adjustable Temperature Control True Digital Preset Menu Uses upto 90 Less Oil Fry Grill Roast Reheat and Bake Black Air Fryer 25 L.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3595,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B09X5W6JTV?tag=thuttu-21&ascsubtag=1287704",
+        "title": "CrossBeats Ignite Atlas Smartwatch, Segment First in-Built GPS and Bluetooth Calling, 1.69” HD RealHue™ 3D Display, Smart AI Health Spo2 HR BP, 200+ Watch Faces, 30 Days Battery, Multi-Sports (Blue)",
+        "dealPrice": "₹ 2199",
+        "originalPrice": "₹ 4999",
+        "createdAt": "2023-10-11T09:40:05.843Z",
+        "updatedAt": "2023-10-11T09:40:05.843Z",
+        "publishedAt": "2023-10-11T09:40:05.836Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "56",
+        "ProductImgUrl": "uploads/CrossBeats Ignite Atlas Smartwatch Segment First in Built GPS and Bluetooth Calling 169 HD RealHue 3D Display Smart AI Health Spo2 HR BP 200 Watch Faces 30 Days Battery Multi Sports Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3594,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BZK15NDR/?tag=thuttu-21&ascsubtag=1287703",
+        "title": "Khari Foods Air Roasted Nuts & Berries Crunch, Premium Dry Fruits Mix - Almonds, Cashews, Walnuts, Cranberries, Blueberries, Blackberries, Healthy Snacks (100g)",
+        "dealPrice": "₹ 134",
+        "originalPrice": "₹ 349",
+        "createdAt": "2023-10-11T09:40:05.463Z",
+        "updatedAt": "2023-10-11T09:40:05.463Z",
+        "publishedAt": "2023-10-11T09:40:05.460Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "62",
+        "ProductImgUrl": "uploads/Khari Foods Air Roasted Nuts Berries Crunch Premium Dry Fruits Mix Almonds Cashews Walnuts Cranberries Blueberries Blackberries Healthy Snacks 100g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3593,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0C4SWQH2R/?tag=thuttu-21&ascsubtag=1287701",
+        "title": "Bella Universe Natural Vita Rich Under Eye Cream Organic EyeLift Hydrating Natural Under Eye Cream Gel for Dark Circles, Puffy Eyes, Wrinkles & Removal of Fine Lines",
+        "dealPrice": "₹ 180",
+        "originalPrice": "₹ 549",
+        "createdAt": "2023-10-11T09:40:05.044Z",
+        "updatedAt": "2023-10-11T09:40:05.044Z",
+        "publishedAt": "2023-10-11T09:40:05.041Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "67",
+        "ProductImgUrl": "uploads/Bella Universe Natural Vita Rich Under Eye Cream Organic EyeLift Hydrating Natural Under Eye Cream Gel for Dark Circles Puffy Eyes Wrinkles Removal of Fine Lines.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3592,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/caresmith-fcs0074-charge-boost-blue-massager/p/itm63c7b3ddd2935?pid=MASGTABQGNWXMGSZ",
+        "title": "caresmith FCS0074 Charge Boost Blue Massager  (Blue)",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 1000",
+        "createdAt": "2023-10-11T09:40:04.646Z",
+        "updatedAt": "2023-10-11T09:40:04.646Z",
+        "publishedAt": "2023-10-11T09:40:04.639Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "40",
+        "ProductImgUrl": "uploads/caresmith FCS0074 Charge Boost Blue Massager Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3591,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/activa-apsra-5-star-pack-two-1200-mm-3-blade-ceiling-fan/p/itm4db155cabd582?",
+        "title": "ACTIVA APSRA 5 STAR ( PACK OF TWO) 1200 mm 3 Blade Ceiling Fan  (WHITE, Pack of 2)",
+        "dealPrice": "₹ 1849",
+        "originalPrice": "₹ 3980",
+        "createdAt": "2023-10-11T09:40:04.230Z",
+        "updatedAt": "2023-10-11T09:40:04.230Z",
+        "publishedAt": "2023-10-11T09:40:04.222Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "54",
+        "ProductImgUrl": "uploads/ACTIVA APSRA 5 STAR PACK OF TWO 1200 mm 3 Blade Ceiling Fan WHITE Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3590,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/mivi-fort-s80-soundbar-80w-bt-v5-0-sound-bar-remote-accessibility-80-w-bluetooth-soundbar/p/itm022954382460a?pid=ACCGRHA8E3JXMDZN",
+        "title": "Mivi Fort S80 Soundbar, 80W, BT V5.0 Sound bar with Remote Accessibility 80 W Bluetooth Soundbar  (Black, 2.2 Channel)",
+        "dealPrice": "₹ 2999",
+        "originalPrice": "₹ 7999",
+        "createdAt": "2023-10-11T09:40:03.899Z",
+        "updatedAt": "2023-10-11T09:40:03.899Z",
+        "publishedAt": "2023-10-11T09:40:03.893Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "63",
+        "ProductImgUrl": "uploads/Mivi Fort S80 Soundbar 80W BT V50 Sound bar with Remote Accessibility 80 W Bluetooth Soundbar Black 22 Channel.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3589,
+      "attributes": {
+        "productLink": null,
+        "title": "AM SAFE-X delivering the best Classic Sea Blue Yoga Mat + Sleek Yoga Strap for Men and Women (6mm Extra Thick Extra Long Extra Wide Exercise floor mat",
+        "dealPrice": "₹ 279",
+        "originalPrice": "₹ 599",
+        "createdAt": "2023-10-11T09:40:03.582Z",
+        "updatedAt": "2023-10-11T09:40:03.582Z",
+        "publishedAt": "2023-10-11T09:40:03.579Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "53",
+        "ProductImgUrl": "uploads/AM SAFE X delivering the best Classic Sea Blue Yoga Mat Sleek Yoga Strap for Men and Women 6mm Extra Thick Extra Long Extra Wide Exercise floor mat.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3588,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B0781V5VNT?tag=thuttu-21&ascsubtag=1287691",
+        "title": "Black + Decker BDCINF18N-QS 160PSI AC/DC Multipurpose Cordless Tyre Inflator with Digital Guage, Autocut off system and 2 operating modes",
+        "dealPrice": "₹ 4395",
+        "originalPrice": "₹ 12500",
+        "createdAt": "2023-10-11T09:40:03.289Z",
+        "updatedAt": "2023-10-11T09:40:03.289Z",
+        "publishedAt": "2023-10-11T09:40:03.285Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "65",
+        "ProductImgUrl": "uploads/Black Decker BDCINF18N QS 160PSI ACDC Multipurpose Cordless Tyre Inflator with Digital Guage Autocut off system and 2 operating modes.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3587,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B07TGH8NNX?tag=thuttu-21&ascsubtag=1287687",
+        "title": "amazon basics Hardware Nail Assortment Kit - Includes Finish, Wire, Common, Brad and Picture Hanging Nails, 550-Piece",
+        "dealPrice": "₹ 209",
+        "originalPrice": "₹ 500",
+        "createdAt": "2023-10-11T09:40:03.002Z",
+        "updatedAt": "2023-10-11T09:40:03.002Z",
+        "publishedAt": "2023-10-11T09:40:02.998Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "58",
+        "ProductImgUrl": "uploads/amazon basics Hardware Nail Assortment Kit Includes Finish Wire Common Brad and Picture Hanging Nails 550 Piece.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3586,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0C7MJ62VS/?tag=thuttu-21&ascsubtag=1287686",
+        "title": "Larah by Borosil Fluted Oak Dinner Set 21 Pieces, Opal Glass Dinner Plates & Bowls Crockery Set",
+        "dealPrice": "₹ 1215",
+        "originalPrice": "₹ 3095",
+        "createdAt": "2023-10-11T09:40:02.708Z",
+        "updatedAt": "2023-10-11T09:40:02.708Z",
+        "publishedAt": "2023-10-11T09:40:02.704Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "61",
+        "ProductImgUrl": "uploads/Larah by Borosil Fluted Oak Dinner Set 21 Pieces Opal Glass Dinner Plates Bowls Crockery Set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3585,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B00HS2DL0O?tag=thuttu-21&ascsubtag=1287683",
+        "title": "Dove Men+Care Invisible Dry Spray Antiperspirant Deodorant, Up To 48 hrs Protection From Sweat & Odour, Instantly Dry",
+        "dealPrice": "₹ 176",
+        "originalPrice": "₹ 275",
+        "createdAt": "2023-10-11T09:40:02.431Z",
+        "updatedAt": "2023-10-11T09:40:02.431Z",
+        "publishedAt": "2023-10-11T09:40:02.428Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "36",
+        "ProductImgUrl": "uploads/Dove MenCare Invisible Dry Spray Antiperspirant Deodorant Up To 48 hrs Protection From Sweat Odour Instantly Dry.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3584,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BP5KDPTB/?tag=thuttu-21&ascsubtag=1287684",
+        "title": "Saffola Fittify The Perfekt Eye Care Gummies | 60 Gummies | Strawberry Flavour & Saffola FITTIFY Whey Protein Peanut Butter | Dark Chocolaty | 925g",
+        "dealPrice": "₹ 514",
+        "originalPrice": "₹ 1549",
+        "createdAt": "2023-10-11T09:40:02.118Z",
+        "updatedAt": "2023-10-11T09:40:02.118Z",
+        "publishedAt": "2023-10-11T09:40:02.114Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "67",
+        "ProductImgUrl": "uploads/Saffola Fittify The Perfekt Eye Care Gummies 60 Gummies Strawberry Flavour Saffola FITTIFY Whey Protein Peanut Butter Dark Chocolaty 925g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3583,
+      "attributes": {
+        "productLink": "https://www.amazon.in/s?k=Levi%27s+Men%27s+Mid+Rise+512+Slim+Fit+Jeans&i=apparel&s=price-asc-rank&ds=v1%3AD1bJXI0B+b0xb8NR5ZyvTnOBLy%2FmVuZrkNLGIR7U0M8&crid=2R41N31U5P7OR&qid=1696773342&sprefix=levi%27s+men%27s+mid+rise+512+slim+fit+jeans%2Capparel%2C251&tag=thuttu_a-21&ascsubtag=1285320",
+        "title": "Levi's Men Jeans Starts From 899",
+        "dealPrice": "",
+        "originalPrice": "",
+        "createdAt": "2023-10-11T09:40:01.798Z",
+        "updatedAt": "2023-10-11T09:40:01.798Z",
+        "publishedAt": "2023-10-11T09:40:01.791Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "",
+        "ProductImgUrl": "uploads/Levis Men Jeans Starts From 899.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3582,
+      "attributes": {
+        "productLink": null,
+        "title": "[Sizes 12 Years-13 Years, 80 CM, 85 CM, 90 CM, 95 CM, 100 CM] Lux Cozi Men's Cotton Vest (Pack of 3) (Color & Prints May Vary)",
+        "dealPrice": "₹ 372",
+        "originalPrice": "₹ 630",
+        "createdAt": "2023-10-11T09:40:01.491Z",
+        "updatedAt": "2023-10-11T09:40:01.491Z",
+        "publishedAt": "2023-10-11T09:40:01.487Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "41",
+        "ProductImgUrl": "uploads/Sizes 12 Years 13 Years 80 CM 85 CM 90 CM 95 CM 100 CM Lux Cozi Mens Cotton Vest Pack of 3 Color Prints May Vary.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 3581,
       "attributes": {
         "productLink": "https://www.amazon.in/s?k=diverse+shirt+for+men&rh=p_85%3A10440599031&s=price-asc-rank&dc=&ds=v1%3AmRf408DLo8Xy%2FcN2dHpeX8OgJe1Owu59UgiddyymAw0&crid=3AR88JTUDD8RS&qid=1697001533&rnid=10440598031&sprefix=Diverse%2Caps%2C221&tag=thuttu-21&ascsubtag=1287580",
@@ -4167,7 +4471,7 @@
       "page": 1,
       "pageSize": 1000000,
       "pageCount": 1,
-      "total": 219
+      "total": 235
     }
   }
 }

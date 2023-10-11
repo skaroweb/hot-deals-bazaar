@@ -201,7 +201,9 @@ function ProductList({ platform }) {
                       <span>{product.attributes.dealPrice}</span>
                     </div>
                     <div className={styles.discount}>
-                      <span>{product.attributes.discount}% Off</span>
+                      {product.attributes.discount && (
+                        <span>{product.attributes.discount}% Off</span>
+                      )}
                     </div>
                   </div>
                   <div className={styles.divider}></div>
