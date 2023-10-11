@@ -36,6 +36,7 @@
   display: flex;
   justify-content: space-between;
   padding: 10px 0;
+  min-height: 44px;
 }
 .item_footer {
   display: flex;

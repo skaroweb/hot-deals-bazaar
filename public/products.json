@@ -1,6 +1,709 @@
 {
   "data": [
     {
+      "id": 3634,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/aquire-extra-large-pvc-vinyl-sticker/p/itme4vr5zgpgyfud?pid=ACCG3QTDFHY68WUS",
+        "title": "Blaupunkt SBA20F 16 W Bluetooth Soundbar  (Black, 2.1 Channel)",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 3499",
+        "createdAt": "2023-10-11T10:42:02.544Z",
+        "updatedAt": "2023-10-11T10:42:02.544Z",
+        "publishedAt": "2023-10-11T10:42:02.541Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "66",
+        "ProductImgUrl": "uploads/Blaupunkt SBA20F 16 W Bluetooth Soundbar Black 21 Channel.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3633,
+      "attributes": {
+        "productLink": null,
+        "title": "NIVIA Storm Football - Size: 5  (Pack of 1, Yellow)",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 726",
+        "createdAt": "2023-10-11T10:40:02.231Z",
+        "updatedAt": "2023-10-11T10:40:02.231Z",
+        "publishedAt": "2023-10-11T10:40:02.227Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "59",
+        "ProductImgUrl": "uploads/NIVIA Storm Football Size 5 Pack of 1 Yellow.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3632,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/dresque-store-sweetheart-neck-women-blouse/p/itmb9ea2021a11a2?pid=MKTGRGZGU8RHHYRK",
+        "title": "MAYBELLINE NEW YORK Ananya's Makeup Essentials: Fit Me Tint 05 + Colossal Kajal + SLM Touch of Spice  (Shade 05, Black, Touch of Spice, 37.35 ml)",
+        "dealPrice": "₹ 498",
+        "originalPrice": "₹ 997",
+        "createdAt": "2023-10-11T10:38:03.775Z",
+        "updatedAt": "2023-10-11T10:38:03.775Z",
+        "publishedAt": "2023-10-11T10:38:03.772Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "50",
+        "ProductImgUrl": "uploads/MAYBELLINE NEW YORK Ananyas Makeup Essentials Fit Me Tint 05 Colossal Kajal SLM Touch of Spice Shade 05 Black Touch of Spice 3735 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3631,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0C6QZHCL5/?tag=thuttu-21&ascsubtag=1287750",
+        "title": "Zebronics Music Bomb X Pro 20W Output, Portable Wireless Speaker with Bluetooth 5.1, 22h Backup, TWS, USB, mSD, AUX, FM, Call Function and RGB LED Lights",
+        "dealPrice": "₹ 1798",
+        "originalPrice": "₹ 4499",
+        "createdAt": "2023-10-11T10:38:03.445Z",
+        "updatedAt": "2023-10-11T10:38:03.445Z",
+        "publishedAt": "2023-10-11T10:38:03.442Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "60",
+        "ProductImgUrl": "uploads/Zebronics Music Bomb X Pro 20W Output Portable Wireless Speaker with Bluetooth 51 22h Backup TWS USB mSD AUX FM Call Function and RGB LED Lights.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3630,
+      "attributes": {
+        "productLink": null,
+        "title": "Maped Sensoft 16 Cm Left Handed - assorted colors Scissors  (Set of 1, Red,Grey)",
+        "dealPrice": "₹ 89",
+        "originalPrice": "₹ 199",
+        "createdAt": "2023-10-11T10:37:03.084Z",
+        "updatedAt": "2023-10-11T10:37:03.084Z",
+        "publishedAt": "2023-10-11T10:37:03.078Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "55",
+        "ProductImgUrl": "uploads/Maped Sensoft 16 Cm Left Handed assorted colors Scissors Set of 1 RedGrey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3629,
+      "attributes": {
+        "productLink": null,
+        "title": "Camel Student Water Colour Tubes - 12 Shades  (Set of 12, Multicolor)",
+        "dealPrice": "₹ 51",
+        "originalPrice": "₹ 100",
+        "createdAt": "2023-10-11T10:37:02.714Z",
+        "updatedAt": "2023-10-11T10:37:02.714Z",
+        "publishedAt": "2023-10-11T10:37:02.711Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "49",
+        "ProductImgUrl": "uploads/Camel Student Water Colour Tubes 12 Shades Set of 12 Multicolor.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3628,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/baby-dove-rich-moisture-shampoo-lotion-400ml/p/itm3690d3ddc92c6?pid=BBCGN8HA2ZQMPGF6",
+        "title": "baby Dove Rich Moisture Shampoo and Lotion 400ML  (White)",
+        "dealPrice": "₹ 174",
+        "originalPrice": "₹ 435",
+        "createdAt": "2023-10-11T10:34:02.575Z",
+        "updatedAt": "2023-10-11T10:34:02.575Z",
+        "publishedAt": "2023-10-11T10:34:02.572Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "60",
+        "ProductImgUrl": "uploads/baby Dove Rich Moisture Shampoo and Lotion 400ML White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3627,
+      "attributes": {
+        "productLink": "https://amazon.in/gp/product/B09NYCSQLF/?tag=thuttu-21&ascsubtag=1287744",
+        "title": "JIVO Kachi Ghani Chemical Free Mustard Daily Cooking Oil, 1 Liter | Recommendable",
+        "dealPrice": "₹ 140",
+        "originalPrice": "₹ 255",
+        "createdAt": "2023-10-11T10:34:02.204Z",
+        "updatedAt": "2023-10-11T10:34:02.204Z",
+        "publishedAt": "2023-10-11T10:34:02.198Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "45",
+        "ProductImgUrl": "uploads/JIVO Kachi Ghani Chemical Free Mustard Daily Cooking Oil 1 Liter Recommendable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3626,
+      "attributes": {
+        "productLink": null,
+        "title": "Status Polypropylene Anti Slip Floor Door Mat in Home Kitchen Office Entrance Mats (38x58 cm) (Beige, 15 x 23)",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 999",
+        "createdAt": "2023-10-11T10:33:02.642Z",
+        "updatedAt": "2023-10-11T10:33:02.642Z",
+        "publishedAt": "2023-10-11T10:33:02.636Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "90",
+        "ProductImgUrl": "uploads/Status Polypropylene Anti Slip Floor Door Mat in Home Kitchen Office Entrance Mats 38x58 cm Beige 15 x 23.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3625,
+      "attributes": {
+        "productLink": null,
+        "title": "Dove Hair Fall Rescue Shampoo 1 L, For Damaged Hair, Hair Fall Control for Thicker Hair - Mild Daily Anti Hair Fall Shampoo",
+        "dealPrice": "₹ 369",
+        "originalPrice": "₹ 699",
+        "createdAt": "2023-10-11T10:32:01.924Z",
+        "updatedAt": "2023-10-11T10:32:01.924Z",
+        "publishedAt": "2023-10-11T10:32:01.918Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "47",
+        "ProductImgUrl": "uploads/Dove Hair Fall Rescue Shampoo 1 L For Damaged Hair Hair Fall Control for Thicker Hair Mild Daily Anti Hair Fall Shampoo.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3624,
+      "attributes": {
+        "productLink": null,
+        "title": "Men’s Slippers & Flip Flops @ 69",
+        "dealPrice": "",
+        "originalPrice": "",
+        "createdAt": "2023-10-11T10:27:02.153Z",
+        "updatedAt": "2023-10-11T10:27:02.153Z",
+        "publishedAt": "2023-10-11T10:27:02.146Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "",
+        "ProductImgUrl": "uploads/Mens Slippers Flip Flops 69.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3623,
+      "attributes": {
+        "productLink": null,
+        "title": "VAS COLLECTIONS 160 TC Cotton Double Floral Flat Bedsheet  (Pack of 1, Camal)",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 999",
+        "createdAt": "2023-10-11T10:26:02.781Z",
+        "updatedAt": "2023-10-11T10:26:02.781Z",
+        "publishedAt": "2023-10-11T10:26:02.778Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "80",
+        "ProductImgUrl": "uploads/VAS COLLECTIONS 160 TC Cotton Double Floral Flat Bedsheet Pack of 1 Camal.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3622,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/rage-coffee-combo-pack-3-irish-hazelnut-dark-chocolate-creme-caramel-flavoured-50-gms-each-instant/p/itm080070aa7cc89?pid=CFEFUWRYHH2FT9SQ",
+        "title": "RAGE Coffee Combo Pack of 3 - Irish Hazelnut & Dark Chocolate & Creme Caramel Flavoured Coffee 50 Gms Each Instant Coffee  (3 x 50 g, Hazelnut Flavoured)",
+        "dealPrice": "₹ 349",
+        "originalPrice": "₹ 1047",
+        "createdAt": "2023-10-11T10:25:02.087Z",
+        "updatedAt": "2023-10-11T10:25:02.087Z",
+        "publishedAt": "2023-10-11T10:25:02.082Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "67",
+        "ProductImgUrl": "uploads/RAGE Coffee Combo Pack of 3 Irish Hazelnut Dark Chocolate Creme Caramel Flavoured Coffee 50 Gms Each Instant Coffee 3 x 50 g Hazelnut Flavoured.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3621,
+      "attributes": {
+        "productLink": null,
+        "title": "E-COSMOS Door Bottom Sealing Strip Guard",
+        "dealPrice": "₹ 37",
+        "originalPrice": "₹ 129",
+        "createdAt": "2023-10-11T10:21:03.037Z",
+        "updatedAt": "2023-10-11T10:21:03.037Z",
+        "publishedAt": "2023-10-11T10:21:03.034Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "71",
+        "ProductImgUrl": "uploads/E COSMOS Door Bottom Sealing Strip Guard.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3620,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B098XNP8D3?tag=thuttu-21&ascsubtag=1287732",
+        "title": "Zebronics ZEB-MUSIC BOMB X MINI Bluetooth 5.0 speaker with IPX5 Waterproof, 5W RMS, Voice assistant, Powerful Bass, 11H* backup, RGB lights, mSD/FM Radio, Call function & type C charging (Yellow)",
+        "dealPrice": "₹ 698",
+        "originalPrice": "₹ 2999",
+        "createdAt": "2023-10-11T10:20:02.681Z",
+        "updatedAt": "2023-10-11T10:20:02.681Z",
+        "publishedAt": "2023-10-11T10:20:02.678Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "77",
+        "ProductImgUrl": "uploads/Zebronics ZEB MUSIC BOMB X MINI Bluetooth 50 speaker with IPX5 Waterproof 5W RMS Voice assistant Powerful Bass 11H backup RGB lights mSDFM Radio Call function type C charging Yellow.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3619,
+      "attributes": {
+        "productLink": null,
+        "title": "E-COSMOS Kitchen 4 Pcs Sets Airtight Rasoi Box Spice Storage Jar Masala Box Spice Container Idle For, Easy Flow Spice Storage Container with Tray",
+        "dealPrice": "₹ 80",
+        "originalPrice": "₹ 149",
+        "createdAt": "2023-10-11T10:20:02.354Z",
+        "updatedAt": "2023-10-11T10:20:02.354Z",
+        "publishedAt": "2023-10-11T10:20:02.350Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "46",
+        "ProductImgUrl": "uploads/E COSMOS Kitchen 4 Pcs Sets Airtight Rasoi Box Spice Storage Jar Masala Box Spice Container Idle For Easy Flow Spice Storage Container with Tray.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3618,
+      "attributes": {
+        "productLink": null,
+        "title": "LUX Soft Glow Rose & Vitamin E Beauty Soap Bar, 150 g (Combo Pack of 8) | Moisturizing Bathing Soap",
+        "dealPrice": "₹ 286",
+        "originalPrice": "₹ 424",
+        "createdAt": "2023-10-11T10:19:04.456Z",
+        "updatedAt": "2023-10-11T10:19:04.456Z",
+        "publishedAt": "2023-10-11T10:19:04.451Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "33",
+        "ProductImgUrl": "uploads/LUX Soft Glow Rose Vitamin E Beauty Soap Bar 150 g Combo Pack of 8 Moisturizing Bathing Soap.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3617,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/sigriwala-classic-long-life-durable-hard-anodized-non-stick-coated-cookware-set/p/itmced55f04bcf2e?pid=CKSGTBG9GQYVCJJF",
+        "title": "SigriWala Classic Long Life Durable Hard Anodized Non-Stick Coated Cookware Set  (Aluminium, 3 - Piece)",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 2900",
+        "createdAt": "2023-10-11T10:19:03.672Z",
+        "updatedAt": "2023-10-11T10:19:03.672Z",
+        "publishedAt": "2023-10-11T10:19:03.665Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "79",
+        "ProductImgUrl": "uploads/SigriWala Classic Long Life Durable Hard Anodized Non Stick Coated Cookware Set Aluminium 3 Piece.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3616,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/acer-chromebook-celeron-dual-core-n4000-4-gb-16-gb-emmc-storage-chrome-os-c733/p/itma08cefc3c697b?pid=COMFVFHYMWQETZZ8",
+        "title": "Acer Chromebook Celeron Dual Core N4000 - (4 GB/16 GB EMMC Storage/Chrome OS) C733 Chromebook  (11.6 inch, Black, 1.26 kg)",
+        "dealPrice": "₹ 13990",
+        "originalPrice": "₹ 27000",
+        "createdAt": "2023-10-11T10:19:03.059Z",
+        "updatedAt": "2023-10-11T10:19:03.059Z",
+        "publishedAt": "2023-10-11T10:19:03.053Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "48",
+        "ProductImgUrl": "uploads/Acer Chromebook Celeron Dual Core N4000 4 GB16 GB EMMC StorageChrome OS C733 Chromebook 116 inch Black 126 kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3615,
+      "attributes": {
+        "productLink": null,
+        "title": "LUX Flaw-Less Glow Jasmine & Vitamin C + E Soap Bar, 150 g (Combo Pack of 8) | Moisturizing Bathing Soap",
+        "dealPrice": "₹ 286",
+        "originalPrice": "₹ 424",
+        "createdAt": "2023-10-11T10:19:02.377Z",
+        "updatedAt": "2023-10-11T10:19:02.377Z",
+        "publishedAt": "2023-10-11T10:19:02.375Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "33",
+        "ProductImgUrl": "uploads/LUX Flaw Less Glow Jasmine Vitamin C E Soap Bar 150 g Combo Pack of 8 Moisturizing Bathing Soap.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3614,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0B987S6R7/?tag=thuttu-21&ascsubtag=1287727",
+        "title": "Koel by Lavie Dane Sling bag",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 999",
+        "createdAt": "2023-10-11T10:14:02.740Z",
+        "updatedAt": "2023-10-11T10:14:02.740Z",
+        "publishedAt": "2023-10-11T10:14:02.736Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "40",
+        "ProductImgUrl": "uploads/Koel by Lavie Dane Sling bag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3613,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BVVY98PZ/?tag=thuttu-21&ascsubtag=1287726",
+        "title": "Wesley 15 Liter Casual Daypack Backpack",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 699",
+        "createdAt": "2023-10-11T10:13:02.913Z",
+        "updatedAt": "2023-10-11T10:13:02.913Z",
+        "publishedAt": "2023-10-11T10:13:02.908Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "79",
+        "ProductImgUrl": "uploads/Wesley 15 Liter Casual Daypack Backpack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3612,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0CG7Y6R35/?tag=thuttu-21&ascsubtag=1287725",
+        "title": "LAXIS Jute Tote Bags with Handles, Handicraft Jute Bag S65 Natural Tifin Bag Blank Large Burlap Reusable, Grocery Bags, Water Resistant",
+        "dealPrice": "₹ 152",
+        "originalPrice": "₹ 999",
+        "createdAt": "2023-10-11T10:11:03.719Z",
+        "updatedAt": "2023-10-11T10:11:03.719Z",
+        "publishedAt": "2023-10-11T10:11:03.713Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "85",
+        "ProductImgUrl": "uploads/LAXIS Jute Tote Bags with Handles Handicraft Jute Bag S65 Natural Tifin Bag Blank Large Burlap Reusable Grocery Bags Water Resistant.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3611,
+      "attributes": {
+        "productLink": null,
+        "title": "Softsens Baby Bath & Skin Duo  (Multicolor)",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 320",
+        "createdAt": "2023-10-11T10:11:03.377Z",
+        "updatedAt": "2023-10-11T10:11:03.377Z",
+        "publishedAt": "2023-10-11T10:11:03.371Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "53",
+        "ProductImgUrl": "uploads/Softsens Baby Bath Skin Duo Multicolor.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3610,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/pigeon-non-stick-coated-cookware-set/p/itm4c9342444029d?pid=CKSFMY2GNYCURA9S",
+        "title": "Pigeon Non-Stick Coated Cookware Set  (Aluminium, 5 - Piece)",
+        "dealPrice": "₹ 1899",
+        "originalPrice": "₹ 3745",
+        "createdAt": "2023-10-11T10:11:03.009Z",
+        "updatedAt": "2023-10-11T10:11:03.009Z",
+        "publishedAt": "2023-10-11T10:11:03.004Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "49",
+        "ProductImgUrl": "uploads/Pigeon Non Stick Coated Cookware Set Aluminium 5 Piece.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3609,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/nova-pro-shine-nhs-841-hair-straightener/p/itm02815e8ececc4?pid=HSTFMSXNQBHBE8JP",
+        "title": "NOVA Pro Shine NHS 841 Hair Straightener  (Blue)",
+        "dealPrice": "₹ 474",
+        "originalPrice": "₹ 1495",
+        "createdAt": "2023-10-11T10:11:02.682Z",
+        "updatedAt": "2023-10-11T10:11:02.682Z",
+        "publishedAt": "2023-10-11T10:11:02.678Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "68",
+        "ProductImgUrl": "uploads/NOVA Pro Shine NHS 841 Hair Straightener Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3608,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/bajaj-majesty-new-rcx21-delux-electric-rice-cooker-steaming-feature/p/itmdtkkgar7ag8hy?pid=ECKDZ7E5XGHGMSRS",
+        "title": "BAJAJ Majesty New RCX21 delux. Electric Rice Cooker with Steaming Feature  (1.8 L, White)",
+        "dealPrice": "₹ 2199",
+        "originalPrice": "₹ 3410",
+        "createdAt": "2023-10-11T10:10:02.502Z",
+        "updatedAt": "2023-10-11T10:10:02.502Z",
+        "publishedAt": "2023-10-11T10:10:02.498Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "36",
+        "ProductImgUrl": "uploads/BAJAJ Majesty New RCX21 delux Electric Rice Cooker with Steaming Feature 18 L White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3607,
+      "attributes": {
+        "productLink": null,
+        "title": "BabyPro Lab Tested - Certified (Set of 6) Electric Socket Covers 5 Amp. & 15 Amp, Child Safety Switch Board Cover Plug Protector and BabyProofing Protector Guards",
+        "dealPrice": "₹ 89",
+        "originalPrice": "₹ 200",
+        "createdAt": "2023-10-11T10:10:02.142Z",
+        "updatedAt": "2023-10-11T10:10:02.142Z",
+        "publishedAt": "2023-10-11T10:10:02.139Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "56",
+        "ProductImgUrl": "uploads/BabyPro Lab Tested Certified Set of 6 Electric Socket Covers 5 Amp 15 Amp Child Safety Switch Board Cover Plug Protector and BabyProofing Protector Guards.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3606,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B00JWIXVXO?tag=thuttu_a-21&ascsubtag=1287719",
+        "title": "Nature",
+        "dealPrice": "₹ 448",
+        "originalPrice": "₹ 4105",
+        "createdAt": "2023-10-11T09:54:02.180Z",
+        "updatedAt": "2023-10-11T09:54:02.180Z",
+        "publishedAt": "2023-10-11T09:54:02.179Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "89",
+        "ProductImgUrl": "uploads/Nature.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3605,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/master-cook-plastic-grocery-container-24300-ml/p/itm3cbc2d6e565a1?pid=CNTGFW74MFGZANKM",
+        "title": "MASTER COOK Plastic Grocery Container - 24300 ml  (Pack of 24, Clear)",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 1999",
+        "createdAt": "2023-10-11T09:54:01.824Z",
+        "updatedAt": "2023-10-11T09:54:01.824Z",
+        "publishedAt": "2023-10-11T09:54:01.820Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "80",
+        "ProductImgUrl": "uploads/MASTER COOK Plastic Grocery Container 24300 ml Pack of 24 Clear.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3604,
+      "attributes": {
+        "productLink": null,
+        "title": "[Size S] Amazon Brand - Arthur Harvey Men's Regular Fit Shirt",
+        "dealPrice": "₹ 239",
+        "originalPrice": "₹ 1599",
+        "createdAt": "2023-10-11T09:49:02.870Z",
+        "updatedAt": "2023-10-11T09:49:02.870Z",
+        "publishedAt": "2023-10-11T09:49:02.867Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "85",
+        "ProductImgUrl": "uploads/Size S Amazon Brand Arthur Harvey Mens Regular Fit Shirt.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3603,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BGS26WSV/?tag=thuttu-21&ascsubtag=1287713",
+        "title": "AmazonBasics 24W Phone Charger",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 999",
+        "createdAt": "2023-10-11T09:46:03.752Z",
+        "updatedAt": "2023-10-11T09:46:03.752Z",
+        "publishedAt": "2023-10-11T09:46:03.749Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "60",
+        "ProductImgUrl": "uploads/AmazonBasics 24W Phone Charger.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3602,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BZCSSNV7/?tag=thuttu-21&ascsubtag=1287712",
+        "title": "Samsung Galaxy M14 5G (Smoky Teal,6GB,128GB)|50MP Triple Cam|Segment's Only 6000 mAh 5G SP|5nm Processor|2 Gen. OS Upgrade & 4 Year Security Update|12GB RAM with RAM Plus|Android 13|Without Charger",
+        "dealPrice": "₹ 12990",
+        "originalPrice": "₹ 18990",
+        "createdAt": "2023-10-11T09:46:03.243Z",
+        "updatedAt": "2023-10-11T09:46:03.243Z",
+        "publishedAt": "2023-10-11T09:46:03.240Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "32",
+        "ProductImgUrl": "uploads/Samsung Galaxy M14 5G Smoky Teal6GB128GB50MP Triple CamSegments Only 6000 mAh 5G SP5nm Processor2 Gen OS Upgrade 4 Year Security Update12GB RAM with RAM PlusAndroid 13Without Charger.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3601,
+      "attributes": {
+        "productLink": "https://amazon.in/gp/product/B07ZZD6XL1/?tag=thuttu-21&ascsubtag=1287711",
+        "title": "Genteel Matic Liquid Detergent Refill Pouch",
+        "dealPrice": "₹ 188",
+        "originalPrice": "₹ 290",
+        "createdAt": "2023-10-11T09:46:02.816Z",
+        "updatedAt": "2023-10-11T09:46:02.816Z",
+        "publishedAt": "2023-10-11T09:46:02.813Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "35",
+        "ProductImgUrl": "uploads/Genteel Matic Liquid Detergent Refill Pouch.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3600,
+      "attributes": {
+        "productLink": null,
+        "title": "[Sizes ] KANGAROOZ Stylish, Comfortable & Lightweight Flip Flops",
+        "dealPrice": "₹ 69",
+        "originalPrice": "₹ 499",
+        "createdAt": "2023-10-11T09:42:02.567Z",
+        "updatedAt": "2023-10-11T09:42:02.567Z",
+        "publishedAt": "2023-10-11T09:42:02.564Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "86",
+        "ProductImgUrl": "uploads/Sizes KANGAROOZ Stylish Comfortable Lightweight Flip Flops.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3599,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B08KTPRPJR?tag=thuttu-21&ascsubtag=1287708",
+        "title": "Luvlap Liquid Cleanser Refill, Anti-Bacterial, Food Grade, for Baby Bottles, Accessories and Vegetab&Aveeno Baby Daily Moisturising Bath",
+        "dealPrice": "₹ 351",
+        "originalPrice": "₹ 1327",
+        "createdAt": "2023-10-11T09:41:02.552Z",
+        "updatedAt": "2023-10-11T09:41:02.552Z",
+        "publishedAt": "2023-10-11T09:41:02.550Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "74",
+        "ProductImgUrl": "uploads/Luvlap Liquid Cleanser Refill Anti Bacterial Food Grade for Baby Bottles Accessories and VegetabAveeno Baby Daily Moisturising Bath.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3598,
+      "attributes": {
+        "productLink": null,
+        "title": "Decent Home 140 TC Microfiber Double Floral Flat Bedsheet  (Pack of 1, Green)",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 999",
+        "createdAt": "2023-10-11T09:41:02.173Z",
+        "updatedAt": "2023-10-11T09:41:02.173Z",
+        "publishedAt": "2023-10-11T09:41:02.170Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "80",
+        "ProductImgUrl": "uploads/Decent Home 140 TC Microfiber Double Floral Flat Bedsheet Pack of 1 Green.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 3597,
       "attributes": {
         "productLink": "https://amazon.in/dp/B0B563T8JH/?tag=thuttu-21&ascsubtag=1287706",
@@ -4471,7 +5174,7 @@
       "page": 1,
       "pageSize": 1000000,
       "pageCount": 1,
-      "total": 235
+      "total": 272
     }
   }
 }
