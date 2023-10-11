@@ -1,6 +1,63 @@
 {
   "data": [
     {
+      "id": 3639,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0CC9FPW9G/?tag=thuttu-21&ascsubtag=1273685",
+        "title": "Bajaj Almond Drops Nourishing Body Lotion I Long Lasting Moisturization I Almond Oil & Vitamin E I 600ML",
+        "dealPrice": "₹ 220",
+        "originalPrice": "₹ 550",
+        "createdAt": "2023-10-11T10:53:02.244Z",
+        "updatedAt": "2023-10-11T10:53:02.244Z",
+        "publishedAt": "2023-10-11T10:53:02.239Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "60",
+        "ProductImgUrl": "uploads/Bajaj Almond Drops Nourishing Body Lotion I Long Lasting Moisturization I Almond Oil Vitamin E I 600ML.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3638,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B075Y72PHZ?tag=thuttu-21&ascsubtag=1287759",
+        "title": "Lenovo 15.6\" Casual Backpack B210",
+        "dealPrice": "₹ 799",
+        "originalPrice": "₹ 1790",
+        "createdAt": "2023-10-11T10:52:03.204Z",
+        "updatedAt": "2023-10-11T10:52:03.204Z",
+        "publishedAt": "2023-10-11T10:52:03.198Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "55",
+        "ProductImgUrl": "uploads/Lenovo 156 Casual Backpack B210.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3637,
+      "attributes": {
+        "productLink": null,
+        "title": "Lifelong ISI Certified Glass Manual Gas Stove  (4 Burners)",
+        "dealPrice": "₹ 2099",
+        "originalPrice": "₹ 7595",
+        "createdAt": "2023-10-11T10:52:02.821Z",
+        "updatedAt": "2023-10-11T10:52:02.821Z",
+        "publishedAt": "2023-10-11T10:52:02.817Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "72",
+        "ProductImgUrl": "uploads/Lifelong ISI Certified Glass Manual Gas Stove 4 Burners.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 3636,
       "attributes": {
         "productLink": "https://www.amazon.in/dp/B07VNFP3C2?tag=thuttu-21&ascsubtag=1284349",
@@ -5212,7 +5269,7 @@
       "page": 1,
       "pageSize": 1000000,
       "pageCount": 1,
-      "total": 274
+      "total": 277
     }
   }
 }
