@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "Title": "Disclaimer",
+      "Editor": "hotdealsbazaar.com provides information for general information purposes and does not recommend particular products or services. Nothing within this website (hotdealsbazaar.com) is, or shall be deemed, to constitute financial or other advise or a recommendation to purchase any product or service. The service provided by hotdealsbazaar.com expressly disclaims to the fullest extent of the law all express, implied, and statutory warranties regarding the information contained on the Website. hotdealsbazaar.com does not represent or warrant the accuracy or reliability of the information, and will not be liable to any user on account of their use or misuse of information found on hotdealsbazaar.com. We strongly recommend that independent professional advice is obtained before you purchase any product or service via hotdealsbazaar.com.\n\n",
+      "Meta_title": "hotdealsbazaar.com provides information for general information purposes",
+      "Meta_description": "hotdealsbazaar.com provides information for general information purposes",
+      "createdAt": "2023-09-21T08:26:12.043Z",
+      "updatedAt": "2023-10-11T05:40:43.048Z",
+      "publishedAt": "2023-09-21T08:27:53.048Z",
+      "Featured_image": {
+        "data": {
+          "id": 2460,
+          "attributes": {
+            "name": "img17.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 360,
+            "height": 240,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_img17.jpg",
+                "hash": "thumbnail_img17_32a158daa8",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 10.63,
+                "url": "/uploads/thumbnail_img17_32a158daa8.jpg"
+              }
+            },
+            "hash": "img17_32a158daa8",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 20.71,
+            "url": "/uploads/img17_32a158daa8.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2023-09-14T09:36:07.949Z",
+            "updatedAt": "2023-10-11T05:42:34.380Z"
+          }
+        }
+      }
+    }
+  },
+  "meta": {}
+}

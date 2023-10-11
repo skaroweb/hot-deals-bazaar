@@ -6,20 +6,19 @@ import ProductListImg from "../Content/ProductListImg";
 const TopProducts = () => {
   const [topProducts, setTopProducts] = useState([]);
 
-  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
+  const StrapiCMSURL = "http://localhost:3000";
 
   useEffect(() => {
-    const apiUrl = `${
-      StrapiCMSURL +
-      "/api/products?populate=*&sort[0]=createdAt:desc&pagination[limit]=3"
-    }`;
+    const apiUrl = `${StrapiCMSURL + "/products.json"}`;
 
     axios
       .get(apiUrl)
       .then((response) => {
         // Access the "data" array from the response
         const productsData = response.data.data;
-        setTopProducts(productsData);
+        // Get only the first three items
+        const topThreeProducts = productsData.slice(0, 3);
+        setTopProducts(topThreeProducts);
       })
       .catch((error) => {
         console.error("Error fetching data:", error);
@@ -85,9 +84,7 @@ const TopProducts = () => {
                 {topProducts.map((product, index) => (
                   <div key={index} className="top_products_item">
                     <div className="img">
-                      {product.attributes.productimage &&
-                      product.attributes.productimage.data &&
-                      product.attributes.productimage.data.attributes ? (
+                      {product.attributes.ProductImgUrl ? (
                         <a
                           href={product.attributes.productLink}
                           target="_blank"
@@ -96,10 +93,10 @@ const TopProducts = () => {
                           <img
                             src={
                               StrapiCMSURL +
-                              product.attributes.productimage.data.attributes
-                                .url
+                              "/" +
+                              product.attributes.ProductImgUrl
                             }
-                            alt={product.title}
+                            alt={product.attributes.title}
                             className="img-fluid"
                           />
                         </a>

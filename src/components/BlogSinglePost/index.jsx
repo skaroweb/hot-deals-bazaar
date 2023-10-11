@@ -8,14 +8,12 @@ import Breadcrumb from "../Util/Breadcrumb";
 
 function BlogSinglePost({ setBlogExcept }) {
   const [post, setPost] = useState(null);
-  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
+  const StrapiCMSURL = "http://localhost:3000";
 
   const { id } = useParams();
 
   useEffect(() => {
-    const apiUrl = `${
-      StrapiCMSURL + "/api/blogs?populate=*&sort[0]=createdAt:desc"
-    }`;
+    const apiUrl = `${StrapiCMSURL + "/blogs.json"}`;
 
     axios
       .get(apiUrl)
@@ -63,7 +61,7 @@ function BlogSinglePost({ setBlogExcept }) {
                   post.attributes.Featured_image.data.attributes ? (
                     <img
                       src={
-                        StrapiCMSURL +
+                        "http://localhost:1337" +
                         post.attributes.Featured_image.data.attributes.url
                       }
                       alt={post.attributes.Title}

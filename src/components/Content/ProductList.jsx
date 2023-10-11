@@ -16,12 +16,10 @@ function ProductList({ platform }) {
   const [isLoading, setIsLoading] = useState(true); // Add isLoading state
 
   const itemsToLoad = 12; // Adjust the number of items to load each time
-  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
+  const StrapiCMSURL = "http://localhost:3000";
 
   useEffect(() => {
-    const apiUrl = `${
-      StrapiCMSURL + "/api/products?populate=*&sort[0]=createdAt:desc"
-    }`;
+    const apiUrl = `${StrapiCMSURL + "/products.json"}`;
 
     axios
       .get(apiUrl)
@@ -126,47 +124,6 @@ function ProductList({ platform }) {
     }
   }
 
-  // // Generate schema.org/Product structured data
-  // const productSchema = products.map((product, index) => {
-  //   const imageSchema = {
-  //     "@context": "http://schema.org",
-  //     "@type": "ImageObject",
-  //     url: "", // Set this to the URL of the product image
-  //     width: "300", // Width of the image in pixels (adjust as needed)
-  //     height: "200", // Height of the image in pixels (adjust as needed)
-  //   };
-  //   const schema = {
-  //     "@context": "http://schema.org",
-  //     "@type": "Product",
-  //     name: product.attributes.title || "", // Provide a default value (empty string) if title is null
-  //     description: product.attributes.description || "", // Provide a default value if description is null
-  //     image: imageSchema, // Include the ImageObject
-  //     brand: {
-  //       "@type": "Brand",
-  //       name: product.attributes.platform || "", // Provide a default value if brand is null
-  //     },
-  //     offers: {
-  //       "@type": "Offer",
-  //       priceCurrency: "INR", // Use "INR" for Indian Rupees
-  //       price: product.attributes.dealPrice || "", // Provide a default value if dealPrice is null
-  //       availability: "http://schema.org/InStock",
-  //     },
-  //   };
-
-  //   // Add image if it exists
-  //   if (
-  //     product.attributes &&
-  //     product.attributes.productimage &&
-  //     product.attributes.productimage.data &&
-  //     product.attributes.productimage.data.attributes
-  //   ) {
-  //     imageSchema.url =
-  //       StrapiCMSURL + product.attributes.productimage.data.attributes.url;
-  //   }
-
-  //   return schema;
-  // });
-
   return (
     <div>
       <h1>Flash Deals:</h1>
@@ -205,19 +162,14 @@ function ProductList({ platform }) {
                     {getTimeAgo(product.attributes.createdAt)}
                   </div>
                   <div className={styles.products_img}>
-                    {product.attributes.productimage &&
-                    product.attributes.productimage.data &&
-                    product.attributes.productimage.data.attributes ? (
+                    {product.attributes.ProductImgUrl ? (
                       <a
                         href={product.attributes.productLink}
                         target="_blank"
                         rel="noreferrer"
                       >
                         <img
-                          src={
-                            StrapiCMSURL +
-                            product.attributes.productimage.data.attributes.url
-                          }
+                          src={product.attributes.ProductImgUrl}
                           alt={product.attributes.title}
                           className="img-fluid"
                         />

@@ -7,7 +7,7 @@ const LatestBlog = ({ blogExcept }) => {
   const [blogs, setBlogs] = useState([]);
   const location = useLocation();
   const url = useParams();
-  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
+  const StrapiCMSURL = "http://localhost:1337";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/api/blogs?pagination[limit]=4"}`;

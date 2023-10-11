@@ -5,10 +5,10 @@ import axios from "axios";
 const PrivacyPolicy = () => {
   const [page, setPage] = useState([]);
 
-  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
+  const StrapiCMSURL = "http://localhost:3000";
 
   useEffect(() => {
-    const apiUrl = `${StrapiCMSURL + "/api/privacy-policy?populate=*"}`;
+    const apiUrl = `${StrapiCMSURL + "/privacy-policy.json"}`;
 
     axios
       .get(apiUrl)

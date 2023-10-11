@@ -5,10 +5,10 @@ import axios from "axios";
 const Disclaimer = () => {
   const [page, setPage] = useState([]);
 
-  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
+  const StrapiCMSURL = "http://localhost:3000";
 
   useEffect(() => {
-    const apiUrl = `${StrapiCMSURL + "/api/disclaimer?populate=*"}`;
+    const apiUrl = `${StrapiCMSURL + "/disclaimer.json"}`;
 
     axios
       .get(apiUrl)

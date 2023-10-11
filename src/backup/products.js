@@ -10,7 +10,7 @@ function ProductList({ platform }) {
   const [products, setProducts] = useState([]);
   const [visibleItems, setVisibleItems] = useState(12); // Adjust the initial number of items to display
   const itemsToLoad = 12; // Adjust the number of items to load each time
-  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
+  const StrapiCMSURL = "http://localhost:1337";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/api/products?populate=*"}`;

@@ -13,7 +13,7 @@ const BlogList = () => {
 
   //   console.log(searchText);
 
-  const StrapiCMSURL = "https://hot-deals-bazaar-strapi.onrender.com";
+  const StrapiCMSURL = "http://localhost:3000";
 
   const formatDate = (publishedAt) => {
     const date = new Date(publishedAt);
@@ -27,9 +27,7 @@ const BlogList = () => {
   };
 
   useEffect(() => {
-    const apiUrl = `${
-      StrapiCMSURL + "/api/blogs?populate=*&sort[0]=createdAt:desc"
-    }`;
+    const apiUrl = `${StrapiCMSURL + "/blogs.json"}`;
 
     axios
       .get(apiUrl)
@@ -73,7 +71,7 @@ const BlogList = () => {
                       >
                         <img
                           src={
-                            StrapiCMSURL +
+                            "http://localhost:1337" +
                             blog.attributes.Featured_image.data.attributes.url
                           }
                           alt={blog.attributes.title}

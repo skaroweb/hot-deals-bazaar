@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "id": 7,
+      "attributes": {
+        "ClassicEditor": "The Flipkart Big Billion Days Sale is all set to return this year between 8th-15th October 2023, with some of the best year-end deals on mobiles, laptops, electronics, fashion, and millions of other products available on Flipkart. Although Flipkart has officially announced the BBD Sale dates to kick off from 8th Of October 2023. During The Big Billion Days sale, you will get to enjoy an extra 10% Off using your Axis Bank, ICICI Bank & Kotak Bank Debit/Credit Card, along with the No Cost EMI Options. Paytm users will also get extra assured savings on the final payment page. Flipkart Plus customers will get 24-hour early access to the Big Billion Days 2023 sale. Scroll below for the full schedule & offers list for this upcoming mega-sale event.  Amazon Great Indian Festival Sale 2023 will be also live during the same period. Flipkart will start revealing Big Billion Days sale prices from 28th September onwards.\n\n",
+        "createdAt": "2023-10-11T05:52:00.343Z",
+        "updatedAt": "2023-10-11T05:52:01.279Z",
+        "publishedAt": "2023-10-11T05:52:01.273Z",
+        "Title": "Flipkart Big Billion Days 2023, Flipkart Big Billion Days 2023 Dates, Big Billion Days Mobile Offers",
+        "Meta_description": null,
+        "Meta_title": null,
+        "Featured_image": {
+          "data": {
+            "id": 2464,
+            "attributes": {
+              "name": "img54.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 770,
+              "height": 340,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_img54.jpg",
+                  "hash": "thumbnail_img54_9a4beee77b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 108,
+                  "size": 7.05,
+                  "url": "/uploads/thumbnail_img54_9a4beee77b.jpg"
+                },
+                "small": {
+                  "name": "small_img54.jpg",
+                  "hash": "small_img54_9a4beee77b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 221,
+                  "size": 21.02,
+                  "url": "/uploads/small_img54_9a4beee77b.jpg"
+                },
+                "medium": {
+                  "name": "medium_img54.jpg",
+                  "hash": "medium_img54_9a4beee77b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 331,
+                  "size": 39.09,
+                  "url": "/uploads/medium_img54_9a4beee77b.jpg"
+                }
+              },
+              "hash": "img54_9a4beee77b",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 41.15,
+              "url": "/uploads/img54_9a4beee77b.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-09-15T06:00:20.347Z",
+              "updatedAt": "2023-09-15T06:00:20.347Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "ClassicEditor": "Amazon Great Indian Festival Sale 2023 is all set to start on 8th October 2023. Amazon Great Indian Festival Sale is expected to start on 8th October 2023 For All Users And 24 hours early for Amazon Prime members. Amazon will be offering Great Festive Deals On Mobiles, Electronics, Laptops, Home Products, And Much More. Amazon Great Indian Festival Sale brings out the best deals & offers Of the festive season to its Amazon India shoppers. So this Diwali Shop for Badi Bachat (Big Savings) In the upcoming Amazon Great Indian Festival. During this Amazon Great Indian Sale, You will get a 10% Additional Discount With SBI Bank Cards, along with Additional Cashback Using Amazon Pay Balance. Amazon Prime members will get 24-hour early access to this Upcoming Amazon sale.",
+        "createdAt": "2023-10-11T05:20:48.182Z",
+        "updatedAt": "2023-10-11T05:42:50.119Z",
+        "publishedAt": "2023-10-11T05:23:44.892Z",
+        "Title": "Amazon Great Indian Festival Sale 2023, Amazon Diwali Sale Mobile Offers\n",
+        "Meta_description": null,
+        "Meta_title": null,
+        "Featured_image": {
+          "data": {
+            "id": 2460,
+            "attributes": {
+              "name": "img17.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 360,
+              "height": 240,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_img17.jpg",
+                  "hash": "thumbnail_img17_32a158daa8",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 234,
+                  "height": 156,
+                  "size": 10.63,
+                  "url": "/uploads/thumbnail_img17_32a158daa8.jpg"
+                }
+              },
+              "hash": "img17_32a158daa8",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 20.71,
+              "url": "/uploads/img17_32a158daa8.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-09-14T09:36:07.949Z",
+              "updatedAt": "2023-10-11T05:42:34.380Z"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 1000000,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
