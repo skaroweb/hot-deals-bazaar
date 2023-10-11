@@ -1,6 +1,633 @@
 {
   "data": [
     {
+      "id": 3672,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B08TX1XD1D?tag=thuttu-21&ascsubtag=1287805",
+        "title": "STANLEY SDH600KP 600W 13mm Corded Hammer Drill Machine & Hand Tool Kit",
+        "dealPrice": "₹ 2099",
+        "originalPrice": "₹ 8360",
+        "createdAt": "2023-10-11T11:45:02.892Z",
+        "updatedAt": "2023-10-11T11:45:02.892Z",
+        "publishedAt": "2023-10-11T11:45:02.889Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "75",
+        "ProductImgUrl": "uploads/STANLEY SDH600KP 600W 13mm Corded Hammer Drill Machine Hand Tool Kit.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3671,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/naturoz-daily-whole-cashews/p/itm17de43acc60b1?pid=NDFGPPZ3PP62KTRU",
+        "title": "Naturoz Daily Whole Cashews  (2 x 1 kg)",
+        "dealPrice": "₹ 1299",
+        "originalPrice": "₹ 2490",
+        "createdAt": "2023-10-11T11:43:04.208Z",
+        "updatedAt": "2023-10-11T11:43:04.208Z",
+        "publishedAt": "2023-10-11T11:43:04.205Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "48",
+        "ProductImgUrl": "uploads/Naturoz Daily Whole Cashews 2 x 1 kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3670,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/omgdeals/p/omgdeals?pid=IRNF6FKYEFYBSZPX",
+        "title": "PHILIPS GC360/30 Steam&Go Handheld 1200 W Garment Steamer  (Purple)",
+        "dealPrice": "₹ 1999",
+        "originalPrice": "₹ 5995",
+        "createdAt": "2023-10-11T11:43:03.029Z",
+        "updatedAt": "2023-10-11T11:43:03.029Z",
+        "publishedAt": "2023-10-11T11:43:03.026Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "67",
+        "ProductImgUrl": "uploads/PHILIPS GC36030 SteamGo Handheld 1200 W Garment Steamer Purple.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3669,
+      "attributes": {
+        "productLink": null,
+        "title": "beatXP Smart Bluetooth BMI Weight Machine",
+        "dealPrice": "₹ 699",
+        "originalPrice": "₹ 2999",
+        "createdAt": "2023-10-11T11:41:02.133Z",
+        "updatedAt": "2023-10-11T11:41:02.133Z",
+        "publishedAt": "2023-10-11T11:41:02.130Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "77",
+        "ProductImgUrl": "uploads/beatXP Smart Bluetooth BMI Weight Machine.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3668,
+      "attributes": {
+        "productLink": null,
+        "title": "OZiva Mela.Mag+ (10mg Melatonin, Magnesium, Vitamin B6 with Valerian Root, Chamomile Extract)",
+        "dealPrice": "₹ 389",
+        "originalPrice": "₹ 699",
+        "createdAt": "2023-10-11T11:39:02.182Z",
+        "updatedAt": "2023-10-11T11:39:02.182Z",
+        "publishedAt": "2023-10-11T11:39:02.171Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "44",
+        "ProductImgUrl": "uploads/OZiva MelaMag 10mg Melatonin Magnesium Vitamin B6 with Valerian Root Chamomile Extract.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3667,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B09JNYJDM6?tag=thuttu-21&ascsubtag=1287799",
+        "title": "ZEBRONICS Zeb-Lucid PRO Desktop Mount Condenser Microphone with 2M USB Cable",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 4499",
+        "createdAt": "2023-10-11T11:36:02.442Z",
+        "updatedAt": "2023-10-11T11:36:02.442Z",
+        "publishedAt": "2023-10-11T11:36:02.435Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "73",
+        "ProductImgUrl": "uploads/ZEBRONICS Zeb Lucid PRO Desktop Mount Condenser Microphone with 2M USB Cable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3666,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B09NNTGWL6?tag=thuttu-21&ascsubtag=1287798",
+        "title": "ZEBRONICS Zeb-Bang PRO Bluetooth v5.0 On Ear Headphone, 30H Backup, Foldable Design, Call Function, Voice Assistant Feature, Built-in Rechargeable Battery, Type C Charging, 40mm Driver and AUX. (Red)",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 2499",
+        "createdAt": "2023-10-11T11:35:09.545Z",
+        "updatedAt": "2023-10-11T11:35:09.545Z",
+        "publishedAt": "2023-10-11T11:35:09.536Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "76",
+        "ProductImgUrl": "uploads/ZEBRONICS Zeb Bang PRO Bluetooth v50 On Ear Headphone 30H Backup Foldable Design Call Function Voice Assistant Feature Built in Rechargeable Battery Type C Charging 40mm Driver and AUX Red.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3665,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0B84VHD9P/?tag=thuttu-21&ascsubtag=1287797",
+        "title": "AGARO Rex Dlx Sonic AA Battery Electric Toothbrush For Kids With 6 Brushing Modes, 2 Interchangeable Brush Heads, Soft Nylon Bristles, Power Toothbrush, AA Battery, Blue",
+        "dealPrice": "₹ 339",
+        "originalPrice": "₹ 999",
+        "createdAt": "2023-10-11T11:35:08.131Z",
+        "updatedAt": "2023-10-11T11:35:08.131Z",
+        "publishedAt": "2023-10-11T11:35:08.126Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "66",
+        "ProductImgUrl": "uploads/AGARO Rex Dlx Sonic AA Battery Electric Toothbrush For Kids With 6 Brushing Modes 2 Interchangeable Brush Heads Soft Nylon Bristles Power Toothbrush AA Battery Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3664,
+      "attributes": {
+        "productLink": null,
+        "title": "Inalsa Air Fryer Oven 12 Ltr Capacity & 1500W with Rotisserie Function|7-in-1 Air Fry,Bake,Grill,Roast,Dehydrate & Reheat Function|Digital Display|10 Preset Menu|2 Year Warranty (Aero Crisp)",
+        "dealPrice": "₹ 6798",
+        "originalPrice": "₹ 21995",
+        "createdAt": "2023-10-11T11:35:03.842Z",
+        "updatedAt": "2023-10-11T11:35:03.842Z",
+        "publishedAt": "2023-10-11T11:35:03.836Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "69",
+        "ProductImgUrl": "uploads/Inalsa Air Fryer Oven 12 Ltr Capacity 1500W with Rotisserie Function7 in 1 Air FryBakeGrillRoastDehydrate Reheat FunctionDigital Display10 Preset Menu2 Year Warranty Aero Crisp.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3663,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/wings-centrestage-120-16-w-bluetooth-soundbar/p/itm5160df2d3391a?pid=ACCG9WNHCS2GMMPP",
+        "title": "Wings CentreStage 120 16 W Bluetooth Soundbar  (Black, 2.0 Channel)",
+        "dealPrice": "₹ 1099",
+        "originalPrice": "₹ 2999",
+        "createdAt": "2023-10-11T11:33:04.184Z",
+        "updatedAt": "2023-10-11T11:33:04.184Z",
+        "publishedAt": "2023-10-11T11:33:04.179Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "63",
+        "ProductImgUrl": "uploads/Wings CentreStage 120 16 W Bluetooth Soundbar Black 20 Channel.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3662,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/morphy-richards-340034-hair-dryer/p/itmac616c1f12d61?pid=HDRGRF67CZ474BVG",
+        "title": "Morphy Richards 340034 Hair Dryer  (2200 W, Multicolor)",
+        "dealPrice": "₹ 1699",
+        "originalPrice": "₹ 2995",
+        "createdAt": "2023-10-11T11:33:02.713Z",
+        "updatedAt": "2023-10-11T11:33:02.713Z",
+        "publishedAt": "2023-10-11T11:33:02.709Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "43",
+        "ProductImgUrl": "uploads/Morphy Richards 340034 Hair Dryer 2200 W Multicolor.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3661,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/boat-aavante-bar-500-503-508-10-w-bluetooth-soundbar/p/itm5ddb3007cf6a6?pid=ACCG7S6YZUPCUYG6",
+        "title": "boAt Aavante Bar 500 / 503 / 508 10 W Bluetooth Soundbar  (Premium Black /Midnight Black / Pitch Black, 2.0 Channel)",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 2990",
+        "createdAt": "2023-10-11T11:31:03.591Z",
+        "updatedAt": "2023-10-11T11:31:03.591Z",
+        "publishedAt": "2023-10-11T11:31:03.587Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "60",
+        "ProductImgUrl": "uploads/boAt Aavante Bar 500 503 508 10 W Bluetooth Soundbar Premium Black Midnight Black Pitch Black 20 Channel.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3660,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BRSFJTYJ/?tag=thuttu-21&ascsubtag=1287789",
+        "title": "Zebronics Companion 200 Wireless Combo with Silent Operation Mouse, Full Size Keyboard, 1600 DPI, Integrated Multimedia, ON/Off, Power Saving Mode, 2.4GHz Nano Receiver and Plug Play Usage (Black)",
+        "dealPrice": "₹ 699",
+        "originalPrice": "₹ 1899",
+        "createdAt": "2023-10-11T11:31:02.453Z",
+        "updatedAt": "2023-10-11T11:31:02.453Z",
+        "publishedAt": "2023-10-11T11:31:02.446Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "63",
+        "ProductImgUrl": "uploads/Zebronics Companion 200 Wireless Combo with Silent Operation Mouse Full Size Keyboard 1600 DPI Integrated Multimedia ONOff Power Saving Mode 24GHz Nano Receiver and Plug Play Usage Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3659,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B01GZM69KG?tag=thuttu-21&ascsubtag=1287787",
+        "title": "Clay Craft Director Hilton 392 Bone China Coffee Mug Set, 220ml/6.6cm, Set of 6, Multicolour- (CM-Director-Hilton-392), Blue, Standard",
+        "dealPrice": "₹ 319",
+        "originalPrice": "₹ 789",
+        "createdAt": "2023-10-11T11:30:02.863Z",
+        "updatedAt": "2023-10-11T11:30:02.863Z",
+        "publishedAt": "2023-10-11T11:30:02.852Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "60",
+        "ProductImgUrl": "uploads/Clay Craft Director Hilton 392 Bone China Coffee Mug Set 220ml66cm Set of 6 Multicolour CM Director Hilton 392 Blue Standard.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3658,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0B34RVWD4/?tag=thuttu-21&ascsubtag=1287786",
+        "title": "CELLO Eco Bite Stainless Steel Lunch Box",
+        "dealPrice": "₹ 224",
+        "originalPrice": "₹ 449",
+        "createdAt": "2023-10-11T11:29:03.212Z",
+        "updatedAt": "2023-10-11T11:29:03.212Z",
+        "publishedAt": "2023-10-11T11:29:03.209Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "50",
+        "ProductImgUrl": "uploads/CELLO Eco Bite Stainless Steel Lunch Box.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3657,
+      "attributes": {
+        "productLink": "https://amazon.in/gp/product/B0CGRR5JG3/?tag=thuttu-21&ascsubtag=1287784",
+        "title": "Aquaqlean Frosty Diamonds Plastic Airtight Canister Set",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 599",
+        "createdAt": "2023-10-11T11:29:02.731Z",
+        "updatedAt": "2023-10-11T11:29:02.731Z",
+        "publishedAt": "2023-10-11T11:29:02.727Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "67",
+        "ProductImgUrl": "uploads/Aquaqlean Frosty Diamonds Plastic Airtight Canister Set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3656,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BKT4S4GG/?tag=thuttu-21&ascsubtag=1287783",
+        "title": "Morphy Richards AT 200, 2-Slice Pop-Up Toaster with Dust Cover",
+        "dealPrice": "₹ 1399",
+        "originalPrice": "₹ 3295",
+        "createdAt": "2023-10-11T11:26:02.741Z",
+        "updatedAt": "2023-10-11T11:26:02.741Z",
+        "publishedAt": "2023-10-11T11:26:02.735Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "58",
+        "ProductImgUrl": "uploads/Morphy Richards AT 200 2 Slice Pop Up Toaster with Dust Cover.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3655,
+      "attributes": {
+        "productLink": "https://www.amazon.in/s?k=hubberholme&i=apparel&rh=n%3A1571271031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&tag=thuttu-21&ascsubtag=1287782",
+        "title": "Hubberholme Men's  Track Pants  Min 70% off Starts from 219",
+        "dealPrice": "₹ 219",
+        "originalPrice": "",
+        "createdAt": "2023-10-11T11:26:02.441Z",
+        "updatedAt": "2023-10-11T11:26:02.441Z",
+        "publishedAt": "2023-10-11T11:26:02.436Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "",
+        "ProductImgUrl": "uploads/Hubberholme Mens Track Pants Min 70 off Starts from 219.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3654,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/a/p/i?pid=MONGQ3YFS4QGSAWY",
+        "title": "Lenovo 31.5 inch Full HD VA Panel Monitor (D32-40)  (Response Time: 4 ms, 60 Hz Refresh Rate)",
+        "dealPrice": "₹ 11490",
+        "originalPrice": "₹ 20590",
+        "createdAt": "2023-10-11T11:24:03.095Z",
+        "updatedAt": "2023-10-11T11:24:03.095Z",
+        "publishedAt": "2023-10-11T11:24:03.087Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "44",
+        "ProductImgUrl": "uploads/Lenovo 315 inch Full HD VA Panel Monitor D32 40 Response Time 4 ms 60 Hz Refresh Rate.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3653,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B09MQRVLHF?tag=thuttu-21&ascsubtag=1287779",
+        "title": "Matworks by Bathla – Kriya Classic Yoga Mat with Carrying Strap |Anti-Slip & Reversible|Red & Pink (Size: 24” x 72” Thickness: 6mm)",
+        "dealPrice": "₹ 297",
+        "originalPrice": "₹ 1199",
+        "createdAt": "2023-10-11T11:24:02.442Z",
+        "updatedAt": "2023-10-11T11:24:02.442Z",
+        "publishedAt": "2023-10-11T11:24:02.439Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "75",
+        "ProductImgUrl": "uploads/Matworks by Bathla Kriya Classic Yoga Mat with Carrying Strap Anti Slip ReversibleRed Pink Size 24 x 72 Thickness 6mm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3652,
+      "attributes": {
+        "productLink": null,
+        "title": "Amazon Brand - Presto! Dishwash Refill Gel (Lemon, 2L)",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 439",
+        "createdAt": "2023-10-11T11:23:02.530Z",
+        "updatedAt": "2023-10-11T11:23:02.530Z",
+        "publishedAt": "2023-10-11T11:23:02.527Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "55",
+        "ProductImgUrl": "uploads/Amazon Brand Presto Dishwash Refill Gel Lemon 2L.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3651,
+      "attributes": {
+        "productLink": null,
+        "title": "Giffy Turbo Boosters Dishwash Liquid Gel 500ml (Pack of 2) Bottle|50% More Effective Tough Grease Removal|Utensils Cleaning Dish Wash Liquid Super Saver Offer",
+        "dealPrice": "₹ 154",
+        "originalPrice": "₹ 370",
+        "createdAt": "2023-10-11T11:22:03.017Z",
+        "updatedAt": "2023-10-11T11:22:03.017Z",
+        "publishedAt": "2023-10-11T11:22:03.012Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "58",
+        "ProductImgUrl": "uploads/Giffy Turbo Boosters Dishwash Liquid Gel 500ml Pack of 2 Bottle50 More Effective Tough Grease RemovalUtensils Cleaning Dish Wash Liquid Super Saver Offer.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3650,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BBN2GTT6/?tag=thuttu_a-21&ascsubtag=1287776",
+        "title": "Cello Double Treat Lunch Box with Jacket, 3 Container, (2 Pcs Round Container - 300 ml, 1 Pc Oval Container), Blue, Stainless Steel, Plastic",
+        "dealPrice": "₹ 270",
+        "originalPrice": "₹ 549",
+        "createdAt": "2023-10-11T11:22:02.596Z",
+        "updatedAt": "2023-10-11T11:22:02.596Z",
+        "publishedAt": "2023-10-11T11:22:02.592Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "51",
+        "ProductImgUrl": "uploads/Cello Double Treat Lunch Box with Jacket 3 Container 2 Pcs Round Container 300 ml 1 Pc Oval Container Blue Stainless Steel Plastic.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3649,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0C8YZLSCQ/?tag=thuttu-21&ascsubtag=1286771",
+        "title": "Yogabar California Almonds 1kg | Badam Giri Nuts & Dry Fruits| Rich in Protein, Fiber, Vitamin E, Magnesium & Calcium | Healthy Badami Snacks",
+        "dealPrice": "₹ 569",
+        "originalPrice": "",
+        "createdAt": "2023-10-11T11:21:02.808Z",
+        "updatedAt": "2023-10-11T11:21:02.808Z",
+        "publishedAt": "2023-10-11T11:21:02.802Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "",
+        "ProductImgUrl": "uploads/Yogabar California Almonds 1kg Badam Giri Nuts Dry Fruits Rich in Protein Fiber Vitamin E Magnesium Calcium Healthy Badami Snacks.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3648,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BB2HHJDL/?tag=thuttu-21&ascsubtag=1287774",
+        "title": "kamiliant by American Tourister Harrier 2 Pc Sets 68 cms & 78 cms- Medium & Large Polypropylene (PP) Hard Sided 4 Wheels Spinner Luggage Set/Suitcase Set/Trolley Bag Set (Iron Grey)",
+        "dealPrice": "₹ 3999",
+        "originalPrice": "₹ 21750",
+        "createdAt": "2023-10-11T11:20:02.944Z",
+        "updatedAt": "2023-10-11T11:20:02.944Z",
+        "publishedAt": "2023-10-11T11:20:02.940Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "82",
+        "ProductImgUrl": "uploads/kamiliant by American Tourister Harrier 2 Pc Sets 68 cms 78 cms Medium Large Polypropylene PP Hard Sided 4 Wheels Spinner Luggage SetSuitcase SetTrolley Bag Set Iron Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3647,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/vibez-muse-smartwatch-bluetooth-calling/p/itm3c39b0f45257f?pid=SMWGTKGXHPB9PPAJ",
+        "title": "Vibez Muse Smartwatch with Bluetooth Calling Smartwatch  (Multicolor Strap, 1.91)",
+        "dealPrice": "₹ 799",
+        "originalPrice": "₹ 4999",
+        "createdAt": "2023-10-11T11:19:02.482Z",
+        "updatedAt": "2023-10-11T11:19:02.482Z",
+        "publishedAt": "2023-10-11T11:19:02.478Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "84",
+        "ProductImgUrl": "uploads/Vibez Muse Smartwatch with Bluetooth Calling Smartwatch Multicolor Strap 191.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3646,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B07NFDFM6T?tag=thuttu-21&ascsubtag=1287771",
+        "title": "Bajaj RAFTAAR Mini LED RC Torch, Abs, Pack of 1",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 360",
+        "createdAt": "2023-10-11T11:12:03.087Z",
+        "updatedAt": "2023-10-11T11:12:03.087Z",
+        "publishedAt": "2023-10-11T11:12:03.083Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "45",
+        "ProductImgUrl": "uploads/Bajaj RAFTAAR Mini LED RC Torch Abs Pack of 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3645,
+      "attributes": {
+        "productLink": null,
+        "title": "Amazon Brand - Jam & Honey Foosball (Big) | Table Soccer Game",
+        "dealPrice": "₹ 1599",
+        "originalPrice": "₹ 4200",
+        "createdAt": "2023-10-11T11:12:02.562Z",
+        "updatedAt": "2023-10-11T11:12:02.562Z",
+        "publishedAt": "2023-10-11T11:12:02.558Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "62",
+        "ProductImgUrl": "uploads/Amazon Brand Jam Honey Foosball Big Table Soccer Game.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3644,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0CKLB9D2Z/?tag=thuttu-21&ascsubtag=1287767",
+        "title": "UGAOO Solar Fairy String Light - Outdoor Lights - 10m, 100 LEDs, Waterproof - Ideal",
+        "dealPrice": "₹ 349",
+        "originalPrice": "₹ 899",
+        "createdAt": "2023-10-11T10:57:02.994Z",
+        "updatedAt": "2023-10-11T10:57:02.994Z",
+        "publishedAt": "2023-10-11T10:57:02.989Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "61",
+        "ProductImgUrl": "uploads/UGAOO Solar Fairy String Light Outdoor Lights 10m 100 LEDs Waterproof Ideal.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3643,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0BZ7SNBMZ/?tag=thuttu-21&ascsubtag=1287766",
+        "title": "Heart Home Duster | Wet Dry Cleaning Napkin | Cotton Kitchen Duster | 300 GSM Kitchen Cleaning Clothes | Pocha For Kitchen | Car | Desk | Fan | Set of 6 | 101 | Pink",
+        "dealPrice": "₹ 94",
+        "originalPrice": "₹ 199",
+        "createdAt": "2023-10-11T10:56:03.065Z",
+        "updatedAt": "2023-10-11T10:56:03.065Z",
+        "publishedAt": "2023-10-11T10:56:03.062Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "53",
+        "ProductImgUrl": "uploads/Heart Home Duster Wet Dry Cleaning Napkin Cotton Kitchen Duster 300 GSM Kitchen Cleaning Clothes Pocha For Kitchen Car Desk Fan Set of 6 101 Pink.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3642,
+      "attributes": {
+        "productLink": "https://www.amazon.in/dp/B09DD67M2W?tag=thuttu-21&ascsubtag=1287765",
+        "title": "Everyuth Naturals Body Lotion Nourishing Cocoa 500ml",
+        "dealPrice": "₹ 245",
+        "originalPrice": "₹ 500",
+        "createdAt": "2023-10-11T10:56:02.737Z",
+        "updatedAt": "2023-10-11T10:56:02.737Z",
+        "publishedAt": "2023-10-11T10:56:02.734Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "51",
+        "ProductImgUrl": "uploads/Everyuth Naturals Body Lotion Nourishing Cocoa 500ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3641,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/hp-m160-wired-optical-gaming-mouse/p/itm3859c30f0354a?pid=ACCGRT73TKT2HHY8",
+        "title": "HP M160 Wired Optical Gaming Mouse  (USB 3.0, Black)",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 799",
+        "createdAt": "2023-10-11T10:55:02.822Z",
+        "updatedAt": "2023-10-11T10:55:02.822Z",
+        "publishedAt": "2023-10-11T10:55:02.820Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "75",
+        "ProductImgUrl": "uploads/HP M160 Wired Optical Gaming Mouse USB 30 Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3640,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/dabur-vedic-premium-ayurvedic-herbs-black-tea-box/p/itme03bfb5d436fd?pid=TEAGGVMFEQHNDHVQ",
+        "title": "Dabur Vedic Premium Ayurvedic Herbs Black Tea Box  (2 x 500 g)",
+        "dealPrice": "₹ 298",
+        "originalPrice": "₹ 650",
+        "createdAt": "2023-10-11T10:55:02.437Z",
+        "updatedAt": "2023-10-11T10:55:02.437Z",
+        "publishedAt": "2023-10-11T10:55:02.434Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "54",
+        "ProductImgUrl": "uploads/Dabur Vedic Premium Ayurvedic Herbs Black Tea Box 2 x 500 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 3639,
       "attributes": {
         "productLink": "https://amazon.in/dp/B0CC9FPW9G/?tag=thuttu-21&ascsubtag=1273685",
@@ -5269,7 +5896,7 @@
       "page": 1,
       "pageSize": 1000000,
       "pageCount": 1,
-      "total": 277
+      "total": 310
     }
   }
 }

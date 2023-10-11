@@ -28,7 +28,9 @@ function Innerpage({ page }) {
         <article id="content">
           <div className="post-detail">
             <div className="txt-holder">
-              <h1 className="heading3">{pageTitle}</h1>
+              <h1 className="heading3">
+                <strong>{pageTitle}</strong>
+              </h1>
               <div
                 className="single_post_para"
                 dangerouslySetInnerHTML={{

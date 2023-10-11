@@ -76,7 +76,9 @@ function BlogSinglePost({ setBlogExcept }) {
                   )}
                 </div>
                 <div className="txt-holder">
-                  <h1 className="heading3">{post.attributes.Title}</h1>
+                  <h1 className="heading3">
+                    <strong>{post.attributes.Title}</strong>
+                  </h1>
                   <div
                     className="single_post_para"
                     dangerouslySetInnerHTML={{

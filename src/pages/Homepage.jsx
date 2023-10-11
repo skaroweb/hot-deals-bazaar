@@ -17,8 +17,8 @@ const Homepage = () => {
     <>
       <HelmetProvider>
         <SEO
-          Meta_title="Homepage - Hot Deals Bazaar"
-          Meta_description="Hot Deals Bazaar but loot products"
+          Meta_title="HotDealsBazaar - Unearth Exclusive Daily Deals on Products"
+          Meta_description="Discover unbeatable daily deals on a wide range of products at HotDealsBazaar. We curate the freshest deals just for you. Get the best discounts with every visit."
         />
         <div className="container">
           <div className="row d-flex flex-md-row flex-column-reverse">

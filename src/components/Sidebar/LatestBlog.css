@@ -29,6 +29,7 @@
 .sidebar2 .view {
   color: #bdbdbd;
   font-size: 13px;
+  display: none;
 }
 .sidebar2 .view > span {
   margin-right: 3px;
