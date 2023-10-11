@@ -1,6 +1,101 @@
 {
   "data": [
     {
+      "id": 3680,
+      "attributes": {
+        "productLink": "https://amazon.in/dp/B0C94NTT6Z/?tag=thuttu-21&ascsubtag=1287815",
+        "title": "CELLO Florence 1000ml | BPA Free, 100% food grade | Safe Plastic | Refrigerator Safe | Wide Mouth | Leakproof | Pink",
+        "dealPrice": "₹ 60",
+        "originalPrice": "₹ 135",
+        "createdAt": "2023-10-11T12:03:02.565Z",
+        "updatedAt": "2023-10-11T12:03:02.565Z",
+        "publishedAt": "2023-10-11T12:03:02.561Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "56",
+        "ProductImgUrl": "uploads/CELLO Florence 1000ml BPA Free 100 food grade Safe Plastic Refrigerator Safe Wide Mouth Leakproof Pink.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3679,
+      "attributes": {
+        "productLink": "https://amazon.in/gp/product/B0B42TBCK6/?tag=thuttu-21&ascsubtag=1287814",
+        "title": "BERGNER Aluminium Orion Marble Non-Stick Tawa/Dosa Tawa 28 Cm, Induction Base, Minimum Oil Cooking, Food Safe, Grey",
+        "dealPrice": "₹ 999",
+        "originalPrice": "₹ 2895",
+        "createdAt": "2023-10-11T12:00:03.086Z",
+        "updatedAt": "2023-10-11T12:00:03.086Z",
+        "publishedAt": "2023-10-11T12:00:03.083Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "65",
+        "ProductImgUrl": "uploads/BERGNER Aluminium Orion Marble Non Stick TawaDosa Tawa 28 Cm Induction Base Minimum Oil Cooking Food Safe Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3678,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/bombae-vitamin-c-facewash-men-women-all-skin-types-anti-acne-face-wash/p/itm5b7b292540b09?pid=FCWGPZNYDHUZPHFY",
+        "title": "BOMBAE Vitamin C+ Facewash",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 598",
+        "createdAt": "2023-10-11T11:59:02.430Z",
+        "updatedAt": "2023-10-11T11:59:02.430Z",
+        "publishedAt": "2023-10-11T11:59:02.421Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "67",
+        "ProductImgUrl": "uploads/BOMBAE Vitamin C Facewash.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3677,
+      "attributes": {
+        "productLink": "https://www.flipkart.com/carlton-london-floral-double-ac-blanket-room/p/itmef0e56f131378?pid=BTWFSFNYCFUGUWWY",
+        "title": "VEL Cotton 400 GSM Bath, Hair, Face Towel  (Pack of 2)",
+        "dealPrice": "₹ 119",
+        "originalPrice": "₹ 399",
+        "createdAt": "2023-10-11T11:58:03.033Z",
+        "updatedAt": "2023-10-11T11:58:03.033Z",
+        "publishedAt": "2023-10-11T11:58:03.028Z",
+        "platform": "Flipkart",
+        "affiliate_product_link": null,
+        "discount": "70",
+        "ProductImgUrl": "uploads/VEL Cotton 400 GSM Bath Hair Face Towel Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3676,
+      "attributes": {
+        "productLink": "https://www.amazon.in/s?k=back+covers&i=electronics&rh=n%3A976419031%2Cp_85%3A10440599031%2Cp_89%3AAmazon_Brand_-_Solimo%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&tag=thuttu_a-21&ascsubtag=1287811",
+        "title": "Amazon Brand - Solimo Thermoplastic Polyurethane Mobile Cover",
+        "dealPrice": "₹ 69",
+        "originalPrice": "₹ 399",
+        "createdAt": "2023-10-11T11:58:02.704Z",
+        "updatedAt": "2023-10-11T11:58:02.704Z",
+        "publishedAt": "2023-10-11T11:58:02.701Z",
+        "platform": "Amazon",
+        "affiliate_product_link": null,
+        "discount": "83",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Thermoplastic Polyurethane Mobile Cover.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 3675,
       "attributes": {
         "productLink": "https://www.flipkart.com/nivea-shower-gel-frangipani-oil-body-wash/p/itm9b97fa7749568?pid=BWSFS9CAX5FFBJGP",
@@ -5953,7 +6048,7 @@
       "page": 1,
       "pageSize": 1000000,
       "pageCount": 1,
-      "total": 313
+      "total": 318
     }
   }
 }

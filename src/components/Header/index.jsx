@@ -20,7 +20,7 @@ const Header = () => {
           <div className="row">
             <div className="col-xs-12">
               <div className="logo">
-                <img src="/logo.png" alt="Coupmy" className="img-responsive" />
+                <img src="/logo.png" alt="Coupmy" className="img-fluid" />
               </div>
               {location.pathname === "/" && (
                 <form
