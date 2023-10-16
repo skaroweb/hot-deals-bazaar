@@ -1,6 +1,96 @@
 {
   "data": [
     {
+      "id": 810,
+      "attributes": {
+        "title": "PHILIPS B22D Stellar Bright LED Bulb, 16 Watt (Crystal White)",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 390",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://www.amazon.in/dp/B082HYYNR8?tag=thuttu-21&ascsubtag=1291454",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T10:08:16.910Z",
+        "updatedAt": "2023-10-16T10:08:16.910Z",
+        "ProductImgUrl": "uploads/PHILIPS B22D Stellar Bright LED Bulb 16 Watt Crystal White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 809,
+      "attributes": {
+        "title": "Aristocrat FENCER Textured Water Resistant Hard Cabin Trolley Bag - 55 cm",
+        "dealPrice": "₹ 1299",
+        "originalPrice": "₹ 7500",
+        "platform": "Myntra",
+        "discount": "83",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T10:08:14.882Z",
+        "updatedAt": "2023-10-16T10:08:14.882Z",
+        "ProductImgUrl": "uploads/Aristocrat FENCER Textured Water Resistant Hard Cabin Trolley Bag 55 cm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 808,
+      "attributes": {
+        "title": "Wipro Super Deluxe 1000 Watt GD205 Automatic Electric Dry Iron | Large Soleplate|Anti bacterial German Weilburger Double Coated Soleplate | Quick Heat Up",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://www.amazon.in/dp/B00B7GKXMG?tag=thuttu-21&ascsubtag=1291449",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T10:08:12.814Z",
+        "updatedAt": "2023-10-16T10:08:12.814Z",
+        "ProductImgUrl": "uploads/Wipro Super Deluxe 1000 Watt GD205 Automatic Electric Dry Iron Large SoleplateAnti bacterial German Weilburger Double Coated Soleplate Quick Heat Up.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 807,
+      "attributes": {
+        "title": "Havells Swing LX High Speed 400mm Table Fan (Purple)",
+        "dealPrice": "₹ 2099",
+        "originalPrice": "₹ 4100",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T10:08:10.749Z",
+        "updatedAt": "2023-10-16T10:08:10.749Z",
+        "ProductImgUrl": "uploads/Havells Swing LX High Speed 400mm Table Fan Purple.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 806,
+      "attributes": {
+        "title": "Cello Stainless Steel Hot n Fresh Casserole Set with Inner Steel, Set of 3 (500ml, 1000ml, 1500ml), Red",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T10:08:08.708Z",
+        "updatedAt": "2023-10-16T10:08:08.708Z",
+        "ProductImgUrl": "uploads/Cello Stainless Steel Hot n Fresh Casserole Set with Inner Steel Set of 3 500ml 1000ml 1500ml Red.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 805,
       "attributes": {
         "title": "Redgear Cosmo 7,1 Usb Gaming Wired Over Ear Headphones With Mic With Virtual Surround Sound,50Mm Driver, Rgb Leds & Remote Control(Black)",
@@ -924,7 +1014,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 51
+      "total": 56
     }
   }
 }
