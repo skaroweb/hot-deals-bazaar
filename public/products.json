@@ -1,6 +1,564 @@
 {
   "data": [
     {
+      "id": 804,
+      "attributes": {
+        "title": "MarQ by Flipkart BBD SPECIAL BLK STM SWIFT 8 L RO Water Purifier MarQ by Flipkart Innopure Storm Swift 8L RO Water Purifier (Black)  (Black)",
+        "dealPrice": "₹ 2999",
+        "originalPrice": "₹ 9999",
+        "platform": "Flipkart",
+        "discount": "70",
+        "productLink": "https://www.flipkart.com/marq-flipkart-bbd-special-blk-stm-swift-8-l-ro-water-purifier-innopure-storm-8l-black/p/itm12631067d9c48?pid=WAPGSGGE7UGBDDRM",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:43:11.081Z",
+        "updatedAt": "2023-10-16T09:43:11.081Z",
+        "ProductImgUrl": "uploads/MarQ by Flipkart BBD SPECIAL BLK STM SWIFT 8 L RO Water Purifier MarQ by Flipkart Innopure Storm Swift 8L RO Water Purifier Black Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 803,
+      "attributes": {
+        "title": "boAt Type C A325/A320 Tangle-free, Sturdy Type C Cable with 3A Rapid Charging & 480mbps Data Transmission(Black)",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://www.amazon.in/dp/B08WRBG3XW?tag=thuttu_a-21&ascsubtag=1291440",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:43:09.121Z",
+        "updatedAt": "2023-10-16T09:43:09.121Z",
+        "ProductImgUrl": "uploads/boAt Type C A325A320 Tangle free Sturdy Type C Cable with 3A Rapid Charging 480mbps Data TransmissionBlack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 802,
+      "attributes": {
+        "title": "POND'S Bright Beauty SPF 15 PA ++ Day Cream 50 g, Non-Oily, Mattifying Daily Face Moisturizer - With Niacinamide to Lighten Dark Spots",
+        "dealPrice": "₹ 150",
+        "originalPrice": "₹ 299",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B099QVJGCR?tag=thuttu-21&ascsubtag=1291439",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:40:16.529Z",
+        "updatedAt": "2023-10-16T09:40:16.529Z",
+        "ProductImgUrl": "uploads/PONDS Bright Beauty SPF 15 PA Day Cream 50 g Non Oily Mattifying Daily Face Moisturizer With Niacinamide to Lighten Dark Spots.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 801,
+      "attributes": {
+        "title": "Eveready 3W LED Spot Light",
+        "dealPrice": "₹ 233",
+        "originalPrice": "₹ 450",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": "https://amazon.in/dp/B0BSLQCKP2/?tag=thuttu_a-21&ascsubtag=1291438",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:40:14.530Z",
+        "updatedAt": "2023-10-16T09:40:14.530Z",
+        "ProductImgUrl": "uploads/Eveready 3W LED Spot Light.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 800,
+      "attributes": {
+        "title": "Pril Lime Grease Fighter 1.5 L | Insta Clean | With Active Power molecules that removes grime with ease | Zero White Residue.",
+        "dealPrice": "₹ 240",
+        "originalPrice": "₹ 360",
+        "platform": "Amazon",
+        "discount": "33",
+        "productLink": "https://www.amazon.in/dp/B097DK9H7S?tag=thuttu-21&ascsubtag=1291437",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:40:12.448Z",
+        "updatedAt": "2023-10-16T09:40:12.448Z",
+        "ProductImgUrl": "uploads/Pril Lime Grease Fighter 15 L Insta Clean With Active Power molecules that removes grime with ease Zero White Residue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 799,
+      "attributes": {
+        "title": "Fastrack New Limitless FS1 Smart Watch|Biggest 1.95\" Horizon Curve Display|SingleSync BT Calling v5.3|Built-in Alexa|Upto 5Day Battery|ATS Chipset|100+ Sports Modes|150+ Watchfaces(Black)",
+        "dealPrice": "₹ 1799",
+        "originalPrice": "₹ 4495",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://amazon.in/dp/B0BZ8T21V4/?tag=thuttu_a-21&ascsubtag=1291436",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:40:10.437Z",
+        "updatedAt": "2023-10-16T09:40:10.437Z",
+        "ProductImgUrl": "uploads/Fastrack New Limitless FS1 Smart WatchBiggest 195 Horizon Curve DisplaySingleSync BT Calling v53Built in AlexaUpto 5Day BatteryATS Chipset100 Sports Modes150 WatchfacesBlack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 798,
+      "attributes": {
+        "title": "Polycab Etira 5Ltr 3 Kw Electric Instant Water Heater (Geyser) with Anti rust tank, powerful heating element, multiple layer safety, ISI certified with 5 years inner tank Warranty (White)",
+        "dealPrice": "₹ 3199",
+        "originalPrice": "₹ 5000",
+        "platform": "Amazon",
+        "discount": "36",
+        "productLink": "https://amazon.in/dp/B0BGPYDYXR/?tag=thuttu-21&ascsubtag=1291435",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:40:08.439Z",
+        "updatedAt": "2023-10-16T09:40:08.439Z",
+        "ProductImgUrl": "uploads/Polycab Etira 5Ltr 3 Kw Electric Instant Water Heater Geyser with Anti rust tank powerful heating element multiple layer safety ISI certified with 5 years inner tank Warranty White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 797,
+      "attributes": {
+        "title": "Nivea Care Shower Fresh Powerfruit Shower Gel with Antioxidants & Blueberry Scent 250 ml",
+        "dealPrice": "₹ 125",
+        "originalPrice": "₹ 250",
+        "platform": "Myntra",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:35:08.639Z",
+        "updatedAt": "2023-10-16T09:35:08.639Z",
+        "ProductImgUrl": "uploads/Nivea Care Shower Fresh Powerfruit Shower Gel with Antioxidants Blueberry Scent 250 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 796,
+      "attributes": {
+        "title": "XYXX Pack of 2 Aero Anti-bacterial Odour-free cotton Solid Men Trunk",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 678",
+        "platform": "Flipkart",
+        "discount": "41",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:34:08.707Z",
+        "updatedAt": "2023-10-16T09:34:08.707Z",
+        "ProductImgUrl": "uploads/XYXX Pack of 2 Aero Anti bacterial Odour free cotton Solid Men Trunk.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 795,
+      "attributes": {
+        "title": "BERGNER Master Pro Stainless Steel Kitchen Spoon with Nylon Handle, Black",
+        "dealPrice": "₹ 207",
+        "originalPrice": "₹ 595",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://www.amazon.in/dp/B0989ZVL5D?tag=thuttu-21&ascsubtag=1291432",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:33:10.120Z",
+        "updatedAt": "2023-10-16T09:33:10.120Z",
+        "ProductImgUrl": "uploads/BERGNER Master Pro Stainless Steel Kitchen Spoon with Nylon Handle Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 794,
+      "attributes": {
+        "title": "amazon basics 60-Inch Lightweight Tripod With Bag,Black,Pack of 1",
+        "dealPrice": "₹ 539",
+        "originalPrice": "₹ 1250",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://www.amazon.in/dp/B005KP473Q?tag=thuttu-21&ascsubtag=1274679",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:29:10.878Z",
+        "updatedAt": "2023-10-16T09:29:10.878Z",
+        "ProductImgUrl": "uploads/amazon basics 60 Inch Lightweight Tripod With BagBlackPack of 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 793,
+      "attributes": {
+        "title": "Amazon Brand - Solimo 100% Cotton 2 Piece Bath Towel Set, 500 GSM (Sepia Brown and Olive Green)",
+        "dealPrice": "₹ 739",
+        "originalPrice": "₹ 1250",
+        "platform": "Amazon",
+        "discount": "41",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:29:08.798Z",
+        "updatedAt": "2023-10-16T09:29:08.798Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo 100 Cotton 2 Piece Bath Towel Set 500 GSM Sepia Brown and Olive Green.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 792,
+      "attributes": {
+        "title": "Wonderchef Nutri-blend Mixer, Grinder & Blender | Powerful 400W 22000 RPM motor | Stainless steel Blades | 2 unbreakable jars | 2 Years warranty | Online recipe book by Chef Sanjeev Kapoor | Black",
+        "dealPrice": "₹ 2499",
+        "originalPrice": "₹ 5300",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://www.amazon.in/dp/B00W56GLOQ?tag=thuttu-21&ascsubtag=1291428",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:28:09.738Z",
+        "updatedAt": "2023-10-16T09:28:09.738Z",
+        "ProductImgUrl": "uploads/Wonderchef Nutri blend Mixer Grinder Blender Powerful 400W 22000 RPM motor Stainless steel Blades 2 unbreakable jars 2 Years warranty Online recipe book by Chef Sanjeev Kapoor Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 791,
+      "attributes": {
+        "title": "Crompton Galaxy Decoration Copper USB Powered String Fairy Lights with 100 Led Light (10 Meters, Warm White, Pack of 1)",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 300",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0BD43W4YP/?tag=thuttu-21&ascsubtag=1288788",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:25:11.084Z",
+        "updatedAt": "2023-10-16T09:25:11.084Z",
+        "ProductImgUrl": "uploads/Crompton Galaxy Decoration Copper USB Powered String Fairy Lights with 100 Led Light 10 Meters Warm White Pack of 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 790,
+      "attributes": {
+        "title": "Zebronics Zeb-Power Wired USB Mouse, 3-Button, 1200 DPI Optical Sensor, Plug & Play,",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B07L9FW9GF?tag=thuttu-21&ascsubtag=1287475",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:25:08.997Z",
+        "updatedAt": "2023-10-16T09:25:08.997Z",
+        "ProductImgUrl": "uploads/Zebronics Zeb Power Wired USB Mouse 3 Button 1200 DPI Optical Sensor Plug Play.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 789,
+      "attributes": {
+        "title": "Mi Step Out 12 L Mini Backpack (Small Size, Black, Water Repellant)",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B088XB5XY8?tag=thuttu-21&ascsubtag=1289379",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:24:13.671Z",
+        "updatedAt": "2023-10-16T09:24:13.671Z",
+        "ProductImgUrl": "uploads/Mi Step Out 12 L Mini Backpack Small Size Black Water Repellant.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 788,
+      "attributes": {
+        "title": "Amazon Brand - Solimo High Density Multipurpose Shade Net/Green Net - 75% (10 ft x 10 ft, Green Colour)",
+        "dealPrice": "₹ 349",
+        "originalPrice": "₹ 750",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://amazon.in/dp/B0C245B77H/?tag=thuttu_a-21&ascsubtag=1291426",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:24:11.612Z",
+        "updatedAt": "2023-10-16T09:24:11.612Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo High Density Multipurpose Shade NetGreen Net 75 10 ft x 10 ft Green Colour.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 787,
+      "attributes": {
+        "title": "Zinq Technologies Micro to USB 2.0 Round Cable with High Speed Charging, Quick Data Sync, PVC Connector",
+        "dealPrice": "₹ 28",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "96",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:24:09.542Z",
+        "updatedAt": "2023-10-16T09:24:09.542Z",
+        "ProductImgUrl": "uploads/Zinq Technologies Micro to USB 20 Round Cable with High Speed Charging Quick Data Sync PVC Connector.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 786,
+      "attributes": {
+        "title": "PHILIPS Smart Wi-Fi LED Bulb WiZ Connected B22 10-Watt Smart Bulb",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 2049",
+        "platform": "Flipkart",
+        "discount": "81",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=LLSFVZZ3BSCRHFGJ",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:21:10.829Z",
+        "updatedAt": "2023-10-16T09:21:10.829Z",
+        "ProductImgUrl": "uploads/PHILIPS Smart Wi Fi LED Bulb WiZ Connected B22 10 Watt Smart Bulb.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 785,
+      "attributes": {
+        "title": "Complan Nutrition and Health Drink Royale Chocolate, 1kg Refill Pack with power of 100% Milk Protein and contrains 34 Vital Nutrients",
+        "dealPrice": "₹ 375",
+        "originalPrice": "₹ 569",
+        "platform": "Amazon",
+        "discount": "34",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:21:08.479Z",
+        "updatedAt": "2023-10-16T09:21:08.479Z",
+        "ProductImgUrl": "uploads/Complan Nutrition and Health Drink Royale Chocolate 1kg Refill Pack with power of 100 Milk Protein and contrains 34 Vital Nutrients.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 784,
+      "attributes": {
+        "title": "Prestige Omega Deluxe Non-Stick Cookware 3 Pc Set",
+        "dealPrice": "₹ 1599",
+        "originalPrice": "₹ 3800",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://amazon.in/dp/B0B4DY7TPK/?tag=thuttu-21&ascsubtag=1291423",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:20:11.053Z",
+        "updatedAt": "2023-10-16T09:20:11.053Z",
+        "ProductImgUrl": "uploads/Prestige Omega Deluxe Non Stick Cookware 3 Pc Set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 783,
+      "attributes": {
+        "title": "Shri & Sam Stainless Steel Tezon Serving Bowl with Stainless Steel Lid, 3 Pieces, (14 cm 700 ml Capacity,16cm 950 ml Capacity, 18cm 1500 ml Capacity), Silver",
+        "dealPrice": "₹ 517",
+        "originalPrice": "₹ 1199",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:20:09.073Z",
+        "updatedAt": "2023-10-16T09:20:09.073Z",
+        "ProductImgUrl": "uploads/Shri Sam Stainless Steel Tezon Serving Bowl with Stainless Steel Lid 3 Pieces 14 cm 700 ml Capacity16cm 950 ml Capacity 18cm 1500 ml Capacity Silver.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 782,
+      "attributes": {
+        "title": "Zinq Technologies 2A Dual Port Mobile Charger",
+        "dealPrice": "₹ 97",
+        "originalPrice": "₹ 299",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://www.amazon.in/dp/B07R4XHW8C?tag=thuttu-21&ascsubtag=1291421",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:19:11.787Z",
+        "updatedAt": "2023-10-16T09:19:11.787Z",
+        "ProductImgUrl": "uploads/Zinq Technologies 2A Dual Port Mobile Charger.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 781,
+      "attributes": {
+        "title": "Philips CR2016 3V Lithium Coin Cell Batteries (Silver) - Single Pack (10 pcs Packing)",
+        "dealPrice": "₹ 260",
+        "originalPrice": "₹ 500",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:19:09.773Z",
+        "updatedAt": "2023-10-16T09:19:09.773Z",
+        "ProductImgUrl": "uploads/Philips CR2016 3V Lithium Coin Cell Batteries Silver Single Pack 10 pcs Packing.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 780,
+      "attributes": {
+        "title": "CP PLUS 2MP Full HD Smart Wi-Fi CCTV Home Security Camera | 360° with Pan Tilt | View & Talk | Motion Alert | Night Vision | SD Card (Upto 128 GB), Alexa & Google Support | IR Distance 10mtr | CP-E25A",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 3700",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:16:11.595Z",
+        "updatedAt": "2023-10-16T09:16:11.595Z",
+        "ProductImgUrl": "uploads/CP PLUS 2MP Full HD Smart Wi Fi CCTV Home Security Camera 360 with Pan Tilt View Talk Motion Alert Night Vision SD Card Upto 128 GB Alexa Google Support IR Distance 10mtr CP E25A.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 779,
+      "attributes": {
+        "title": "Portronics Harmonics X1 in Ear Wireless Bluetooth 5.0 Sports Headset with Superior Audio, 15 Hrs Playtime, in-Built Mic, Magnetic Earbuds, Type C Charging(Red)",
+        "dealPrice": "₹ 400",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://www.amazon.in/dp/B09R4RYKXV?tag=thuttu-21&ascsubtag=1291418",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:16:09.586Z",
+        "updatedAt": "2023-10-16T09:16:09.586Z",
+        "ProductImgUrl": "uploads/Portronics Harmonics X1 in Ear Wireless Bluetooth 50 Sports Headset with Superior Audio 15 Hrs Playtime in Built Mic Magnetic Earbuds Type C ChargingRed.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 778,
+      "attributes": {
+        "title": "USB Cable Starts @28",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:11:09.295Z",
+        "updatedAt": "2023-10-16T09:11:09.295Z",
+        "ProductImgUrl": "uploads/USB Cable Starts 28.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 777,
+      "attributes": {
+        "title": "Zinq Technologies Super Durable Micro to USB 2.0 Round Cable with High Speed Charging, Quick Data Sync and PVC Connectors",
+        "dealPrice": "₹ 28",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "96",
+        "productLink": "https://www.amazon.in/dp/B08HXMD4K1?tag=thuttu-21&ascsubtag=1291414",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:09:09.079Z",
+        "updatedAt": "2023-10-16T09:09:09.079Z",
+        "ProductImgUrl": "uploads/Zinq Technologies Super Durable Micro to USB 20 Round Cable with High Speed Charging Quick Data Sync and PVC Connectors.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 776,
+      "attributes": {
+        "title": "Halonix B22D 10-Watt Led Astron Plus (White, Round) - Pack of 2",
+        "dealPrice": "₹ 128",
+        "originalPrice": "₹ 398",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://www.amazon.in/dp/B083KHL7J3?tag=thuttu-21&ascsubtag=1291413",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:08:09.319Z",
+        "updatedAt": "2023-10-16T09:08:09.319Z",
+        "ProductImgUrl": "uploads/Halonix B22D 10 Watt Led Astron Plus White Round Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 775,
+      "attributes": {
+        "title": "Prestige PKOSS 1.5 1500 Watts Kettle | Red | 1.8 Litre | Automatic Cut-Off | Power Indicator | Single-Touch Lid Locking | 360 Degree Swivel Base | Concealed Elements",
+        "dealPrice": "₹ 575",
+        "originalPrice": "₹ 1245",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": "https://www.amazon.in/dp/B07VNFP3C2?tag=thuttu-21&ascsubtag=1284349",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:07:08.954Z",
+        "updatedAt": "2023-10-16T09:07:08.954Z",
+        "ProductImgUrl": "uploads/Prestige PKOSS 15 1500 Watts Kettle Red 18 Litre Automatic Cut Off Power Indicator Single Touch Lid Locking 360 Degree Swivel Base Concealed Elements.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 774,
+      "attributes": {
+        "title": "Tokyo Talkies Women Blue Super Skinny Fit Mid-Rise Clean Look Stretchable Cropped Jeans",
+        "dealPrice": "₹ 284",
+        "originalPrice": "₹ 1899",
+        "platform": "Myntra",
+        "discount": "85",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:00:09.261Z",
+        "updatedAt": "2023-10-16T09:00:09.261Z",
+        "ProductImgUrl": "uploads/Tokyo Talkies Women Blue Super Skinny Fit Mid Rise Clean Look Stretchable Cropped Jeans.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 773,
       "attributes": {
         "title": "Ratnas SMILEY RING SMALL 5 RINGS FOR KIDS (STACKING FUN)  (Multicolor)",
@@ -348,7 +906,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 19
+      "total": 50
     }
   }
 }

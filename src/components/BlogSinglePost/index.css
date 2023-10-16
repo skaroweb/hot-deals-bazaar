@@ -8,3 +8,7 @@
 .single_post_para a {
   color: #ffb300 !important;
 }
+.Single_post_img_holder img {
+  width: 70%;
+  margin: auto;
+}

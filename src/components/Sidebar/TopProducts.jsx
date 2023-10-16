@@ -69,89 +69,92 @@ const TopProducts = () => {
 
   return (
     <>
-      <div className="sidebar">
-        <div className="panel panel-default shopsList">
-          <div className="panel-heading">
-            <h2 className="panel-title">Recent Products</h2>
-          </div>
-          <div
-            id="collapseTwo"
-            className="panel-collapse  in"
-            aria-expanded="true"
-          >
-            <div className="panel-body">
-              <div className="top_products">
-                {topProducts.map((product, index) => (
-                  <div key={index} className="top_products_item">
-                    <div className="img">
-                      {product.attributes.ProductImgUrl ? (
-                        <a
-                          href={product.attributes.productLink}
-                          target="_blank"
-                          rel="noreferrer"
-                        >
+      {topProducts && (
+        <div className="sidebar">
+          <div className="panel panel-default shopsList">
+            <div className="panel-heading">
+              <h2 className="panel-title">Recent Products</h2>
+            </div>
+            <div
+              id="collapseTwo"
+              className="panel-collapse  in"
+              aria-expanded="true"
+            >
+              <div className="panel-body">
+                <div className="top_products">
+                  {topProducts.map((product, index) => (
+                    <div key={index} className="top_products_item">
+                      <div className="img">
+                        {product.attributes.ProductImgUrl ? (
+                          <a
+                            href={product.attributes.productLink}
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            <img
+                              src={
+                                StrapiCMSURL +
+                                "/" +
+                                product.attributes.ProductImgUrl
+                              }
+                              alt={product.attributes.title}
+                              className="img-fluid"
+                            />
+                          </a>
+                        ) : (
                           <img
-                            src={
-                              StrapiCMSURL +
-                              "/" +
-                              product.attributes.ProductImgUrl
-                            }
-                            alt={product.attributes.title}
+                            src={`${
+                              StrapiCMSURL + "/uploads/Image_not_available.png"
+                            }`}
+                            alt="no_image"
                             className="img-fluid"
                           />
-                        </a>
-                      ) : (
-                        <img
-                          src={`${
-                            StrapiCMSURL + "/uploads/Image_not_available.png"
-                          }`}
-                          alt="no_image"
-                          className="img-fluid"
-                        />
-                      )}
-                    </div>
-                    <div className="content">
-                      <div className="title">
-                        <a href={product.attributes.productLink}>
-                          {product.attributes.title}
-                        </a>
+                        )}
                       </div>
-                      <div className="amount_main">
-                        <div className="originalPrice">
-                          <span>{product.attributes.originalPrice}</span>
+                      <div className="content">
+                        <div className="title">
+                          <a href={product.attributes.productLink}>
+                            {product.attributes.title}
+                          </a>
                         </div>
-                        <div className="dealPrice">
-                          <span>{product.attributes.dealPrice}</span>
-                        </div>
-                        <div className="discount">
-                          <span>{product.attributes.discount}% Off</span>
+                        <div className="amount_main">
+                          <div className="originalPrice">
+                            <span>{product.attributes.originalPrice}</span>
+                          </div>
+                          <div className="dealPrice">
+                            <span>{product.attributes.dealPrice}</span>
+                          </div>
+                          <div className="discount">
+                            <span>{product.attributes.discount}% Off</span>
+                          </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div className="shopnow">
-                      <div className="platform">
-                        <ProductListImg
-                          platform={product.attributes.platform}
-                        />
-                      </div>
-                      <div className="shop_btn">
-                        <a
-                          href={product.attributes.productLink}
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          Shop Now
-                        </a>
+                      <div className="shopnow">
+                        <div className="platform">
+                          <ProductListImg
+                            platform={product.attributes.platform}
+                          />
+                        </div>
+                        <div className="shop_btn">
+                          <a
+                            href={product.attributes.productLink}
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            Shop Now
+                          </a>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                ))}
+                  ))}
+                </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
+      )}
+
       {/* Embed schema.org/Product structured data */}
       {productSchema.map((schema, index) => (
         <script key={index} type="application/ld+json">
