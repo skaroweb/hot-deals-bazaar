@@ -8,7 +8,7 @@ import Breadcrumb from "../Util/Breadcrumb";
 
 function BlogSinglePost({ setBlogExcept }) {
   const [post, setPost] = useState(null);
-  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
+  const StrapiCMSURL = "https://hotdealsbazaar.com";
 
   const { id } = useParams();
 

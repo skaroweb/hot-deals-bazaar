@@ -7,7 +7,7 @@ const LatestBlog = ({ blogExcept }) => {
   const [blogs, setBlogs] = useState([]);
   const location = useLocation();
   const url = useParams();
-  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
+  const StrapiCMSURL = "https://hotdealsbazaar.com";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/blogs.json"}`;

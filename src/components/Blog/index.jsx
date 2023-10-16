@@ -13,7 +13,7 @@ const BlogList = () => {
 
   //   console.log(searchText);
 
-  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
+  const StrapiCMSURL = "https://hotdealsbazaar.com";
 
   const formatDate = (publishedAt) => {
     const date = new Date(publishedAt);

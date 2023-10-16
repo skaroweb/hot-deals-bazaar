@@ -1,6 +1,652 @@
 {
   "data": [
     {
+      "id": 752,
+      "attributes": {
+        "title": "Women's Dupatta at Rs.40",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?i=apparel&bbn=1968257031&rh=n%3A1968257031%2Cp_85%3A10440599031&s=price-asc-rank&dc=&ds=v1%3A9mCYeOykXplGMcrXjDonH0lI4KCs2SaMu7sV1GVUteQ&qid=1697441765&rnid=10440598031&tag=thuttu-21&ascsubtag=1291390",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:44:31.380Z",
+        "updatedAt": "2023-10-16T07:44:31.380Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 751,
+      "attributes": {
+        "title": "LAKMÉ Eyeconic Black Kajal 0.35 g (Combo Pack of 2) Matte Kohl Liner in a Twist Up Pencil - Waterproof, Smudge Proof & Long Lasting Eye Makeup",
+        "dealPrice": "₹ 139",
+        "originalPrice": "₹ 340",
+        "platform": "Amazon",
+        "discount": "59",
+        "productLink": "https://www.amazon.in/dp/B09L7QWYC3?tag=thuttu-21&ascsubtag=1291389",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:41:32.479Z",
+        "updatedAt": "2023-10-16T07:41:32.479Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 750,
+      "attributes": {
+        "title": "LAWMAN PG3 Men's Cotton Hooded Neck Sweatshirts (LW-SWT-CT-SPT-1 FSHDY RST_RUST_S)",
+        "dealPrice": "₹ 259",
+        "originalPrice": "₹ 2599",
+        "platform": "Amazon",
+        "discount": "90",
+        "productLink": "https://www.amazon.in/dp/B096XZVSVS?tag=thuttu-21&ascsubtag=1291388",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:38:39.506Z",
+        "updatedAt": "2023-10-16T07:38:39.506Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 749,
+      "attributes": {
+        "title": "LAWMAN PG3 Men's Cotton Crew Neck Sweatshirts (LW-SWT-CT-STR-1 FSRNDNK RYLBL_ROYAL BLUE_L)",
+        "dealPrice": "₹ 219",
+        "originalPrice": "₹ 2199",
+        "platform": "Amazon",
+        "discount": "90",
+        "productLink": "https://www.amazon.in/dp/B096XWJHQS?tag=thuttu_a-21&ascsubtag=1291387",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:38:34.729Z",
+        "updatedAt": "2023-10-16T07:38:34.729Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 748,
+      "attributes": {
+        "title": "FOGG SCEN MENS XTREMO 50ML",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B09NW3FBPY?tag=thuttu-21&ascsubtag=1251670",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:28:31.462Z",
+        "updatedAt": "2023-10-16T07:28:31.462Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 747,
+      "attributes": {
+        "title": "Dixcy Scott Men's Vest",
+        "dealPrice": "₹ 265",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "34",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:26:38.952Z",
+        "updatedAt": "2023-10-16T07:26:38.952Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 746,
+      "attributes": {
+        "title": "[For SBI Credit Card] Malabar Gold & Diamonds 24k (999) 2 gram Yellow Gold Coin cum Pendant",
+        "dealPrice": "₹ 11849",
+        "originalPrice": "₹ 14509",
+        "platform": "Amazon",
+        "discount": "18",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:26:33.094Z",
+        "updatedAt": "2023-10-16T07:26:33.094Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 745,
+      "attributes": {
+        "title": "Fire-Boltt Quantum Luxury Stainless Steel Design 1.28\" Bluetooth Calling Smartwatch with High Resolution of 240 * 240 Px & TWS Connection, SpO2 Tracking with 100 Sports Modes (Blue)",
+        "dealPrice": "₹ 1799",
+        "originalPrice": "₹ 3999",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:26:27.276Z",
+        "updatedAt": "2023-10-16T07:26:27.276Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 744,
+      "attributes": {
+        "title": "Green Soul Scholar Kids Ergonomic & Multi Adjustable Children’s Mesh Study Chair with Footrest & Sit-Brake Castors (Pink)",
+        "dealPrice": "₹ 7298",
+        "originalPrice": "₹ 35436",
+        "platform": "Amazon",
+        "discount": "79",
+        "productLink": "https://amazon.in/dp/B0BBW54S16/?tag=thuttu-21&ascsubtag=1291380",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:08:40.138Z",
+        "updatedAt": "2023-10-16T07:08:40.138Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 743,
+      "attributes": {
+        "title": "Nivia - - Step Out & Play 518YL Plastic Hydra Shaker, 700 ml (Yellow, Pack of 1)",
+        "dealPrice": "₹ 93",
+        "originalPrice": "₹ 210",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://www.amazon.in/dp/B07NBYF4N1?tag=thuttu_a-21&ascsubtag=1291379",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:08:35.113Z",
+        "updatedAt": "2023-10-16T07:08:35.113Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 742,
+      "attributes": {
+        "title": "Signoraware Copper Bottle with Glass (Matt) (Pack of 1 Bottle + 1 Glass 275 ml)",
+        "dealPrice": "₹ 715",
+        "originalPrice": "₹ 1580",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://www.amazon.in/dp/B0754BMBCK?tag=thuttu-21&ascsubtag=1291378",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:08:30.099Z",
+        "updatedAt": "2023-10-16T07:08:30.099Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 741,
+      "attributes": {
+        "title": "Nivia Blade Football | Machine Stitched | 32 Panel | Hobby Playing Ball | Soccer Ball | Football Size - 5 (Orange)",
+        "dealPrice": "₹ 389",
+        "originalPrice": "₹ 599",
+        "platform": "Amazon",
+        "discount": "35",
+        "productLink": "https://www.amazon.in/dp/B07NPGZ5YN?tag=thuttu-21&ascsubtag=1291377",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:07:33.748Z",
+        "updatedAt": "2023-10-16T07:07:33.748Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 740,
+      "attributes": {
+        "title": "Suzec Stainless Steel Finish Heavy Quality Lemon Squeezer with Comfortable Handle",
+        "dealPrice": "₹ 118",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "88",
+        "productLink": "https://amazon.in/dp/B0B2X4NN5N/?tag=thuttu-21&ascsubtag=1291376",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:07:28.565Z",
+        "updatedAt": "2023-10-16T07:07:28.565Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 739,
+      "attributes": {
+        "title": "BSB HOME Prime Collections 160tc Pure Microfiber Breathable Supersoft Wrinkelfree Double Bedsheet with 2 King Size Pillow Covers-Brown Color",
+        "dealPrice": "₹ 195",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://amazon.in/dp/B0B828S8V8/?tag=thuttu-21&ascsubtag=1291375",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:05:33.567Z",
+        "updatedAt": "2023-10-16T07:05:33.567Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 738,
+      "attributes": {
+        "title": "Revlon So Fierce Prismatic Eyeshadow Palette, Eye Makeup, Ultra Creamy Pigmented in Blendable Matte & Pearl Finishes - 964 Clap Back, 6 gm",
+        "dealPrice": "₹ 338",
+        "originalPrice": "₹ 1699",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://amazon.in/dp/B0BHL715HX/?tag=thuttu-21&ascsubtag=1291374",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:05:28.438Z",
+        "updatedAt": "2023-10-16T07:05:28.438Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 737,
+      "attributes": {
+        "title": "Acer Aspire Lite 12th Gen Intel Core i3-1215U Premium Metal Laptop (8GB RAM/512GB SSD/Windows 11 Home) AL15-51, 39.62cm (15.6\") Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+        "dealPrice": "₹ 28990",
+        "originalPrice": "₹ 52990",
+        "platform": "Amazon",
+        "discount": "45",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:04:30.821Z",
+        "updatedAt": "2023-10-16T07:04:30.821Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 736,
+      "attributes": {
+        "title": "Gear Keep It Real 40L Water Resistant School Bag/Casual Backpack/Daypack/Travel Backpack/Kids Bag/College Bag",
+        "dealPrice": "₹ 574",
+        "originalPrice": "₹ 2599",
+        "platform": "Amazon",
+        "discount": "78",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:03:31.620Z",
+        "updatedAt": "2023-10-16T07:03:31.620Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 735,
+      "attributes": {
+        "title": "House Of Farms (HOF) Authentic Kashmiri Mongra Kesar (Saffron) - 1 Gram, For Biryani, Pulao & Sweet Dish Like Kheer & Phirni, Good Health, Tilak, Beauty & Skin, A+++ Grade Quality",
+        "dealPrice": "₹ 269",
+        "originalPrice": "₹ 599",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://amazon.in/dp/B0BXSGVCQ3/?tag=thuttu-21&ascsubtag=1291368",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:02:36.290Z",
+        "updatedAt": "2023-10-16T07:02:36.290Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 734,
+      "attributes": {
+        "title": "Amkette Evo Gamepad Pro 4 Programmable Gamepad for Android |",
+        "dealPrice": "₹ 1499",
+        "originalPrice": "₹ 2599",
+        "platform": "Amazon",
+        "discount": "42",
+        "productLink": "https://www.amazon.in/dp/B07XDJ5HPT?tag=thuttu-21&ascsubtag=1291367",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:02:31.198Z",
+        "updatedAt": "2023-10-16T07:02:31.198Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 733,
+      "attributes": {
+        "title": "Oscar Forever Aqua & Oud Luxury Gift Set For Unisex 2x100 ml | Fresh & Oud Long Lasting Fragrance | Eau De Parfum (EDP) | Pack of 2",
+        "dealPrice": "₹ 449",
+        "originalPrice": "₹ 2298",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://amazon.in/dp/B0CJ74K1NF/?tag=thuttu_a-21&ascsubtag=1291366",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T07:02:26.183Z",
+        "updatedAt": "2023-10-16T07:02:26.183Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 732,
+      "attributes": {
+        "title": "beatXP Actifit Breeze Digital Weight Machine For Body Weight with Thick Tempered Glass, Best Bathroom Weighing Scale with LCD Display - 2 Year Warranty",
+        "dealPrice": "₹ 279",
+        "originalPrice": "₹ 2499",
+        "platform": "Amazon",
+        "discount": "89",
+        "productLink": "https://amazon.in/dp/B0B8T4G5TH/?tag=thuttu-21&ascsubtag=1291365",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:59:31.037Z",
+        "updatedAt": "2023-10-16T06:59:31.037Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 731,
+      "attributes": {
+        "title": "Lenovo V15 Laptop AMD Ryzen 5 5500U,8 GB DDR4 RAM,512 GB SSD PCIe,AMD Radeon™ Graphics,15.6\" FHD Display, DOS,Silver Grey, 1 Year Warranty",
+        "dealPrice": "₹ 34990",
+        "originalPrice": "₹ 46744",
+        "platform": "Amazon",
+        "discount": "25",
+        "productLink": "https://amazon.in/dp/B0BT7TSMHQ/?tag=thuttu-21&ascsubtag=1291364",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:55:37.046Z",
+        "updatedAt": "2023-10-16T06:55:37.046Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 730,
+      "attributes": {
+        "title": "Bajaj Grace BBD Plus Ceiling Fan 1200mm, Timber Golden, (251128)",
+        "dealPrice": "₹ 1629",
+        "originalPrice": "₹ 4090",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B09JP7W81Q?tag=thuttu-21&ascsubtag=1291363",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:55:31.912Z",
+        "updatedAt": "2023-10-16T06:55:31.912Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 729,
+      "attributes": {
+        "title": "Nivia String Bag/Drawstring Bag/Sports Bag Boys/Polyester String Bag/Kit Bags/Drawstring Sports Bag/Dori Backpack/Gym Bag/String Bag Men Waterproof/Drawstring Backpack (Navy Blue)",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 249",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://www.amazon.in/dp/B071H3HLVV?tag=thuttu-21&ascsubtag=1291362",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:55:26.799Z",
+        "updatedAt": "2023-10-16T06:55:26.799Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 728,
+      "attributes": {
+        "title": "MyGlamm POPxo Makeup Collection - InstaGlamm Face Kit | Paraben-Free | Long Lasting Formula, 11g",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:51:31.823Z",
+        "updatedAt": "2023-10-16T06:51:31.823Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 727,
+      "attributes": {
+        "title": "[For SBI Credit Card] Lenovo IdeaPad 1 AMD Ryzen 3 7320U 15.6\" HD Thin and Light Laptop (8 GB/512GB SDD/Windows 11 Home/1Yr Warranty/Cloud Grey/1.58Kg), 82VG00EVIN",
+        "dealPrice": "₹ 26240",
+        "originalPrice": "₹ 52890",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:51:26.772Z",
+        "updatedAt": "2023-10-16T06:51:26.772Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 726,
+      "attributes": {
+        "title": "House Wrap Aluminium Foil for Kitchen, Food Packing, Cooking, Baking - 9 Meter Net Guaranteed 11 Microns in Thickness",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 597",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://www.amazon.in/dp/B08Z7S4PQG?tag=thuttu-21&ascsubtag=1291357",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:44:35.092Z",
+        "updatedAt": "2023-10-16T06:44:35.092Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 725,
+      "attributes": {
+        "title": "Prestige 500 Watts Orion Mixer Grinder with 3 Stainless Steel Jars |2 years warranty| Red & White",
+        "dealPrice": "₹ 1799",
+        "originalPrice": "₹ 3895",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": "https://www.amazon.in/dp/B09ZDVL7L8?tag=thuttu-21&ascsubtag=1278649",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:44:29.928Z",
+        "updatedAt": "2023-10-16T06:44:29.928Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 724,
+      "attributes": {
+        "title": "Camel Kokuyo Fabrica Acrylic Pearl Color - 10 ml Each, 6 Shades",
+        "dealPrice": "₹ 75",
+        "originalPrice": "₹ 130",
+        "platform": "Amazon",
+        "discount": "42",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:43:30.347Z",
+        "updatedAt": "2023-10-16T06:43:30.347Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 723,
+      "attributes": {
+        "title": "Bajaj Grace Neo BBD EE 1200mm Timber Golden Ceiling Fan",
+        "dealPrice": "₹ 1659",
+        "originalPrice": "₹ 4335",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://amazon.in/dp/B0BW4DD21F/?tag=thuttu-21&ascsubtag=1291355",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:36:34.674Z",
+        "updatedAt": "2023-10-16T06:36:34.674Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 722,
+      "attributes": {
+        "title": "Beco Compostable Bamboo Toothbrush with Ultra-Soft Charcoal activated Bristles, 100% Natural & Eco-Friendly (Pack of 1)",
+        "dealPrice": "₹ 29",
+        "originalPrice": "₹ 90",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://www.amazon.in/dp/B08HDM3W1M?tag=thuttu-21&ascsubtag=1291354",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:35:31.477Z",
+        "updatedAt": "2023-10-16T06:35:31.477Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 721,
+      "attributes": {
+        "title": "DiSano Peanut Butter, All Natural, Creamy, Unsweetened, 30% Protein, Gluten Free, Non GMO, 1kg",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 500",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B07L2WVRPR?tag=thuttu-21&ascsubtag=1266055",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:35:26.514Z",
+        "updatedAt": "2023-10-16T06:35:26.514Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 720,
+      "attributes": {
+        "title": "DiSano Pastalicious 100% Durum Wheat Penne Pasta, 1kg",
+        "dealPrice": "₹ 89",
+        "originalPrice": "₹ 270",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:34:23.640Z",
+        "updatedAt": "2023-10-16T06:34:23.640Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 719,
+      "attributes": {
+        "title": "Nature Purify Dried Fig / Dry Fruits Afghani Anjeer Figs  (1 kg)",
+        "dealPrice": "₹ 640",
+        "originalPrice": "₹ 1199",
+        "platform": "Flipkart",
+        "discount": "47",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=NDFGATQV2XN6ZHZV",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:32:26.192Z",
+        "updatedAt": "2023-10-16T06:32:26.192Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 718,
+      "attributes": {
+        "title": "Fire-Boltt Ninja Call Pro Plus 1.83\" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution",
+        "dealPrice": "₹ 1099",
+        "originalPrice": "₹ 19999",
+        "platform": "Amazon",
+        "discount": "95",
+        "productLink": "https://amazon.in/dp/B0BF57RN3K/?tag=thuttu-21&ascsubtag=1291350",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:30:31.290Z",
+        "updatedAt": "2023-10-16T06:30:31.290Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 717,
+      "attributes": {
+        "title": "Larah by Borosil Fluted Jazzblue Dinner Set 21 Pieces, Opal Glass Dinner Plates & Bowls Crockery Set",
+        "dealPrice": "₹ 1168",
+        "originalPrice": "₹ 3095",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:27:35.537Z",
+        "updatedAt": "2023-10-16T06:27:35.537Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 716,
+      "attributes": {
+        "title": "Gear Superior 16L Small Water Resistant School Bag/Daypack/Casual Backpack/College Bag",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://www.amazon.in/dp/B08D76PV8B?tag=thuttu-21&ascsubtag=1291348",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:27:29.571Z",
+        "updatedAt": "2023-10-16T06:27:29.571Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 715,
+      "attributes": {
+        "title": "Gear Voyager 15L Small Casual Backpack/Daypack/Hiking Daypack/Drawstring Bag",
+        "dealPrice": "₹ 245",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": "https://amazon.in/dp/B0C27PLT88/?tag=thuttu-21&ascsubtag=1291347",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T06:26:30.901Z",
+        "updatedAt": "2023-10-16T06:26:30.901Z",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 714,
       "attributes": {
         "title": "[Sizes 4 - 5 , 8-9 Years] Cloth Theory Girls Hooded Sweatshirt",
@@ -9152,7 +9798,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 538
+      "total": 576
     }
   }
 }

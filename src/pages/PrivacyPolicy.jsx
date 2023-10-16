@@ -5,7 +5,7 @@ import axios from "axios";
 const PrivacyPolicy = () => {
   const [page, setPage] = useState([]);
 
-  const StrapiCMSURL = "https://hot-deals-bazaar.netlify.app";
+  const StrapiCMSURL = "https://hotdealsbazaar.com";
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/privacy-policy.json"}`;
