@@ -46,10 +46,24 @@ const BlogList = () => {
     { label: "Blog", path: "/blog" },
   ];
 
+  // Function to remove <h2> tags from HTML content
+  const removeH2Tags = (html) => {
+    const tempDiv = document.createElement("div");
+    tempDiv.innerHTML = html;
+    const h2Tags = tempDiv.getElementsByTagName("h2");
+    for (let i = h2Tags.length - 1; i >= 0; i--) {
+      h2Tags[i].parentNode.removeChild(h2Tags[i]);
+    }
+    return tempDiv.innerHTML;
+  };
+
   return (
     <HelmetProvider>
       <div>
-        <SEO Meta_title="Blog page" Meta_description="Blog page" />
+        <SEO
+          Meta_title="Discover the Hotdealsbazaar Blog - Stay Updated on Deals"
+          Meta_description="Stay informed about the latest deals and get valuable insights into various products by visiting the Hotdealsbazaar blog."
+        />
 
         <section className="blog-sec container pad-top-lg pad-bottom-md">
           <div className="row">
@@ -107,7 +121,7 @@ const BlogList = () => {
                   <div
                     className="paragraph"
                     dangerouslySetInnerHTML={{
-                      __html: blog.attributes.ClassicEditor,
+                      __html: removeH2Tags(blog.attributes.ClassicEditor),
                     }}
                   />
                   <Link
