@@ -1,6 +1,6 @@
 import { Helmet } from "react-helmet-async";
 
-const SEO = ({ Meta_title, Meta_description }) => {
+const SEO = ({ Meta_title, Meta_description, OG_image }) => {
   return (
     <Helmet
       onChangeClientState={(newState) => {
@@ -24,6 +24,12 @@ const SEO = ({ Meta_title, Meta_description }) => {
         );
         if (ogDescription) {
           ogDescription.setAttribute("content", Meta_description || "");
+        }
+
+        // Update og:image
+        const ogImage = document.querySelector('meta[property="og:image"]');
+        if (ogImage) {
+          ogImage.setAttribute("content", OG_image || "");
         }
       }}
     >

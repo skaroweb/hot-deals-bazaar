@@ -1,6 +1,852 @@
 {
   "data": [
     {
+      "id": 875,
+      "attributes": {
+        "title": "Organic Purify Orange Candy | Narangee Candy | Narangee Toffee | SantraToffee | Vegetarian | Orange Flavoured Toffee (Pack of 400gm) Jar Pack",
+        "dealPrice": "₹ 154",
+        "originalPrice": "₹ 400",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T13:13:06.280Z",
+        "updatedAt": "2023-10-16T13:13:06.280Z",
+        "ProductImgUrl": "uploads/Organic Purify Orange Candy Narangee Candy Narangee Toffee SantraToffee Vegetarian Orange Flavoured Toffee Pack of 400gm Jar Pack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 874,
+      "attributes": {
+        "title": "Park Avenue Good Morning Soap Pack of 4 500gm",
+        "dealPrice": "₹ 140",
+        "originalPrice": "₹ 280",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0B6ZZB6Q6/?tag=thuttu-21&ascsubtag=1291536",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T13:08:06.644Z",
+        "updatedAt": "2023-10-16T13:08:06.644Z",
+        "ProductImgUrl": "uploads/Park Avenue Good Morning Soap Pack of 4 500gm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 873,
+      "attributes": {
+        "title": "amazon basics Hot, Cold and Normal Water Dispenser, Table Top",
+        "dealPrice": "₹ 5849",
+        "originalPrice": "₹ 10499",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T13:08:05.751Z",
+        "updatedAt": "2023-10-16T13:08:05.751Z",
+        "ProductImgUrl": "uploads/amazon basics Hot Cold and Normal Water Dispenser Table Top.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 872,
+      "attributes": {
+        "title": "POND'S Serum boost sunscreen prevent and fade dark patches with the power of SPF 35 and NIACINAMIDE-C Serum 50g",
+        "dealPrice": "₹ 119",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://amazon.in/dp/B0BV23D2ND/?tag=thuttu-21&ascsubtag=1291531",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T13:02:09.038Z",
+        "updatedAt": "2023-10-16T13:02:09.038Z",
+        "ProductImgUrl": "uploads/PONDS Serum boost sunscreen prevent and fade dark patches with the power of SPF 35 and NIACINAMIDE C Serum 50g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 871,
+      "attributes": {
+        "title": "Tosaa Plastic Pet Storage Jar and Container, Set of 24 (6pcs x 250ml Each, 6 pcs x 350ml Each, 6 pcs x 650ml Each, 6 pcs x 1.20ltrs Each), Black|Air Tight|Kitchen Organiser|BPA Free|Stackable",
+        "dealPrice": "₹ 339",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://amazon.in/dp/B0BVQT5PPB/?tag=thuttu-21&ascsubtag=1270434",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:32:06.848Z",
+        "updatedAt": "2023-10-16T12:32:06.848Z",
+        "ProductImgUrl": "uploads/Tosaa Plastic Pet Storage Jar and Container Set of 24 6pcs x 250ml Each 6 pcs x 350ml Each 6 pcs x 650ml Each 6 pcs x 120ltrs Each BlackAir TightKitchen OrganiserBPA FreeStackable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 870,
+      "attributes": {
+        "title": "JBL Tune 130NC in Ear Wireless TWS Earbuds with Mic, ANC Earbuds(Upto 40Db), Customizable Bass with Headphones App, 40Hrs Playtime, Legendary Sound, 4 Mics",
+        "dealPrice": "₹ 3498",
+        "originalPrice": "₹ 6999",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B09HGW9V7D?tag=thuttu-21&ascsubtag=1291530",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:32:05.963Z",
+        "updatedAt": "2023-10-16T12:32:05.963Z",
+        "ProductImgUrl": "uploads/JBL Tune 130NC in Ear Wireless TWS Earbuds with Mic ANC EarbudsUpto 40Db Customizable Bass with Headphones App 40Hrs Playtime Legendary Sound 4 Mics.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 869,
+      "attributes": {
+        "title": "Amazon Basics 2.5\" External Hard Drive Enclosure, SATA III to USB Type-C",
+        "dealPrice": "₹ 349",
+        "originalPrice": "₹ 1299",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": "https://amazon.in/dp/B0CJJTX9FH/?tag=thuttu-21&ascsubtag=1291529",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:31:05.508Z",
+        "updatedAt": "2023-10-16T12:31:05.508Z",
+        "ProductImgUrl": "uploads/Amazon Basics 25 External Hard Drive Enclosure SATA III to USB Type C.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 868,
+      "attributes": {
+        "title": "Resistance Loop Bands by Slovic 100% Natural Latex Exercise Bands with 1 Year Warranty Mini Resistance Loop Band",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:30:07.253Z",
+        "updatedAt": "2023-10-16T12:30:07.253Z",
+        "ProductImgUrl": "uploads/Resistance Loop Bands by Slovic 100 Natural Latex Exercise Bands with 1 Year Warranty Mini Resistance Loop Band.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 867,
+      "attributes": {
+        "title": "Amazon Basics Wireless Bluetooth Multi-Device Keyboard for Windows, Apple iOS Android Or Chrome, Compact Space-Saving Design,",
+        "dealPrice": "₹ 1299",
+        "originalPrice": "₹ 3699",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://www.amazon.in/dp/B09SPTDTTL?tag=thuttu-21&ascsubtag=1291527",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:30:06.340Z",
+        "updatedAt": "2023-10-16T12:30:06.340Z",
+        "ProductImgUrl": "uploads/Amazon Basics Wireless Bluetooth Multi Device Keyboard for Windows Apple iOS Android Or Chrome Compact Space Saving Design.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 866,
+      "attributes": {
+        "title": "Cello Opalware Dazzle Series Tropical Lagoon Dinner Set, 18Pcs | Opal Glass Dinner Set for 6 | Light-Weight, Daily Use Crockery Set",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 1635",
+        "platform": "Amazon",
+        "discount": "45",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:20:08.503Z",
+        "updatedAt": "2023-10-16T12:20:08.503Z",
+        "ProductImgUrl": "uploads/Cello Opalware Dazzle Series Tropical Lagoon Dinner Set 18Pcs Opal Glass Dinner Set for 6 Light Weight Daily Use Crockery Set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 865,
+      "attributes": {
+        "title": "Hp Wired On Ear Headphones With Mic With 3.5 Mm Drivers, In-Built Noise Cancelling, Foldable And Adjustable For Laptop/Pc/Office/Home/ 1 Year Warranty (B4B09Pa)",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B009LJ2BXA?tag=thuttu-21&ascsubtag=1291526",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:20:07.655Z",
+        "updatedAt": "2023-10-16T12:20:07.655Z",
+        "ProductImgUrl": "uploads/Hp Wired On Ear Headphones With Mic With 35 Mm Drivers In Built Noise Cancelling Foldable And Adjustable For LaptopPcOfficeHome 1 Year Warranty B4B09Pa.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 864,
+      "attributes": {
+        "title": "ZEBRONICS Zeb-Tulip Wired in Ear Earphone with Mic (White)",
+        "dealPrice": "₹ 108",
+        "originalPrice": "₹ 459",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://www.amazon.in/dp/B08BY5WPFS?tag=thuttu-21&ascsubtag=1291525",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:20:06.769Z",
+        "updatedAt": "2023-10-16T12:20:06.769Z",
+        "ProductImgUrl": "uploads/ZEBRONICS Zeb Tulip Wired in Ear Earphone with Mic White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 863,
+      "attributes": {
+        "title": "Zebronics Zeb-Warrior 2.0 Multimedia Speaker With Aux Connectivity,USB Powered And Volume Control",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://www.amazon.in/dp/B07ZZBYWKF?tag=thuttu-21&ascsubtag=1291524",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:20:05.867Z",
+        "updatedAt": "2023-10-16T12:20:05.867Z",
+        "ProductImgUrl": "uploads/Zebronics Zeb Warrior 20 Multimedia Speaker With Aux ConnectivityUSB Powered And Volume Control.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 862,
+      "attributes": {
+        "title": "amazon basics Extendable Bluetooth-Enabled Selfie Stick/Tripod with Wireless Remote, White Light, 2 Colour Modes, Useful",
+        "dealPrice": "₹ 349",
+        "originalPrice": "₹ 849",
+        "platform": "Amazon",
+        "discount": "59",
+        "productLink": "https://amazon.in/dp/B0C6V2Z2BH/?tag=thuttu-21&ascsubtag=1291522",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:20:04.972Z",
+        "updatedAt": "2023-10-16T12:20:04.972Z",
+        "ProductImgUrl": "uploads/amazon basics Extendable Bluetooth Enabled Selfie StickTripod with Wireless Remote White Light 2 Colour Modes Useful.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 861,
+      "attributes": {
+        "title": "E-COSMOS Smart Handy Multi-Purpose Fruit & Vegetable Cutter Chopper (950ML,Green, Pack of 1)",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:18:05.784Z",
+        "updatedAt": "2023-10-16T12:18:05.784Z",
+        "ProductImgUrl": "uploads/E COSMOS Smart Handy Multi Purpose Fruit Vegetable Cutter Chopper 950MLGreen Pack of 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 860,
+      "attributes": {
+        "title": "AirCase Premium Laptop Cover Sleeve Bag fits iPad Pro/ Laptop upto 12.5\"| Durable Protective Case Pouch",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 1499",
+        "platform": "Amazon",
+        "discount": "87",
+        "productLink": "https://www.amazon.in/dp/B09DVJ46GM?tag=thuttu-21&ascsubtag=1291516",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:03:07.950Z",
+        "updatedAt": "2023-10-16T12:03:07.950Z",
+        "ProductImgUrl": "uploads/AirCase Premium Laptop Cover Sleeve Bag fits iPad Pro Laptop upto 125 Durable Protective Case Pouch.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 859,
+      "attributes": {
+        "title": "NIRLON Tall Bell Single Wall Stainless Steel Water Bottle 1000ml, Water Bottles For Fridge, School,Gym,Home,office,Boys, Girls, Kids, Leak Proof(Silver COLOUR|SIPPER CAP|SET OF 2)",
+        "dealPrice": "₹ 349",
+        "originalPrice": "₹ 998",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://amazon.in/dp/B0CBC4FWHS/?tag=thuttu-21&ascsubtag=1291515",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:03:07.046Z",
+        "updatedAt": "2023-10-16T12:03:07.046Z",
+        "ProductImgUrl": "uploads/NIRLON Tall Bell Single Wall Stainless Steel Water Bottle 1000ml Water Bottles For Fridge SchoolGymHomeofficeBoys Girls Kids Leak ProofSilver COLOURSIPPER CAPSET OF 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 858,
+      "attributes": {
+        "title": "Plantex Premium Steel Foldable 5-Step Ladder",
+        "dealPrice": "₹ 3099",
+        "originalPrice": "₹ 8999",
+        "platform": "Amazon",
+        "discount": "66",
+        "productLink": "https://www.amazon.in/dp/B07TBSH8Y8?tag=thuttu-21&ascsubtag=1291514",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:03:06.146Z",
+        "updatedAt": "2023-10-16T12:03:06.146Z",
+        "ProductImgUrl": "uploads/Plantex Premium Steel Foldable 5 Step Ladder.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 857,
+      "attributes": {
+        "title": "Surf Excel Matic Front Load Liquid Detergent 3.2 L Refill, Designed",
+        "dealPrice": "₹ 538",
+        "originalPrice": "₹ 765",
+        "platform": "Amazon",
+        "discount": "30",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:02:06.217Z",
+        "updatedAt": "2023-10-16T12:02:06.217Z",
+        "ProductImgUrl": "uploads/Surf Excel Matic Front Load Liquid Detergent 32 L Refill Designed.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 856,
+      "attributes": {
+        "title": "Surf Excel Matic 3 in 1 Smartshots - 28 units of dissolvable detergent capsules with Superior Stain Removal, Fabric Care and Long Lasting Fragrance. 1 shot = 1 wash",
+        "dealPrice": "₹ 383",
+        "originalPrice": "₹ 672",
+        "platform": "Amazon",
+        "discount": "43",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T12:02:05.320Z",
+        "updatedAt": "2023-10-16T12:02:05.320Z",
+        "ProductImgUrl": "uploads/Surf Excel Matic 3 in 1 Smartshots 28 units of dissolvable detergent capsules with Superior Stain Removal Fabric Care and Long Lasting Fragrance 1 shot 1 wash.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 855,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Xl Bean Bag Filled With Beans (Brown)(Faux Leather)",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 2000",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:58:06.044Z",
+        "updatedAt": "2023-10-16T11:58:06.044Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Xl Bean Bag Filled With Beans BrownFaux Leather.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 854,
+      "attributes": {
+        "title": "Save 40% on Story@Home Multi Storage Racks",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/promotion/psp/A1NEUMWFYTUK61?&tag=thuttu-21&ascsubtag=1291508",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:47:05.669Z",
+        "updatedAt": "2023-10-16T11:47:05.669Z",
+        "ProductImgUrl": "uploads/Save 40 on StoryHome Multi Storage Racks.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 853,
+      "attributes": {
+        "title": "boAt Aavante Bar Orion Soundbar with 160W RMS Signature Sound, 2.1 CH, BT v5.3, Multi-Compatibility Modes, Wired Subwoofer, EQ Controls, Dynamic LEDs & Master Remote Control(Pitch Black)",
+        "dealPrice": "₹ 6299",
+        "originalPrice": "₹ 21990",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": "https://amazon.in/dp/B0BBVBCL3F/?tag=thuttu-21&ascsubtag=1291507",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:47:04.820Z",
+        "updatedAt": "2023-10-16T11:47:04.820Z",
+        "ProductImgUrl": "uploads/boAt Aavante Bar Orion Soundbar with 160W RMS Signature Sound 21 CH BT v53 Multi Compatibility Modes Wired Subwoofer EQ Controls Dynamic LEDs Master Remote ControlPitch Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 852,
+      "attributes": {
+        "title": "boAt Aavante Bar Mystiq Soundbar with 100W RMS Signature Sound, 2.1 CH,Multi-Connectivity Modes,BT v5.3,Wired Subwoofer,EQ Modes,Bass & Treble Control & Remote Control(Pitch Black)",
+        "dealPrice": "₹ 4999",
+        "originalPrice": "₹ 15990",
+        "platform": "Amazon",
+        "discount": "69",
+        "productLink": "https://amazon.in/dp/B0BTDNZQWJ/?tag=thuttu-21&ascsubtag=1291506",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:46:09.615Z",
+        "updatedAt": "2023-10-16T11:46:09.615Z",
+        "ProductImgUrl": "uploads/boAt Aavante Bar Mystiq Soundbar with 100W RMS Signature Sound 21 CHMulti Connectivity ModesBT v53Wired SubwooferEQ ModesBass Treble Control Remote ControlPitch Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 851,
+      "attributes": {
+        "title": "rts 25W USB Universal Travel International All in One Worldwide Travel Multi Plug Adapter cable,Wall Charger with Build in Dual USB Charger with Multi Type Power Outlet",
+        "dealPrice": "₹ 469",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://www.amazon.in/dp/B09B9RR81Y?tag=thuttu-21&ascsubtag=1291505",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:46:08.732Z",
+        "updatedAt": "2023-10-16T11:46:08.732Z",
+        "ProductImgUrl": "uploads/rts 25W USB Universal Travel International All in One Worldwide Travel Multi Plug Adapter cableWall Charger with Build in Dual USB Charger with Multi Type Power Outlet.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 850,
+      "attributes": {
+        "title": "Crucial MX500 500GB 6.35 cm (2.5-inch) SSD",
+        "dealPrice": "₹ 2786",
+        "originalPrice": "₹ 7500",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:46:07.817Z",
+        "updatedAt": "2023-10-16T11:46:07.817Z",
+        "ProductImgUrl": "uploads/Crucial MX500 500GB 635 cm 25 inch SSD.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 849,
+      "attributes": {
+        "title": "Ariel Front Load Matic Liquid Detergent 3.2Ltr",
+        "dealPrice": "₹ 574",
+        "originalPrice": "₹ 765",
+        "platform": "Amazon",
+        "discount": "25",
+        "productLink": "https://amazon.in/dp/B0CBBSWLW4/?tag=thuttu-21&ascsubtag=1291503",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:46:06.992Z",
+        "updatedAt": "2023-10-16T11:46:06.992Z",
+        "ProductImgUrl": "uploads/Ariel Front Load Matic Liquid Detergent 32Ltr.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 848,
+      "attributes": {
+        "title": "HAMMER Fit+ 1.85\" Bluetooth Calling Smartwatch with Built-in Games, Metallic Body, Voice Assistant, in-App GPS, 100+ Sports Modes, 100+ Customized Watchfaces, Skin Friendly Straps (Black)",
+        "dealPrice": "₹ 1699",
+        "originalPrice": "₹ 6999",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://amazon.in/dp/B0C4367XL7/?tag=thuttu-21&ascsubtag=1291502",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:46:06.112Z",
+        "updatedAt": "2023-10-16T11:46:06.112Z",
+        "ProductImgUrl": "uploads/HAMMER Fit 185 Bluetooth Calling Smartwatch with Built in Games Metallic Body Voice Assistant in App GPS 100 Sports Modes 100 Customized Watchfaces Skin Friendly Straps Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 847,
+      "attributes": {
+        "title": "Story@Home Lazywud Collection Do-It-Yourself 2 Tier Book Shelf, Book Stand",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 3995",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:46:05.256Z",
+        "updatedAt": "2023-10-16T11:46:05.256Z",
+        "ProductImgUrl": "uploads/StoryHome Lazywud Collection Do It Yourself 2 Tier Book Shelf Book Stand.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 846,
+      "attributes": {
+        "title": "Lenovo 23.8 inch Full HD VA Panel 3-Side Near Edgeless with TUV Eye Care Monitor (D24-20)  (Response Time: 4 ms, 75 Hz Refresh Rate)",
+        "dealPrice": "₹ 6029",
+        "originalPrice": "₹ 14290",
+        "platform": "Flipkart",
+        "discount": "58",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:46:04.321Z",
+        "updatedAt": "2023-10-16T11:46:04.321Z",
+        "ProductImgUrl": "uploads/Lenovo 238 inch Full HD VA Panel 3 Side Near Edgeless with TUV Eye Care Monitor D24 20 Response Time 4 ms 75 Hz Refresh Rate.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 845,
+      "attributes": {
+        "title": "[Size 32] HIGHLANDER Pack of 3 Checkered Men Boxer",
+        "dealPrice": "₹ 283",
+        "originalPrice": "₹ 799",
+        "platform": "Flipkart",
+        "discount": "65",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:43:06.458Z",
+        "updatedAt": "2023-10-16T11:43:06.458Z",
+        "ProductImgUrl": "uploads/Size 32 HIGHLANDER Pack of 3 Checkered Men Boxer.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 844,
+      "attributes": {
+        "title": "Meera Hairfall Care Shampoo, Goodness Of Badam & Shikakai, For Strong & Healthy Hair, For Men And Women, Paraben Free, 340ml",
+        "dealPrice": "₹ 259",
+        "originalPrice": "₹ 345",
+        "platform": "Amazon",
+        "discount": "25",
+        "productLink": "https://www.amazon.in/dp/B01C6ZCNOW?tag=thuttu-21&ascsubtag=1291498",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:43:05.613Z",
+        "updatedAt": "2023-10-16T11:43:05.613Z",
+        "ProductImgUrl": "uploads/Meera Hairfall Care Shampoo Goodness Of Badam Shikakai For Strong Healthy Hair For Men And Women Paraben Free 340ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 843,
+      "attributes": {
+        "title": "Lloyd 1.0 Ton 3 Star Inverter Split AC (5 in 1 Convertible, Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White with Chrome Deco Strip, GLS12I3FWAEV/WAEA)",
+        "dealPrice": "₹ 25990",
+        "originalPrice": "₹ 49990",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:41:06.151Z",
+        "updatedAt": "2023-10-16T11:41:06.151Z",
+        "ProductImgUrl": "uploads/Lloyd 10 Ton 3 Star Inverter Split AC 5 in 1 Convertible Copper Anti Viral PM 25 Filter 2023 Model White with Chrome Deco Strip GLS12I3FWAEVWAEA.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 842,
+      "attributes": {
+        "title": "Up to 75% Off on Branded Suitcase Trolleys",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/deal/9968054f?showVariations=true&pf_rd_r=C02NREEZCR65S3VX5MQM&pf_rd_t=Events&tag=thuttu-21&ascsubtag=1291496",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:41:05.255Z",
+        "updatedAt": "2023-10-16T11:41:05.255Z",
+        "ProductImgUrl": "uploads/Up to 75 Off on Branded Suitcase Trolleys.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 841,
+      "attributes": {
+        "title": "[For SBI Credit Card] Huggies Complete Comfort Wonder Pants Large (L) Size Baby Diaper Pants Sumo Pack, 192 count, with 5 in 1 Comfort",
+        "dealPrice": "₹ 1575",
+        "originalPrice": "₹ 3599",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:39:08.037Z",
+        "updatedAt": "2023-10-16T11:39:08.037Z",
+        "ProductImgUrl": "uploads/For SBI Credit Card Huggies Complete Comfort Wonder Pants Large L Size Baby Diaper Pants Sumo Pack 192 count with 5 in 1 Comfort.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 840,
+      "attributes": {
+        "title": "[For SBI Credit Card] Huggies Complete Comfort Wonder Pants Medium (M) Size Baby Diaper Pants Sumo Pack, 228 count, with 5 in 1 Comfort",
+        "dealPrice": "₹ 1575",
+        "originalPrice": "₹ 3599",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:39:07.180Z",
+        "updatedAt": "2023-10-16T11:39:07.180Z",
+        "ProductImgUrl": "uploads/For SBI Credit Card Huggies Complete Comfort Wonder Pants Medium M Size Baby Diaper Pants Sumo Pack 228 count with 5 in 1 Comfort.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 839,
+      "attributes": {
+        "title": "Amazon Basics Bluetooth 5.0 Truly Wireless in Ear Earbuds, Up to 38 Hours Playtime, IPX-5 Rated, Type-C Charging Case, Touch Controls, Voice Assistant, Optional Single Side Use",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 2999",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": "https://amazon.in/dp/B0B8Z2PPHF/?tag=thuttu-21&ascsubtag=1291492",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:39:06.337Z",
+        "updatedAt": "2023-10-16T11:39:06.337Z",
+        "ProductImgUrl": "uploads/Amazon Basics Bluetooth 50 Truly Wireless in Ear Earbuds Up to 38 Hours Playtime IPX 5 Rated Type C Charging Case Touch Controls Voice Assistant Optional Single Side Use.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 838,
+      "attributes": {
+        "title": "HAVELLS Flare 1250 W Steam Iron with Teflon Coated Sole Plate, Vertical & Horizontal Ironing & 2 Years Warranty. (Purple)",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 1620",
+        "platform": "Amazon",
+        "discount": "45",
+        "productLink": "https://amazon.in/gp/product/B07ML45D4L/?tag=thuttu-21&ascsubtag=1291491",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:39:05.425Z",
+        "updatedAt": "2023-10-16T11:39:05.425Z",
+        "ProductImgUrl": "uploads/HAVELLS Flare 1250 W Steam Iron with Teflon Coated Sole Plate Vertical Horizontal Ironing 2 Years Warranty Purple.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 837,
+      "attributes": {
+        "title": "boAt Deuce USB 300 2 in 1 Type-C & Micro USB Stress Resistant, Sturdy Cable with 3A Fast Charging & 480mbps Data Transmission, 10000+ Bends Lifespan and Extended 1.5m Length(Martian Red)",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 699",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://www.amazon.in/dp/B08HDJ86NZ?tag=thuttu-21&ascsubtag=1291490",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:27:07.026Z",
+        "updatedAt": "2023-10-16T11:27:07.026Z",
+        "ProductImgUrl": "uploads/boAt Deuce USB 300 2 in 1 Type C Micro USB Stress Resistant Sturdy Cable with 3A Fast Charging 480mbps Data Transmission 10000 Bends Lifespan and Extended 15m LengthMartian Red.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 836,
+      "attributes": {
+        "title": "Lifelong Kick Scooter with Adjustable Height|Foldable Scooter|Skate Scooter",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 3999",
+        "platform": "Amazon",
+        "discount": "78",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:27:06.052Z",
+        "updatedAt": "2023-10-16T11:27:06.052Z",
+        "ProductImgUrl": "uploads/Lifelong Kick Scooter with Adjustable HeightFoldable ScooterSkate Scooter.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 835,
+      "attributes": {
+        "title": "Bikano Royal Rasgulla 1kg",
+        "dealPrice": "₹ 165",
+        "originalPrice": "₹ 330",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0CFFQY7WJ/?tag=thuttu-21&ascsubtag=1281541",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:26:07.212Z",
+        "updatedAt": "2023-10-16T11:26:07.212Z",
+        "ProductImgUrl": "uploads/Bikano Royal Rasgulla 1kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 834,
+      "attributes": {
+        "title": "SOFTSPUN Microfiber Cloth - 4 pcs - 40x40 cms - 340 GSM Grey- Thick Lint & Streak-Free Multipurpose Cloths - Automotive Microfibre Towels",
+        "dealPrice": "₹ 238",
+        "originalPrice": "₹ 604",
+        "platform": "Amazon",
+        "discount": "61",
+        "productLink": "https://www.amazon.in/dp/B077BFH786?tag=thuttu-21&ascsubtag=1291488",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:26:06.221Z",
+        "updatedAt": "2023-10-16T11:26:06.221Z",
+        "ProductImgUrl": "uploads/SOFTSPUN Microfiber Cloth 4 pcs 40x40 cms 340 GSM Grey Thick Lint Streak Free Multipurpose Cloths Automotive Microfibre Towels.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 833,
+      "attributes": {
+        "title": "Bikano Royal Gulab Jamun 1kg",
+        "dealPrice": "₹ 165",
+        "originalPrice": "₹ 330",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0CFFNH13X/?tag=thuttu-21&ascsubtag=1287993",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:25:08.389Z",
+        "updatedAt": "2023-10-16T11:25:08.389Z",
+        "ProductImgUrl": "uploads/Bikano Royal Gulab Jamun 1kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 832,
+      "attributes": {
+        "title": "[Sizes Lightning Deal 28, 30, 32, 34, 36, 38] Amazon Brand - Symbol Men's Relaxed Fit Stretch Jeans",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 1699",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:25:07.397Z",
+        "updatedAt": "2023-10-16T11:25:07.397Z",
+        "ProductImgUrl": "uploads/Sizes Lightning Deal 28 30 32 34 36 38 Amazon Brand Symbol Mens Relaxed Fit Stretch Jeans.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 831,
+      "attributes": {
+        "title": "Desidiya 12 Stars 138 Led Curtain String Lights Window Curtain Lights with 8 Flashing Modes Decoration",
+        "dealPrice": "₹ 389",
+        "originalPrice": "₹ 699",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:25:06.107Z",
+        "updatedAt": "2023-10-16T11:25:06.107Z",
+        "ProductImgUrl": "uploads/Desidiya 12 Stars 138 Led Curtain String Lights Window Curtain Lights with 8 Flashing Modes Decoration.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 830,
+      "attributes": {
+        "title": "SPARNOD FITNESS SAB-05 Upright Air Bike Exercise Cycle for Home Gym - Dual Action",
+        "dealPrice": "₹ 5850",
+        "originalPrice": "₹ 18000",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://www.amazon.in/dp/B082NXDZPH?tag=thuttu-21&ascsubtag=1291484",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:24:08.662Z",
+        "updatedAt": "2023-10-16T11:24:08.662Z",
+        "ProductImgUrl": "uploads/SPARNOD FITNESS SAB 05 Upright Air Bike Exercise Cycle for Home Gym Dual Action.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 829,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Storage Basket, Set of 2, Medium, Brown, Plastic",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 500",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T11:24:07.700Z",
+        "updatedAt": "2023-10-16T11:24:07.700Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Storage Basket Set of 2 Medium Brown Plastic.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 828,
       "attributes": {
         "title": "GRAPHENE Monster Truck for Boys 3 4 5 6 7 Year Old,Push and Go Friction Powered Car Toys, Double-Directions Inertia Pull Back Vehicle Set,Birthday Party Gift",
@@ -1338,7 +2184,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 74
+      "total": 121
     }
   }
 }

@@ -5,6 +5,7 @@ import "./index.css";
 import Breadcrumb from "../Util/Breadcrumb";
 
 function Innerpage({ page }) {
+  const StrapiCMSURL = "https://hotdealsbazaar.com";
   const location = useLocation();
 
   if (!page) {
@@ -23,6 +24,7 @@ function Innerpage({ page }) {
         <SEO
           Meta_title={page.attributes && page.attributes.Meta_title}
           Meta_description={page.attributes && page.attributes.Meta_description}
+          OG_image={StrapiCMSURL + page.attributes.Featured_image_url}
         />
         <Breadcrumb items={breadcrumbItems} />
         <article id="content">

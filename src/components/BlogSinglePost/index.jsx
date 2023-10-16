@@ -50,6 +50,7 @@ function BlogSinglePost({ setBlogExcept }) {
             <SEO
               Meta_title={post.attributes.Meta_title}
               Meta_description={post.attributes.Meta_description}
+              OG_image={StrapiCMSURL + post.attributes.Featured_image_url}
             />
             <Breadcrumb items={breadcrumbItems} />
             <article id="content">
