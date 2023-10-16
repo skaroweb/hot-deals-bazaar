@@ -55,15 +55,9 @@ function BlogSinglePost({ setBlogExcept }) {
             <article id="content">
               <div className="post-detail">
                 <div className="Single_post_img_holder">
-                  {post.attributes &&
-                  post.attributes.Featured_image &&
-                  post.attributes.Featured_image.data &&
-                  post.attributes.Featured_image.data.attributes ? (
+                  {post.attributes && post.attributes.Featured_image_url ? (
                     <img
-                      src={
-                        StrapiCMSURL +
-                        post.attributes.Featured_image.data.attributes.url
-                      }
+                      src={StrapiCMSURL + post.attributes.Featured_image_url}
                       alt={post.attributes.Title}
                       className="img-fluid"
                     />

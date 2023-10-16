@@ -61,9 +61,7 @@ const BlogList = () => {
               >
                 <div className="blog-holder mar-bottom-xs">
                   <div className="img-holder">
-                    {blog.attributes.Featured_image &&
-                    blog.attributes.Featured_image.data &&
-                    blog.attributes.Featured_image.data.attributes ? (
+                    {blog.attributes.Featured_image_url ? (
                       <Link
                         to={`/blog/${blog.attributes.Title.replace(/,/g, "")
                           .replace(/\s+/g, "-")
@@ -71,8 +69,7 @@ const BlogList = () => {
                       >
                         <img
                           src={
-                            StrapiCMSURL +
-                            blog.attributes.Featured_image.data.attributes.url
+                            StrapiCMSURL + blog.attributes.Featured_image_url
                           }
                           alt={blog.attributes.title}
                           className="img-fluid"
