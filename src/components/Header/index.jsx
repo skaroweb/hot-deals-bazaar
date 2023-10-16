@@ -1,5 +1,5 @@
 import Navbar from "../Navbar/TopNav";
-import { useLocation } from "react-router-dom";
+import { useLocation, Link } from "react-router-dom";
 
 import "./style.css";
 import { useSearch } from "../../Context/SearchContext";
@@ -20,7 +20,9 @@ const Header = () => {
           <div className="row">
             <div className="col-xs-12">
               <div className="logo">
-                <img src="/logo.png" alt="Coupmy" className="img-fluid" />
+                <Link to="/">
+                  <img src="/logo.png" alt="Coupmy" className="img-fluid" />
+                </Link>
               </div>
               {location.pathname === "/" && (
                 <form
