@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <div className={styles.footer}>
-        Copyright © {new Date().getFullYear()}, HotDealsBazaar.com | All Rights
+        Copyright © {new Date().getFullYear()}, Hotdealsbazaar.com | All Rights
         Reserved
       </div>
     </footer>
