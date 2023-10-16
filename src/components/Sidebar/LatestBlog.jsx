@@ -43,42 +43,46 @@ const LatestBlog = ({ blogExcept }) => {
   }, []); // The empty dependency array means this effect runs once after the initial render
 
   return (
-    <div className="sidebar2">
-      <div className="panel panel-default shopsList">
-        <div className="panel-heading">
-          <h2 className="panel-title">Latest Blog</h2>
-        </div>
-        <div
-          id="collapseTwo"
-          className="panel-collapse  in"
-          aria-expanded="true"
-        >
-          <div className="panel-body">
-            <div className="latest-blog">
-              {blogs.map((blog) => (
-                <div className="latest-blog-item" key={blog.id}>
-                  <div className="title">
-                    <Link
-                      to={`/blog/${blog.attributes.Title.replace(/,/g, "")
-                        .replace(/\s+/g, "-")
-                        .toLowerCase()}`}
-                    >
-                      {blog.attributes.Title}
-                    </Link>
-                  </div>
-                  <div className="view">
-                    <span>
-                      <i className="fa fa-eye" aria-hidden="true"></i>
-                    </span>
-                    2034 Views
-                  </div>
+    <>
+      {blogs.length > 0 && (
+        <div className="sidebar2">
+          <div className="panel panel-default shopsList">
+            <div className="panel-heading">
+              <h2 className="panel-title">Latest Blog</h2>
+            </div>
+            <div
+              id="collapseTwo"
+              className="panel-collapse  in"
+              aria-expanded="true"
+            >
+              <div className="panel-body">
+                <div className="latest-blog">
+                  {blogs.map((blog) => (
+                    <div className="latest-blog-item" key={blog.id}>
+                      <div className="title">
+                        <Link
+                          to={`/blog/${blog.attributes.Title.replace(/,/g, "")
+                            .replace(/\s+/g, "-")
+                            .toLowerCase()}`}
+                        >
+                          {blog.attributes.Title}
+                        </Link>
+                      </div>
+                      <div className="view">
+                        <span>
+                          <i className="fa fa-eye" aria-hidden="true"></i>
+                        </span>
+                        2034 Views
+                      </div>
+                    </div>
+                  ))}
                 </div>
-              ))}
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
+      )}
+    </>
   );
 };
 export default LatestBlog;

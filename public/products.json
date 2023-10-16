@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 805,
+      "attributes": {
+        "title": "Redgear Cosmo 7,1 Usb Gaming Wired Over Ear Headphones With Mic With Virtual Surround Sound,50Mm Driver, Rgb Leds & Remote Control(Black)",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 2999",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": "https://amazon.in/gp/product/B079S811J3/?tag=thuttu-21&ascsubtag=1291443",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T09:46:08.732Z",
+        "updatedAt": "2023-10-16T09:46:08.732Z",
+        "ProductImgUrl": "uploads/Redgear Cosmo 71 Usb Gaming Wired Over Ear Headphones With Mic With Virtual Surround Sound50Mm Driver Rgb Leds Remote ControlBlack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 804,
       "attributes": {
         "title": "MarQ by Flipkart BBD SPECIAL BLK STM SWIFT 8 L RO Water Purifier MarQ by Flipkart Innopure Storm Swift 8L RO Water Purifier (Black)  (Black)",
@@ -906,7 +924,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 50
+      "total": 51
     }
   }
 }
