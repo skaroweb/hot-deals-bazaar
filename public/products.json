@@ -1,6 +1,78 @@
 {
   "data": [
     {
+      "id": 881,
+      "attributes": {
+        "title": "BUMTUM Dancing Cactus Toy, Wriggle & Singing",
+        "dealPrice": "₹ 398",
+        "originalPrice": "₹ 599",
+        "platform": "Amazon",
+        "discount": "34",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T13:38:06.390Z",
+        "updatedAt": "2023-10-16T13:38:06.390Z",
+        "ProductImgUrl": "uploads/BUMTUM Dancing Cactus Toy Wriggle Singing.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 880,
+      "attributes": {
+        "title": "The Man Company Gentleman’s Signature Trio | Premium Long-Lasting Fragrance | Body Spray For Men | Gift",
+        "dealPrice": "₹ 879",
+        "originalPrice": "₹ 2947",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": "https://amazon.in/dp/B0CFVGM3W6/?tag=thuttu_a-21&ascsubtag=1291547",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T13:38:05.497Z",
+        "updatedAt": "2023-10-16T13:38:05.497Z",
+        "ProductImgUrl": "uploads/The Man Company Gentlemans Signature Trio Premium Long Lasting Fragrance Body Spray For Men Gift.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 879,
+      "attributes": {
+        "title": "DearJoy Baby Head Protector for Safety of Kids 6M to 3 Years- Baby Safety Helmet with Proper Air Ventilation & Corner Guard Protection + Baby Kneepads",
+        "dealPrice": "₹ 414",
+        "originalPrice": "₹ 1500",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T13:37:07.360Z",
+        "updatedAt": "2023-10-16T13:37:07.360Z",
+        "ProductImgUrl": "uploads/DearJoy Baby Head Protector for Safety of Kids 6M to 3 Years Baby Safety Helmet with Proper Air Ventilation Corner Guard Protection Baby Kneepads.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 878,
+      "attributes": {
+        "title": "Amazon Basics Multipurpose Foldable Wood Laptop Table with Mac Holder/Tab Holder | Table Holder Study Table, Breakfast Table, Foldable and Portable/Ergonomic & Rounded Edges/Non-Slip Legs",
+        "dealPrice": "₹ 449",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://www.amazon.in/dp/B09YY5YW1Q?tag=thuttu_a-21&ascsubtag=1291545",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-16T13:37:06.492Z",
+        "updatedAt": "2023-10-16T13:37:06.492Z",
+        "ProductImgUrl": "uploads/Amazon Basics Multipurpose Foldable Wood Laptop Table with Mac HolderTab Holder Table Holder Study Table Breakfast Table Foldable and PortableErgonomic Rounded EdgesNon Slip Legs.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 877,
       "attributes": {
         "title": "Fargo White Women Sling Bag",
@@ -2220,7 +2292,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 123
+      "total": 127
     }
   }
 }

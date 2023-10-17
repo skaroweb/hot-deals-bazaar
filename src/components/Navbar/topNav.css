@@ -56,8 +56,18 @@
 #nav .dropdown > ul li {
   padding: 5px 0px;
 }
+.social-icons {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0px;
+}
 @media (max-width: 768px) {
   #nav .dropdown ul {
     left: -130px;
+  }
+  .topnavres {
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
   }
 }

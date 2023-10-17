@@ -63,7 +63,7 @@ const TopNav = () => {
       <nav id="nav">
         <div className="container">
           <div className="row">
-            <div className="col-xs-12">
+            <div className="col-xs-12 d-flex justify-content-between topnavres">
               <ul className="list-unstyled">
                 <li>
                   <NavLink to="/">
@@ -95,6 +95,53 @@ const TopNav = () => {
                       <NavLink to="/disclaimer">Disclaimer</NavLink>
                     </li>
                   </ul>
+                </li>
+              </ul>
+              <ul className="social-icons">
+                <li>
+                  <a
+                    href="https://www.facebook.com/profile.php?id=61552405893743"
+                    target="_blank"
+                    rel="nofollow noreferrer"
+                  >
+                    <i class="fab fa-facebook"></i>
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://twitter.com/hotdealsbazaar"
+                    target="_blank"
+                    rel="nofollow noreferrer"
+                  >
+                    <i class="fa-brands fa-x-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.youtube.com/@Hotdealsbazaar"
+                    target="_blank"
+                    rel="nofollow noreferrer"
+                  >
+                    <i class="fab fa-youtube"></i>
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://in.pinterest.com/hotdealsbazaar/"
+                    target="_blank"
+                    rel="nofollow noreferrer"
+                  >
+                    <i class="fab fa-pinterest"></i>
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.instagram.com/hotdealsbazaar/"
+                    target="_blank"
+                    rel="nofollow noreferrer"
+                  >
+                    <i class="fab fa-instagram"></i>
+                  </a>
                 </li>
               </ul>
             </div>
