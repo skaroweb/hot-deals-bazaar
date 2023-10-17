@@ -12,6 +12,19 @@ function BlogSinglePost({ setBlogExcept }) {
 
   const { id } = useParams();
 
+  function sanitizeTitleForURL(title) {
+    // Replace any whitespace with a hyphen
+    title = title.replace(/\s+/g, "-");
+
+    // Remove special characters like "&", ":", and any other unwanted characters
+    title = title.replace(/[^a-zA-Z0-9-]/g, "");
+
+    // Convert to lowercase
+    title = title.toLowerCase();
+
+    return title;
+  }
+
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/blogs.json"}`;
 
@@ -23,10 +36,7 @@ function BlogSinglePost({ setBlogExcept }) {
 
         // Find the post with the matching title (assuming the title is unique)
         const matchingPost = blogData.find(
-          (post) =>
-            post.attributes.Title.replace(/,/g, "")
-              .replace(/\s+/g, "-")
-              .toLowerCase() === id
+          (post) => sanitizeTitleForURL(post.attributes.Title) === id
         );
         setPost(matchingPost);
         setBlogExcept(id);

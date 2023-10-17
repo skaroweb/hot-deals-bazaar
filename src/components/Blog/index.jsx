@@ -137,9 +137,7 @@ const BlogList = () => {
                   />
                   <Link
                     className="btn-primary text-center text-uppercase"
-                    to={`/blog/${blog.attributes.Title.replace(/,/g, "")
-                      .replace(/\s+/g, "-")
-                      .toLowerCase()}`}
+                    to={`/blog/${sanitizeTitleForURL(blog.attributes.Title)}`}
                   >
                     read more
                   </Link>
