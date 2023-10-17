@@ -1,6 +1,78 @@
 {
   "data": [
     {
+      "id": 962,
+      "attributes": {
+        "title": "Murphy LED Strip Light Driver (White, 25W, 12V, 2A) Pack of 4",
+        "dealPrice": "₹ 688",
+        "originalPrice": "₹ 2180",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://www.amazon.in/dp/B08C33PMKH?tag=thuttu-21&ascsubtag=1291986",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T10:36:06.555Z",
+        "updatedAt": "2023-10-17T10:36:06.555Z",
+        "ProductImgUrl": "uploads/Murphy LED Strip Light Driver White 25W 12V 2A Pack of 4.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 961,
+      "attributes": {
+        "title": "Pigeon by Stovekraft Aluminium Outer Lid Pressure Cooker Cooker 2,3 and 5 Litre with Flat Tawa and Fry Pan Combo, silver, large, 14465",
+        "dealPrice": "₹ 1999",
+        "originalPrice": "₹ 3745",
+        "platform": "Amazon",
+        "discount": "47",
+        "productLink": "https://www.amazon.in/dp/B08RWC8LFQ?tag=thuttu-21&ascsubtag=1291985",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T10:35:06.947Z",
+        "updatedAt": "2023-10-17T10:35:06.947Z",
+        "ProductImgUrl": "uploads/Pigeon by Stovekraft Aluminium Outer Lid Pressure Cooker Cooker 23 and 5 Litre with Flat Tawa and Fry Pan Combo silver large 14465.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 960,
+      "attributes": {
+        "title": "Go Vegan Premium Healthy Nutmix 1kg, Dried Almonds, Cashewnuts, Cranberries, Green Raisins, Walnut Kernels, Pinapple Coil, Black Raisins, Mix Fruit & More",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 1799",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://amazon.in/dp/B0CKN8HSJF/?tag=thuttu-21&ascsubtag=1291984",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T10:34:07.049Z",
+        "updatedAt": "2023-10-17T10:34:07.049Z",
+        "ProductImgUrl": "uploads/Go Vegan Premium Healthy Nutmix 1kg Dried Almonds Cashewnuts Cranberries Green Raisins Walnut Kernels Pinapple Coil Black Raisins Mix Fruit More.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 959,
+      "attributes": {
+        "title": "Redmi Note 12 5G Frosted Green 6GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+        "dealPrice": "₹ 15499",
+        "originalPrice": "₹ 21999",
+        "platform": "Amazon",
+        "discount": "30",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T10:34:06.230Z",
+        "updatedAt": "2023-10-17T10:34:06.230Z",
+        "ProductImgUrl": "uploads/Redmi Note 12 5G Frosted Green 6GB RAM 128GB ROM 1st Phone with 120Hz Super AMOLED and Snapdragon 4 Gen 1 48MP AI Triple Camera.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 958,
       "attributes": {
         "title": "Honeywell Trueno U100 Wireless Duo Bluetooth V5.0 Speaker 5Wx2, 12Hrs Playtime per Speaker, Advanced 52mm Drivers, IPX4, TWS Feature, Premium Stereo Sound, Multi Compatibility Mode",
@@ -3678,7 +3750,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 204
+      "total": 208
     }
   }
 }
