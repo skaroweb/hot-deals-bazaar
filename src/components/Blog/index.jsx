@@ -57,6 +57,19 @@ const BlogList = () => {
     return tempDiv.innerHTML;
   };
 
+  function sanitizeTitleForURL(title) {
+    // Replace any whitespace with a hyphen
+    title = title.replace(/\s+/g, "-");
+
+    // Remove special characters like "&", ":", and any other unwanted characters
+    title = title.replace(/[^a-zA-Z0-9-]/g, "");
+
+    // Convert to lowercase
+    title = title.toLowerCase();
+
+    return title;
+  }
+
   return (
     <HelmetProvider>
       <div>
@@ -77,9 +90,9 @@ const BlogList = () => {
                   <div className="img-holder">
                     {blog.attributes.Featured_image_url ? (
                       <Link
-                        to={`/blog/${blog.attributes.Title.replace(/,/g, "")
-                          .replace(/\s+/g, "-")
-                          .toLowerCase()}`}
+                        to={`/blog/${sanitizeTitleForURL(
+                          blog.attributes.Title
+                        )}`}
                       >
                         <img
                           src={
@@ -111,9 +124,7 @@ const BlogList = () => {
                   </div>
                   <h4 className="heading3">
                     <Link
-                      to={`/blog/${blog.attributes.Title.replace(/,/g, "")
-                        .replace(/\s+/g, "-")
-                        .toLowerCase()}`}
+                      to={`/blog/${sanitizeTitleForURL(blog.attributes.Title)}`}
                     >
                       {blog.attributes.Title}
                     </Link>
