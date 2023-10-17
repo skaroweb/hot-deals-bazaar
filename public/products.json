@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id": 965,
+      "attributes": {
+        "title": "ZEBSTER Z -CC20 USB to Type C Cable,2A 20cm cable Strong & Long lasting (Black)",
+        "dealPrice": "₹ 46",
+        "originalPrice": "₹ 149",
+        "platform": "Amazon",
+        "discount": "69",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T10:52:06.531Z",
+        "updatedAt": "2023-10-17T10:52:06.531Z",
+        "ProductImgUrl": "uploads/ZEBSTER Z CC20 USB to Type C Cable2A 20cm cable Strong Long lasting Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 964,
+      "attributes": {
+        "title": "Pikkme Back Cover",
+        "dealPrice": "₹ 37",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T10:52:05.767Z",
+        "updatedAt": "2023-10-17T10:52:05.767Z",
+        "ProductImgUrl": "uploads/Pikkme Back Cover.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 963,
       "attributes": {
         "title": "amazon basics True Wireless in-Ear Earbuds with Mic, Low-Latency Gaming Mode, Touch Control, IPX5 Water-Resistance, Bluetooth 5.3, Up to 60 Hours Play Time, Voice Assistance and Fast Charging (White)",
@@ -3768,7 +3804,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 209
+      "total": 211
     }
   }
 }
