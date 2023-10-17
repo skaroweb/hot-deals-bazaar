@@ -10,9 +10,8 @@ header#header {
 }
 .logo {
   float: left;
-  margin: 0 10px 0 0;
-  width: 265px;
-  margin-top: -10px;
+  margin: -10px 10px 0 0;
+  width: 150px;
 }
 .search-form input.form-control {
   width: 84%;

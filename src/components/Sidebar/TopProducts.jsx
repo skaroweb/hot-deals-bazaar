@@ -15,7 +15,12 @@ const TopProducts = () => {
       .get(apiUrl)
       .then((response) => {
         // Access the "data" array from the response
-        const productsData = response.data.data;
+        const filteredProducts = response.data.data;
+
+        // // Filter products that have the affiliate_product_link
+        const productsData = filteredProducts.filter((product) => {
+          return product.attributes.affiliate_product_link !== null;
+        });
         // Get only the first three items
         const topThreeProducts = productsData.slice(0, 3);
         setTopProducts(topThreeProducts);
