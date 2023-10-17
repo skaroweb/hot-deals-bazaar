@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 963,
+      "attributes": {
+        "title": "amazon basics True Wireless in-Ear Earbuds with Mic, Low-Latency Gaming Mode, Touch Control, IPX5 Water-Resistance, Bluetooth 5.3, Up to 60 Hours Play Time, Voice Assistance and Fast Charging (White)",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 2499",
+        "platform": "Amazon",
+        "discount": "64",
+        "productLink": "https://amazon.in/dp/B0CD1R3HVN/?tag=thuttu-21&ascsubtag=1291989",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T10:41:06.722Z",
+        "updatedAt": "2023-10-17T10:41:06.722Z",
+        "ProductImgUrl": "uploads/amazon basics True Wireless in Ear Earbuds with Mic Low Latency Gaming Mode Touch Control IPX5 Water Resistance Bluetooth 53 Up to 60 Hours Play Time Voice Assistance and Fast Charging White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 962,
       "attributes": {
         "title": "Murphy LED Strip Light Driver (White, 25W, 12V, 2A) Pack of 4",
@@ -3750,7 +3768,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 208
+      "total": 209
     }
   }
 }
