@@ -9,6 +9,22 @@ const LatestBlog = ({ blogExcept }) => {
   const url = useParams();
   const StrapiCMSURL = "https://hotdealsbazaar.com";
 
+  function sanitizeTitleForURL(title) {
+    // Replace any whitespace with a hyphen
+    title = title.replace(/\s+/g, "-");
+
+    // Remove special characters like "&", ":", and any other unwanted characters
+    title = title.replace(/[^a-zA-Z0-9-]/g, "");
+
+    // Replace consecutive hyphens with a single hyphen
+    title = title.replace(/-+/g, "-");
+
+    // Convert to lowercase
+    title = title.toLowerCase();
+
+    return title;
+  }
+
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/blogs.json"}`;
     axios
@@ -19,10 +35,7 @@ const LatestBlog = ({ blogExcept }) => {
         const fetchedBlogs = topFourblogs.slice(0, 4);
 
         const matchingPost = fetchedBlogs.find(
-          (post) =>
-            post.attributes.Title.replace(/,/g, "")
-              .replace(/\s+/g, "-")
-              .toLowerCase() === url.id
+          (post) => sanitizeTitleForURL(post.attributes.Title) === url.id
         );
 
         // Filter out the matchingPost from the fetchedBlogs array

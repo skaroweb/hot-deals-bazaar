@@ -64,6 +64,9 @@ const BlogList = () => {
     // Remove special characters like "&", ":", and any other unwanted characters
     title = title.replace(/[^a-zA-Z0-9-]/g, "");
 
+    // Replace consecutive hyphens with a single hyphen
+    title = title.replace(/-+/g, "-");
+
     // Convert to lowercase
     title = title.toLowerCase();
 
