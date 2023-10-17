@@ -91,7 +91,7 @@ const TopProducts = () => {
                     <div className="img">
                       {product.attributes.ProductImgUrl ? (
                         <a
-                          href={product.attributes.productLink}
+                          href={product.attributes.affiliate_product_link}
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -117,7 +117,7 @@ const TopProducts = () => {
                     </div>
                     <div className="content">
                       <div className="title">
-                        <a href={product.attributes.productLink}>
+                        <a href={product.attributes.affiliate_product_link}>
                           {product.attributes.title}
                         </a>
                       </div>
@@ -142,7 +142,7 @@ const TopProducts = () => {
                       </div>
                       <div className="shop_btn">
                         <a
-                          href={product.attributes.productLink}
+                          href={product.attributes.affiliate_product_link}
                           target="_blank"
                           rel="noreferrer"
                         >
