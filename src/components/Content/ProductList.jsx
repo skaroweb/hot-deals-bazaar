@@ -164,7 +164,7 @@ function ProductList({ platform }) {
                   <div className={styles.products_img}>
                     {product.attributes.ProductImgUrl ? (
                       <a
-                        href={product.attributes.productLink}
+                        href={product.attributes.affiliate_product_link}
                         target="_blank"
                         rel="noreferrer"
                       >
@@ -186,7 +186,7 @@ function ProductList({ platform }) {
                   </div>
                   <div className={styles.products_heading}>
                     <a
-                      href={product.attributes.productLink}
+                      href={product.attributes.affiliate_product_link}
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -213,7 +213,7 @@ function ProductList({ platform }) {
                     </div>
                     <div className={styles.shop_btn}>
                       <a
-                        href={product.attributes.productLink}
+                        href={product.attributes.affiliate_product_link}
                         target="_blank"
                         rel="noreferrer"
                       >
