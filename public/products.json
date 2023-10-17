@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": 968,
+      "attributes": {
+        "title": "Here&Now Women Yellow Printed Flared Sleeves Kurta",
+        "dealPrice": "₹ 272",
+        "originalPrice": "₹ 2099",
+        "platform": "Myntra",
+        "discount": "87",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T11:00:07.627Z",
+        "updatedAt": "2023-10-17T11:00:07.627Z",
+        "ProductImgUrl": "uploads/HereNow Women Yellow Printed Flared Sleeves Kurta.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 967,
+      "attributes": {
+        "title": "Beco Top Load Laundry Liquid Detergent 2000 ml, Refill Pack, Coconut based Surfactants with Lavender and Vanilla Extracts, 100% Natural & Eco-Friendly",
+        "dealPrice": "₹ 250",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "37",
+        "productLink": "https://amazon.in/dp/B0CH9SJVBP/?tag=thuttu-21&ascsubtag=1291997",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T11:00:06.855Z",
+        "updatedAt": "2023-10-17T11:00:06.855Z",
+        "ProductImgUrl": "uploads/Beco Top Load Laundry Liquid Detergent 2000 ml Refill Pack Coconut based Surfactants with Lavender and Vanilla Extracts 100 Natural Eco Friendly.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 966,
+      "attributes": {
+        "title": "Quantum 4 Port USB C hub (Type C to 4 USB-A Ports), 1 Port 3.0 & 3 Port 2.0 High Speed Data Transfer, Plug Play Usage, Compatible with Laptop, MacBook, PC and Other Type-C Devices, QHM7532 (Black)",
+        "dealPrice": "₹ 189",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://amazon.in/dp/B0BS14WM4X/?tag=thuttu-21&ascsubtag=1291996",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-17T11:00:06.079Z",
+        "updatedAt": "2023-10-17T11:00:06.079Z",
+        "ProductImgUrl": "uploads/Quantum 4 Port USB C hub Type C to 4 USB A Ports 1 Port 30 3 Port 20 High Speed Data Transfer Plug Play Usage Compatible with Laptop MacBook PC and Other Type C Devices QHM7532 Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 965,
       "attributes": {
         "title": "ZEBSTER Z -CC20 USB to Type C Cable,2A 20cm cable Strong & Long lasting (Black)",
@@ -3804,7 +3858,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 211
+      "total": 214
     }
   }
 }
