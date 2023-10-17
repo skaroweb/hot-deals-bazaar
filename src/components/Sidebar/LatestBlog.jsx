@@ -74,9 +74,9 @@ const LatestBlog = ({ blogExcept }) => {
                     <div className="latest-blog-item" key={blog.id}>
                       <div className="title">
                         <Link
-                          to={`/blog/${blog.attributes.Title.replace(/,/g, "")
-                            .replace(/\s+/g, "-")
-                            .toLowerCase()}`}
+                          to={`/blog/${sanitizeTitleForURL(
+                            blog.attributes.Title
+                          )}`}
                         >
                           {blog.attributes.Title}
                         </Link>
