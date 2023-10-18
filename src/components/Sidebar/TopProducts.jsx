@@ -6,7 +6,7 @@ import ProductListImg from "../Content/ProductListImg";
 const TopProducts = () => {
   const [topProducts, setTopProducts] = useState([]);
 
-  const StrapiCMSURL = "https://hotdealsbazaar.com";
+  const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/products.json"}`;

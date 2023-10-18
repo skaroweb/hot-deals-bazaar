@@ -154,7 +154,7 @@ const TopNav = () => {
           "@context": "http://schema.org",
           "@type": "WebSite",
           name: "Hot Deals bazaar",
-          url: "https://hotdealsbazaar.com", // Replace with your website URL
+          url: process.env.REACT_APP_SERVER_URL, // Replace with your website URL
           potentialAction: {
             "@type": "SearchAction",
             target: "https://hotdealsbazaar.com/search?q={search_term_string}", // Replace with your site's search URL

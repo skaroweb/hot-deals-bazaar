@@ -5,7 +5,7 @@ import "./index.css";
 import Breadcrumb from "../Util/Breadcrumb";
 
 function Innerpage({ page }) {
-  const StrapiCMSURL = "https://hotdealsbazaar.com";
+  const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
   const location = useLocation();
 
   if (!page) {

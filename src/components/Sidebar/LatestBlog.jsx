@@ -7,7 +7,7 @@ const LatestBlog = ({ blogExcept }) => {
   const [blogs, setBlogs] = useState([]);
   const location = useLocation();
   const url = useParams();
-  const StrapiCMSURL = "https://hotdealsbazaar.com";
+  const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
 
   function sanitizeTitleForURL(title) {
     // Replace any whitespace with a hyphen

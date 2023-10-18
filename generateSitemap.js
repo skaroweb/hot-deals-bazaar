@@ -1,5 +1,14 @@
 const fs = require("fs");
-const sharedState = require("./src/sharedState"); // Import the shared state
+
+// Simulated blog post URLs, replace this with your actual data retrieval logic
+function getBlogPostURLs() {
+  // Fetch and return a list of blog post URLs
+  return [
+    "/blog/flipkart-great-indian-festival-2023-shop-the-best-deals-offers",
+    "/blog/the-top-10-compact-phones-redefining-portability-in-2023",
+    // Add more blog post URLs as needed
+  ];
+}
 
 // Create a sitemap XML string
 const routes = [
@@ -10,10 +19,7 @@ const routes = [
   "/disclaimer",
   // Add your application's routes here
 ];
-
-const blogPostURLs = sharedState.bloglist.map(
-  (post) => `/blog/${post.attributes.Title}`
-); // Get dynamically generated blog post URLs
+const blogPostURLs = getBlogPostURLs();
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

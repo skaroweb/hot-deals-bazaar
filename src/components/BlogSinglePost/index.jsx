@@ -8,7 +8,7 @@ import Breadcrumb from "../Util/Breadcrumb";
 
 function BlogSinglePost({ setBlogExcept }) {
   const [post, setPost] = useState(null);
-  const StrapiCMSURL = "https://hotdealsbazaar.com";
+  const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
 
   const { id } = useParams();
 

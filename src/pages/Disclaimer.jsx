@@ -5,7 +5,7 @@ import axios from "axios";
 const Disclaimer = () => {
   const [page, setPage] = useState([]);
 
-  const StrapiCMSURL = "https://hotdealsbazaar.com";
+  const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
 
   useEffect(() => {
     const apiUrl = `${StrapiCMSURL + "/disclaimer.json"}`;

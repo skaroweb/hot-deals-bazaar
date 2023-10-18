@@ -1,5 +1,5 @@
 const ProductListImg = ({ platform }) => {
-  const StrapiCMSURL = "https://hotdealsbazaar.com";
+  const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
   return (
     <div>
       {platform === "Amazon" ? (
