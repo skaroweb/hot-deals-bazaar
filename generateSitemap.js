@@ -4,7 +4,7 @@ const { SitemapStream } = require("sitemap");
 
 const routes = [
   "/",
-  "/about",
+  "/blog",
   // Add other routes for your project's pages
 ];
 
