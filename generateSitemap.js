@@ -45,10 +45,10 @@ const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
 // Create a sitemap XML string
 const routes = [
   "/",
-  "/blog",
   "/privacy-policy",
   "/terms-and-conditions",
   "/disclaimer",
+  "/blog",
   // Add your application's routes here
 ];
 
