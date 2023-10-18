@@ -14,7 +14,7 @@ const sitemap = `
       .map(
         (route) => `
       <url>
-        <loc>https://yourwebsite.com${route}</loc>
+        <loc>https://hotdealsbazaar.com${route}</loc>
       </url>
     `
       )
