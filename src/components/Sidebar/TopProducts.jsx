@@ -30,47 +30,41 @@ const TopProducts = () => {
       });
   }, []);
 
-  // Generate schema.org/Product structured data
-  const productSchema = topProducts.map((product, index) => {
-    const imageSchema = {
-      "@context": "http://schema.org",
-      "@type": "ImageObject",
-      url: "", // Set this to the URL of the product image
-      width: "300", // Width of the image in pixels (adjust as needed)
-      height: "200", // Height of the image in pixels (adjust as needed)
-    };
+  // // Generate schema.org/Product structured data
+  // const productSchema = topProducts.map((product, index) => {
+  //   const imageSchema = {
+  //     "@context": "http://schema.org",
+  //     "@type": "ImageObject",
+  //     url: "", // Set this to the URL of the product image
+  //     width: "300", // Width of the image in pixels (adjust as needed)
+  //     height: "200", // Height of the image in pixels (adjust as needed)
+  //   };
 
-    const schema = {
-      "@context": "http://schema.org",
-      "@type": "Product",
-      name: product.attributes.title || "", // Provide a default value (empty string) if title is null
-      description: product.attributes.description || "", // Provide a default value if description is null
-      image: imageSchema, // Include the ImageObject
-      brand: {
-        "@type": "Brand",
-        name: product.attributes.platform || "", // Provide a default value if brand is null
-      },
-      offers: {
-        "@type": "Offer",
-        priceCurrency: "INR", // Use "INR" for Indian Rupees
-        price: product.attributes.dealPrice || "", // Provide a default value if dealPrice is null
-        availability: "http://schema.org/InStock",
-      },
-    };
+  //   const schema = {
+  //     "@context": "http://schema.org",
+  //     "@type": "Product",
+  //     name: product.attributes.title || "", // Provide a default value (empty string) if title is null
+  //     description: product.attributes.description || "", // Provide a default value if description is null
+  //     image: imageSchema, // Include the ImageObject
+  //     brand: {
+  //       "@type": "Brand",
+  //       name: product.attributes.platform || "", // Provide a default value if brand is null
+  //     },
+  //     offers: {
+  //       "@type": "Offer",
+  //       priceCurrency: "INR", // Use "INR" for Indian Rupees
+  //       price: product.attributes.dealPrice || "", // Provide a default value if dealPrice is null
+  //       availability: "http://schema.org/InStock",
+  //     },
+  //   };
 
-    // Add image if it exists
-    if (
-      product.attributes &&
-      product.attributes.productimage &&
-      product.attributes.productimage.data &&
-      product.attributes.productimage.data.attributes
-    ) {
-      imageSchema.url =
-        StrapiCMSURL + product.attributes.productimage.data.attributes.url;
-    }
+  //   // Add image if it exists
+  //   if (product.attributes.ProductImgUrl) {
+  //     imageSchema.url = StrapiCMSURL + product.attributes.ProductImgUrl;
+  //   }
 
-    return schema;
-  });
+  //   return schema;
+  // });
 
   return (
     <>
@@ -117,7 +111,11 @@ const TopProducts = () => {
                     </div>
                     <div className="content">
                       <div className="title">
-                        <a href={product.attributes.affiliate_product_link}>
+                        <a
+                          href={product.attributes.affiliate_product_link}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
                           {product.attributes.title}
                         </a>
                       </div>
@@ -158,11 +156,11 @@ const TopProducts = () => {
         </div>
       </div>
       {/* Embed schema.org/Product structured data */}
-      {productSchema.map((schema, index) => (
+      {/* {productSchema.map((schema, index) => (
         <script key={index} type="application/ld+json">
           {JSON.stringify(schema)}
         </script>
-      ))}
+      ))} */}
     </>
   );
 };

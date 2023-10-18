@@ -1,6 +1,294 @@
 {
   "data": [
     {
+      "id": 984,
+      "attributes": {
+        "title": "Infinix X3 Slim Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) XL422 Thin and Light Laptop  (14 Inch, Blue, 1.24 Kg)",
+        "dealPrice": "₹ 43990",
+        "originalPrice": "₹ 69990",
+        "platform": "Flipkart",
+        "discount": "37",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:45.111Z",
+        "updatedAt": "2023-10-18T06:02:45.111Z",
+        "ProductImgUrl": "uploads/Infinix X3 Slim Intel Core i7 12th Gen 1255U 16 GB512 GB SSDWindows 11 Home XL422 Thin and Light Laptop 14 Inch Blue 124 Kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 983,
+      "attributes": {
+        "title": "UNIBIC Foods Cookies-Choco Nut Cookies 500g",
+        "dealPrice": "₹ 85",
+        "originalPrice": "₹ 200",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://www.amazon.in/dp/B08PH43XBD?tag=thuttu-21&ascsubtag=1292377",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:41.984Z",
+        "updatedAt": "2023-10-18T06:02:41.984Z",
+        "ProductImgUrl": "uploads/UNIBIC Foods Cookies Choco Nut Cookies 500g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 982,
+      "attributes": {
+        "title": "Ole Baby Bedding Set with Mosquito Net & Bed Canopy with Pillow",
+        "dealPrice": "₹ 231",
+        "originalPrice": "₹ 1599",
+        "platform": "Amazon",
+        "discount": "86",
+        "productLink": "https://www.amazon.in/dp/B01DHLBGDI?tag=thuttu-21&ascsubtag=1292376",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:39.511Z",
+        "updatedAt": "2023-10-18T06:02:39.511Z",
+        "ProductImgUrl": "uploads/Ole Baby Bedding Set with Mosquito Net Bed Canopy with Pillow.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 981,
+      "attributes": {
+        "title": "Ambrane Dots Asta True Wireless Earbuds with 36 Hours Playtime, 8 Hours Playtime on single charge,Made in India, Instant pairing with Bluetooth V5.1, Voice Assistance, Easy Touch Controls, IPX4(White)",
+        "dealPrice": "₹ 699",
+        "originalPrice": "₹ 2499",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://www.amazon.in/dp/B09F3DH3DZ?tag=thuttu-21&ascsubtag=1292375",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:37.353Z",
+        "updatedAt": "2023-10-18T06:02:37.353Z",
+        "ProductImgUrl": "uploads/Ambrane Dots Asta True Wireless Earbuds with 36 Hours Playtime 8 Hours Playtime on single chargeMade in India Instant pairing with Bluetooth V51 Voice Assistance Easy Touch Controls IPX4White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 980,
+      "attributes": {
+        "title": "[Size L] Reebok Men Track Pants",
+        "dealPrice": "₹ 563",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:33.830Z",
+        "updatedAt": "2023-10-18T06:02:33.830Z",
+        "ProductImgUrl": "uploads/Size L Reebok Men Track Pants.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 979,
+      "attributes": {
+        "title": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel, Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2, Heart Rate Monitoring (Dark Grey)",
+        "dealPrice": "₹ 1399",
+        "originalPrice": "₹ 2499",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": "https://amazon.in/dp/B0BY2NN719/?tag=thuttu-21&ascsubtag=1292373",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:30.745Z",
+        "updatedAt": "2023-10-18T06:02:30.745Z",
+        "ProductImgUrl": "uploads/Fire Boltt Phoenix Ultra Luxury Stainless Steel Bluetooth Calling Smartwatch AI Voice Assistant Metal Body with 120 Sports Modes SpO2 Heart Rate Monitoring Dark Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 978,
+      "attributes": {
+        "title": "The Man Company Privilege Deodorants",
+        "dealPrice": "₹ 296",
+        "originalPrice": "₹ 897",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://www.amazon.in/dp/B09RV3HZSZ?tag=thuttu-21&ascsubtag=1292370",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:26.523Z",
+        "updatedAt": "2023-10-18T06:02:26.523Z",
+        "ProductImgUrl": "uploads/The Man Company Privilege Deodorants.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 977,
+      "attributes": {
+        "title": "Fire-Boltt Dazzle 1.83\" Smartwatch Full Touch Largest Borderless Display & 60 Sports Modes (Swimming) with IP68 Rating, Sp02 Tracking, Over 100 Cloud Based Watch Faces (Black)",
+        "dealPrice": "₹ 999",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0BF4WVPFD/?tag=thuttu-21&ascsubtag=1292369",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:25.577Z",
+        "updatedAt": "2023-10-18T06:02:25.577Z",
+        "ProductImgUrl": "uploads/Fire Boltt Dazzle 183 Smartwatch Full Touch Largest Borderless Display 60 Sports Modes Swimming with IP68 Rating Sp02 Tracking Over 100 Cloud Based Watch Faces Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 976,
+      "attributes": {
+        "title": "[For SBI Credit Card Emi] Acer Aspire 3 Thin and Light Laptop Intel Core i5 12th Generation (8GB/512 GB SSD/Windows 11 Home/MS Office/1.7 Kg/Silver) A315-59 with 15.6-inch (39.6 cms) Full HD Display",
+        "dealPrice": "₹ 36490",
+        "originalPrice": "₹ 63999",
+        "platform": "Amazon",
+        "discount": "43",
+        "productLink": "https://amazon.in/dp/B0B42RSQWR/?tag=thuttu-21&ascsubtag=1292368",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:24.714Z",
+        "updatedAt": "2023-10-18T06:02:24.714Z",
+        "ProductImgUrl": "uploads/For SBI Credit Card Emi Acer Aspire 3 Thin and Light Laptop Intel Core i5 12th Generation 8GB512 GB SSDWindows 11 HomeMS Office17 KgSilver A315 59 with 156 inch 396 cms Full HD Display.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 975,
+      "attributes": {
+        "title": "Fastrack Analog Unisex-Adult Watch",
+        "dealPrice": "₹ 665",
+        "originalPrice": "₹ 3845",
+        "platform": "Amazon",
+        "discount": "83",
+        "productLink": "https://www.amazon.in/dp/B099WT4S6M?tag=thuttu-21&ascsubtag=1292367",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:23.763Z",
+        "updatedAt": "2023-10-18T06:02:23.763Z",
+        "ProductImgUrl": "uploads/Fastrack Analog Unisex Adult Watch.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 974,
+      "attributes": {
+        "title": "Aristo Lock & Fresh 1030 Plastic Storage Container - 5000 ML, Transparent Clear, large (LOCK&FRESH1030)",
+        "dealPrice": "₹ 134",
+        "originalPrice": "₹ 277",
+        "platform": "Amazon",
+        "discount": "52",
+        "productLink": "https://amazon.in/gp/product/B0972WMSVW/?tag=thuttu-21&ascsubtag=1292366",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:19.812Z",
+        "updatedAt": "2023-10-18T06:02:19.812Z",
+        "ProductImgUrl": "uploads/Aristo Lock Fresh 1030 Plastic Storage Container 5000 ML Transparent Clear large LOCKFRESH1030.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 973,
+      "attributes": {
+        "title": "[Sizes 6 UK, 7 UK] Sparx mens Sd9039g Sneakers",
+        "dealPrice": "₹ 349",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:17.015Z",
+        "updatedAt": "2023-10-18T06:02:17.015Z",
+        "ProductImgUrl": "uploads/Sizes 6 UK 7 UK Sparx mens Sd9039g Sneakers.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 972,
+      "attributes": {
+        "title": "Dyazo 13.3 Inch Laptop Sleeve/Cover with Handle & Accessories Pocket Compatible",
+        "dealPrice": "₹ 237",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://amazon.in/dp/B0BRJ7N7GZ/?tag=thuttu_a-21&ascsubtag=1292364",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:14.082Z",
+        "updatedAt": "2023-10-18T06:02:14.082Z",
+        "ProductImgUrl": "uploads/Dyazo 133 Inch Laptop SleeveCover with Handle Accessories Pocket Compatible.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 971,
+      "attributes": {
+        "title": "Chandrika Ayurvedic Handmade soap for Clear and glowing skin 125g (Pack of 6)",
+        "dealPrice": "₹ 193",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:10.676Z",
+        "updatedAt": "2023-10-18T06:02:10.676Z",
+        "ProductImgUrl": "uploads/Chandrika Ayurvedic Handmade soap for Clear and glowing skin 125g Pack of 6.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 970,
+      "attributes": {
+        "title": "DABUR Vatika Enriched Coconut Hair Oil-600Ml (300Mlx2)|For Strong&Shiny Hair|Clinically Tested To Reduce 50% Hairfall In 4 Weeks|Controls Dandruff|Prevents Dull&Damaged Hair|Enriched With 10 Herbs",
+        "dealPrice": "₹ 178",
+        "originalPrice": "₹ 360",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": "https://amazon.in/dp/B0B299J14J/?tag=thuttu-21&ascsubtag=1292362",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:07.394Z",
+        "updatedAt": "2023-10-18T06:02:07.394Z",
+        "ProductImgUrl": "uploads/DABUR Vatika Enriched Coconut Hair Oil 600Ml 300Mlx2For StrongShiny HairClinically Tested To Reduce 50 Hairfall In 4 WeeksControls DandruffPrevents DullDamaged HairEnriched With 10 Herbs.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 969,
+      "attributes": {
+        "title": "Dabur Amla Hair Oil - 550 ml | For Strong, Long and Thick hair | Nourishes Scalp | Controls Hair Fall, Strengthens Hair & Promotes Hair Growth",
+        "dealPrice": "₹ 178",
+        "originalPrice": "₹ 299",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://www.amazon.in/dp/B0832ZWDHR?tag=thuttu-21&ascsubtag=1292361",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-18T06:02:04.116Z",
+        "updatedAt": "2023-10-18T06:02:04.116Z",
+        "ProductImgUrl": "uploads/Dabur Amla Hair Oil 550 ml For Strong Long and Thick hair Nourishes Scalp Controls Hair Fall Strengthens Hair Promotes Hair Growth.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 968,
       "attributes": {
         "title": "Here&Now Women Yellow Printed Flared Sleeves Kurta",
@@ -1053,9 +1341,9 @@
         "platform": "Amazon",
         "discount": "53",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07XTV73V2?ascsubtag=1284435&linkCode=ll1&tag=hotdealsbazaar-21&linkId=197b8a895b3007082c5920dac4a75a89&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-17T08:23:06.253Z",
-        "updatedAt": "2023-10-17T08:23:06.253Z",
+        "updatedAt": "2023-10-17T12:52:37.399Z",
         "ProductImgUrl": "uploads/UNIBIC Fruit Nut Cookies 500 g.jpg",
         "productimage": {
           "data": null
@@ -1071,9 +1359,9 @@
         "platform": "Amazon",
         "discount": "56",
         "productLink": "https://amazon.in/dp/B0B5R9TCZ1/?tag=thuttu-21&ascsubtag=1291925",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B5R9TCZ1?ascsubtag=1291925&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2494358d06dff3f1fd6ef5a7cd7fe603&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-17T08:23:05.419Z",
-        "updatedAt": "2023-10-17T08:23:05.419Z",
+        "updatedAt": "2023-10-17T12:52:05.273Z",
         "ProductImgUrl": "uploads/PHILIPS Essential SmartBright 6 watt900lm All in one Solar Flood Light BVC080 LED9765 Solar Flood Light with Infra Red Remote.jpg",
         "productimage": {
           "data": null
@@ -3858,7 +4146,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 214
+      "total": 230
     }
   }
 }
