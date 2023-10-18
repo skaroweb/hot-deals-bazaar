@@ -6,6 +6,7 @@ import "./Blog.css";
 import { HelmetProvider } from "react-helmet-async";
 import Breadcrumb from "../Util/Breadcrumb";
 import SEO from "../Util/Helmet";
+const sharedState = require("../../sharedState.js");
 
 const BlogList = () => {
   const [bloglist, setBloglist] = useState([]);
@@ -34,6 +35,7 @@ const BlogList = () => {
       .then((response) => {
         // Access the "data" array from the response
         const blogData = response.data.data;
+        sharedState.bloglist = blogData; // Update the shared state
         setBloglist(blogData);
       })
       .catch((error) => {
