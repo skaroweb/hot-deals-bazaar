@@ -1,30 +1,26 @@
 const fs = require("fs");
-const path = require("path");
-const { SitemapStream } = require("sitemap");
-
 const routes = [
   "/",
   "/blog",
-  // Add other routes for your project's pages
+
+  // Add your application's routes here
 ];
 
-const generateSitemap = async () => {
-  const sitemap = new SitemapStream({ hostname: "https://hotdealsbazaar.com" }); // Replace with your domain
+// Create a sitemap XML string
+const sitemap = `
+  <?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    ${routes
+      .map(
+        (route) => `
+      <url>
+        <loc>https://yourwebsite.com${route}</loc>
+      </url>
+    `
+      )
+      .join("")}
+  </urlset>
+`;
 
-  for (const route of routes) {
-    sitemap.write({ url: route });
-  }
-
-  sitemap.end();
-  const sitemapXML = sitemap.toString();
-
-  // Specify the path to the public folder
-  const publicFolderPath = path.join(__dirname, "public");
-  const sitemapPath = path.join(publicFolderPath, "sitemap.xml");
-
-  // Save the sitemap to the public folder
-  fs.writeFileSync(sitemapPath, sitemapXML);
-  console.log("Sitemap generated and saved to public/sitemap.xml");
-};
-
-generateSitemap();
+// Write the sitemap to a file
+fs.writeFileSync("public/sitemap.xml", sitemap);
