@@ -104,7 +104,7 @@ const TopNav = () => {
                     target="_blank"
                     rel="nofollow noreferrer"
                   >
-                    <i class="fab fa-facebook"></i>
+                    <i className="fab fa-facebook"></i>
                   </a>
                 </li>
                 <li>
@@ -113,7 +113,7 @@ const TopNav = () => {
                     target="_blank"
                     rel="nofollow noreferrer"
                   >
-                    <i class="fa-brands fa-x-twitter"></i>
+                    <i className="fa-brands fa-x-twitter"></i>
                   </a>
                 </li>
                 <li>
@@ -122,7 +122,7 @@ const TopNav = () => {
                     target="_blank"
                     rel="nofollow noreferrer"
                   >
-                    <i class="fab fa-youtube"></i>
+                    <i className="fab fa-youtube"></i>
                   </a>
                 </li>
                 <li>
@@ -131,7 +131,7 @@ const TopNav = () => {
                     target="_blank"
                     rel="nofollow noreferrer"
                   >
-                    <i class="fab fa-pinterest"></i>
+                    <i className="fab fa-pinterest"></i>
                   </a>
                 </li>
                 <li>
@@ -140,7 +140,7 @@ const TopNav = () => {
                     target="_blank"
                     rel="nofollow noreferrer"
                   >
-                    <i class="fab fa-instagram"></i>
+                    <i className="fab fa-instagram"></i>
                   </a>
                 </li>
               </ul>
