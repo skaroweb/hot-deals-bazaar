@@ -1,6 +1,384 @@
 {
   "data": [
     {
+      "id": 1055,
+      "attributes": {
+        "title": "Haldiram's Dry Agra Petha, 350g/400g (Weight May Vary), Indian Sweets Diwali Gift Pack",
+        "dealPrice": "₹ 156",
+        "originalPrice": "₹ 260",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://www.amazon.in/dp/B07XS18J5N?tag=thuttu-21&ascsubtag=1293098",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T11:39:08.896Z",
+        "updatedAt": "2023-10-19T11:39:08.896Z",
+        "ProductImgUrl": "uploads/Haldirams Dry Agra Petha 350g400g Weight May Vary Indian Sweets Diwali Gift Pack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1054,
+      "attributes": {
+        "title": "Ferrero Rocher Premium Chocolates 24 Pieces, 300 g",
+        "dealPrice": "₹ 712",
+        "originalPrice": "₹ 929",
+        "platform": "Amazon",
+        "discount": "23",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07G9GDQJD?ascsubtag=1293097&linkCode=ll1&tag=hotdealsbazaar-21&linkId=32ddf1efeebda55fd84958faaf99672a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:39:07.961Z",
+        "updatedAt": "2023-10-19T11:52:51.040Z",
+        "ProductImgUrl": "uploads/Ferrero Rocher Premium Chocolates 24 Pieces 300 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1053,
+      "attributes": {
+        "title": "Ant Value KK1002 Wired Gaming Keyboard & Mouse Combo, 104 Silent keys, Backlit Rainbow LED Keyboard & 3200 DPI RGB Gaming Mouse",
+        "dealPrice": "₹ 704",
+        "originalPrice": "₹ 2999",
+        "platform": "Amazon",
+        "discount": "77",
+        "productLink": "https://amazon.in/dp/B0C593RTWH/?tag=thuttu-21&ascsubtag=1293096",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C593RTWH?ascsubtag=1293096&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b776a11df25003a15ad60f5c1f4ffc53&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:38:09.448Z",
+        "updatedAt": "2023-10-19T11:52:24.094Z",
+        "ProductImgUrl": "uploads/Ant Value KK1002 Wired Gaming Keyboard Mouse Combo 104 Silent keys Backlit Rainbow LED Keyboard 3200 DPI RGB Gaming Mouse.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1052,
+      "attributes": {
+        "title": "Xiaomi Sonic Charge Type C 100 Cm Cable|Usb To Type C|Supports All Chargers Upto 33W|Compatible For Smartphone,Tablet, Accessories|Supports All Fast Charging Devices|Sturdy, White",
+        "dealPrice": "₹ 219",
+        "originalPrice": "₹ 699",
+        "platform": "Amazon",
+        "discount": "69",
+        "productLink": "https://amazon.in/dp/B0C4PVS224/?tag=thuttu-21&ascsubtag=1293095",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C4PVS224?ascsubtag=1293095&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ae3968e2aeda0bf5244deef9f63aa4a8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:38:07.700Z",
+        "updatedAt": "2023-10-19T11:52:03.696Z",
+        "ProductImgUrl": "uploads/Xiaomi Sonic Charge Type C 100 Cm CableUsb To Type CSupports All Chargers Upto 33WCompatible For SmartphoneTablet AccessoriesSupports All Fast Charging DevicesSturdy White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1051,
+      "attributes": {
+        "title": "BIBA Solid Cotton Straight Fit Womens Kurta",
+        "dealPrice": "₹ 479",
+        "originalPrice": "₹ 1599",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B5ZF634K?ascsubtag=1293092&linkCode=ll1&tag=hotdealsbazaar-21&linkId=cece21f86b06178a163036809856b4bd&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:38:06.736Z",
+        "updatedAt": "2023-10-19T11:51:39.451Z",
+        "ProductImgUrl": "uploads/BIBA Solid Cotton Straight Fit Womens Kurta.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1050,
+      "attributes": {
+        "title": "Attro Miami Plastic Unbreakable Fridge Water Bottle",
+        "dealPrice": "₹ 73",
+        "originalPrice": "₹ 300",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://amazon.in/dp/B0BYZ1JZL4/?tag=thuttu-21&ascsubtag=1293088",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BYZ1JZL4?ascsubtag=1293088&linkCode=ll1&tag=hotdealsbazaar-21&linkId=aa62b8ed34e3e35544e08f01084729f3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:18.116Z",
+        "updatedAt": "2023-10-19T11:26:23.221Z",
+        "ProductImgUrl": "uploads/Attro Miami Plastic Unbreakable Fridge Water Bottle.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1049,
+      "attributes": {
+        "title": "HP 330 Mouse & Keyboard Combo Wireless Desktop Keyboard  (Black)",
+        "dealPrice": "₹ 1099",
+        "originalPrice": "₹ 1999",
+        "platform": "Flipkart",
+        "discount": "45",
+        "productLink": "https://www.flipkart.com/hp-330-mouse-keyboard-combo-wireless-desktop/p/itm38e5860404efb?pid=ACCGAM9JYUX7UDBF",
+        "affiliate_product_link": "https://www.flipkart.com/hp-330-mouse-keyboard-combo-wireless-desktop/p/itm38e5860404efb?pid=ACCGAM9JYUX7UDBF&affid=mithunvel",
+        "createdAt": "2023-10-19T11:24:17.203Z",
+        "updatedAt": "2023-10-19T11:26:35.132Z",
+        "ProductImgUrl": "uploads/HP 330 Mouse Keyboard Combo Wireless Desktop Keyboard Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1048,
+      "attributes": {
+        "title": "Intex Wired Gaming KB+MS (IT-KB334) Combo Set",
+        "dealPrice": "₹ 645",
+        "originalPrice": "₹ 1899",
+        "platform": "Flipkart",
+        "discount": "66",
+        "productLink": "https://www.flipkart.com/intex-wired-gaming-kb-ms-it-kb334-combo-set/p/itmb3ce52f6204ec?pid=CASGMPTC9G4RHSP4",
+        "affiliate_product_link": "https://www.flipkart.com/intex-wired-gaming-kb-ms-it-kb334-combo-set/p/itmb3ce52f6204ec?pid=CASGMPTC9G4RHSP4&affid=mithunvel",
+        "createdAt": "2023-10-19T11:24:16.296Z",
+        "updatedAt": "2023-10-19T11:26:51.227Z",
+        "ProductImgUrl": "uploads/Intex Wired Gaming KBMS IT KB334 Combo Set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1047,
+      "attributes": {
+        "title": "Aula F2023 Combo || Premium RGB Backlit Gaming Keyboard + Mouse with 6 keys, 3600 DPI Combo Set",
+        "dealPrice": "₹ 897",
+        "originalPrice": "₹ 2999",
+        "platform": "Flipkart",
+        "discount": "70",
+        "productLink": "https://www.flipkart.com/aula-f2023-combo-premium-rgb-backlit-gaming-keyboard-mouse-6-keys-3600-dpi-set/p/itmd2c8f6df73339?pid=CASGQQ5ZJVXYVBYV",
+        "affiliate_product_link": "https://www.flipkart.com/aula-f2023-combo-premium-rgb-backlit-gaming-keyboard-mouse-6-keys-3600-dpi-set/p/itmd2c8f6df73339?pid=CASGQQ5ZJVXYVBYV&affid=mithunvel",
+        "createdAt": "2023-10-19T11:24:15.335Z",
+        "updatedAt": "2023-10-19T11:27:39.838Z",
+        "ProductImgUrl": "uploads/Aula F2023 Combo Premium RGB Backlit Gaming Keyboard Mouse with 6 keys 3600 DPI Combo Set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1046,
+      "attributes": {
+        "title": "Saffola Gold Refined Cooking Rice Bran & Corn Blended Oil Can  (3 L)",
+        "dealPrice": "₹ 434",
+        "originalPrice": "₹ 690",
+        "platform": "Flipkart",
+        "discount": "37",
+        "productLink": "https://www.flipkart.com/saffola-gold-refined-cooking-rice-bran-corn-blended-oil-can/p/itmd7f95316d6c9b?pid=EDOGEDZQ9GSTQGAK",
+        "affiliate_product_link": "https://www.flipkart.com/saffola-gold-refined-cooking-rice-bran-corn-blended-oil-can/p/itmd7f95316d6c9b?pid=EDOGEDZQ9GSTQGAK&affid=mithunvel",
+        "createdAt": "2023-10-19T11:24:14.343Z",
+        "updatedAt": "2023-10-19T11:27:53.085Z",
+        "ProductImgUrl": "uploads/Saffola Gold Refined Cooking Rice Bran Corn Blended Oil Can 3 L.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1045,
+      "attributes": {
+        "title": "Biotique Almond Oil Nourishing Bathing Bar| Ayurvedic and Organically Pure| Maintains Skin’s Natural pH |100% Botanical Extracts| Suitable",
+        "dealPrice": "₹ 96",
+        "originalPrice": "₹ 170",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07KRRKRVS?ascsubtag=1293083&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=e49d6929547c1b7a768c06d0ad0d04a1&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:13.187Z",
+        "updatedAt": "2023-10-19T11:41:28.254Z",
+        "ProductImgUrl": "uploads/Biotique Almond Oil Nourishing Bathing Bar Ayurvedic and Organically Pure Maintains Skins Natural pH 100 Botanical Extracts Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1044,
+      "attributes": {
+        "title": "Santoor by Wipro Aloe fresh soap with Aloe Vera & Lime  (6 x 125 g)",
+        "dealPrice": "₹ 184",
+        "originalPrice": "₹ 336",
+        "platform": "Flipkart",
+        "discount": "45",
+        "productLink": "https://www.flipkart.com/santoor-wipro-aloe-fresh-soap-vera-lime/p/itmf45db7db7aa25?pid=SOPFVSQJ2PPHPCNY",
+        "affiliate_product_link": "https://www.flipkart.com/santoor-wipro-aloe-fresh-soap-vera-lime/p/itmf45db7db7aa25?pid=SOPFVSQJ2PPHPCNY&affid=mithunvel",
+        "createdAt": "2023-10-19T11:24:12.158Z",
+        "updatedAt": "2023-10-19T11:42:10.912Z",
+        "ProductImgUrl": "uploads/Santoor by Wipro Aloe fresh soap with Aloe Vera Lime 6 x 125 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1043,
+      "attributes": {
+        "title": "Tata TEA AGNI 500 GRAMS X 2 Masala Tea Pouch  (2 x 0.5 kg)",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 999",
+        "platform": "Flipkart",
+        "discount": "50",
+        "productLink": "https://www.flipkart.com/tata-tea-agni-500-grams-x-2-masala-pouch/p/itm94c87b6c23561?pid=TEAGU35DWNHDGMTD",
+        "affiliate_product_link": "https://www.flipkart.com/tata-tea-agni-500-grams-x-2-masala-pouch/p/itm94c87b6c23561?pid=TEAGU35DWNHDGMTD&affid=mithunvel",
+        "createdAt": "2023-10-19T11:24:11.143Z",
+        "updatedAt": "2023-10-19T11:42:28.035Z",
+        "ProductImgUrl": "uploads/Tata TEA AGNI 500 GRAMS X 2 Masala Tea Pouch 2 x 05 kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1042,
+      "attributes": {
+        "title": "USHA Diplomat 1200mm 50 Watt Energy Efficient 1 Star Rated Power Saving Ceiling Fan (Brown)",
+        "dealPrice": "₹ 1299",
+        "originalPrice": "₹ 2595",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0BXLKJHM5/?tag=thuttu-21&ascsubtag=1293080",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BXLKJHM5?ascsubtag=1293080&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7e1b77d057acad3c3cd7f6b57a610f2b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:10.094Z",
+        "updatedAt": "2023-10-19T11:42:45.962Z",
+        "ProductImgUrl": "uploads/USHA Diplomat 1200mm 50 Watt Energy Efficient 1 Star Rated Power Saving Ceiling Fan Brown.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1041,
+      "attributes": {
+        "title": "EDINARO Gorgeous Analogue Round Studded Dial Watches for Women and Ladies Watch with Stainless Steel Adjustable Bracelet Strap with Double Lock Clasp Watches",
+        "dealPrice": "₹ 269",
+        "originalPrice": "₹ 1499",
+        "platform": "Amazon",
+        "discount": "82",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B085ZVNL41?ascsubtag=1293078&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5f77ba171e1bfa82c85aff2673bc52d8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:09.112Z",
+        "updatedAt": "2023-10-19T11:43:09.232Z",
+        "ProductImgUrl": "uploads/EDINARO Gorgeous Analogue Round Studded Dial Watches for Women and Ladies Watch with Stainless Steel Adjustable Bracelet Strap with Double Lock Clasp Watches.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1040,
+      "attributes": {
+        "title": "Cello HI-Lunch Big Deluxe Insulated Lunch Box with Inner Steel and Stainless Steel Veg Box, Attractive Fairies Print, Aqua Marine",
+        "dealPrice": "₹ 442",
+        "originalPrice": "₹ 958",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": "https://www.amazon.in/dp/B07Z45YVG6?tag=thuttu-21&ascsubtag=1293076",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07Z45YVG6?ascsubtag=1293076&linkCode=ll1&tag=hotdealsbazaar-21&linkId=49c78b3107800a7ecd4ba8c1abbbb05c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:08.102Z",
+        "updatedAt": "2023-10-19T11:43:27.248Z",
+        "ProductImgUrl": "uploads/Cello HI Lunch Big Deluxe Insulated Lunch Box with Inner Steel and Stainless Steel Veg Box Attractive Fairies Print Aqua Marine.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1039,
+      "attributes": {
+        "title": "Larah by Borosil Fluted Red Iris Dinner Set 21 Pieces, Opal Glass Dinner Plates & Bowls Crockery Set",
+        "dealPrice": "₹ 1001",
+        "originalPrice": "₹ 3460",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": "https://amazon.in/dp/B0C7MGCR9N/?tag=thuttu-21&ascsubtag=1293075",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C7MGCR9N?ascsubtag=1293075&linkCode=ll1&tag=hotdealsbazaar-21&linkId=061d02e3ee4d2453899a71ba6d423538&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:07.097Z",
+        "updatedAt": "2023-10-19T11:44:29.482Z",
+        "ProductImgUrl": "uploads/Larah by Borosil Fluted Red Iris Dinner Set 21 Pieces Opal Glass Dinner Plates Bowls Crockery Set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1038,
+      "attributes": {
+        "title": "Surya Imperia 1200MM Ceiling Fans |",
+        "dealPrice": "₹ 4755",
+        "originalPrice": "₹ 12395",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://amazon.in/gp/product/B0C38NFTHT/?tag=thuttu-21&ascsubtag=1293074",
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B0C38NFTHT?ascsubtag=1293074&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=54de86072438d4a9d316dd6eec841e1c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:05.986Z",
+        "updatedAt": "2023-10-19T11:44:48.544Z",
+        "ProductImgUrl": "uploads/Surya Imperia 1200MM Ceiling Fans.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1037,
+      "attributes": {
+        "title": "Santoor PureGlo Glycerine Bath Soap with Almond Oil",
+        "dealPrice": "₹ 270",
+        "originalPrice": "₹ 540",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B07H61MZTC?tag=thuttu-21&ascsubtag=1293073",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07H61MZTC?ascsubtag=1293073&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a64c6db3612f304263daf5a45aa1556b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:04.917Z",
+        "updatedAt": "2023-10-19T11:45:10.822Z",
+        "ProductImgUrl": "uploads/Santoor PureGlo Glycerine Bath Soap with Almond Oil.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1036,
+      "attributes": {
+        "title": "Kuber Industries Square Chair Pad/Cushion|Quilted Microfiber Fabric & Solid Color|Soft & Comfortable Sitting|Size 45 x 45 x 7 CM, Pack of 2 (Navy Blue)",
+        "dealPrice": "₹ 290",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B092DLB826?ascsubtag=1293072&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a1db44632e0cc0e1408785464abd85b2&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:03.838Z",
+        "updatedAt": "2023-10-19T11:45:38.110Z",
+        "ProductImgUrl": "uploads/Kuber Industries Square Chair PadCushionQuilted Microfiber Fabric Solid ColorSoft Comfortable SittingSize 45 x 45 x 7 CM Pack of 2 Navy Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1035,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Stainless Steel Idli Cum Modak Maker with Glass lid, Induction base (20cm, 3L)",
+        "dealPrice": "₹ 799",
+        "originalPrice": "₹ 1800",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://www.amazon.in/dp/B07P6S73N5?tag=thuttu-21&ascsubtag=1293071",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07P6S73N5?ascsubtag=1293071&linkCode=ll1&tag=hotdealsbazaar-21&linkId=3528f9c54d40b7536030c4696ac4d797&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-19T11:24:02.664Z",
+        "updatedAt": "2023-10-19T11:46:19.496Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Stainless Steel Idli Cum Modak Maker with Glass lid Induction base 20cm 3L.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1034,
       "attributes": {
         "title": "Webby Speed Cube - 3x3x3, Multi Color",
@@ -9,9 +387,9 @@
         "platform": "Amazon",
         "discount": "52",
         "productLink": "https://www.amazon.in/dp/B01HV51W0I?tag=thuttu-21&ascsubtag=1293069",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B01HV51W0I?ascsubtag=1293069&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c9ab4326d39dffef2f0d26ef41726d0d&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:18.355Z",
-        "updatedAt": "2023-10-19T10:30:18.355Z",
+        "updatedAt": "2023-10-19T11:01:56.004Z",
         "ProductImgUrl": "uploads/Webby Speed Cube 3x3x3 Multi Color.jpg",
         "productimage": {
           "data": null
@@ -27,9 +405,9 @@
         "platform": "Amazon",
         "discount": "65",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09ZRRK7KL?ascsubtag=1293068&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6977ffa0ecb6f0a9f748eb3f493bf9c4&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:17.410Z",
-        "updatedAt": "2023-10-19T10:30:17.410Z",
+        "updatedAt": "2023-10-19T11:02:19.089Z",
         "ProductImgUrl": "uploads/Organic Box Dried Dry Sweet Amla Candy Indian Gooseberry 250g Jar Pack Diwali Gift Pack.jpg",
         "productimage": {
           "data": null
@@ -45,9 +423,9 @@
         "platform": "Amazon",
         "discount": "61",
         "productLink": "https://amazon.in/dp/B0B8JSKC5P/?tag=thuttu_a-21&ascsubtag=1293064",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B8JSKC5P?ascsubtag=1293064&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9812631ba9579c262b2f0f6a1bdc4990&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:16.440Z",
-        "updatedAt": "2023-10-19T10:30:16.440Z",
+        "updatedAt": "2023-10-19T11:02:46.301Z",
         "ProductImgUrl": "uploads/Philips Audio TWS TAT1207BK True Wireless Earbuds with IPX4 Water Resistance 18 Hour Playtime 612 C Type Charging and Voice Assistant Black.jpg",
         "productimage": {
           "data": null
@@ -63,9 +441,9 @@
         "platform": "Flipkart",
         "discount": "55",
         "productLink": "https://www.flipkart.com/flipkart/p/item?pid=TULGQFBXU6JPTVPG",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.flipkart.com/flipkart/p/item?pid=TULGQFBXU6JPTVPG&affid=mithunvel",
         "createdAt": "2023-10-19T10:30:15.474Z",
-        "updatedAt": "2023-10-19T10:30:15.474Z",
+        "updatedAt": "2023-10-19T11:03:16.667Z",
         "ProductImgUrl": "uploads/Wipro Garnet 20 Watt LED Batten Pack of 3 Cool Day Light Straight Linear LED Tube Light White Pack of 3.jpg",
         "productimage": {
           "data": null
@@ -81,9 +459,9 @@
         "platform": "Amazon",
         "discount": "10",
         "productLink": "https://www.amazon.in/dp/B09WQY65HN?tag=thuttu_a-21&ascsubtag=1293062",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09WQY65HN?ascsubtag=1293062&linkCode=ll1&tag=hotdealsbazaar-21&linkId=765ef687953027deda7da763cdc5627f&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:14.580Z",
-        "updatedAt": "2023-10-19T10:30:14.580Z",
+        "updatedAt": "2023-10-19T11:03:38.643Z",
         "ProductImgUrl": "uploads/OnePlus Nord CE 2 Lite 5G Black Dusk 6GB RAM 128GB Storage.jpg",
         "productimage": {
           "data": null
@@ -99,9 +477,9 @@
         "platform": "Amazon",
         "discount": "62",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CC6CSLZX?ascsubtag=1293060&linkCode=ll1&tag=hotdealsbazaar-21&linkId=987899a7b4ac2f9ed0d69623a2ec5488&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:13.575Z",
-        "updatedAt": "2023-10-19T10:30:13.575Z",
+        "updatedAt": "2023-10-19T11:04:02.564Z",
         "ProductImgUrl": "uploads/STATUS Memory Foam Pillow for SleepingOrthopedic Refill Pillow Neck Pain Pillow Filter Multi Soft Yet Supportive Suitable.jpg",
         "productimage": {
           "data": null
@@ -117,9 +495,9 @@
         "platform": "Flipkart",
         "discount": "88",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.flipkart.com/provogue-slim-series-quartz-analog-watch-men/p/itmb04add182f367?pid=WATGHVZXXNHHUSCQ&affid=mithunvel",
         "createdAt": "2023-10-19T10:30:12.612Z",
-        "updatedAt": "2023-10-19T10:30:12.612Z",
+        "updatedAt": "2023-10-19T11:04:30.979Z",
         "ProductImgUrl": "uploads/PROVOGUE Slim Series Quartz Analog Watch For Men PRVG129.jpg",
         "productimage": {
           "data": null
@@ -135,9 +513,9 @@
         "platform": "Amazon",
         "discount": "80",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BS3PT91X?ascsubtag=1293058&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2ecaf0c7b07fca8c8bf2166253e65d2b&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:11.698Z",
-        "updatedAt": "2023-10-19T10:30:11.698Z",
+        "updatedAt": "2023-10-19T11:04:59.293Z",
         "ProductImgUrl": "uploads/Kadio Analog 20 cm X 20 cm Wall Clock Beige with Glass Standard.jpg",
         "productimage": {
           "data": null
@@ -153,9 +531,9 @@
         "platform": "Amazon",
         "discount": "75",
         "productLink": "https://amazon.in/dp/B0CCMTC5NK/?tag=thuttu-21&ascsubtag=1293049",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CCMTC5NK?ascsubtag=1293049&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8bd69055035aaa5d03f2fa5d06832711&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:10.793Z",
-        "updatedAt": "2023-10-19T10:30:10.793Z",
+        "updatedAt": "2023-10-19T11:05:22.336Z",
         "ProductImgUrl": "uploads/pTron Newly Launched Fusion Wave 16W Bluetooth 50 Speaker up to 19Hrs Playback Time Soundbar.jpg",
         "productimage": {
           "data": null
@@ -171,9 +549,9 @@
         "platform": "Amazon",
         "discount": "39",
         "productLink": "https://amazon.in/dp/B0C6LSK39V/?tag=thuttu-21&ascsubtag=1293048",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C6LSK39V?ascsubtag=1293048&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ce76cc8ed937e4e1c23d47312832a11c&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:09.775Z",
-        "updatedAt": "2023-10-19T10:30:09.775Z",
+        "updatedAt": "2023-10-19T11:10:49.639Z",
         "ProductImgUrl": "uploads/Crompton Insta Delight 18L SS Electric Kettle with Auto shut off Dry Boil Protection 1500 W Boil water Make tea coffee soup instant noodles etc Silvery Grey.jpg",
         "productimage": {
           "data": null
@@ -189,9 +567,9 @@
         "platform": "Amazon",
         "discount": "52",
         "productLink": "https://www.amazon.in/dp/B096YCN3SD?tag=thuttu-21&ascsubtag=1293044",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B096YCN3SD?ascsubtag=1293044&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a1a9b36456381c5f5cf8c9f7926fd525&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:08.830Z",
-        "updatedAt": "2023-10-19T10:30:08.830Z",
+        "updatedAt": "2023-10-19T11:11:08.779Z",
         "ProductImgUrl": "uploads/Lifelong LLEK15 Electric Kettle 15L with Stainless Steel Body Easy and Fast Boiling of Water.jpg",
         "productimage": {
           "data": null
@@ -207,9 +585,9 @@
         "platform": "Amazon",
         "discount": "50",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09R4WF6J5?ascsubtag=1293043&linkCode=ll1&tag=hotdealsbazaar-21&linkId=de5e605587b4d61d1759282a627dea8e&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:07.899Z",
-        "updatedAt": "2023-10-19T10:30:07.899Z",
+        "updatedAt": "2023-10-19T11:11:37.194Z",
         "ProductImgUrl": "uploads/Dove Deeply Nourishing Body Wash 250 ml Moisturizing Body Wash For Softer Smoother Skin Dove Body Wash for Women Men Body Wash.jpg",
         "productimage": {
           "data": null
@@ -225,9 +603,9 @@
         "platform": "Amazon",
         "discount": "71",
         "productLink": "https://amazon.in/gp/product/B0BZQ9HS8T/?tag=thuttu_a-21&ascsubtag=1293042",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B0BZQ9HS8T?ascsubtag=1293042&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9cea6df6d13d49c1ab0e929da021bf71&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:06.646Z",
-        "updatedAt": "2023-10-19T10:30:06.646Z",
+        "updatedAt": "2023-10-19T11:11:55.493Z",
         "ProductImgUrl": "uploads/SYSKA SQ2001 20W SLM 20Watt Slim T5 Tubelight Pack of 2 White.jpg",
         "productimage": {
           "data": null
@@ -243,9 +621,9 @@
         "platform": "Amazon",
         "discount": "50",
         "productLink": "https://amazon.in/dp/B0BM6C4FZT/?tag=thuttu-21&ascsubtag=1293041",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BM6C4FZT?ascsubtag=1293041&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c292042d35d78c64a8a1743ea436e80d&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:05.473Z",
-        "updatedAt": "2023-10-19T10:30:05.473Z",
+        "updatedAt": "2023-10-19T11:12:11.809Z",
         "ProductImgUrl": "uploads/Butterfly Friendly Inner Lid 5 Ltr Aluminium Pressure Cooker Silver.jpg",
         "productimage": {
           "data": null
@@ -279,9 +657,9 @@
         "platform": "Amazon",
         "discount": "30",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CCYGC3TS?ascsubtag=1293039&linkCode=ll1&tag=hotdealsbazaar-21&linkId=93f8ce814f90444996c9a217ce0f7594&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T10:30:03.171Z",
-        "updatedAt": "2023-10-19T10:30:03.171Z",
+        "updatedAt": "2023-10-19T11:12:37.250Z",
         "ProductImgUrl": "uploads/ASUS TUF Gaming F15 1563962 cms FHD 144Hz Intel Core i7 11800H 11th Gen 4GB NVIDIA GeForce RTX 3050 Ti Gaming Laptop 16GB512GB SSDWindows 1190WHrs BatteryBlack230 Kg FX506HE HN382W.jpg",
         "productimage": {
           "data": null
@@ -297,9 +675,9 @@
         "platform": "Amazon",
         "discount": "81",
         "productLink": "https://www.amazon.in/dp/B07QBGWDJP?tag=thuttu-21&ascsubtag=1292964",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07QBGWDJP?ascsubtag=1292964&linkCode=ll1&tag=hotdealsbazaar-21&linkId=df33f4df95b884f0734c611f42bcb9b0&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:17.146Z",
-        "updatedAt": "2023-10-19T06:30:17.146Z",
+        "updatedAt": "2023-10-19T11:12:59.258Z",
         "ProductImgUrl": "uploads/Bathla Spic Span Multi Purpose Micro Fiber Cleaning Cloth 300 GSM 60cmx40cm Pack of 2 Dark Blue Light Green.jpg",
         "productimage": {
           "data": null
@@ -315,9 +693,9 @@
         "platform": "Amazon",
         "discount": "54",
         "productLink": "https://amazon.in/dp/B0B56WCKQ9/?tag=thuttu-21&ascsubtag=1292962",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B56WCKQ9?ascsubtag=1292962&linkCode=ll1&tag=hotdealsbazaar-21&linkId=081c49ec0a8f4ce7f510eec9ca2f8940&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:16.246Z",
-        "updatedAt": "2023-10-19T06:30:16.246Z",
+        "updatedAt": "2023-10-19T11:13:18.948Z",
         "ProductImgUrl": "uploads/For SBI Credit Card Emi TECNO Camon 19 Neo Ice Mirror 6GB RAM 128GB Storage48MP Super Night Rear Camera32MP Selfie Camera.jpg",
         "productimage": {
           "data": null
@@ -369,9 +747,9 @@
         "platform": "Flipkart",
         "discount": "70",
         "productLink": "https://www.flipkart.com/wings-phantom-110-neckband-led-20-hrs-playtime-50ms-low-latency-headphones-bluetooth-gaming-headset/p/itm51e4b372c9fd4?pid=ACCGGMGUJPRVTMR5",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.flipkart.com/wings-phantom-110-neckband-led-20-hrs-playtime-50ms-low-latency-headphones-bluetooth-gaming-headset/p/itm51e4b372c9fd4?pid=ACCGGMGUJPRVTMR5&affid=mithunvel",
         "createdAt": "2023-10-19T06:30:13.155Z",
-        "updatedAt": "2023-10-19T06:30:13.155Z",
+        "updatedAt": "2023-10-19T11:14:18.539Z",
         "ProductImgUrl": "uploads/Wings Phantom 110 Neckband LED 20 hrs Playtime 50ms Low Latency Headphones Bluetooth Gaming Headset Green Black In the Ear.jpg",
         "productimage": {
           "data": null
@@ -405,9 +783,9 @@
         "platform": "Amazon",
         "discount": "81",
         "productLink": "https://amazon.in/dp/B0CGDLSB6F/?tag=thuttu-21&ascsubtag=1292954",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CGDLSB6F?ascsubtag=1292954&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ad9ab818c48ed25ceb34d6bda712abcb&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:10.599Z",
-        "updatedAt": "2023-10-19T06:30:10.599Z",
+        "updatedAt": "2023-10-19T11:14:53.931Z",
         "ProductImgUrl": "uploads/Stylbase 15 Liter Casual Daypack Backpack Small trendy multipurpose backpack to use.jpg",
         "productimage": {
           "data": null
@@ -423,9 +801,9 @@
         "platform": "Amazon",
         "discount": "56",
         "productLink": "https://amazon.in/dp/B0C9QH2QJQ/?tag=thuttu_a-21&ascsubtag=1292953",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C9QH2QJQ?ascsubtag=1292953&linkCode=ll1&tag=hotdealsbazaar-21&linkId=da12e6b4845323c5f37105c74e6a7d3d&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:09.707Z",
-        "updatedAt": "2023-10-19T06:30:09.707Z",
+        "updatedAt": "2023-10-19T11:15:12.212Z",
         "ProductImgUrl": "uploads/Ezee 30 Meters 12 Inches Cling Film Wrap Biodegradable BPA Free Multipurpose Food Wrapping Paper Non Stick Microwave Safe.jpg",
         "productimage": {
           "data": null
@@ -441,9 +819,9 @@
         "platform": "Amazon",
         "discount": "28",
         "productLink": "https://amazon.in/dp/B0B469F1PN/?tag=thuttu-21&ascsubtag=1292951",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B469F1PN?ascsubtag=1292951&linkCode=ll1&tag=hotdealsbazaar-21&linkId=f9a5950bd062c38feae215c9e3f7ae78&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:08.870Z",
-        "updatedAt": "2023-10-19T06:30:08.870Z",
+        "updatedAt": "2023-10-19T11:15:36.086Z",
         "ProductImgUrl": "uploads/Dell 14 Laptop Intel Core 11th Gen i3 1115G48GB DDR4256GB SSDWindows 11 MSO21140 3556cm FHD with Comfort View 15 Month McAfeeSpill Resistant KeyboardBlack Color 148kg.jpg",
         "productimage": {
           "data": null
@@ -459,9 +837,9 @@
         "platform": "Amazon",
         "discount": "86",
         "productLink": "https://amazon.in/dp/B0BR3WCJYG/?tag=thuttu-21&ascsubtag=1292947",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BR3WCJYG?ascsubtag=1292947&linkCode=ll1&tag=hotdealsbazaar-21&linkId=25a1048ed3848396de54ab44d9fca6c2&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:08.008Z",
-        "updatedAt": "2023-10-19T06:30:08.008Z",
+        "updatedAt": "2023-10-19T11:15:58.536Z",
         "ProductImgUrl": "uploads/Wipro Garnet 10W B22 LED Bulb Coolwhite Pack of 3.jpg",
         "productimage": {
           "data": null
@@ -477,9 +855,9 @@
         "platform": "Amazon",
         "discount": "87",
         "productLink": "https://www.amazon.in/dp/B08LZXKQR5?tag=thuttu-21&ascsubtag=1292946",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08LZXKQR5?ascsubtag=1292946&linkCode=ll1&tag=hotdealsbazaar-21&linkId=f87c7af0a8d72bdc031a33b6fd89a2d2&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:07.107Z",
-        "updatedAt": "2023-10-19T06:30:07.107Z",
+        "updatedAt": "2023-10-19T11:16:17.881Z",
         "ProductImgUrl": "uploads/OJS Yoga Mats for Women Yoga mat for men exercise mat for home workout yoga mat for kids Exercise mat.jpg",
         "productimage": {
           "data": null
@@ -495,9 +873,9 @@
         "platform": "Amazon",
         "discount": "72",
         "productLink": "https://amazon.in/dp/B0C818JGFZ/?tag=thuttu_i-21&ascsubtag=1292944",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C818JGFZ?ascsubtag=1292944&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a64e65c29c5893bb8037ac38f6ea059b&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:06.207Z",
-        "updatedAt": "2023-10-19T06:30:06.207Z",
+        "updatedAt": "2023-10-19T11:16:40.442Z",
         "ProductImgUrl": "uploads/Ganesh Stainless Steel Kitchen Bold 3 pcs Knife Vegetable Cutting and Chopping Knife Serrated Edge.jpg",
         "productimage": {
           "data": null
@@ -513,9 +891,9 @@
         "platform": "Amazon",
         "discount": "55",
         "productLink": "https://www.amazon.in/dp/B09BY17DLV?tag=thuttu_i-21&ascsubtag=1292943",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09BY17DLV?ascsubtag=1292943&linkCode=ll1&tag=hotdealsbazaar-21&linkId=3a265bc16a50c54e0053573c3b4a9b47&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:05.346Z",
-        "updatedAt": "2023-10-19T06:30:05.346Z",
+        "updatedAt": "2023-10-19T11:17:00.623Z",
         "ProductImgUrl": "uploads/Fire TV Stick Lite with all new Alexa Voice Remote Lite no TV controls HD streaming device Now with App controls.jpg",
         "productimage": {
           "data": null
@@ -531,9 +909,9 @@
         "platform": "Amazon",
         "discount": "62",
         "productLink": "https://www.amazon.in/dp/B07MHJ2YNP?tag=thuttu-21&ascsubtag=1292941",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07MHJ2YNP?ascsubtag=1292941&linkCode=ll1&tag=hotdealsbazaar-21&linkId=07c46abe51f1ae3c43ad24074a29547f&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:04.442Z",
-        "updatedAt": "2023-10-19T06:30:04.442Z",
+        "updatedAt": "2023-10-19T11:17:24.405Z",
         "ProductImgUrl": "uploads/HAVELLS Fabio 1250 W Steam Iron with Teflon Coated Sole Plate Vertical Horizontal Ironing 2 Years Warranty Blue.jpg",
         "productimage": {
           "data": null
@@ -549,9 +927,9 @@
         "platform": "Amazon",
         "discount": "80",
         "productLink": "https://www.amazon.in/dp/B07H8JS2MK?tag=thuttu-21&ascsubtag=1292940",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07H8JS2MK?ascsubtag=1292940&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5fcba177cbd8736a4dde2e0227ae4bcf&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:03.173Z",
-        "updatedAt": "2023-10-19T06:30:03.173Z",
+        "updatedAt": "2023-10-19T11:17:47.428Z",
         "ProductImgUrl": "uploads/Beurer 37 Watts Professional Curling Tongs 13 25 mm with Conical Heating Element.jpg",
         "productimage": {
           "data": null
@@ -567,9 +945,9 @@
         "platform": "Amazon",
         "discount": "81",
         "productLink": "https://www.amazon.in/dp/B06Y4T7NBH?tag=thuttu_a-21&ascsubtag=1292938",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B06Y4T7NBH?ascsubtag=1292938&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d5e0c6fd5d0809ac7da24796d98a5b9b&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-10-19T06:30:02.193Z",
-        "updatedAt": "2023-10-19T06:30:02.193Z",
+        "updatedAt": "2023-10-19T11:18:08.445Z",
         "ProductImgUrl": "uploads/Homefab India 140 TC Microfiber Double BedSheet with 2 Pillow Cover Pink.jpg",
         "productimage": {
           "data": null
@@ -5046,7 +5424,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 280
+      "total": 301
     }
   }
 }
