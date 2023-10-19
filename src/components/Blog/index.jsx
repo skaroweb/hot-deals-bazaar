@@ -14,6 +14,7 @@ const BlogList = () => {
 
   //   console.log(searchText);
   const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
+  console.log(process.env.REACT_APP_SERVER_URL);
 
   const formatDate = (publishedAt) => {
     const date = new Date(publishedAt);
