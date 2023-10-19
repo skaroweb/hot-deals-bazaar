@@ -1,6 +1,294 @@
 {
   "data": [
     {
+      "id": 1018,
+      "attributes": {
+        "title": "Bathla Spic & Span Multi Purpose Micro Fiber Cleaning Cloth - 300 GSM: 60cmx40cm (Pack of 2 - Dark Blue + Light Green)",
+        "dealPrice": "₹ 88",
+        "originalPrice": "₹ 460",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": "https://www.amazon.in/dp/B07QBGWDJP?tag=thuttu-21&ascsubtag=1292964",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:17.146Z",
+        "updatedAt": "2023-10-19T06:30:17.146Z",
+        "ProductImgUrl": "uploads/Bathla Spic Span Multi Purpose Micro Fiber Cleaning Cloth 300 GSM 60cmx40cm Pack of 2 Dark Blue Light Green.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1017,
+      "attributes": {
+        "title": "[For SBI Credit Card Emi] TECNO Camon 19 Neo (Ice Mirror, 6GB RAM, 128GB Storage)|48MP Super Night Rear Camera|32MP Selfie Camera",
+        "dealPrice": "₹ 8550",
+        "originalPrice": "₹ 18499",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": "https://amazon.in/dp/B0B56WCKQ9/?tag=thuttu-21&ascsubtag=1292962",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:16.246Z",
+        "updatedAt": "2023-10-19T06:30:16.246Z",
+        "ProductImgUrl": "uploads/For SBI Credit Card Emi TECNO Camon 19 Neo Ice Mirror 6GB RAM 128GB Storage48MP Super Night Rear Camera32MP Selfie Camera.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1016,
+      "attributes": {
+        "title": "Amazon Brand - Vedaka Roasted Chana, Whole With Skin, 500 g",
+        "dealPrice": "₹ 69",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:15.389Z",
+        "updatedAt": "2023-10-19T06:30:15.389Z",
+        "ProductImgUrl": "uploads/Amazon Brand Vedaka Roasted Chana Whole With Skin 500 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1015,
+      "attributes": {
+        "title": "Himalaya Purifying Neem Face Wash, 400 Ml",
+        "dealPrice": "₹ 207",
+        "originalPrice": "₹ 425",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:14.321Z",
+        "updatedAt": "2023-10-19T06:30:14.321Z",
+        "ProductImgUrl": "uploads/Himalaya Purifying Neem Face Wash 400 Ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1014,
+      "attributes": {
+        "title": "Wings Phantom 110 Neckband, LED , 20 hrs Playtime, 50ms Low Latency Headphones Bluetooth Gaming Headset  (Green, Black, In the Ear)",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 1999",
+        "platform": "Flipkart",
+        "discount": "70",
+        "productLink": "https://www.flipkart.com/wings-phantom-110-neckband-led-20-hrs-playtime-50ms-low-latency-headphones-bluetooth-gaming-headset/p/itm51e4b372c9fd4?pid=ACCGGMGUJPRVTMR5",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:13.155Z",
+        "updatedAt": "2023-10-19T06:30:13.155Z",
+        "ProductImgUrl": "uploads/Wings Phantom 110 Neckband LED 20 hrs Playtime 50ms Low Latency Headphones Bluetooth Gaming Headset Green Black In the Ear.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1013,
+      "attributes": {
+        "title": "amazon basics AmazonBasics Extension Board with 4 Sockets, 6A, 1.5m ISI Certified Cable, Individual Switch, 240 Volt, Grey",
+        "dealPrice": "₹ 419",
+        "originalPrice": "₹ 880",
+        "platform": "Amazon",
+        "discount": "52",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:11.484Z",
+        "updatedAt": "2023-10-19T06:30:11.484Z",
+        "ProductImgUrl": "uploads/amazon basics AmazonBasics Extension Board with 4 Sockets 6A 15m ISI Certified Cable Individual Switch 240 Volt Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1012,
+      "attributes": {
+        "title": "Stylbase 15 Liter Casual Daypack Backpack - Small, trendy, multipurpose backpack to use",
+        "dealPrice": "₹ 189",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": "https://amazon.in/dp/B0CGDLSB6F/?tag=thuttu-21&ascsubtag=1292954",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:10.599Z",
+        "updatedAt": "2023-10-19T06:30:10.599Z",
+        "ProductImgUrl": "uploads/Stylbase 15 Liter Casual Daypack Backpack Small trendy multipurpose backpack to use.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1011,
+      "attributes": {
+        "title": "Ezee 30 Meters 12 Inches Cling Film Wrap Biodegradable BPA Free | Multipurpose Food Wrapping Paper | Non-Stick Microwave Safe",
+        "dealPrice": "₹ 79",
+        "originalPrice": "₹ 180",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://amazon.in/dp/B0C9QH2QJQ/?tag=thuttu_a-21&ascsubtag=1292953",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:09.707Z",
+        "updatedAt": "2023-10-19T06:30:09.707Z",
+        "ProductImgUrl": "uploads/Ezee 30 Meters 12 Inches Cling Film Wrap Biodegradable BPA Free Multipurpose Food Wrapping Paper Non Stick Microwave Safe.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1010,
+      "attributes": {
+        "title": "Dell 14 Laptop, Intel Core 11th Gen i3-1115G4/8GB DDR4/256GB SSD/Windows 11 + MSO'21/14.0\" (35.56cm) FHD with Comfort View/ 15 Month McAfee/Spill-Resistant Keyboard/Black Color/ 1.48kg",
+        "dealPrice": "₹ 32490",
+        "originalPrice": "₹ 45181",
+        "platform": "Amazon",
+        "discount": "28",
+        "productLink": "https://amazon.in/dp/B0B469F1PN/?tag=thuttu-21&ascsubtag=1292951",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:08.870Z",
+        "updatedAt": "2023-10-19T06:30:08.870Z",
+        "ProductImgUrl": "uploads/Dell 14 Laptop Intel Core 11th Gen i3 1115G48GB DDR4256GB SSDWindows 11 MSO21140 3556cm FHD with Comfort View 15 Month McAfeeSpill Resistant KeyboardBlack Color 148kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1009,
+      "attributes": {
+        "title": "Wipro Garnet 10W B22 LED Bulb, Coolwhite (Pack of 3)",
+        "dealPrice": "₹ 237",
+        "originalPrice": "₹ 1650",
+        "platform": "Amazon",
+        "discount": "86",
+        "productLink": "https://amazon.in/dp/B0BR3WCJYG/?tag=thuttu-21&ascsubtag=1292947",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:08.008Z",
+        "updatedAt": "2023-10-19T06:30:08.008Z",
+        "ProductImgUrl": "uploads/Wipro Garnet 10W B22 LED Bulb Coolwhite Pack of 3.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1008,
+      "attributes": {
+        "title": "OJS Yoga Mats for Women Yoga mat for men exercise mat for home workout yoga mat for kids Exercise mat",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 1499",
+        "platform": "Amazon",
+        "discount": "87",
+        "productLink": "https://www.amazon.in/dp/B08LZXKQR5?tag=thuttu-21&ascsubtag=1292946",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:07.107Z",
+        "updatedAt": "2023-10-19T06:30:07.107Z",
+        "ProductImgUrl": "uploads/OJS Yoga Mats for Women Yoga mat for men exercise mat for home workout yoga mat for kids Exercise mat.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1007,
+      "attributes": {
+        "title": "Ganesh Stainless Steel Kitchen Bold 3 pcs Knife Vegetable Cutting and Chopping Knife, Serrated Edge",
+        "dealPrice": "₹ 84",
+        "originalPrice": "₹ 305",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://amazon.in/dp/B0C818JGFZ/?tag=thuttu_i-21&ascsubtag=1292944",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:06.207Z",
+        "updatedAt": "2023-10-19T06:30:06.207Z",
+        "ProductImgUrl": "uploads/Ganesh Stainless Steel Kitchen Bold 3 pcs Knife Vegetable Cutting and Chopping Knife Serrated Edge.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1006,
+      "attributes": {
+        "title": "Fire TV Stick Lite with all-new Alexa Voice Remote Lite (no TV controls), HD streaming device | Now with App controls",
+        "dealPrice": "₹ 1799",
+        "originalPrice": "₹ 3999",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://www.amazon.in/dp/B09BY17DLV?tag=thuttu_i-21&ascsubtag=1292943",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:05.346Z",
+        "updatedAt": "2023-10-19T06:30:05.346Z",
+        "ProductImgUrl": "uploads/Fire TV Stick Lite with all new Alexa Voice Remote Lite no TV controls HD streaming device Now with App controls.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1005,
+      "attributes": {
+        "title": "HAVELLS Fabio 1250 W Steam Iron with Teflon Coated Sole Plate, Vertical & Horizontal Ironing & 2 Years Warranty. (Blue)",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 2345",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://www.amazon.in/dp/B07MHJ2YNP?tag=thuttu-21&ascsubtag=1292941",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:04.442Z",
+        "updatedAt": "2023-10-19T06:30:04.442Z",
+        "ProductImgUrl": "uploads/HAVELLS Fabio 1250 W Steam Iron with Teflon Coated Sole Plate Vertical Horizontal Ironing 2 Years Warranty Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1004,
+      "attributes": {
+        "title": "Beurer 37 Watts Professional Curling Tongs, 13-25 mm with Conical Heating Element",
+        "dealPrice": "₹ 784",
+        "originalPrice": "₹ 3999",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://www.amazon.in/dp/B07H8JS2MK?tag=thuttu-21&ascsubtag=1292940",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:03.173Z",
+        "updatedAt": "2023-10-19T06:30:03.173Z",
+        "ProductImgUrl": "uploads/Beurer 37 Watts Professional Curling Tongs 13 25 mm with Conical Heating Element.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1003,
+      "attributes": {
+        "title": "Homefab India 140 TC Microfiber Double BedSheet with 2 Pillow Cover - Pink",
+        "dealPrice": "₹ 229",
+        "originalPrice": "₹ 1199",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": "https://www.amazon.in/dp/B06Y4T7NBH?tag=thuttu_a-21&ascsubtag=1292938",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T06:30:02.193Z",
+        "updatedAt": "2023-10-19T06:30:02.193Z",
+        "ProductImgUrl": "uploads/Homefab India 140 TC Microfiber Double BedSheet with 2 Pillow Cover Pink.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1002,
       "attributes": {
         "title": "pTron Bassbuds Duo in-Ear Wireless Earbuds, Immersive Sound, 32Hrs Playtime, Clear Calls TWS Earbuds, Bluetooth V5.1 Headphones, Type-C Fast Charging, Voice Assistant & IPX4 Water Resistant (Green)",
@@ -4470,7 +4758,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 248
+      "total": 264
     }
   }
 }
