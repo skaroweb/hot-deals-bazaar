@@ -1,6 +1,294 @@
 {
   "data": [
     {
+      "id": 1034,
+      "attributes": {
+        "title": "Webby Speed Cube - 3x3x3, Multi Color",
+        "dealPrice": "₹ 95",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "52",
+        "productLink": "https://www.amazon.in/dp/B01HV51W0I?tag=thuttu-21&ascsubtag=1293069",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:18.355Z",
+        "updatedAt": "2023-10-19T10:30:18.355Z",
+        "ProductImgUrl": "uploads/Webby Speed Cube 3x3x3 Multi Color.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1033,
+      "attributes": {
+        "title": "Organic Box Dried Dry Sweet Amla Candy (Indian Gooseberry) (250g) Jar Pack - Diwali Gift Pack",
+        "dealPrice": "₹ 139",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:17.410Z",
+        "updatedAt": "2023-10-19T10:30:17.410Z",
+        "ProductImgUrl": "uploads/Organic Box Dried Dry Sweet Amla Candy Indian Gooseberry 250g Jar Pack Diwali Gift Pack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1032,
+      "attributes": {
+        "title": "Philips Audio TWS TAT1207BK True Wireless Earbuds with IPX4 Water Resistance, 18 Hour Playtime (6+12), C-Type Charging and Voice Assistant (Black)",
+        "dealPrice": "₹ 2334",
+        "originalPrice": "₹ 5999",
+        "platform": "Amazon",
+        "discount": "61",
+        "productLink": "https://amazon.in/dp/B0B8JSKC5P/?tag=thuttu_a-21&ascsubtag=1293064",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:16.440Z",
+        "updatedAt": "2023-10-19T10:30:16.440Z",
+        "ProductImgUrl": "uploads/Philips Audio TWS TAT1207BK True Wireless Earbuds with IPX4 Water Resistance 18 Hour Playtime 612 C Type Charging and Voice Assistant Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1031,
+      "attributes": {
+        "title": "Wipro Garnet 20-Watt LED Batten (Pack of 3, Cool Day Light) Straight Linear LED Tube Light  (White, Pack of 3)",
+        "dealPrice": "₹ 797",
+        "originalPrice": "₹ 1770",
+        "platform": "Flipkart",
+        "discount": "55",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=TULGQFBXU6JPTVPG",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:15.474Z",
+        "updatedAt": "2023-10-19T10:30:15.474Z",
+        "ProductImgUrl": "uploads/Wipro Garnet 20 Watt LED Batten Pack of 3 Cool Day Light Straight Linear LED Tube Light White Pack of 3.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1030,
+      "attributes": {
+        "title": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 6GB RAM, 128GB Storage)",
+        "dealPrice": "₹ 17999",
+        "originalPrice": "₹ 19999",
+        "platform": "Amazon",
+        "discount": "10",
+        "productLink": "https://www.amazon.in/dp/B09WQY65HN?tag=thuttu_a-21&ascsubtag=1293062",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:14.580Z",
+        "updatedAt": "2023-10-19T10:30:14.580Z",
+        "ProductImgUrl": "uploads/OnePlus Nord CE 2 Lite 5G Black Dusk 6GB RAM 128GB Storage.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1029,
+      "attributes": {
+        "title": "STATUS Memory Foam Pillow for Sleeping,Orthopedic Refill Pillow Neck Pain Pillow Filter (Multi) | Soft Yet Supportive| Suitable",
+        "dealPrice": "₹ 679",
+        "originalPrice": "₹ 1799",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:13.575Z",
+        "updatedAt": "2023-10-19T10:30:13.575Z",
+        "ProductImgUrl": "uploads/STATUS Memory Foam Pillow for SleepingOrthopedic Refill Pillow Neck Pain Pillow Filter Multi Soft Yet Supportive Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1028,
+      "attributes": {
+        "title": "PROVOGUE Slim Series Quartz Analog Watch - For Men PRVG129",
+        "dealPrice": "₹ 245",
+        "originalPrice": "₹ 1999",
+        "platform": "Flipkart",
+        "discount": "88",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:12.612Z",
+        "updatedAt": "2023-10-19T10:30:12.612Z",
+        "ProductImgUrl": "uploads/PROVOGUE Slim Series Quartz Analog Watch For Men PRVG129.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1027,
+      "attributes": {
+        "title": "Kadio Analog 20 cm X 20 cm Wall Clock (Beige, with Glass, Standard)",
+        "dealPrice": "₹ 162",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:11.698Z",
+        "updatedAt": "2023-10-19T10:30:11.698Z",
+        "ProductImgUrl": "uploads/Kadio Analog 20 cm X 20 cm Wall Clock Beige with Glass Standard.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1026,
+      "attributes": {
+        "title": "pTron Newly Launched Fusion Wave 16W Bluetooth 5.0 Speaker, up to 19Hrs Playback Time, Soundbar",
+        "dealPrice": "₹ 799",
+        "originalPrice": "₹ 3199",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": "https://amazon.in/dp/B0CCMTC5NK/?tag=thuttu-21&ascsubtag=1293049",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:10.793Z",
+        "updatedAt": "2023-10-19T10:30:10.793Z",
+        "ProductImgUrl": "uploads/pTron Newly Launched Fusion Wave 16W Bluetooth 50 Speaker up to 19Hrs Playback Time Soundbar.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1025,
+      "attributes": {
+        "title": "Crompton Insta Delight 1.8L SS Electric Kettle with Auto shut-off | Dry Boil Protection | 1500 W | Boil water - Make tea, coffee, soup, instant noodles, etc. (Silvery Grey)",
+        "dealPrice": "₹ 914",
+        "originalPrice": "₹ 1500",
+        "platform": "Amazon",
+        "discount": "39",
+        "productLink": "https://amazon.in/dp/B0C6LSK39V/?tag=thuttu-21&ascsubtag=1293048",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:09.775Z",
+        "updatedAt": "2023-10-19T10:30:09.775Z",
+        "ProductImgUrl": "uploads/Crompton Insta Delight 18L SS Electric Kettle with Auto shut off Dry Boil Protection 1500 W Boil water Make tea coffee soup instant noodles etc Silvery Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1024,
+      "attributes": {
+        "title": "Lifelong LLEK15 Electric Kettle 1.5L with Stainless Steel Body, Easy and Fast Boiling of Water",
+        "dealPrice": "₹ 479",
+        "originalPrice": "₹ 1000",
+        "platform": "Amazon",
+        "discount": "52",
+        "productLink": "https://www.amazon.in/dp/B096YCN3SD?tag=thuttu-21&ascsubtag=1293044",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:08.830Z",
+        "updatedAt": "2023-10-19T10:30:08.830Z",
+        "ProductImgUrl": "uploads/Lifelong LLEK15 Electric Kettle 15L with Stainless Steel Body Easy and Fast Boiling of Water.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1023,
+      "attributes": {
+        "title": "Dove Deeply Nourishing Body Wash | 250 ml | Moisturizing Body Wash For Softer, Smoother Skin | Dove Body Wash for Women & Men | Body Wash",
+        "dealPrice": "₹ 63",
+        "originalPrice": "₹ 125",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:07.899Z",
+        "updatedAt": "2023-10-19T10:30:07.899Z",
+        "ProductImgUrl": "uploads/Dove Deeply Nourishing Body Wash 250 ml Moisturizing Body Wash For Softer Smoother Skin Dove Body Wash for Women Men Body Wash.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1022,
+      "attributes": {
+        "title": "SYSKA SQ2001-20W-SLM 20Watt Slim T5 Tubelight (Pack of 2, White)",
+        "dealPrice": "₹ 289",
+        "originalPrice": "₹ 998",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": "https://amazon.in/gp/product/B0BZQ9HS8T/?tag=thuttu_a-21&ascsubtag=1293042",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:06.646Z",
+        "updatedAt": "2023-10-19T10:30:06.646Z",
+        "ProductImgUrl": "uploads/SYSKA SQ2001 20W SLM 20Watt Slim T5 Tubelight Pack of 2 White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1021,
+      "attributes": {
+        "title": "Butterfly Friendly Inner Lid 5 Ltr Aluminium Pressure Cooker (Silver)",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 1799",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0BM6C4FZT/?tag=thuttu-21&ascsubtag=1293041",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:05.473Z",
+        "updatedAt": "2023-10-19T10:30:05.473Z",
+        "ProductImgUrl": "uploads/Butterfly Friendly Inner Lid 5 Ltr Aluminium Pressure Cooker Silver.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1020,
+      "attributes": {
+        "title": "Bedspun Grey & Red Striped Anti-Skid Doormat",
+        "dealPrice": "₹ 111",
+        "originalPrice": "₹ 399",
+        "platform": "Myntra",
+        "discount": "72",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:04.512Z",
+        "updatedAt": "2023-10-19T10:30:04.512Z",
+        "ProductImgUrl": "uploads/Bedspun Grey Red Striped Anti Skid Doormat.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1019,
+      "attributes": {
+        "title": "ASUS TUF Gaming F15, 15.6\"(39.62 cms) FHD 144Hz, Intel Core i7-11800H 11th Gen, 4GB NVIDIA GeForce RTX 3050 Ti, Gaming Laptop (16GB/512GB SSD/Windows 11/90WHrs Battery/Black/2.30 Kg), FX506HE-HN382W",
+        "dealPrice": "₹ 68990",
+        "originalPrice": "₹ 97990",
+        "platform": "Amazon",
+        "discount": "30",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-19T10:30:03.171Z",
+        "updatedAt": "2023-10-19T10:30:03.171Z",
+        "ProductImgUrl": "uploads/ASUS TUF Gaming F15 1563962 cms FHD 144Hz Intel Core i7 11800H 11th Gen 4GB NVIDIA GeForce RTX 3050 Ti Gaming Laptop 16GB512GB SSDWindows 1190WHrs BatteryBlack230 Kg FX506HE HN382W.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1018,
       "attributes": {
         "title": "Bathla Spic & Span Multi Purpose Micro Fiber Cleaning Cloth - 300 GSM: 60cmx40cm (Pack of 2 - Dark Blue + Light Green)",
@@ -4758,7 +5046,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 264
+      "total": 280
     }
   }
 }
