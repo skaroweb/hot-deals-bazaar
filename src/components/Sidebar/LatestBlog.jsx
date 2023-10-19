@@ -81,12 +81,6 @@ const LatestBlog = ({ blogExcept }) => {
                           {blog.attributes.Title}
                         </Link>
                       </div>
-                      {/* <div className="view">
-                        <span>
-                          <i className="fa fa-eye" aria-hidden="true"></i>
-                        </span>
-                        2034 Views
-                      </div> */}
                     </div>
                   ))}
                 </div>
