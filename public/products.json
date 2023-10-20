@@ -1,6 +1,366 @@
 {
   "data": [
     {
+      "id": 1075,
+      "attributes": {
+        "title": "Ant Value FKBRI03 / Auto-Stand-by, Silent Keys, 8 hot Keys Keyboard and Mouse Set Wireless Desktop Keyboard (Black)",
+        "dealPrice": "₹ 525",
+        "originalPrice": "₹ 1499",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://amazon.in/dp/B0BFXT7VT6/?tag=thuttu-21&ascsubtag=1293603",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BFXT7VT6?ascsubtag=1293603&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=03d039cbf1f6d4a741844f20a8ab55b7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:27:10.071Z",
+        "updatedAt": "2023-10-20T05:59:32.704Z",
+        "ProductImgUrl": "uploads/Ant Value FKBRI03 Auto Stand by Silent Keys 8 hot Keys Keyboard and Mouse Set Wireless Desktop Keyboard Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1074,
+      "attributes": {
+        "title": "Lamel- Foundation Stay Matte 404- Sandy| Visually smoothens skin texture |Full-coverage",
+        "dealPrice": "₹ 200",
+        "originalPrice": "₹ 450",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://amazon.in/dp/B0B1N3R2JW/?tag=thuttu-21&ascsubtag=1293602",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B1N3R2JW?ascsubtag=1293602&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a1642d2a3a75417b32a892d4695f4c9b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:27:08.989Z",
+        "updatedAt": "2023-10-20T05:58:39.728Z",
+        "ProductImgUrl": "uploads/Lamel Foundation Stay Matte 404 Sandy Visually smoothens skin texture Full coverage.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1073,
+      "attributes": {
+        "title": "Makeup Revolution Glam Balm Pretty, Pink",
+        "dealPrice": "₹ 174",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://www.amazon.in/dp/B095J2JYBW?tag=thuttu-21&ascsubtag=1293601",
+        "affiliate_product_link": "https://www.amazon.in/dp/B095J2JYBW?ascsubtag=1293601&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6af00c79760b74cf8e411a342291e4fc&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:26:09.223Z",
+        "updatedAt": "2023-10-20T05:57:41.528Z",
+        "ProductImgUrl": "uploads/Makeup Revolution Glam Balm Pretty Pink.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1072,
+      "attributes": {
+        "title": "TRESemme Keratin Smooth Deep Conditioning Kit",
+        "dealPrice": "₹ 507",
+        "originalPrice": "₹ 1720",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": "https://amazon.in/dp/B0C6XKLFWV/?tag=thuttu-21&ascsubtag=1293600",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C6XKLFWV?ascsubtag=1293600&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7475291bbbe509720f4235fffc3abc9b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:26:08.171Z",
+        "updatedAt": "2023-10-20T05:56:40.005Z",
+        "ProductImgUrl": "uploads/TRESemme Keratin Smooth Deep Conditioning Kit.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1071,
+      "attributes": {
+        "title": "Motorola A10e Dual Sim keypad Mobile with 800 mAh Battery, Expandable Storage Upto 32GB, Wireless FM with auto Call Recording - Dark Blue",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 1449",
+        "platform": "Amazon",
+        "discount": "17",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-20T05:25:08.627Z",
+        "updatedAt": "2023-10-20T05:25:08.627Z",
+        "ProductImgUrl": "uploads/Motorola A10e Dual Sim keypad Mobile with 800 mAh Battery Expandable Storage Upto 32GB Wireless FM with auto Call Recording Dark Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1070,
+      "attributes": {
+        "title": "Secret Temptation Women Swag Deodorant - 150 ml",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 199",
+        "platform": "Myntra",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-20T05:21:19.820Z",
+        "updatedAt": "2023-10-20T05:21:19.820Z",
+        "ProductImgUrl": "uploads/Secret Temptation Women Swag Deodorant 150 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1069,
+      "attributes": {
+        "title": "boAt Airdopes Flex 454 ANC TWS Earbuds with Active Noise Cancellation (IPX5 Water Resistant, ASAP Charge, Gunmetal Black)",
+        "dealPrice": "₹ 1799",
+        "originalPrice": "₹ 5990",
+        "platform": "Croma",
+        "discount": "70",
+        "productLink": "https://www.ad.admitad.com/g/rjmwpd17fqb011728c7821602b7160/?ulp=https%3A%2F%2Fwww.croma.com%2Fboat-airdopes-flex-454-anc-tws-earbuds-with-active-noise-cancellation-ipx5-water-resistant-asap-charge-gunmetal-black-%2Fp%2F301384",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-20T05:21:18.730Z",
+        "updatedAt": "2023-10-20T05:21:18.730Z",
+        "ProductImgUrl": "uploads/boAt Airdopes Flex 454 ANC TWS Earbuds with Active Noise Cancellation IPX5 Water Resistant ASAP Charge Gunmetal Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1068,
+      "attributes": {
+        "title": "Del Monte Tomato Ketchup - Classic Blend, 900g/950g",
+        "dealPrice": "₹ 79",
+        "originalPrice": "₹ 130",
+        "platform": "Amazon",
+        "discount": "39",
+        "productLink": "https://www.amazon.in/dp/B07F26ZS1K?tag=thuttu-21&ascsubtag=1284712",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07F26ZS1K?ascsubtag=1284712&linkCode=ll1&tag=hotdealsbazaar-21&linkId=195f0acc0bd6591d5e6efb3df942ada3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:17.628Z",
+        "updatedAt": "2023-10-20T05:25:27.462Z",
+        "ProductImgUrl": "uploads/Del Monte Tomato Ketchup Classic Blend 900g950g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1067,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Carbon Steel Single Sided Adjustable Spanner Set, 6 and 8 inch",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 550",
+        "platform": "Amazon",
+        "discount": "46",
+        "productLink": "https://www.amazon.in/dp/B07QPZ6T7C?tag=thuttu-21&ascsubtag=1293592",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07QPZ6T7C?ascsubtag=1293592&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ff4e29163bf62187a7fad97a0cb5e364&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:16.587Z",
+        "updatedAt": "2023-10-20T05:53:42.182Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Carbon Steel Single Sided Adjustable Spanner Set 6 and 8 inch.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1066,
+      "attributes": {
+        "title": "Jaquline USA One Stroke Premium Nail Enamel | Tangy Affair 35| 8 ml| Midnight Kiss J55| 8 ml| Chip Resistant | Voluptuous Gel Finish|Impeccable Color | Seamless Application | Long-lasting | Harmful Chemical Free",
+        "dealPrice": "₹ 54",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": "https://www.amazon.in/dp/B0797KY6Q5?tag=thuttu-21&ascsubtag=1293591",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0797KY6Q5?ascsubtag=1293591&linkCode=ll1&tag=hotdealsbazaar-21&linkId=325a5f3f3c362581cd8ccf4345ec2720&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:15.520Z",
+        "updatedAt": "2023-10-20T05:52:29.374Z",
+        "ProductImgUrl": "uploads/Jaquline USA One Stroke Premium Nail Enamel Tangy Affair 35 8 ml Midnight Kiss J55 8 ml Chip Resistant Voluptuous Gel FinishImpeccable Color Seamless Application Long lasting Harmful Chemical Free.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1065,
+      "attributes": {
+        "title": "Orion Choco Pie Premium Chocolate Gift pack (20 pies)| Diwali gift pack",
+        "dealPrice": "₹ 165",
+        "originalPrice": "₹ 350",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-20T05:21:14.465Z",
+        "updatedAt": "2023-10-20T05:21:14.465Z",
+        "ProductImgUrl": "uploads/Orion Choco Pie Premium Chocolate Gift pack 20 pies Diwali gift pack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1064,
+      "attributes": {
+        "title": "Haldirams Navratri Delight, 500g, Deliciously Divine Treats",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0CHYT5KRT/?tag=thuttu_a-21&ascsubtag=1292114",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CHYT5KRT?ascsubtag=1292114&linkCode=ll1&tag=hotdealsbazaar-21&linkId=43f86da1f30d8e9b985ab6b469754800&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:13.285Z",
+        "updatedAt": "2023-10-20T05:48:30.257Z",
+        "ProductImgUrl": "uploads/Haldirams Navratri Delight 500g Deliciously Divine Treats.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1063,
+      "attributes": {
+        "title": "Sounce Universal Bike Mount Phone Holder Metal Body 360 Degree Rotating Handlebar Durable Bike Accessory Lightweight Anti-Scratch Cradle Stand",
+        "dealPrice": "₹ 225",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://amazon.in/dp/B0C4SZF4K5/?tag=thuttu-21&ascsubtag=1293589",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C4SZF4K5?ascsubtag=1293589&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=23476fa8330d1727c9d92325090550fb&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:12.203Z",
+        "updatedAt": "2023-10-20T05:46:54.799Z",
+        "ProductImgUrl": "uploads/Sounce Universal Bike Mount Phone Holder Metal Body 360 Degree Rotating Handlebar Durable Bike Accessory Lightweight Anti Scratch Cradle Stand.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1062,
+      "attributes": {
+        "title": "Koel by lavie Women's Western (Beige)",
+        "dealPrice": "₹ 329",
+        "originalPrice": "₹ 1299",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": "https://www.amazon.in/dp/B09FKJ4RTP?tag=thuttu-21&ascsubtag=1293588",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09FKJ4RTP?ascsubtag=1293588&linkCode=ll1&tag=hotdealsbazaar-21&linkId=0833fa67bc39db20929b3f51c763eeb5&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:10.965Z",
+        "updatedAt": "2023-10-20T05:43:36.942Z",
+        "ProductImgUrl": "uploads/Koel by lavie Womens Western Beige.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1061,
+      "attributes": {
+        "title": "Sounce Universal Car Mobile Holder with One Click Technology, 360° Rotational, Strong ABS Body, Compatible with 4 to 7 Inch Devices, Windshield and Dashboard Mobile Holder Mount",
+        "dealPrice": "₹ 189",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://amazon.in/dp/B0C8JMHCGQ/?tag=thuttu-21&ascsubtag=1293587",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C8JMHCGQ?ascsubtag=1293587&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8163e30a88827267d4db1d9dd7b204a0&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:09.844Z",
+        "updatedAt": "2023-10-20T05:42:39.962Z",
+        "ProductImgUrl": "uploads/Sounce Universal Car Mobile Holder with One Click Technology 360 Rotational Strong ABS Body Compatible with 4 to 7 Inch Devices Windshield and Dashboard Mobile Holder Mount.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1060,
+      "attributes": {
+        "title": "Tabelito® Basic Laptop Bag Laptop Cover Laptop Bags Laptop Sleeve Office Bag Laptop Bag 15.6 inch(39.6cm) Laptop Apple/Lenovo/Asus/Hp/MacBook/Thinkpad/Ideapad (Grey)",
+        "dealPrice": "₹ 257",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "74",
+        "productLink": "https://www.amazon.in/dp/B09NDTW8SP?tag=thuttu-21&ascsubtag=1293586",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09NDTW8SP?ascsubtag=1293586&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b6e5ea37f512f090d58160eba8fb982b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:08.795Z",
+        "updatedAt": "2023-10-20T05:41:40.055Z",
+        "ProductImgUrl": "uploads/Tabelito Basic Laptop Bag Laptop Cover Laptop Bags Laptop Sleeve Office Bag Laptop Bag 156 inch396cm Laptop AppleLenovoAsusHpMacBookThinkpadIdeapad Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1059,
+      "attributes": {
+        "title": "Silver's Junior JB-190 COMBO2 Badminton Kit",
+        "dealPrice": "₹ 332",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://www.amazon.in/dp/B01I1T1CWQ?tag=thuttu_a-21&ascsubtag=1293585",
+        "affiliate_product_link": "https://www.amazon.in/dp/B01I1T1CWQ?ascsubtag=1293585&linkCode=ll1&tag=hotdealsbazaar-21&linkId=0a49ad0ef9e167c305288c8a98bb9a12&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:07.628Z",
+        "updatedAt": "2023-10-20T05:40:30.467Z",
+        "ProductImgUrl": "uploads/Silvers Junior JB 190 COMBO2 Badminton Kit.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1058,
+      "attributes": {
+        "title": "Microtek EMT1390 10-Watt Voltage Automatic Stabilizer) (Black)",
+        "dealPrice": "₹ 1099",
+        "originalPrice": "₹ 2090",
+        "platform": "Amazon",
+        "discount": "47",
+        "productLink": "https://www.amazon.in/dp/B06XD8FZ4X?tag=thuttu_a-21&ascsubtag=1293584",
+        "affiliate_product_link": "https://www.amazon.in/dp/B06XD8FZ4X?ascsubtag=1293584&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a858630b83042fc96fc17b73c95ebcd1&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:06.449Z",
+        "updatedAt": "2023-10-20T05:39:34.487Z",
+        "ProductImgUrl": "uploads/Microtek EMT1390 10 Watt Voltage Automatic Stabilizer Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1057,
+      "attributes": {
+        "title": "Tosaa Dry Fruit Cutter, Slicer, Grinder, Chocolate Cutter and Butter Slicer with 3 in 1 Blade Almonds, Cashews- Color May Vary (Pack of 1, Abs/Unbreakable)",
+        "dealPrice": "₹ 64",
+        "originalPrice": "₹ 299",
+        "platform": "Amazon",
+        "discount": "79",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-20T05:21:03.863Z",
+        "updatedAt": "2023-10-20T05:21:03.863Z",
+        "ProductImgUrl": "uploads/Tosaa Dry Fruit Cutter Slicer Grinder Chocolate Cutter and Butter Slicer with 3 in 1 Blade Almonds Cashews Color May Vary Pack of 1 AbsUnbreakable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1056,
+      "attributes": {
+        "title": "Fire-Boltt Ninja Call Pro Smart Watch Dual Chip Bluetooth Calling, 1.69\" Display, AI Voice Assistance with 100 Sports Modes, with SpO2 & Heart Rate Monitoring",
+        "dealPrice": "₹ 1049",
+        "originalPrice": "₹ 17999",
+        "platform": "Amazon",
+        "discount": "94",
+        "productLink": "https://amazon.in/dp/B0B852Z6GY/?tag=thuttu-21&ascsubtag=1293581",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B852Z6GY?ascsubtag=1293581&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=4156fd804ca246c111f586292ee2123f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-20T05:21:02.680Z",
+        "updatedAt": "2023-10-20T05:36:57.829Z",
+        "ProductImgUrl": "uploads/Fire Boltt Ninja Call Pro Smart Watch Dual Chip Bluetooth Calling 169 Display AI Voice Assistance with 100 Sports Modes with SpO2 Heart Rate Monitoring.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1055,
       "attributes": {
         "title": "Haldiram's Dry Agra Petha, 350g/400g (Weight May Vary), Indian Sweets Diwali Gift Pack",
@@ -5424,7 +5784,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 301
+      "total": 321
     }
   }
 }
