@@ -68,6 +68,9 @@ function BlogSinglePost({ setBlogExcept }) {
             <Breadcrumb items={breadcrumbItems} />
             <article id="content">
               <div className="post-detail">
+                <h1 className="heading3">
+                  <strong>{post.attributes.Title}</strong>
+                </h1>
                 <div className="Single_post_img_holder">
                   {post.attributes && post.attributes.Featured_image_url ? (
                     <img
@@ -84,9 +87,6 @@ function BlogSinglePost({ setBlogExcept }) {
                   )}
                 </div>
                 <div className="txt-holder">
-                  <h1 className="heading3">
-                    <strong>{post.attributes.Title}</strong>
-                  </h1>
                   <div
                     className="single_post_para"
                     dangerouslySetInnerHTML={{
