@@ -13,12 +13,16 @@ const Homepage = () => {
     setSelectedShops(selectedValues);
   };
 
+  const currentURL = window.location.href;
+
   return (
     <>
       <HelmetProvider>
         <SEO
           Meta_title="HotDealsBazaar - Unearth Exclusive Daily Deals on Products"
           Meta_description="Discover unbeatable daily deals on a wide range of products at HotDealsBazaar. We curate the freshest deals just for you. Get the best discounts with every visit."
+          OG_url={currentURL}
+          canonical_url={currentURL}
         />
         <div className="container">
           <div className="row d-flex flex-md-row flex-column-reverse">

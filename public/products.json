@@ -1,6 +1,258 @@
 {
   "data": [
     {
+      "id": 1235,
+      "attributes": {
+        "title": "Van Heusen Men's Formal Shirt Upto 81% off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?k=van+heusen+shirts+for+men&i=apparel&rh=n%3A1571271031%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&tag=thuttu-21&ascsubtag=1297714",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:34.197Z",
+        "updatedAt": "2023-10-27T06:30:34.197Z",
+        "ProductImgUrl": "uploads/Van Heusen Mens Formal Shirt Upto 81 off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1234,
+      "attributes": {
+        "title": "Liril Cooling Mint Soap 125g B3G1",
+        "dealPrice": "₹ 175",
+        "originalPrice": "₹ 250",
+        "platform": "Amazon",
+        "discount": "30",
+        "productLink": "https://amazon.in/dp/B0CDGZ4YXH/?tag=thuttu-21&ascsubtag=1297713",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:32.035Z",
+        "updatedAt": "2023-10-27T06:30:32.035Z",
+        "ProductImgUrl": "uploads/Liril Cooling Mint Soap 125g B3G1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1233,
+      "attributes": {
+        "title": "Dettol Body Wash and Shower Gel",
+        "dealPrice": "₹ 216",
+        "originalPrice": "₹ 400",
+        "platform": "Amazon",
+        "discount": "46",
+        "productLink": "https://www.amazon.in/dp/B07XTR5SPL?tag=thuttu-21&ascsubtag=1297712",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:29.933Z",
+        "updatedAt": "2023-10-27T06:30:29.933Z",
+        "ProductImgUrl": "uploads/Dettol Body Wash and Shower Gel.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1232,
+      "attributes": {
+        "title": "Men T-Shirts Starts At Rs.105",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Ajio",
+        "discount": "",
+        "productLink": "https://ad.admitad.com/g/gobb106sd9b011728c78a663530cb9/?ulp=https%3A%2F%2Fwww.ajio.com%2Fmen-tshirts%2Fc%2F830216014%3Fcustomertype%3DExisting%26gridColumns%3D3%26query%3D%253Aprce-asc%253Al1l3nestedcategory%253AMen%2B-%2BTshirts%253Agenderfilter%253AMen%253Adiscount%253A81-100%2525%253Adiscount%253A51-80%2525%253Adiscount%253A41-50%2525%26segmentIds%3D9",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:27.871Z",
+        "updatedAt": "2023-10-27T06:30:27.871Z",
+        "ProductImgUrl": "uploads/Men T Shirts Starts At Rs105.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1231,
+      "attributes": {
+        "title": "EMAMI 7 Oils in one 500ml + Kesh King Shampoo Damage Repair 340ml  (2 Items in the set)",
+        "dealPrice": "₹ 259",
+        "originalPrice": "₹ 649",
+        "platform": "Flipkart",
+        "discount": "60",
+        "productLink": "https://www.flipkart.com/emami-7-oils-one-500ml-kesh-king-shampoo-damage-repair-340ml/p/itm3a025aad24be1?pid=HOLGH97PFNZZWZ6H",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:25.186Z",
+        "updatedAt": "2023-10-27T06:30:25.186Z",
+        "ProductImgUrl": "uploads/EMAMI 7 Oils in one 500ml Kesh King Shampoo Damage Repair 340ml 2 Items in the set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1230,
+      "attributes": {
+        "title": "JBL Tune 520BT Wireless On Ear Headphones with Mic, Pure Bass Sound, Upto 57 Hrs Playtime, Speedcharge, Customizable Bass with Headphones App, Lightweight, Bluetooth 5.3 (Black)",
+        "dealPrice": "₹ 3200",
+        "originalPrice": "₹ 4999",
+        "platform": "Amazon",
+        "discount": "36",
+        "productLink": "https://amazon.in/dp/B0C3V5X3QT/?tag=thuttu-21&ascsubtag=1297709",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:22.998Z",
+        "updatedAt": "2023-10-27T06:30:22.998Z",
+        "ProductImgUrl": "uploads/JBL Tune 520BT Wireless On Ear Headphones with Mic Pure Bass Sound Upto 57 Hrs Playtime Speedcharge Customizable Bass with Headphones App Lightweight Bluetooth 53 Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1229,
+      "attributes": {
+        "title": "Zebronics CM01 M.2 SATA SSD Enclosure with Aluminum Case, Type-C 3.1 Gen 1, Upto 5Gbps* and Upto 2TB Max. Storage Capacity.",
+        "dealPrice": "₹ 549",
+        "originalPrice": "₹ 2499",
+        "platform": "Amazon",
+        "discount": "78",
+        "productLink": "https://amazon.in/dp/B0C4L8VYZZ/?tag=thuttu_i-21&ascsubtag=1297708",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:20.886Z",
+        "updatedAt": "2023-10-27T06:30:20.886Z",
+        "ProductImgUrl": "uploads/Zebronics CM01 M2 SATA SSD Enclosure with Aluminum Case Type C 31 Gen 1 Upto 5Gbps and Upto 2TB Max Storage Capacity.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1228,
+      "attributes": {
+        "title": "Ganesh Plastic Vegetable Slicer Cutter, Black",
+        "dealPrice": "₹ 74",
+        "originalPrice": "₹ 144",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": "https://www.amazon.in/dp/B07MQ1QX3F?tag=thuttu-21&ascsubtag=1297706",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:18.166Z",
+        "updatedAt": "2023-10-27T06:30:18.166Z",
+        "ProductImgUrl": "uploads/Ganesh Plastic Vegetable Slicer Cutter Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1227,
+      "attributes": {
+        "title": "AZAH Period Pain Relief Heat Patches - Pack of 3 | For Period Pain and Cramps | Heating Patches",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 329",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:16.160Z",
+        "updatedAt": "2023-10-27T06:30:16.160Z",
+        "ProductImgUrl": "uploads/AZAH Period Pain Relief Heat Patches Pack of 3 For Period Pain and Cramps Heating Patches.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1226,
+      "attributes": {
+        "title": "Aristocrat Unisex Turquoise Blue Solid TRIUMPH 55 Cabin Trolley Suitcase",
+        "dealPrice": "₹ 1299",
+        "originalPrice": "₹ 8370",
+        "platform": "Myntra",
+        "discount": "84",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:13.689Z",
+        "updatedAt": "2023-10-27T06:30:13.689Z",
+        "ProductImgUrl": "uploads/Aristocrat Unisex Turquoise Blue Solid TRIUMPH 55 Cabin Trolley Suitcase.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1225,
+      "attributes": {
+        "title": "Havells 9W LED Bulb (Cool White), Pack of 1",
+        "dealPrice": "₹ 65",
+        "originalPrice": "₹ 150",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:11.563Z",
+        "updatedAt": "2023-10-27T06:30:11.563Z",
+        "ProductImgUrl": "uploads/Havells 9W LED Bulb Cool White Pack of 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1224,
+      "attributes": {
+        "title": "[For HDFC Bank Credit Card EMI] Voltas 1.4 Ton 3 Star Inverter Split AC(Copper, Adjustable Cooling, Anti-dust Filter, 2023 Model, 173V Vectra Platina, White)",
+        "dealPrice": "₹ 27999",
+        "originalPrice": "₹ 70990",
+        "platform": "Amazon",
+        "discount": "61",
+        "productLink": "https://amazon.in/dp/B0BRJ7N92P/?tag=thuttu-21&ascsubtag=1297700",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:09.511Z",
+        "updatedAt": "2023-10-27T06:30:09.511Z",
+        "ProductImgUrl": "uploads/For HDFC Bank Credit Card EMI Voltas 14 Ton 3 Star Inverter Split ACCopper Adjustable Cooling Anti dust Filter 2023 Model 173V Vectra Platina White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1223,
+      "attributes": {
+        "title": "Lifelong Yoga mat for Women & Men EVA Material 4mm Anti-Slip Yoga Mat with Strap",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:07.385Z",
+        "updatedAt": "2023-10-27T06:30:07.385Z",
+        "ProductImgUrl": "uploads/Lifelong Yoga mat for Women Men EVA Material 4mm Anti Slip Yoga Mat with Strap.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1222,
+      "attributes": {
+        "title": "Fiama Shower Gel Blackcurrant & Bearberry Body Wash With Skin Conditioners For Radiant Glow, 500ml Pump",
+        "dealPrice": "₹ 145",
+        "originalPrice": "₹ 449",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T06:30:05.333Z",
+        "updatedAt": "2023-10-27T06:30:05.333Z",
+        "ProductImgUrl": "uploads/Fiama Shower Gel Blackcurrant Bearberry Body Wash With Skin Conditioners For Radiant Glow 500ml Pump.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1221,
       "attributes": {
         "title": "[For SBI Credit Card Emi] Lenovo V15 Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) V15 G3 IAP Thin and Light Laptop  (15.6 Inch, Iron Grey, 1.7 Kg)",
@@ -7044,7 +7296,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 391
+      "total": 405
     }
   }
 }

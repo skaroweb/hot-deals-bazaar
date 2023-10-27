@@ -84,12 +84,15 @@ const BlogList = () => {
 
     return year + "-" + month + "-" + day + " " + hours + ":" + minutes;
   }
+  const currentURL = window.location.href;
   return (
     <HelmetProvider>
       <div>
         <SEO
           Meta_title="Discover the Hotdealsbazaar Blog - Stay Updated on Deals"
           Meta_description="Stay informed about the latest deals and get valuable insights into various products by visiting the Hotdealsbazaar blog."
+          OG_url={currentURL}
+          canonical_url={currentURL}
         />
 
         <section className="blog-sec container pad-top-lg pad-bottom-md">

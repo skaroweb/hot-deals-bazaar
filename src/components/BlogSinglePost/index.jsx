@@ -54,6 +54,7 @@ function BlogSinglePost({ setBlogExcept }) {
     { label: "Blog", path: "/blog" },
     { label: `${post?.attributes.Title}`, path: `/blog/${id}` }, // Dynamic breadcrumb
   ];
+  const currentURL = window.location.href;
 
   return (
     <HelmetProvider>
@@ -64,6 +65,8 @@ function BlogSinglePost({ setBlogExcept }) {
               Meta_title={post.attributes.Meta_title}
               Meta_description={post.attributes.Meta_description}
               OG_image={StrapiCMSURL + post.attributes.Featured_image_url}
+              OG_url={currentURL}
+              canonical_url={currentURL}
             />
             <Breadcrumb items={breadcrumbItems} />
             <article id="content">

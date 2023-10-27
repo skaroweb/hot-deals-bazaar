@@ -5,7 +5,6 @@ import "./index.css";
 import Breadcrumb from "../Util/Breadcrumb";
 
 function Innerpage({ page }) {
-  const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
   const location = useLocation();
 
   if (!page) {
@@ -18,12 +17,16 @@ function Innerpage({ page }) {
     { label: `${pageTitle}`, path: `${location.pathname}` }, // Dynamic breadcrumb
   ];
 
+  const currentURL = window.location.href;
+
   return (
     <HelmetProvider>
       <div>
         <SEO
           Meta_title={page.attributes && page.attributes.Meta_title}
           Meta_description={page.attributes && page.attributes.Meta_description}
+          OG_url={currentURL}
+          canonical_url={currentURL}
         />
         <Breadcrumb items={breadcrumbItems} />
         <article id="content">
