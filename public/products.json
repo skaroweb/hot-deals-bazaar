@@ -1,288 +1,396 @@
 {
   "data": [
     {
-      "id": 1185,
+      "id": 1221,
       "attributes": {
-        "title": "Pigeon by Stovekraft 12708 Aluminium Pressure Cooker Combo, Outer Lid, Without Induction Base (2 litre and 3 litre, Silver)",
-        "dealPrice": "₹ 799",
-        "originalPrice": "₹ 1995",
+        "title": "[For SBI Credit Card Emi] Lenovo V15 Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) V15 G3 IAP Thin and Light Laptop  (15.6 Inch, Iron Grey, 1.7 Kg)",
+        "dealPrice": "₹ 32240",
+        "originalPrice": "₹ 58187",
+        "platform": "Flipkart",
+        "discount": "45",
+        "productLink": "https://www.flipkart.com/aquire-extra-large-pvc-vinyl-sticker/p/itme4vr5zgpgyfud?pid=COMGZ3SPQHTUNRKG",
+        "affiliate_product_link": "https://www.flipkart.com/aquire-extra-large-pvc-vinyl-sticker/p/itme4vr5zgpgyfud?pid=COMGZ3SPQHTUNRKG&affid=mithunvel",
+        "createdAt": "2023-10-27T05:01:09.207Z",
+        "updatedAt": "2023-10-27T05:07:30.466Z",
+        "ProductImgUrl": "uploads/For SBI Credit Card Emi Lenovo V15 Core i3 12th Gen 1215U 8 GB512 GB SSDWindows 11 Home V15 G3 IAP Thin and Light Laptop 156 Inch Iron Grey 17 Kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1220,
+      "attributes": {
+        "title": "Corsair Katar Pro Wired Optical Gaming Mouse  (USB 3.0, Black)",
+        "dealPrice": "₹ 1098",
+        "originalPrice": "₹ 2400",
+        "platform": "Flipkart",
+        "discount": "54",
+        "productLink": "https://www.flipkart.com/aquire-extra-large-pvc-vinyl-sticker/p/itme4vr5zgpgyfud?pid=ACCG9WHASFYXDSHJ",
+        "affiliate_product_link": "https://www.flipkart.com/aquire-extra-large-pvc-vinyl-sticker/p/itme4vr5zgpgyfud?pid=ACCG9WHASFYXDSHJ&affid=mithunvel",
+        "createdAt": "2023-10-27T04:59:09.018Z",
+        "updatedAt": "2023-10-27T05:07:42.508Z",
+        "ProductImgUrl": "uploads/Corsair Katar Pro Wired Optical Gaming Mouse USB 30 Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1219,
+      "attributes": {
+        "title": "Cosmic Byte GS410 Wired Over-Ear Headphones with mic and",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 1199",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://www.amazon.in/dp/B07K7YR8SP?tag=thuttu-21&ascsubtag=1296498",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07K7YR8SP?ascsubtag=1296498&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=09c9bc9ca97aa7949bf2a9891d08d08b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:58:11.407Z",
+        "updatedAt": "2023-10-27T05:18:54.053Z",
+        "ProductImgUrl": "uploads/Cosmic Byte GS410 Wired Over Ear Headphones with mic and.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1218,
+      "attributes": {
+        "title": "Kesh King Ayurvedic Anti-Dandruff, Reduces Hair Fall Soothes Itchy Scalp No Paraben & No Silicon, 21 Natural Ingredients The Goodness Of Curd, Lemon And Neem Shampoo For Women And Men - 600 Ml",
+        "dealPrice": "₹ 252",
+        "originalPrice": "₹ 630",
         "platform": "Amazon",
         "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B09LCZP6NS?tag=thuttu-21&ascsubtag=1297665",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09LCZP6NS?ascsubtag=1297665&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=13c7dc55a886c2ebdb3d97842b315f5c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:58:10.232Z",
+        "updatedAt": "2023-10-27T05:17:51.602Z",
+        "ProductImgUrl": "uploads/Kesh King Ayurvedic Anti Dandruff Reduces Hair Fall Soothes Itchy Scalp No Paraben No Silicon 21 Natural Ingredients The Goodness Of Curd Lemon And Neem Shampoo For Women And Men 600 Ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1217,
+      "attributes": {
+        "title": "Corsair Ironclaw RGB Optical FPS/MOBA Wired Gaming Mouse - 18000 DPI Optical Sensor - Black",
+        "dealPrice": "₹ 1999",
+        "originalPrice": "₹ 5700",
+        "platform": "Amazon",
+        "discount": "65",
         "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:16.225Z",
-        "updatedAt": "2023-10-25T06:30:16.225Z",
-        "ProductImgUrl": "uploads/Pigeon by Stovekraft 12708 Aluminium Pressure Cooker Combo Outer Lid Without Induction Base 2 litre and 3 litre Silver.jpg",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07MZFQ6CL?ascsubtag=1297664&linkCode=ll1&tag=hotdealsbazaar-21&linkId=129325dcb013ae771db88ef52f24166e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:58:08.999Z",
+        "updatedAt": "2023-10-27T05:16:55.909Z",
+        "ProductImgUrl": "uploads/Corsair Ironclaw RGB Optical FPSMOBA Wired Gaming Mouse 18000 DPI Optical Sensor Black.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1184,
+      "id": 1216,
       "attributes": {
-        "title": "LAKMÉ Absolute Skin Dew Serum Foundation Gel, 30ml - Cool Rose",
-        "dealPrice": "₹ 269",
-        "originalPrice": "₹ 875",
+        "title": "Lenovo IdeaPad Slim 3 Ryzen 3 7320U 15.6 inch (39.6cm) FHD Laptop (8GB/512GB SSD/Windows 11/Office 2021/Alexa Built-in/3 Month Game Pass/Arctic Grey/1.62Kg), 82XQ008DIN",
+        "dealPrice": "₹ 32790",
+        "originalPrice": "₹ 54090",
         "platform": "Amazon",
-        "discount": "69",
-        "productLink": "https://amazon.in/dp/B0BD8BLN9K/?tag=thuttu-21&ascsubtag=1296607",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:15.246Z",
-        "updatedAt": "2023-10-25T06:30:15.246Z",
-        "ProductImgUrl": "uploads/LAKM Absolute Skin Dew Serum Foundation Gel 30ml Cool Rose.jpg",
+        "discount": "39",
+        "productLink": "https://amazon.in/gp/product/B0CCP88X9Q/?tag=thuttu-21&ascsubtag=1297662",
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B0CCP88X9Q?ascsubtag=1297662&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a59115d953fa70743852acae5b7e6898&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:58:07.877Z",
+        "updatedAt": "2023-10-27T05:16:03.995Z",
+        "ProductImgUrl": "uploads/Lenovo IdeaPad Slim 3 Ryzen 3 7320U 156 inch 396cm FHD Laptop 8GB512GB SSDWindows 11Office 2021Alexa Built in3 Month Game PassArctic Grey162Kg 82XQ008DIN.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1183,
+      "id": 1215,
       "attributes": {
-        "title": "Philips 3W StarSurface Striker Cabinet Natural White Flush Mount Ceiling Lamp (Pack of 2)",
-        "dealPrice": "₹ 288",
-        "originalPrice": "₹ 450",
-        "platform": "Amazon",
-        "discount": "36",
-        "productLink": "https://www.amazon.in/dp/B0822JSJRV?tag=thuttu-21&ascsubtag=1296606",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:14.157Z",
-        "updatedAt": "2023-10-25T06:30:14.157Z",
-        "ProductImgUrl": "uploads/Philips 3W StarSurface Striker Cabinet Natural White Flush Mount Ceiling Lamp Pack of 2.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1182,
-      "attributes": {
-        "title": "Cello H2O Plastic Bottle , 1 L, Set of 3, Colour May Vary, Multicolour",
-        "dealPrice": "₹ 293",
-        "originalPrice": "₹ 591",
-        "platform": "Amazon",
-        "discount": "50",
-        "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:13.208Z",
-        "updatedAt": "2023-10-25T06:30:13.208Z",
-        "ProductImgUrl": "uploads/Cello H2O Plastic Bottle 1 L Set of 3 Colour May Vary Multicolour.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1181,
-      "attributes": {
-        "title": "Cello Diamond Plastic Kitchen Storage Containers with Air Tight Lids | 8pcs x 300ml Each | 8pcs x 650ml Each | 8pcs x 1200ml Each | Set of 24-Pieces, Clear",
-        "dealPrice": "₹ 616",
-        "originalPrice": "₹ 2176",
-        "platform": "Amazon",
-        "discount": "72",
-        "productLink": "https://amazon.in/dp/B0BPCQBCNP/?tag=thuttu-21&ascsubtag=1296604",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:12.316Z",
-        "updatedAt": "2023-10-25T06:30:12.316Z",
-        "ProductImgUrl": "uploads/Cello Diamond Plastic Kitchen Storage Containers with Air Tight Lids 8pcs x 300ml Each 8pcs x 650ml Each 8pcs x 1200ml Each Set of 24 Pieces Clear.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1180,
-      "attributes": {
-        "title": "boAt Newly Launched Stone 352 Bluetooth Speaker with 10W RMS Stereo Sound, TWS Feature, Up to 12H Total Playtime, Multi-Compatibility Modes and Type-C Charging(Electric Blue- Thor Edition)",
-        "dealPrice": "₹ 1499",
-        "originalPrice": "₹ 3490",
-        "platform": "Amazon",
-        "discount": "57",
-        "productLink": "https://amazon.in/dp/B0CG63T75Q/?tag=thuttu-21&ascsubtag=1296603",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:11.424Z",
-        "updatedAt": "2023-10-25T06:30:11.424Z",
-        "ProductImgUrl": "uploads/boAt Newly Launched Stone 352 Bluetooth Speaker with 10W RMS Stereo Sound TWS Feature Up to 12H Total Playtime Multi Compatibility Modes and Type C ChargingElectric Blue Thor Edition.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1179,
-      "attributes": {
-        "title": "[For SBI Credit Card] SAMSUNG 7.5 kg 5 star,Air Turbo Drying Semi Automatic Top Load Washing Machine Blue, Grey  (WT75M3200LL/TL)",
-        "dealPrice": "₹ 10116",
-        "originalPrice": "₹ 15500",
+        "title": "METRONAUT Small Cabin Suitcase (55 cm) - FRILL - Red",
+        "dealPrice": "₹ 749",
+        "originalPrice": "₹ 2199",
         "platform": "Flipkart",
-        "discount": "35",
-        "productLink": "https://www.flipkart.com/samsung-7-5-kg-5-star-air-turbo-drying-semi-automatic-top-load-washing-machine-blue-grey/p/itmecde21cc327fa?pid=WMNGGSK86PGTMGHX",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:10.482Z",
-        "updatedAt": "2023-10-25T06:30:10.482Z",
-        "ProductImgUrl": "uploads/For SBI Credit Card SAMSUNG 75 kg 5 starAir Turbo Drying Semi Automatic Top Load Washing Machine Blue Grey WT75M3200LLTL.jpg",
+        "discount": "66",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/metronaut-frill-cabin-suitcase-22-inch/p/itmb1a6015adac2b?pid=STCGHEKQARAAUMZM&affid=mithunvel",
+        "createdAt": "2023-10-27T04:46:18.706Z",
+        "updatedAt": "2023-10-27T04:52:28.609Z",
+        "ProductImgUrl": "uploads/METRONAUT Small Cabin Suitcase 55 cm FRILL Red.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1178,
+      "id": 1214,
       "attributes": {
-        "title": "Ambrane 60W Type C to Type C Fast Charging Cable, L Shape for Easy Holding, PD Technology, 480Mbps Data Sync",
+        "title": "Fire-Boltt Phoenix Pro 1.39\" Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2, Heart Rate Monitoring (Black)",
+        "dealPrice": "₹ 999",
+        "originalPrice": "₹ 11999",
+        "platform": "Amazon",
+        "discount": "92",
+        "productLink": "https://amazon.in/dp/B0BRKXXPZ7/?tag=thuttu-21&ascsubtag=1297660",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BRKXXPZ7?ascsubtag=1297660&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a855d3874edb74775de8f1159a305b38&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:17.541Z",
+        "updatedAt": "2023-10-27T05:14:54.230Z",
+        "ProductImgUrl": "uploads/Fire Boltt Phoenix Pro 139 Bluetooth Calling Smartwatch AI Voice Assistant Metal Body with 120 Sports Modes SpO2 Heart Rate Monitoring Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1213,
+      "attributes": {
+        "title": "Lead Free Turmeric Powder | Haldi Powder Lead free (100 gm)",
+        "dealPrice": "₹ 98",
+        "originalPrice": "₹ 150",
+        "platform": "Amazon",
+        "discount": "35",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09NXX1JQ4?ascsubtag=1297659&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2a19ce18563ab7c8a7377f5948e9a99f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:16.356Z",
+        "updatedAt": "2023-10-27T05:13:26.410Z",
+        "ProductImgUrl": "uploads/Lead Free Turmeric Powder Haldi Powder Lead free 100 gm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1212,
+      "attributes": {
+        "title": "Ruhe® Demure Bib Cock Long Body Brass Faucet | Bib Tap",
+        "dealPrice": "₹ 350",
+        "originalPrice": "₹ 1150",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": "https://www.amazon.in/dp/B08MF3BQTP?tag=thuttu-21&ascsubtag=1297658",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08MF3BQTP?ascsubtag=1297658&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c483ebd9d50b0eaba1d57f3844d3434f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:15.335Z",
+        "updatedAt": "2023-10-27T05:12:22.338Z",
+        "ProductImgUrl": "uploads/Ruhe Demure Bib Cock Long Body Brass Faucet Bib Tap.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1211,
+      "attributes": {
+        "title": "SLOVIC Exercise & Stretching Resistance Band Set For Men & Women Workout Heavy Resistance Tube  (Black)",
+        "dealPrice": "₹ 169",
+        "originalPrice": "₹ 349",
+        "platform": "Flipkart",
+        "discount": "52",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=RTBGQJK5Z6RPZHTN",
+        "affiliate_product_link": "https://www.flipkart.com/flipkart/p/item?pid=RTBGQJK5Z6RPZHTN&affid=mithunvel",
+        "createdAt": "2023-10-27T04:46:14.291Z",
+        "updatedAt": "2023-10-27T04:52:50.579Z",
+        "ProductImgUrl": "uploads/SLOVIC Exercise Stretching Resistance Band Set For Men Women Workout Heavy Resistance Tube Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1210,
+      "attributes": {
+        "title": "Mivi ThunderBeats 2 Upgraded Audio Bluetooth Wireless in Ear Earphones with Superior Sound, Powerful Bass, 14 Hours Playtime, Comfortable Fit, Bluetooth 5.0 with mic (Black)",
+        "dealPrice": "₹ 471",
+        "originalPrice": "₹ 1299",
+        "platform": "Amazon",
+        "discount": "64",
+        "productLink": "https://www.amazon.in/dp/B09SBCLGZM?tag=thuttu-21&ascsubtag=1292013",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09SBCLGZM?ascsubtag=1292013&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=47e255eb8dea53f4cc084e016469bd35&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:12.914Z",
+        "updatedAt": "2023-10-27T05:11:29.030Z",
+        "ProductImgUrl": "uploads/Mivi ThunderBeats 2 Upgraded Audio Bluetooth Wireless in Ear Earphones with Superior Sound Powerful Bass 14 Hours Playtime Comfortable Fit Bluetooth 50 with mic Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1209,
+      "attributes": {
+        "title": "LuvLap Soft Flannel Baby Blanket, 80cm x 100cm, Sky Blue Bear",
         "dealPrice": "₹ 119",
         "originalPrice": "₹ 499",
         "platform": "Amazon",
         "discount": "76",
-        "productLink": "https://amazon.in/dp/B0BWRBW3FK/?tag=thuttu-21&ascsubtag=1296601",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:09.528Z",
-        "updatedAt": "2023-10-25T06:30:09.528Z",
-        "ProductImgUrl": "uploads/Ambrane 60W Type C to Type C Fast Charging Cable L Shape for Easy Holding PD Technology 480Mbps Data Sync.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1177,
-      "attributes": {
-        "title": "Fruzis Fashion Men Solid Round Neck Elastane Black T-Shirt",
-        "dealPrice": "₹ 81",
-        "originalPrice": "₹ 799",
-        "platform": "Flipkart",
-        "discount": "90",
         "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:08.614Z",
-        "updatedAt": "2023-10-25T06:30:08.614Z",
-        "ProductImgUrl": "uploads/Fruzis Fashion Men Solid Round Neck Elastane Black T Shirt.jpg",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0837VPJKX?ascsubtag=1297655&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=3f767beed0b56775364f9ca1e3b5c78e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:11.841Z",
+        "updatedAt": "2023-10-27T05:10:22.418Z",
+        "ProductImgUrl": "uploads/LuvLap Soft Flannel Baby Blanket 80cm x 100cm Sky Blue Bear.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1176,
+      "id": 1208,
       "attributes": {
-        "title": "Prestige Atlas Electric Kettle  (1.5 L, Blue, Silver)",
-        "dealPrice": "₹ 599",
-        "originalPrice": "₹ 1245",
-        "platform": "Flipkart",
-        "discount": "52",
-        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=EKTFGQYWFK6DCJPZ",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:07.659Z",
-        "updatedAt": "2023-10-25T06:30:07.659Z",
-        "ProductImgUrl": "uploads/Prestige Atlas Electric Kettle 15 L Blue Silver.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1175,
-      "attributes": {
-        "title": "Wings Phantom Truly Wireless in Ear Earbuds with LED Battery Indiacator 50ms Low Latency 40Hrs Playtime, MEMS with Mic, Bluetooth 5.3, IPX5 Resistant, for Best Calling and Designed",
-        "dealPrice": "₹ 599",
-        "originalPrice": "₹ 4999",
+        "title": "LuvLap Soft Flannel Baby Blanket, 80cm x 100cm, Grey Owl",
+        "dealPrice": "₹ 118",
+        "originalPrice": "₹ 329",
         "platform": "Amazon",
-        "discount": "88",
-        "productLink": "https://www.amazon.in/dp/B08T96R3XJ?tag=thuttu-21&ascsubtag=1296597",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:06.758Z",
-        "updatedAt": "2023-10-25T06:30:06.758Z",
-        "ProductImgUrl": "uploads/Wings Phantom Truly Wireless in Ear Earbuds with LED Battery Indiacator 50ms Low Latency 40Hrs Playtime MEMS with Mic Bluetooth 53 IPX5 Resistant for Best Calling and Designed.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1174,
-      "attributes": {
-        "title": "GIZMORE BAR 1200 Bluetooth Soundbar with 12W RMS, TWS Function with Matte Finish, Upto 6 Hours Playback, BT Version 5.3 & Multi Connectivity",
-        "dealPrice": "₹ 899",
-        "originalPrice": "₹ 2999",
-        "platform": "Amazon",
-        "discount": "70",
-        "productLink": "https://amazon.in/dp/B0CDQ6TRT5/?tag=thuttu-21&ascsubtag=1296596",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:05.799Z",
-        "updatedAt": "2023-10-25T06:30:05.799Z",
-        "ProductImgUrl": "uploads/GIZMORE BAR 1200 Bluetooth Soundbar with 12W RMS TWS Function with Matte Finish Upto 6 Hours Playback BT Version 53 Multi Connectivity.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1173,
-      "attributes": {
-        "title": "Ambrane Micro USB Standing Cable, 3A Fast Charging, Perfect",
-        "dealPrice": "₹ 89",
-        "originalPrice": "₹ 499",
-        "platform": "Amazon",
-        "discount": "82",
-        "productLink": "https://amazon.in/dp/B0BVHN1JXR/?tag=thuttu-21&ascsubtag=1296594",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:04.743Z",
-        "updatedAt": "2023-10-25T06:30:04.743Z",
-        "ProductImgUrl": "uploads/Ambrane Micro USB Standing Cable 3A Fast Charging Perfect.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1172,
-      "attributes": {
-        "title": "NiTHO Y-SPLIT PC SOUND ADAPTER 3.5mm Female/2 Male Audio",
-        "dealPrice": "₹ 79",
-        "originalPrice": "₹ 499",
-        "platform": "Amazon",
-        "discount": "84",
-        "productLink": "https://www.amazon.in/dp/B08J57T7FJ?tag=thuttu-21&ascsubtag=1296593",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:03.881Z",
-        "updatedAt": "2023-10-25T06:30:03.881Z",
-        "ProductImgUrl": "uploads/NiTHO Y SPLIT PC SOUND ADAPTER 35mm Female2 Male Audio.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1171,
-      "attributes": {
-        "title": "Dell-E2423HN (60.45cm) FHD Monitor 1920x1080@60 Hz, VA Panel, Brightness 250 cd/m², Anti-Glare, Colour Gamut 72% (CIE 1931), 83% (CIE 1976), Response Time, 5ms (G-to G Fast), 3 Year Warranty., Black",
-        "dealPrice": "₹ 8331",
-        "originalPrice": "₹ 30359",
-        "platform": "Amazon",
-        "discount": "73",
+        "discount": "64",
         "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:02.923Z",
-        "updatedAt": "2023-10-25T06:30:02.923Z",
-        "ProductImgUrl": "uploads/Dell E2423HN 6045cm FHD Monitor 1920x108060 Hz VA Panel Brightness 250 cdm Anti Glare Colour Gamut 72 CIE 1931 83 CIE 1976 Response Time 5ms G to G Fast 3 Year Warranty Black.jpg",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0837WLN54?ascsubtag=1297654&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=997f476bd8862c4edb0f12907078e6fe&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:10.752Z",
+        "updatedAt": "2023-10-27T05:09:23.070Z",
+        "ProductImgUrl": "uploads/LuvLap Soft Flannel Baby Blanket 80cm x 100cm Grey Owl.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1170,
+      "id": 1207,
       "attributes": {
-        "title": "Toyzone Magic Car Swing Car | Baby Car | Kids Car | Toy Car | Push Car | Ride on Car with Music and Chu-Chu Horn (Toyzone Eco Panda Magic Car-54351)",
+        "title": "LuvLap Polar Fleece Baby Blanket, 70cm x 100cm, Pink Princess",
+        "dealPrice": "₹ 98",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0837W17TZ?ascsubtag=1297653&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1dfe6de7af97879266a75db4ba17b70f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:09.762Z",
+        "updatedAt": "2023-10-27T05:08:03.763Z",
+        "ProductImgUrl": "uploads/LuvLap Polar Fleece Baby Blanket 70cm x 100cm Pink Princess.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1206,
+      "attributes": {
+        "title": "LuvLap Polar Fleece Baby Blanket, 70cm x 100cm, Sky Blue Animals",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0837W3PMZ?ascsubtag=1297652&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=05d76eb4755b2c96c53a851bcf15062b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:08.772Z",
+        "updatedAt": "2023-10-27T05:06:19.656Z",
+        "ProductImgUrl": "uploads/LuvLap Polar Fleece Baby Blanket 70cm x 100cm Sky Blue Animals.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1205,
+      "attributes": {
+        "title": "Lenovo IdeaPad Flex 3 Chromebook Intel Celeron Dual Core N4500 - (4 GB/128 GB EMMC Storage/Chrome OS)",
+        "dealPrice": "₹ 18990",
+        "originalPrice": "₹ 41890",
+        "platform": "Flipkart",
+        "discount": "55",
+        "productLink": "https://www.flipkart.com/lenovo-ideapad-flex-3-chromebook-intel-celeron-dual-core-n4500-4-gb-128-gb-emmc-storage-chrome-os-cb-11ijl6/p/itm01951e5b9475f?pid=COMG6AKV3ASZSVHA",
+        "affiliate_product_link": "https://www.flipkart.com/lenovo-ideapad-flex-3-chromebook-intel-celeron-dual-core-n4500-4-gb-128-gb-emmc-storage-chrome-os-cb-11ijl6/p/itm01951e5b9475f?pid=COMG6AKV3ASZSVHA&affid=mithunvel",
+        "createdAt": "2023-10-27T04:46:07.543Z",
+        "updatedAt": "2023-10-27T04:53:08.577Z",
+        "ProductImgUrl": "uploads/Lenovo IdeaPad Flex 3 Chromebook Intel Celeron Dual Core N4500 4 GB128 GB EMMC StorageChrome OS.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1204,
+      "attributes": {
+        "title": "amazon basics Apple Certified High Speed Lightning Car Charger For Apple Devices With Coiled Cable- 5V 12 Watts - 1.5 Foot - Black",
+        "dealPrice": "₹ 269",
+        "originalPrice": "₹ 550",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": "https://www.amazon.in/dp/B071KBYFKS?tag=thuttu-21&ascsubtag=1297649",
+        "affiliate_product_link": "https://www.amazon.in/dp/B071KBYFKS?ascsubtag=1297649&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d8c7d2137237391cd69f7a48cedc6adf&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:06.594Z",
+        "updatedAt": "2023-10-27T05:04:20.983Z",
+        "ProductImgUrl": "uploads/amazon basics Apple Certified High Speed Lightning Car Charger For Apple Devices With Coiled Cable 5V 12 Watts 15 Foot Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1203,
+      "attributes": {
+        "title": "Reach Vision MII Spin Exercise Bike with 6.5 Kg Flywheel Adjustable Resistance & LCD Monitor | Maximum user weight 110kgs, Fitness Cycle for Home, Gym Workout",
+        "dealPrice": "₹ 2986",
+        "originalPrice": "₹ 11550",
+        "platform": "Amazon",
+        "discount": "74",
+        "productLink": "https://amazon.in/dp/B0B53QCXM3/?tag=thuttu-21&ascsubtag=1297648",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B53QCXM3?ascsubtag=1297648&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2f63f7cfa159d73ba53611e44a0e0e3d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:05.587Z",
+        "updatedAt": "2023-10-27T05:01:42.519Z",
+        "ProductImgUrl": "uploads/Reach Vision MII Spin Exercise Bike with 65 Kg Flywheel Adjustable Resistance LCD Monitor Maximum user weight 110kgs Fitness Cycle for Home Gym Workout.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1202,
+      "attributes": {
+        "title": "Wonderchef Modena Whiskey Tumbler 280 ml Set of 6",
+        "dealPrice": "₹ 421",
+        "originalPrice": "₹ 1639",
+        "platform": "Amazon",
+        "discount": "74",
+        "productLink": "https://amazon.in/dp/B0B1N116HV/?tag=thuttu-21&ascsubtag=1297647",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B1N116HV?ascsubtag=1297647&linkCode=ll1&tag=hotdealsbazaar-21&linkId=799474820e524efc17be66ad23c98579&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:04.686Z",
+        "updatedAt": "2023-10-27T04:59:25.942Z",
+        "ProductImgUrl": "uploads/Wonderchef Modena Whiskey Tumbler 280 ml Set of 6.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1201,
+      "attributes": {
+        "title": "| JioBharat K1 Karbonn 4G Phone (KW201) with JioCinema, JioSaavn, JioPay (UPI), Long Lasting Battery, LED Torch, Digital Camera | Locked",
         "dealPrice": "₹ 999",
-        "originalPrice": "₹ 2499",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B0CG16HZHS?tag=thuttu_a-21&ascsubtag=1258990",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CG16HZHS?ascsubtag=1258990&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b8d66c2e17a9a608d58c1f6620687fb4&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:03.472Z",
+        "updatedAt": "2023-10-27T04:57:22.648Z",
+        "ProductImgUrl": "uploads/JioBharat K1 Karbonn 4G Phone KW201 with JioCinema JioSaavn JioPay UPI Long Lasting Battery LED Torch Digital Camera Locked.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1200,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Plastic Compact Vegetable Chopper (350 ml, Green)",
+        "dealPrice": "₹ 139",
+        "originalPrice": "₹ 349",
         "platform": "Amazon",
         "discount": "60",
-        "productLink": "https://www.amazon.in/dp/B00TOC6MJI?tag=thuttu-21&ascsubtag=1248547",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-25T06:30:01.989Z",
-        "updatedAt": "2023-10-25T06:30:01.989Z",
-        "ProductImgUrl": "uploads/Toyzone Magic Car Swing Car Baby Car Kids Car Toy Car Push Car Ride on Car with Music and Chu Chu Horn Toyzone Eco Panda Magic Car 54351.jpg",
+        "productLink": "https://www.amazon.in/dp/B07P6XL1M3?tag=thuttu-21&ascsubtag=1297645",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07P6XL1M3?ascsubtag=1297645&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7968ca9f84d2071cb03376d11d1db7c9&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T04:46:02.182Z",
+        "updatedAt": "2023-10-27T04:55:27.410Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Plastic Compact Vegetable Chopper 350 ml Green.jpg",
         "productimage": {
           "data": null
         }
@@ -6936,7 +7044,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 385
+      "total": 391
     }
   }
 }
