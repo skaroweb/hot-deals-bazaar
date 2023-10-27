@@ -1,252 +1,288 @@
 {
   "data": [
     {
-      "id": 1235,
+      "id": 1251,
       "attributes": {
-        "title": "Van Heusen Men's Formal Shirt Upto 81% off",
-        "dealPrice": "",
-        "originalPrice": "",
-        "platform": "Amazon",
-        "discount": "",
-        "productLink": "https://www.amazon.in/s?k=van+heusen+shirts+for+men&i=apparel&rh=n%3A1571271031%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&tag=thuttu-21&ascsubtag=1297714",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:34.197Z",
-        "updatedAt": "2023-10-27T06:30:34.197Z",
-        "ProductImgUrl": "uploads/Van Heusen Mens Formal Shirt Upto 81 off.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1234,
-      "attributes": {
-        "title": "Liril Cooling Mint Soap 125g B3G1",
-        "dealPrice": "₹ 175",
-        "originalPrice": "₹ 250",
-        "platform": "Amazon",
-        "discount": "30",
-        "productLink": "https://amazon.in/dp/B0CDGZ4YXH/?tag=thuttu-21&ascsubtag=1297713",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:32.035Z",
-        "updatedAt": "2023-10-27T06:30:32.035Z",
-        "ProductImgUrl": "uploads/Liril Cooling Mint Soap 125g B3G1.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1233,
-      "attributes": {
-        "title": "Dettol Body Wash and Shower Gel",
-        "dealPrice": "₹ 216",
-        "originalPrice": "₹ 400",
-        "platform": "Amazon",
-        "discount": "46",
-        "productLink": "https://www.amazon.in/dp/B07XTR5SPL?tag=thuttu-21&ascsubtag=1297712",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:29.933Z",
-        "updatedAt": "2023-10-27T06:30:29.933Z",
-        "ProductImgUrl": "uploads/Dettol Body Wash and Shower Gel.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1232,
-      "attributes": {
-        "title": "Men T-Shirts Starts At Rs.105",
-        "dealPrice": "",
-        "originalPrice": "",
-        "platform": "Ajio",
-        "discount": "",
-        "productLink": "https://ad.admitad.com/g/gobb106sd9b011728c78a663530cb9/?ulp=https%3A%2F%2Fwww.ajio.com%2Fmen-tshirts%2Fc%2F830216014%3Fcustomertype%3DExisting%26gridColumns%3D3%26query%3D%253Aprce-asc%253Al1l3nestedcategory%253AMen%2B-%2BTshirts%253Agenderfilter%253AMen%253Adiscount%253A81-100%2525%253Adiscount%253A51-80%2525%253Adiscount%253A41-50%2525%26segmentIds%3D9",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:27.871Z",
-        "updatedAt": "2023-10-27T06:30:27.871Z",
-        "ProductImgUrl": "uploads/Men T Shirts Starts At Rs105.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1231,
-      "attributes": {
-        "title": "EMAMI 7 Oils in one 500ml + Kesh King Shampoo Damage Repair 340ml  (2 Items in the set)",
-        "dealPrice": "₹ 259",
-        "originalPrice": "₹ 649",
+        "title": "DENVER Combo of Man Of Steel Drill Long lasting Deodorant Spray - For Men  (400 ml, Pack of 2)",
+        "dealPrice": "₹ 196",
+        "originalPrice": "₹ 560",
         "platform": "Flipkart",
-        "discount": "60",
-        "productLink": "https://www.flipkart.com/emami-7-oils-one-500ml-kesh-king-shampoo-damage-repair-340ml/p/itm3a025aad24be1?pid=HOLGH97PFNZZWZ6H",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:25.186Z",
-        "updatedAt": "2023-10-27T06:30:25.186Z",
-        "ProductImgUrl": "uploads/EMAMI 7 Oils in one 500ml Kesh King Shampoo Damage Repair 340ml 2 Items in the set.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1230,
-      "attributes": {
-        "title": "JBL Tune 520BT Wireless On Ear Headphones with Mic, Pure Bass Sound, Upto 57 Hrs Playtime, Speedcharge, Customizable Bass with Headphones App, Lightweight, Bluetooth 5.3 (Black)",
-        "dealPrice": "₹ 3200",
-        "originalPrice": "₹ 4999",
-        "platform": "Amazon",
-        "discount": "36",
-        "productLink": "https://amazon.in/dp/B0C3V5X3QT/?tag=thuttu-21&ascsubtag=1297709",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:22.998Z",
-        "updatedAt": "2023-10-27T06:30:22.998Z",
-        "ProductImgUrl": "uploads/JBL Tune 520BT Wireless On Ear Headphones with Mic Pure Bass Sound Upto 57 Hrs Playtime Speedcharge Customizable Bass with Headphones App Lightweight Bluetooth 53 Black.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1229,
-      "attributes": {
-        "title": "Zebronics CM01 M.2 SATA SSD Enclosure with Aluminum Case, Type-C 3.1 Gen 1, Upto 5Gbps* and Upto 2TB Max. Storage Capacity.",
-        "dealPrice": "₹ 549",
-        "originalPrice": "₹ 2499",
-        "platform": "Amazon",
-        "discount": "78",
-        "productLink": "https://amazon.in/dp/B0C4L8VYZZ/?tag=thuttu_i-21&ascsubtag=1297708",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:20.886Z",
-        "updatedAt": "2023-10-27T06:30:20.886Z",
-        "ProductImgUrl": "uploads/Zebronics CM01 M2 SATA SSD Enclosure with Aluminum Case Type C 31 Gen 1 Upto 5Gbps and Upto 2TB Max Storage Capacity.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1228,
-      "attributes": {
-        "title": "Ganesh Plastic Vegetable Slicer Cutter, Black",
-        "dealPrice": "₹ 74",
-        "originalPrice": "₹ 144",
-        "platform": "Amazon",
-        "discount": "49",
-        "productLink": "https://www.amazon.in/dp/B07MQ1QX3F?tag=thuttu-21&ascsubtag=1297706",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:18.166Z",
-        "updatedAt": "2023-10-27T06:30:18.166Z",
-        "ProductImgUrl": "uploads/Ganesh Plastic Vegetable Slicer Cutter Black.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1227,
-      "attributes": {
-        "title": "AZAH Period Pain Relief Heat Patches - Pack of 3 | For Period Pain and Cramps | Heating Patches",
-        "dealPrice": "₹ 199",
-        "originalPrice": "₹ 329",
-        "platform": "Amazon",
-        "discount": "40",
+        "discount": "65",
         "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:16.160Z",
-        "updatedAt": "2023-10-27T06:30:16.160Z",
-        "ProductImgUrl": "uploads/AZAH Period Pain Relief Heat Patches Pack of 3 For Period Pain and Cramps Heating Patches.jpg",
+        "affiliate_product_link": "https://www.flipkart.com/denver-combo-man-steel-drill-long-lasting-deodorant-spray-men/p/itmc916b97d94af1?pid=DEOGPUYCFTV5FX34&affid=mithunvel",
+        "createdAt": "2023-10-27T09:30:15.415Z",
+        "updatedAt": "2023-10-27T10:05:20.580Z",
+        "ProductImgUrl": "uploads/DENVER Combo of Man Of Steel Drill Long lasting Deodorant Spray For Men 400 ml Pack of 2.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1226,
+      "id": 1250,
       "attributes": {
-        "title": "Aristocrat Unisex Turquoise Blue Solid TRIUMPH 55 Cabin Trolley Suitcase",
-        "dealPrice": "₹ 1299",
-        "originalPrice": "₹ 8370",
-        "platform": "Myntra",
-        "discount": "84",
-        "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:13.689Z",
-        "updatedAt": "2023-10-27T06:30:13.689Z",
-        "ProductImgUrl": "uploads/Aristocrat Unisex Turquoise Blue Solid TRIUMPH 55 Cabin Trolley Suitcase.jpg",
-        "productimage": {
-          "data": null
-        }
-      }
-    },
-    {
-      "id": 1225,
-      "attributes": {
-        "title": "Havells 9W LED Bulb (Cool White), Pack of 1",
-        "dealPrice": "₹ 65",
-        "originalPrice": "₹ 150",
+        "title": "Slurrp Farm No Maida Millet Noodles Pack of 2- 192g Each",
+        "dealPrice": "₹ 129",
+        "originalPrice": "₹ 258",
         "platform": "Amazon",
-        "discount": "57",
-        "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:11.563Z",
-        "updatedAt": "2023-10-27T06:30:11.563Z",
-        "ProductImgUrl": "uploads/Havells 9W LED Bulb Cool White Pack of 1.jpg",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B09GRSWM71?tag=thuttu_a-21&ascsubtag=1162180",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09GRSWM71?ascsubtag=1162180&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5cbc3d515a18afc1326cb575bc0f22af&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:14.572Z",
+        "updatedAt": "2023-10-27T10:12:14.849Z",
+        "ProductImgUrl": "uploads/Slurrp Farm No Maida Millet Noodles Pack of 2 192g Each.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1224,
+      "id": 1249,
       "attributes": {
-        "title": "[For HDFC Bank Credit Card EMI] Voltas 1.4 Ton 3 Star Inverter Split AC(Copper, Adjustable Cooling, Anti-dust Filter, 2023 Model, 173V Vectra Platina, White)",
-        "dealPrice": "₹ 27999",
-        "originalPrice": "₹ 70990",
+        "title": "Amazon Brand - Solimo Silica Glass Bottle with Flip Cap, 1 Litre, Set of 2 (Transparent)",
+        "dealPrice": "₹ 329",
+        "originalPrice": "₹ 850",
         "platform": "Amazon",
         "discount": "61",
-        "productLink": "https://amazon.in/dp/B0BRJ7N92P/?tag=thuttu-21&ascsubtag=1297700",
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:09.511Z",
-        "updatedAt": "2023-10-27T06:30:09.511Z",
-        "ProductImgUrl": "uploads/For HDFC Bank Credit Card EMI Voltas 14 Ton 3 Star Inverter Split ACCopper Adjustable Cooling Anti dust Filter 2023 Model 173V Vectra Platina White.jpg",
+        "productLink": "https://www.amazon.in/dp/B07PBTL8B7?tag=thuttu-21&ascsubtag=1297800",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07PBTL8B7?ascsubtag=1297800&linkCode=ll1&tag=hotdealsbazaar-21&linkId=e88d435e289c8074e80ba7376370f4db&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:13.740Z",
+        "updatedAt": "2023-10-27T10:10:55.959Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Silica Glass Bottle with Flip Cap 1 Litre Set of 2 Transparent.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1223,
+      "id": 1248,
       "attributes": {
-        "title": "Lifelong Yoga mat for Women & Men EVA Material 4mm Anti-Slip Yoga Mat with Strap",
-        "dealPrice": "₹ 199",
-        "originalPrice": "₹ 799",
+        "title": "Wipro Vesta 1.2 l Outer Lid Multicooker Kettle | Concurrent Cooking |Cool Touch body | Dual Temperature Control |Triple Protection |SS 304 Rust free (White, 600 Watt, Plastic)",
+        "dealPrice": "₹ 2029",
+        "originalPrice": "₹ 3499",
         "platform": "Amazon",
-        "discount": "75",
-        "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:07.385Z",
-        "updatedAt": "2023-10-27T06:30:07.385Z",
-        "ProductImgUrl": "uploads/Lifelong Yoga mat for Women Men EVA Material 4mm Anti Slip Yoga Mat with Strap.jpg",
+        "discount": "42",
+        "productLink": "https://amazon.in/dp/B0B4K6645D/?tag=thuttu-21&ascsubtag=1297799",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B4K6645D?ascsubtag=1297799&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7a3a699dd7774fe9ed264cba98a4b880&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:12.736Z",
+        "updatedAt": "2023-10-27T10:10:12.533Z",
+        "ProductImgUrl": "uploads/Wipro Vesta 12 l Outer Lid Multicooker Kettle Concurrent Cooking Cool Touch body Dual Temperature Control Triple Protection SS 304 Rust free White 600 Watt Plastic.jpg",
         "productimage": {
           "data": null
         }
       }
     },
     {
-      "id": 1222,
+      "id": 1247,
       "attributes": {
-        "title": "Fiama Shower Gel Blackcurrant & Bearberry Body Wash With Skin Conditioners For Radiant Glow, 500ml Pump",
-        "dealPrice": "₹ 145",
-        "originalPrice": "₹ 449",
+        "title": "VYOOx Long Handle Silicone Bottle Cleaner Brush",
+        "dealPrice": "₹ 48",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "88",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CDL7RDDY?ascsubtag=1297798&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b7b01e8c288f0e0a16d8a8901cf57e53&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:11.908Z",
+        "updatedAt": "2023-10-27T10:09:23.174Z",
+        "ProductImgUrl": "uploads/VYOOx Long Handle Silicone Bottle Cleaner Brush.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1246,
+      "attributes": {
+        "title": "Skullcandy Jib Wired Earphone with Mic",
+        "dealPrice": "₹ 209",
+        "originalPrice": "₹ 599",
+        "platform": "Jiomart",
+        "discount": "65",
+        "productLink": "https://www.jiomart.com/p/electronics/skullcandy-jib-with-mic-earphone-black/590038951",
+        "affiliate_product_link": null,
+        "createdAt": "2023-10-27T09:30:11.064Z",
+        "updatedAt": "2023-10-27T09:30:11.064Z",
+        "ProductImgUrl": "uploads/Skullcandy Jib Wired Earphone with Mic.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1245,
+      "attributes": {
+        "title": "Plantex Metro Platinum Stainless Steel Soap Dish - Soap Stand - Bathroom Soap Holder - Bathroom Accessories",
+        "dealPrice": "₹ 291",
+        "originalPrice": "₹ 1056",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://www.amazon.in/dp/B07RFS4W8P?tag=thuttu-21&ascsubtag=1297796",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07RFS4W8P?ascsubtag=1297796&linkCode=ll1&tag=hotdealsbazaar-21&linkId=720ef4f8450eca28890501712b88c516&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:10.263Z",
+        "updatedAt": "2023-10-27T10:08:30.914Z",
+        "ProductImgUrl": "uploads/Plantex Metro Platinum Stainless Steel Soap Dish Soap Stand Bathroom Soap Holder Bathroom Accessories.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1244,
+      "attributes": {
+        "title": "Fur Jaden Brown Textured Leatherette Stylish & Spacious Weekender Duffle Bag",
+        "dealPrice": "₹ 799",
+        "originalPrice": "₹ 4000",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07M9BRCQ5?ascsubtag=1297795&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9cfdfa5ba38c3e012013ee37bfbd467a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:09.453Z",
+        "updatedAt": "2023-10-27T10:07:30.078Z",
+        "ProductImgUrl": "uploads/Fur Jaden Brown Textured Leatherette Stylish Spacious Weekender Duffle Bag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1243,
+      "attributes": {
+        "title": "Mammon women's beige handbag combo (set of 3)",
+        "dealPrice": "₹ 439",
+        "originalPrice": "₹ 3499",
+        "platform": "Amazon",
+        "discount": "87",
+        "productLink": "https://www.amazon.in/dp/B07XKNS6FF?tag=thuttu-21&ascsubtag=1297794",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07XKNS6FF?ascsubtag=1297794&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a11c65a5f1d7e3399d69785bd4b0961b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:08.553Z",
+        "updatedAt": "2023-10-27T10:06:41.063Z",
+        "ProductImgUrl": "uploads/Mammon womens beige handbag combo set of 3.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1242,
+      "attributes": {
+        "title": "Gillette Mach3 Bold 1 Razor + 1 Cartridge (Mach3s most stylish shaver",
+        "dealPrice": "₹ 179",
+        "originalPrice": "₹ 599",
+        "platform": "Flipkart",
+        "discount": "70",
+        "productLink": "https://www.flipkart.com/gillette-mach3-bold-1-razor-cartridge-mach3s-most-stylish-shaver-men/p/itm3e9b1442969e2?pid=SHRG6F28X3RXSH2E",
+        "affiliate_product_link": "https://www.flipkart.com/gillette-mach3-bold-1-razor-cartridge-mach3s-most-stylish-shaver-men/p/itm3e9b1442969e2?pid=SHRG6F28X3RXSH2E&affid=mithunvel",
+        "createdAt": "2023-10-27T09:30:07.743Z",
+        "updatedAt": "2023-10-27T10:05:36.932Z",
+        "ProductImgUrl": "uploads/Gillette Mach3 Bold 1 Razor 1 Cartridge Mach3s most stylish shaver.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1241,
+      "attributes": {
+        "title": "Acnos® Premium Analog Women's Watch (Multicolour Dial Multi Colored Strap)",
+        "dealPrice": "₹ 269",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08W2T1KVW?ascsubtag=1297792&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7e1c33007fc835a5e98b092c5c656121&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:06.859Z",
+        "updatedAt": "2023-10-27T10:05:45.850Z",
+        "ProductImgUrl": "uploads/Acnos Premium Analog Womens Watch Multicolour Dial Multi Colored Strap.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1240,
+      "attributes": {
+        "title": "Mammon Women's Tote Bag",
+        "dealPrice": "₹ 209",
+        "originalPrice": "₹ 1300",
+        "platform": "Amazon",
+        "discount": "84",
+        "productLink": "https://www.amazon.in/dp/B07M7MKTXM?tag=thuttu-21&ascsubtag=1297791",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07M7MKTXM?ascsubtag=1297791&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d6f658866d2c78e96a07e48dcd12339a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:06.062Z",
+        "updatedAt": "2023-10-27T10:04:53.515Z",
+        "ProductImgUrl": "uploads/Mammon Womens Tote Bag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1239,
+      "attributes": {
+        "title": "Sparkmate By Crystal Premium Soap Dispenser 2 in 1 - SS Scourer & Sponge with Scrubber",
+        "dealPrice": "₹ 189",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://amazon.in/dp/B0C599YQ1L/?tag=thuttu-21&ascsubtag=1297790",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C599YQ1L?ascsubtag=1297790&linkCode=ll1&tag=hotdealsbazaar-21&linkId=057705dc0269d148e3d6195efc6758da&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:05.257Z",
+        "updatedAt": "2023-10-27T10:04:03.851Z",
+        "ProductImgUrl": "uploads/Sparkmate By Crystal Premium Soap Dispenser 2 in 1 SS Scourer Sponge with Scrubber.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1238,
+      "attributes": {
+        "title": "DOCTOR EXTRA SOFT Sports & Sneaker Care Kit |150 ml Shoe Foam Cleaner with Free Brush Quickly Remove Dirt & Stains Shoes Like White/Canvas/Tennis/Trainers/Nubuck/Suede/Loafers",
+        "dealPrice": "₹ 189",
+        "originalPrice": "₹ 599",
         "platform": "Amazon",
         "discount": "68",
         "productLink": null,
-        "affiliate_product_link": null,
-        "createdAt": "2023-10-27T06:30:05.333Z",
-        "updatedAt": "2023-10-27T06:30:05.333Z",
-        "ProductImgUrl": "uploads/Fiama Shower Gel Blackcurrant Bearberry Body Wash With Skin Conditioners For Radiant Glow 500ml Pump.jpg",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CJRYR174?ascsubtag=1297789&linkCode=ll1&tag=hotdealsbazaar-21&linkId=473e505b4ec91d3a4bc759fc4d168a4a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:04.428Z",
+        "updatedAt": "2023-10-27T10:03:19.111Z",
+        "ProductImgUrl": "uploads/DOCTOR EXTRA SOFT Sports Sneaker Care Kit 150 ml Shoe Foam Cleaner with Free Brush Quickly Remove Dirt Stains Shoes Like WhiteCanvasTennisTrainersNubuckSuedeLoafers.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1237,
+      "attributes": {
+        "title": "BOROPLUS Antiseptic + Moisturising Soap - Neem, Eucalyptus & Honey  (6 x 125 g)",
+        "dealPrice": "₹ 170",
+        "originalPrice": "₹ 378",
+        "platform": "Flipkart",
+        "discount": "55",
+        "productLink": "https://www.flipkart.com/boroplus-antiseptic-moisturising-soap-neem-eucalyptus-honey/p/itm17316c3d4b6aa?",
+        "affiliate_product_link": "https://www.flipkart.com/boroplus-antiseptic-moisturising-soap-neem-eucalyptus-honey/p/itm17316c3d4b6aa?affid=mithunvel",
+        "createdAt": "2023-10-27T09:30:03.214Z",
+        "updatedAt": "2023-10-27T10:06:22.739Z",
+        "ProductImgUrl": "uploads/BOROPLUS Antiseptic Moisturising Soap Neem Eucalyptus Honey 6 x 125 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1236,
+      "attributes": {
+        "title": "Nature Prime 100% Natural & Crunchy Premium Whole Cashews 500gm (W320) Nutritious & Delicious Nuts, Premium Kaju nuts | Gluten Free | Source of Minerals & Vitamins | Dry Fruits (Jar Pack)",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://amazon.in/dp/B0C72J9GDK/?tag=thuttu-21&ascsubtag=1297787",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C72J9GDK?ascsubtag=1297787&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c16f1ac6173bb041b5e58df9193bbd9d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-10-27T09:30:02.058Z",
+        "updatedAt": "2023-10-27T10:02:02.479Z",
+        "ProductImgUrl": "uploads/Nature Prime 100 Natural Crunchy Premium Whole Cashews 500gm W320 Nutritious Delicious Nuts Premium Kaju nuts Gluten Free Source of Minerals Vitamins Dry Fruits Jar Pack.jpg",
         "productimage": {
           "data": null
         }
@@ -7296,7 +7332,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 405
+      "total": 407
     }
   }
 }
