@@ -6,6 +6,7 @@ import BlogSingle from "./pages/BlogSingle";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsAndCondition from "./pages/TermsAndCondition";
 import Disclaimer from "./pages/Disclaimer";
+import My404 from "./pages/My404";
 import BackToTopButton from "./components/Util/BackToTopButton";
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
           />
           <Route path="/disclaimer" exact element={<Disclaimer />} />
         </Route>
+        <Route path="*" status={404} element={<My404 />} />
       </Routes>
       <BackToTopButton />
     </div>
