@@ -25,7 +25,7 @@ function App() {
           />
           <Route path="/disclaimer" exact element={<Disclaimer />} />
         </Route>
-        <Route path="*" status={404} element={<My404 />} />
+        <Route path="*" element={<My404 />} />
       </Routes>
       <BackToTopButton />
     </div>
