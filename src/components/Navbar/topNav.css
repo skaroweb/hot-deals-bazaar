@@ -60,6 +60,7 @@
   display: flex;
   align-items: center;
   margin-bottom: 0px;
+  list-style: none;
 }
 @media (max-width: 768px) {
   #nav .dropdown ul {
