@@ -1,6 +1,258 @@
 {
   "data": [
     {
+      "id": 1321,
+      "attributes": {
+        "title": "Amazon Brand Hair Care Starts From Rs.41",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:18.061Z",
+        "updatedAt": "2023-11-01T06:30:18.061Z",
+        "ProductImgUrl": "uploads/Amazon Brand Hair Care Starts From Rs41.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1320,
+      "attributes": {
+        "title": "boAt BassHeads 100 in-Ear Wired Headphones with Mic (Black)",
+        "dealPrice": "₹ 325",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://www.amazon.in/dp/B071Z8M4KX?tag=thuttu-21&ascsubtag=1300287",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:17.091Z",
+        "updatedAt": "2023-11-01T06:30:17.091Z",
+        "ProductImgUrl": "uploads/boAt BassHeads 100 in Ear Wired Headphones with Mic Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1319,
+      "attributes": {
+        "title": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 5999",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://amazon.in/dp/B0B6BQ711Q/?tag=thuttu-21&ascsubtag=1300286",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:15.935Z",
+        "updatedAt": "2023-11-01T06:30:15.935Z",
+        "ProductImgUrl": "uploads/Noise Pulse 2 Max 185 Display Bluetooth Calling Smart Watch 10 Days Battery 550 NITS Brightness Smart DND 100 Sports Modes Smartwatch.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1318,
+      "attributes": {
+        "title": "Gizga Essentials Laptop Bag Sleeve Case Cover Pouch with Handle for 15.6 Inch Laptop",
+        "dealPrice": "₹ 228",
+        "originalPrice": "₹ 1099",
+        "platform": "Amazon",
+        "discount": "79",
+        "productLink": "https://www.amazon.in/dp/B07LFXVV3N?tag=thuttu_a-21&ascsubtag=1299360",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:14.753Z",
+        "updatedAt": "2023-11-01T06:30:14.753Z",
+        "ProductImgUrl": "uploads/Gizga Essentials Laptop Bag Sleeve Case Cover Pouch with Handle for 156 Inch Laptop.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1317,
+      "attributes": {
+        "title": "Snickers Almond Filled Chocolates - 22g Bar (Pack of 24)",
+        "dealPrice": "₹ 390",
+        "originalPrice": "₹ 600",
+        "platform": "Amazon",
+        "discount": "35",
+        "productLink": "https://www.amazon.in/dp/B07X8NRY7P?tag=thuttu-21&ascsubtag=1300285",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:13.267Z",
+        "updatedAt": "2023-11-01T06:30:13.267Z",
+        "ProductImgUrl": "uploads/Snickers Almond Filled Chocolates 22g Bar Pack of 24.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1316,
+      "attributes": {
+        "title": "Tata SG_TATA_ELAICHI_1KG Cardamom Tea Pouch  (1000 g)",
+        "dealPrice": "₹ 458",
+        "originalPrice": "₹ 999",
+        "platform": "Flipkart",
+        "discount": "54",
+        "productLink": "https://www.flipkart.com/tata-sg-tata-elaichi-1kg-cardamom-tea-pouch/p/itm47f6475271231?",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:12.307Z",
+        "updatedAt": "2023-11-01T06:30:12.307Z",
+        "ProductImgUrl": "uploads/Tata SG_TATA_ELAICHI_1KG Cardamom Tea Pouch 1000 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1315,
+      "attributes": {
+        "title": "itel P55 5G | Dimensity 6080 | 12GB* RAM+128GB ROM with Memory Fusion| 50MP AI Dual Rear Camera| 5000mAh Battery | 2 Years Warranty | Mint Green",
+        "dealPrice": "₹ 8999",
+        "originalPrice": "₹ 13499",
+        "platform": "Amazon",
+        "discount": "33",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:11.359Z",
+        "updatedAt": "2023-11-01T06:30:11.359Z",
+        "ProductImgUrl": "uploads/itel P55 5G Dimensity 6080 12GB RAM128GB ROM with Memory Fusion 50MP AI Dual Rear Camera 5000mAh Battery 2 Years Warranty Mint Green.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1314,
+      "attributes": {
+        "title": "Wallpapers Starts at Rs.129",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?k=eurotex+wallpaper&s=price-asc-rank&ds=v1%3AgLRgOorZXhN%2FouA0K9hyd%2FUcghzxy4O+OHTJ9%2FCixEk&crid=2R61O5XCOKGJT&qid=1698818225&sprefix=Eurotex+wall%2Caps%2C301&tag=thuttu-21&ascsubtag=1300281",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:10.323Z",
+        "updatedAt": "2023-11-01T06:30:10.323Z",
+        "ProductImgUrl": "uploads/Wallpapers Starts at Rs129.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1313,
+      "attributes": {
+        "title": "Saffola Honey Active, Made with Sundarban Forest Honey, 100% Pure Honey, No sugar adulteration, 1Kg",
+        "dealPrice": "₹ 228",
+        "originalPrice": "₹ 430",
+        "platform": "Amazon",
+        "discount": "47",
+        "productLink": "https://amazon.in/gp/product/B08B44K4YS/?tag=thuttu-21&ascsubtag=1289242",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:09.388Z",
+        "updatedAt": "2023-11-01T06:30:09.388Z",
+        "ProductImgUrl": "uploads/Saffola Honey Active Made with Sundarban Forest Honey 100 Pure Honey No sugar adulteration 1Kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1312,
+      "attributes": {
+        "title": "Tata Gold with 15% Long Leaves Black Tea Pouch  (750 g)",
+        "dealPrice": "₹ 250",
+        "originalPrice": "₹ 480",
+        "platform": "Flipkart",
+        "discount": "48",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:08.425Z",
+        "updatedAt": "2023-11-01T06:30:08.425Z",
+        "ProductImgUrl": "uploads/Tata Gold with 15 Long Leaves Black Tea Pouch 750 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1311,
+      "attributes": {
+        "title": "PHILIPS Air Fryer HD9200/90, uses up to 90% less fat, 1400W, 4.1 Liter, with Rapid Air Technology (Black), Large",
+        "dealPrice": "₹ 5999",
+        "originalPrice": "₹ 9995",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:07.380Z",
+        "updatedAt": "2023-11-01T06:30:07.380Z",
+        "ProductImgUrl": "uploads/PHILIPS Air Fryer HD920090 uses up to 90 less fat 1400W 41 Liter with Rapid Air Technology Black Large.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1310,
+      "attributes": {
+        "title": "Western Digital 2TB My Passport Portable SSD, 1050MB/s R, 1000MB/s W, Upto 2 Meter Drop Protection, HW Encryption, Type-C Cable & Type-A Adaptor,",
+        "dealPrice": "₹ 10999",
+        "originalPrice": "₹ 25000",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://www.amazon.in/dp/B08F1VVBL9?tag=thuttu-21&ascsubtag=1300275",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:06.358Z",
+        "updatedAt": "2023-11-01T06:30:06.358Z",
+        "ProductImgUrl": "uploads/Western Digital 2TB My Passport Portable SSD 1050MBs R 1000MBs W Upto 2 Meter Drop Protection HW Encryption Type C Cable Type A Adaptor.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1309,
+      "attributes": {
+        "title": "Pears P & G BATHING BAR WITH Glycerin and Natural Oils  (8 x 125 g)",
+        "dealPrice": "₹ 333",
+        "originalPrice": "₹ 680",
+        "platform": "Flipkart",
+        "discount": "51",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:04.841Z",
+        "updatedAt": "2023-11-01T06:30:04.841Z",
+        "ProductImgUrl": "uploads/Pears P G BATHING BAR WITH Glycerin and Natural Oils 8 x 125 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1308,
+      "attributes": {
+        "title": "BOROPLUS Antiseptic + Moisturising Soap - Neem, Eucalyptus & Honey (Pack of 8)  (8 x 125 g)",
+        "dealPrice": "₹ 204",
+        "originalPrice": "₹ 512",
+        "platform": "Flipkart",
+        "discount": "60",
+        "productLink": "https://www.flipkart.com/boroplus-antiseptic-moisturising-soap-neem-eucalyptus-honey-pack-8/p/itmdbf209c1786cf?pid=SOPFVV7ZHGDRAZUK",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-01T06:30:03.103Z",
+        "updatedAt": "2023-11-01T06:30:03.103Z",
+        "ProductImgUrl": "uploads/BOROPLUS Antiseptic Moisturising Soap Neem Eucalyptus Honey Pack of 8 8 x 125 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1307,
       "attributes": {
         "title": "BAJAJ 9 W Round B22 LED Bulb  (White, Pack of 9)",
@@ -8340,7 +8592,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 463
+      "total": 477
     }
   }
 }
