@@ -1,6 +1,366 @@
 {
   "data": [
     {
+      "id": 1341,
+      "attributes": {
+        "title": "[For SBI Credit Card ]POCO M5 (Yellow, 128 GB)  (6 GB RAM)",
+        "dealPrice": "₹ 8499",
+        "originalPrice": "₹ 18999",
+        "platform": "Flipkart",
+        "discount": "55",
+        "productLink": "https://www.flipkart.com/poco-m5-yellow-128-gb/p/itme4df9ab5b739e?",
+        "affiliate_product_link": "https://www.flipkart.com/poco-m5-yellow-128-gb/p/itme4df9ab5b739e?affid=mithunvel",
+        "createdAt": "2023-11-02T04:30:09.604Z",
+        "updatedAt": "2023-11-02T04:31:24.108Z",
+        "ProductImgUrl": "uploads/For SBI Credit Card POCO M5 Yellow 128 GB 6 GB RAM.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1340,
+      "attributes": {
+        "title": "Bumtum Baby Diaper Pants, Large Size, 124 Count, Double Layer Leakage Protection Infused With Aloe Vera, Cottony Soft High Absorb Technology (Pack of 2)",
+        "dealPrice": "₹ 758",
+        "originalPrice": "₹ 2498",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08P78LQSL?ascsubtag=1300804&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=f4757f8e39f08ba94e3f19cf171ef39c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:27:12.244Z",
+        "updatedAt": "2023-11-02T05:09:49.248Z",
+        "ProductImgUrl": "uploads/Bumtum Baby Diaper Pants Large Size 124 Count Double Layer Leakage Protection Infused With Aloe Vera Cottony Soft High Absorb Technology Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1339,
+      "attributes": {
+        "title": "PHILIPS 18 Watts Stellar Bright Curvy LED T-Bulb Base B22,Crystal White (Pack of 6)",
+        "dealPrice": "₹ 1199",
+        "originalPrice": "₹ 4494",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": "https://www.amazon.in/dp/B09NJKS55Z?tag=thuttu-21&ascsubtag=1300803",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09NJKS55Z?ascsubtag=1300803&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c9eb1167303224278b19007d84cfafd6&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:27:10.922Z",
+        "updatedAt": "2023-11-02T05:05:41.192Z",
+        "ProductImgUrl": "uploads/PHILIPS 18 Watts Stellar Bright Curvy LED T Bulb Base B22Crystal White Pack of 6.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1338,
+      "attributes": {
+        "title": "Orient Electric Wendy | 1200mm BEE Star Rated Ceiling Fan | Designer Decorative Ceiling Fan | Warranty (2 years) | (Pearl White/Walnut, Pack of 1)",
+        "dealPrice": "₹ 2999",
+        "originalPrice": "₹ 5265",
+        "platform": "Amazon",
+        "discount": "43",
+        "productLink": "https://amazon.in/dp/B0BN8H6LP8/?tag=thuttu-21&ascsubtag=1300802",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BN8H6LP8?ascsubtag=1300802&linkCode=ll1&tag=hotdealsbazaar-21&linkId=da0a5f38ea4f84fafad7f7011d4f32d3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:27:09.571Z",
+        "updatedAt": "2023-11-02T05:03:41.756Z",
+        "ProductImgUrl": "uploads/Orient Electric Wendy 1200mm BEE Star Rated Ceiling Fan Designer Decorative Ceiling Fan Warranty 2 years Pearl WhiteWalnut Pack of 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1337,
+      "attributes": {
+        "title": "Lakme Peach Milk, Light Weight Moisturizer, 200ml,",
+        "dealPrice": "₹ 179",
+        "originalPrice": "₹ 425",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://www.amazon.in/dp/B00UFF8PZ2?tag=thuttu-21&ascsubtag=1300801",
+        "affiliate_product_link": "https://www.amazon.in/dp/B00UFF8PZ2?ascsubtag=1300801&linkCode=ll1&tag=hotdealsbazaar-21&linkId=11e99c1b2e082f48a6a8c773bda60775&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:26:09.228Z",
+        "updatedAt": "2023-11-02T05:02:33.795Z",
+        "ProductImgUrl": "uploads/Lakme Peach Milk Light Weight Moisturizer 200ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1336,
+      "attributes": {
+        "title": "[ICICI CC EMI] Sony Digital Vlog Camera ZV-1 Only (Compact, Video Eye AF, Flip Screen, in-Built Microphone, 4K Vlogging Camera and Content Creation) - Black",
+        "dealPrice": "₹ 49490",
+        "originalPrice": "₹ 67990",
+        "platform": "Amazon",
+        "discount": "27",
+        "productLink": "https://www.amazon.in/dp/B08JVPJXMT?tag=thuttu-21&ascsubtag=1300800",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08JVPJXMT?ascsubtag=1300800&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=e5c15b0c0c2a81e2e8fdb5f02f858b60&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:29.274Z",
+        "updatedAt": "2023-11-02T05:01:38.211Z",
+        "ProductImgUrl": "uploads/ICICI CC EMI Sony Digital Vlog Camera ZV 1 Only Compact Video Eye AF Flip Screen in Built Microphone 4K Vlogging Camera and Content Creation Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1335,
+      "attributes": {
+        "title": "Ant Esports GM40 Wired Optical Gaming Mouse with RGB LED, Lightweight and Ergonomic Design, DPI Upto 2400, Compatible with Windows and Mac",
+        "dealPrice": "₹ 139",
+        "originalPrice": "₹ 749",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": "https://amazon.in/dp/B0BBQV5JWJ/?tag=thuttu-21&ascsubtag=1300799",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BBQV5JWJ?ascsubtag=1300799&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=f9f418f80218d39b3eee5068414d93d7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:28.009Z",
+        "updatedAt": "2023-11-02T05:00:27.893Z",
+        "ProductImgUrl": "uploads/Ant Esports GM40 Wired Optical Gaming Mouse with RGB LED Lightweight and Ergonomic Design DPI Upto 2400 Compatible with Windows and Mac.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1334,
+      "attributes": {
+        "title": "Aramusk Charcoal Soap",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 300",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08XR7XKV5?ascsubtag=1300798&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b6738df0904bc8ecc4ab07edb45c1f2f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:26.817Z",
+        "updatedAt": "2023-11-02T04:58:47.486Z",
+        "ProductImgUrl": "uploads/Aramusk Charcoal Soap.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1333,
+      "attributes": {
+        "title": "Fire-Boltt Commando 1.95 AMOLED Smart Watch, 123 sports modes, and Bluetooth calling Smartwatch  (Camo Green Strap, Free Size)",
+        "dealPrice": "₹ 1899",
+        "originalPrice": "₹ 11599",
+        "platform": "Flipkart",
+        "discount": "84",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/fire-boltt-commando-1-95-amoled-smart-watch-123-sports-modes-bluetooth-calling-smartwatch/p/itm23b4fa28dbb93?pid=SMWGPHTQ4AQURRSR&affid=mithunvel",
+        "createdAt": "2023-11-02T04:25:25.605Z",
+        "updatedAt": "2023-11-02T04:33:02.178Z",
+        "ProductImgUrl": "uploads/Fire Boltt Commando 195 AMOLED Smart Watch 123 sports modes and Bluetooth calling Smartwatch Camo Green Strap Free Size.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1332,
+      "attributes": {
+        "title": "Min 50% Off On Dabur Beauty",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?i=beauty&rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ABajaj+DABUR&s=popularity-rank&tag=thuttu-21&ascsubtag=1300795",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-02T04:25:23.951Z",
+        "updatedAt": "2023-11-02T04:25:23.951Z",
+        "ProductImgUrl": "uploads/Min 50 Off On Dabur Beauty.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1331,
+      "attributes": {
+        "title": "Vaseline Cocoa Glow Lotion, 600 ml",
+        "dealPrice": "₹ 270",
+        "originalPrice": "₹ 549",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": "https://www.amazon.in/dp/B09DC9B71T?tag=thuttu_a-21&ascsubtag=1300793",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09DC9B71T?ascsubtag=1300793&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6be299d11546af7757dfe9596b5e5e89&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:21.923Z",
+        "updatedAt": "2023-11-02T04:47:16.073Z",
+        "ProductImgUrl": "uploads/Vaseline Cocoa Glow Lotion 600 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1330,
+      "attributes": {
+        "title": "[For SBI Credit Card] SONY Bravia 108 cm (43 inch) Ultra HD (4K) LED Smart Google TV 2022 Edition  (KD - 43X74K)",
+        "dealPrice": "₹ 33240",
+        "originalPrice": "₹ 69900",
+        "platform": "Flipkart",
+        "discount": "52",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/sony-bravia-108-cm-43-inch-ultra-hd-4k-led-smart-google-tv-2022/p/itm79b8f381c3fbf?pid=TVSGEYBH8PGUDPYT&affid=mithunvel",
+        "createdAt": "2023-11-02T04:25:19.833Z",
+        "updatedAt": "2023-11-02T04:33:29.986Z",
+        "ProductImgUrl": "uploads/For SBI Credit Card SONY Bravia 108 cm 43 inch Ultra HD 4K LED Smart Google TV 2022 Edition KD 43X74K.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1329,
+      "attributes": {
+        "title": "UNIGEN UNIDOCK 310 3-in-1 Qi Wireless Charging Pad Compatible with iPhone 14/13/12/11/11 Pro/11 Pro Max/X/XS/XR Samsung Phone | Air-Pods 1/2/3/Pro (iWatch Charger Not Included)",
+        "dealPrice": "₹ 987",
+        "originalPrice": "₹ 3999",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": "https://www.amazon.in/dp/B08SQPQ8KL?tag=thuttu-21&ascsubtag=1300790",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08SQPQ8KL?ascsubtag=1300790&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=521c6648fd3d6572cc356a909e9afb72&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:18.046Z",
+        "updatedAt": "2023-11-02T04:45:20.056Z",
+        "ProductImgUrl": "uploads/UNIGEN UNIDOCK 310 3 in 1 Qi Wireless Charging Pad Compatible with iPhone 1413121111 Pro11 Pro MaxXXSXR Samsung Phone Air Pods 123Pro iWatch Charger Not Included.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1328,
+      "attributes": {
+        "title": "Navratna Ayurvedic Cool Oil | Unique combination of 9 Ayurvedic Herbs | Relieves Headache, Body ache, Tiredness, Sleeplessness & Tension| Improves Scalp Health | Relaxing & Rejuvenating cooling effect | 600ml",
+        "dealPrice": "₹ 245",
+        "originalPrice": "₹ 490",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B08Y9J96KQ?tag=thuttu-21&ascsubtag=1300789",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08Y9J96KQ?ascsubtag=1300789&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d90ab7a653b7af278055740d74b463a1&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:16.132Z",
+        "updatedAt": "2023-11-02T04:44:04.112Z",
+        "ProductImgUrl": "uploads/Navratna Ayurvedic Cool Oil Unique combination of 9 Ayurvedic Herbs Relieves Headache Body ache Tiredness Sleeplessness Tension Improves Scalp Health Relaxing Rejuvenating cooling effect 600ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1327,
+      "attributes": {
+        "title": "Longway Elite Plus IC 2000 W Induction Cooktop  (Black, Push Button)",
+        "dealPrice": "₹ 1099",
+        "originalPrice": "₹ 3195",
+        "platform": "Flipkart",
+        "discount": "66",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/longway-elite-plus-ic-2000-w-induction-cooktop/p/itmaef1ddcfca245?marketplace=FLIPKART&lid=LSTICTGFGW4RKVQG2SPBMY5KL&pid=ICTGFGW4RKVQG2SP&affid=mithunvel",
+        "createdAt": "2023-11-02T04:25:14.153Z",
+        "updatedAt": "2023-11-02T04:33:59.198Z",
+        "ProductImgUrl": "uploads/Longway Elite Plus IC 2000 W Induction Cooktop Black Push Button.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1326,
+      "attributes": {
+        "title": "Yutika Life Women's Clothing Min 90% Off from Rs.180",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?rh=n%3A1968253031%2Cp_6%3A%2Cp_89%3AYutika+Life&s=price-asc-rank&tag=thuttu-21&ascsubtag=1300787",
+        "affiliate_product_link": "https://www.amazon.in/s?rh=n%3A1968253031%2Cp_6%3A%2Cp_89%3AYutika+Life&s=price-asc-rank&ascsubtag=1300787&linkCode=ll2&tag=hotdealsbazaar-21&linkId=43432d29eb63f3e5feb86528277dee08&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:12.383Z",
+        "updatedAt": "2023-11-02T04:43:11.833Z",
+        "ProductImgUrl": "uploads/Yutika Life Womens Clothing Min 90 Off from Rs180.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1325,
+      "attributes": {
+        "title": "USHA Super Striker 1200mm Energy Saving High Speed Scratch & Dust Resistant Decorative Ceiling Fan (Charcoal)",
+        "dealPrice": "₹ 2184",
+        "originalPrice": "₹ 5300",
+        "platform": "Amazon",
+        "discount": "59",
+        "productLink": "https://amazon.in/dp/B0C6YB9MS6/?tag=thuttu_i-21&ascsubtag=1300786",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C6YB9MS6?ascsubtag=1300786&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ffa1dc9ee931b0ebe8d9bca4894fd2df&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:10.677Z",
+        "updatedAt": "2023-11-02T04:41:13.719Z",
+        "ProductImgUrl": "uploads/USHA Super Striker 1200mm Energy Saving High Speed Scratch Dust Resistant Decorative Ceiling Fan Charcoal.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1324,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Printed Fabric Shirt Stacker Organiser, Set of 1, Black",
+        "dealPrice": "₹ 179",
+        "originalPrice": "₹ 500",
+        "platform": "Amazon",
+        "discount": "64",
+        "productLink": "https://www.amazon.in/dp/B07YGCCY4Y?tag=thuttu-21&ascsubtag=1300785",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07YGCCY4Y?ascsubtag=1300785&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7d4350f00f07d3acfb03fbd3e2440793&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:08.941Z",
+        "updatedAt": "2023-11-02T04:39:55.273Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Printed Fabric Shirt Stacker Organiser Set of 1 Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1323,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Fabric Storage Box, Medium, Brown",
+        "dealPrice": "₹ 159",
+        "originalPrice": "₹ 400",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B081FH5LZV?tag=thuttu-21&ascsubtag=1300784",
+        "affiliate_product_link": "https://www.amazon.in/dp/B081FH5LZV?ascsubtag=1300784&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=4a678336cb29f731c6f2cbde994d4de2&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:06.534Z",
+        "updatedAt": "2023-11-02T04:39:00.184Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Fabric Storage Box Medium Brown.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1322,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Printed Fabric Storage Box, Medium, Set of 1, Black",
+        "dealPrice": "₹ 169",
+        "originalPrice": "₹ 500",
+        "platform": "Amazon",
+        "discount": "66",
+        "productLink": "https://amazon.in/d/B081FGZY6G/?tag=thuttu-21&ascsubtag=1300783",
+        "affiliate_product_link": "https://www.amazon.in/d/B081FGZY6G?ascsubtag=1300783&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7d3387251efd35c883c5ef37322eaae1&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-02T04:25:04.065Z",
+        "updatedAt": "2023-11-02T04:38:13.302Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Printed Fabric Storage Box Medium Set of 1 Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1321,
       "attributes": {
         "title": "Amazon Brand Hair Care Starts From Rs.41",
@@ -8592,7 +8952,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 477
+      "total": 497
     }
   }
 }
