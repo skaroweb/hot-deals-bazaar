@@ -1,6 +1,240 @@
 {
   "data": [
     {
+      "id": 1410,
+      "attributes": {
+        "title": "[Size 30] Diverse Men Casual Shorts",
+        "dealPrice": "₹ 179",
+        "originalPrice": "₹ 1499",
+        "platform": "Amazon",
+        "discount": "88",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B079L6X3QX?ascsubtag=1302963&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c0db81db76a6fe952cc96d6975b2d1a6&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T06:06:08.250Z",
+        "updatedAt": "2023-11-06T06:09:44.567Z",
+        "ProductImgUrl": "uploads/Size 30 Diverse Men Casual Shorts.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1409,
+      "attributes": {
+        "title": "Halonix 20W Led batten tubelight (Pack of 2, cool day white) & Radar 10W B22 Cool day white Motion Sensor Led Bulb, Auto on-Auto off, Pack of 1, White",
+        "dealPrice": "₹ 508",
+        "originalPrice": "₹ 1047",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": "https://amazon.in/dp/B0BB63V5SF/?tag=thuttu-21&ascsubtag=1302959",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BB63V5SF?ascsubtag=1302959&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1ff9b95fc69ea87c7cb0c73ee4a07435&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T06:06:07.362Z",
+        "updatedAt": "2023-11-06T06:08:57.724Z",
+        "ProductImgUrl": "uploads/Halonix 20W Led batten tubelight Pack of 2 cool day white Radar 10W B22 Cool day white Motion Sensor Led Bulb Auto on Auto off Pack of 1 White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1408,
+      "attributes": {
+        "title": "NIVEA Naturally Good Shower Gel, Lily of the Valley & Oil, No Parabens, Vegan Formula with 98% Ingredients of Natural Origin, 300 ml  (300 ml)",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 299",
+        "platform": "Flipkart",
+        "discount": "50",
+        "productLink": "https://www.flipkart.com/nivea-naturally-good-shower-gel-lily-valley-oil-no-parabens-vegan-formula-98-ingredients-natural-origin-300-ml/p/itm06106236b05a5?pid=BWSG2ACPKKEEGCBZ",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T06:06:06.435Z",
+        "updatedAt": "2023-11-06T06:06:06.435Z",
+        "ProductImgUrl": "uploads/NIVEA Naturally Good Shower Gel Lily of the Valley Oil No Parabens Vegan Formula with 98 Ingredients of Natural Origin 300 ml 300 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1407,
+      "attributes": {
+        "title": "Pond's Bright Beauty Foaming Brush Facewash",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0B1T8742J/?tag=thuttu-21&ascsubtag=1274536",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B1T8742J?ascsubtag=1274536&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2454ef5b7c61f4b78d7fe3091966875b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:52:08.441Z",
+        "updatedAt": "2023-11-06T06:08:14.398Z",
+        "ProductImgUrl": "uploads/Ponds Bright Beauty Foaming Brush Facewash.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1406,
+      "attributes": {
+        "title": "Cablet M.2 NVMe/NGFF SSD Enclosure USB 3.1 Gen2 10Gbps",
+        "dealPrice": "₹ 1249",
+        "originalPrice": "₹ 4350",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": "https://amazon.in/gp/product/B0BGJXLHPP/?tag=thuttu-21&ascsubtag=1302955",
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B0BGJXLHPP?ascsubtag=1302955&linkCode=ll1&tag=hotdealsbazaar-21&linkId=41f528941a68c873005749739ddf7144&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:52:07.345Z",
+        "updatedAt": "2023-11-06T06:07:35.165Z",
+        "ProductImgUrl": "uploads/Cablet M2 NVMeNGFF SSD Enclosure USB 31 Gen2 10Gbps.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1405,
+      "attributes": {
+        "title": "POND'S Pure Detox Mineral Clay Activated Charcoal, 4X Oil Absorbing, Detoxifying, For Oil Free Instant Glow, Face Wash 90 g",
+        "dealPrice": "₹ 145",
+        "originalPrice": "₹ 250",
+        "platform": "Amazon",
+        "discount": "42",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B093ZWCRN9?ascsubtag=1302954&linkCode=ll1&tag=hotdealsbazaar-21&linkId=240318945f1968941a4352d28a71b041&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:51:08.023Z",
+        "updatedAt": "2023-11-06T06:05:57.067Z",
+        "ProductImgUrl": "uploads/PONDS Pure Detox Mineral Clay Activated Charcoal 4X Oil Absorbing Detoxifying For Oil Free Instant Glow Face Wash 90 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1404,
+      "attributes": {
+        "title": "[For ICICI Credit Card] realme Pad Mini WiFi+4G Tablet | 4GB RAM 64GB ROM (Expandable), 22.1cm (8.7 inch) Cinematic Display | 6400 mAh Battery | Dual Speakers | Grey Colour",
+        "dealPrice": "₹ 10799",
+        "originalPrice": "₹ 23999",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09ZF75B98?ascsubtag=1302953&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ffdccaf931851663fdfd76fabeb2aaa3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:49:08.403Z",
+        "updatedAt": "2023-11-06T06:06:42.312Z",
+        "ProductImgUrl": "uploads/For ICICI Credit Card realme Pad Mini WiFi4G Tablet 4GB RAM 64GB ROM Expandable 221cm 87 inch Cinematic Display 6400 mAh Battery Dual Speakers Grey Colour.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1403,
+      "attributes": {
+        "title": "[Many Product] Diverse Men's Clothing Upto 90% off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?i=apparel&rh=n%3A1571271031%2Cn%3A1571272031%2Cn%3A1968024031%2Cp_n_feature_nineteen_browse-bin%3A11301357031%2Cp_85%3A10440599031%2Cp_89%3ADiverse%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&tag=thuttu-21&ascsubtag=1302952",
+        "affiliate_product_link": "https://www.amazon.in/s?i=apparel&rh=n%3A1571271031%2Cn%3A1571272031%2Cn%3A1968024031%2Cp_n_feature_nineteen_browse-bin%3A11301357031%2Cp_85%3A10440599031%2Cp_89%3ADiverse%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&ascsubtag=1302952&linkCode=ll2&tag=hotdealsbazaar-21&linkId=4314211dd69cb056c95e7a824ddb9b04&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:38:07.015Z",
+        "updatedAt": "2023-11-06T06:01:58.697Z",
+        "ProductImgUrl": "uploads/Many Product Diverse Mens Clothing Upto 90 off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1402,
+      "attributes": {
+        "title": "GIZMORE Slate 1.57 inch AOD Display | AI | Sports Modes | SpO2, BT Calling Smartwatch (Black)",
+        "dealPrice": "₹ 999",
+        "originalPrice": "₹ 2599",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://amazon.in/d/B0B3F3RGBF/?tag=thuttu-21&ascsubtag=1302951",
+        "affiliate_product_link": "https://www.amazon.in/d/B0B3F3RGBF?ascsubtag=1302951&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=fd600b356550cbdab9e7832f6df69fe4&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:34:08.100Z",
+        "updatedAt": "2023-11-06T06:01:09.549Z",
+        "ProductImgUrl": "uploads/GIZMORE Slate 157 inch AOD Display AI Sports Modes SpO2 BT Calling Smartwatch Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1401,
+      "attributes": {
+        "title": "Helix Digital Black Dial Men's Watch-TWESK1500T",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": "https://www.amazon.in/dp/B0968CB147?tag=thuttu-21&ascsubtag=1302950",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0968CB147?ascsubtag=1302950&linkCode=ll1&tag=hotdealsbazaar-21&linkId=0fba4d25329fcac6d860c868d2a91e5e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:34:07.205Z",
+        "updatedAt": "2023-11-06T06:00:23.220Z",
+        "ProductImgUrl": "uploads/Helix Digital Black Dial Mens Watch TWESK1500T.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1400,
+      "attributes": {
+        "title": "Van Heusen Men Trunks - Cotton Spandex L",
+        "dealPrice": "₹ 219",
+        "originalPrice": "₹ 439",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B08FJTC8BH?tag=thuttu-21&ascsubtag=1302947",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08FJTC8BH?ascsubtag=1302947&linkCode=ll1&tag=hotdealsbazaar-21&linkId=f517a0572d3b2c25a7c5add6151bfe07&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:33:07.012Z",
+        "updatedAt": "2023-11-06T05:59:41.311Z",
+        "ProductImgUrl": "uploads/Van Heusen Men Trunks Cotton Spandex L.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1399,
+      "attributes": {
+        "title": "wipro 7W Led Cool Day Light B22D Bulb, Pack Of 2 (Garnet)",
+        "dealPrice": "₹ 109",
+        "originalPrice": "₹ 450",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://www.amazon.in/dp/B00W90OTSI?tag=thuttu-21&ascsubtag=1302946",
+        "affiliate_product_link": "https://www.amazon.in/dp/B00W90OTSI?ascsubtag=1302946&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9602f9b9a1d1acc537f5dc5717e2d6e9&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:32:07.971Z",
+        "updatedAt": "2023-11-06T05:59:01.020Z",
+        "ProductImgUrl": "uploads/wipro 7W Led Cool Day Light B22D Bulb Pack Of 2 Garnet.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1398,
+      "attributes": {
+        "title": "Beardo Activated Charcoal Anti Pollution Face Wash for Deep Pore Cleaning, 50ml | Charcoal face wash for men | Acne face wash",
+        "dealPrice": "₹ 89",
+        "originalPrice": "₹ 149",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://amazon.in/dp/B0B8569YZY/?tag=thuttu-21&ascsubtag=1302944",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B8569YZY?ascsubtag=1302944&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=fdb80da4638064fad6e078e4ab52ef04&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:32:07.098Z",
+        "updatedAt": "2023-11-06T05:58:11.931Z",
+        "ProductImgUrl": "uploads/Beardo Activated Charcoal Anti Pollution Face Wash for Deep Pore Cleaning 50ml Charcoal face wash for men Acne face wash.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1397,
       "attributes": {
         "title": "[For ICICI Card] Samsung Galaxy S22 Ultra 5G (Burgundy, 12GB, 256GB Storage) with No Cost EMI/Additional Exchange Offers",
@@ -9,9 +243,9 @@
         "platform": "Amazon",
         "discount": "44",
         "productLink": "https://www.amazon.in/dp/B09SH7FDKT?tag=thuttu-21&ascsubtag=1302943",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09SH7FDKT?ascsubtag=1302943&linkCode=ll1&tag=hotdealsbazaar-21&linkId=0cbe30516ec6647196135a856d6b15b5&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:26:10.211Z",
-        "updatedAt": "2023-11-06T05:26:10.211Z",
+        "updatedAt": "2023-11-06T05:57:32.351Z",
         "ProductImgUrl": "uploads/For ICICI Card Samsung Galaxy S22 Ultra 5G Burgundy 12GB 256GB Storage with No Cost EMIAdditional Exchange Offers.jpg",
         "productimage": {
           "data": null
@@ -27,9 +261,9 @@
         "platform": "Amazon",
         "discount": "58",
         "productLink": "https://www.amazon.in/dp/B00TTM6TYG?tag=thuttu-21&ascsubtag=1302942",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B00TTM6TYG?ascsubtag=1302942&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9b791d0417788310861349b4a7e9bc82&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:22:07.639Z",
-        "updatedAt": "2023-11-06T05:22:07.639Z",
+        "updatedAt": "2023-11-06T05:56:44.977Z",
         "ProductImgUrl": "uploads/Kozicare Skin Lightening Facial Kit 3 Soap 1 Cream Pack For Lightening Brightening Skin Contains Goodness of Kojic Acid Arbutin Glutathione.jpg",
         "productimage": {
           "data": null
@@ -45,9 +279,9 @@
         "platform": "Amazon",
         "discount": "63",
         "productLink": "https://amazon.in/dp/B0BFXKCRSY/?tag=thuttu-21&ascsubtag=1302941",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BFXKCRSY?ascsubtag=1302941&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bf09fc5ae5f01f558d0752345fb39522&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:21:08.657Z",
-        "updatedAt": "2023-11-06T05:21:08.657Z",
+        "updatedAt": "2023-11-06T05:55:56.995Z",
         "ProductImgUrl": "uploads/Surya 6W Moon PRO LED DOWNLIGHTER Recessed LED Downlight for Ceiling LED Ceiling Light.jpg",
         "productimage": {
           "data": null
@@ -63,9 +297,9 @@
         "platform": "Amazon",
         "discount": "50",
         "productLink": "https://www.amazon.in/dp/B08CHPGTSF?tag=thuttu-21&ascsubtag=1302940",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08CHPGTSF?ascsubtag=1302940&linkCode=ll1&tag=hotdealsbazaar-21&linkId=03bba057be30daaee0625594bbca8c00&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:21:07.775Z",
-        "updatedAt": "2023-11-06T05:21:07.775Z",
+        "updatedAt": "2023-11-06T05:55:14.960Z",
         "ProductImgUrl": "uploads/Zebronics Zeb 200HM Wired On Ear Headphone with Mic Dual 35mm Connectors Adjustable Headband.jpg",
         "productimage": {
           "data": null
@@ -81,9 +315,9 @@
         "platform": "Amazon",
         "discount": "53",
         "productLink": "https://www.amazon.in/dp/B08RW8VRGX?tag=thuttu-21&ascsubtag=1302939",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08RW8VRGX?ascsubtag=1302939&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9b592e696f8a4ba80c6b4778e068f78e&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:21:06.901Z",
-        "updatedAt": "2023-11-06T05:21:06.901Z",
+        "updatedAt": "2023-11-06T05:54:24.772Z",
         "ProductImgUrl": "uploads/Pigeon by Stovekraft 3 Litre Special Aluminium Inner Lid Non Induction base Pressure Cooker Silver BIS Certified.jpg",
         "productimage": {
           "data": null
@@ -99,9 +333,9 @@
         "platform": "Amazon",
         "discount": "42",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B013UWBPHG?ascsubtag=1302938&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ce9d80851760ba569c5096673e641ea9&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:20:08.504Z",
-        "updatedAt": "2023-11-06T05:20:08.504Z",
+        "updatedAt": "2023-11-06T05:53:43.088Z",
         "ProductImgUrl": "uploads/Biotique Pineapple Oil Control Foaming Face Wash Hydrates dry skin Eliminates Excess Oil Evens Skin Tone 100 Botanical Extracts Suitable.jpg",
         "productimage": {
           "data": null
@@ -117,9 +351,9 @@
         "platform": "Amazon",
         "discount": "48",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B091VPCBS7?ascsubtag=1302937&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6da0273058c0c47c5bce737a3ac3f0f7&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:19:07.870Z",
-        "updatedAt": "2023-11-06T05:19:07.870Z",
+        "updatedAt": "2023-11-06T05:52:51.657Z",
         "ProductImgUrl": "uploads/Aramusk Force Soap.jpg",
         "productimage": {
           "data": null
@@ -135,9 +369,9 @@
         "platform": "Amazon",
         "discount": "57",
         "productLink": "https://www.amazon.in/dp/B09N3KLC2F?tag=thuttu-21&ascsubtag=1302936",
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09N3KLC2F?ascsubtag=1302936&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6a04ab6c09fbbbe7c5c9ccec99d8169f&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:19:07.042Z",
-        "updatedAt": "2023-11-06T05:19:07.042Z",
+        "updatedAt": "2023-11-06T05:51:42.609Z",
         "ProductImgUrl": "uploads/PHILIPS Starfit 7 watt Concealed JB LED downlighter.jpg",
         "productimage": {
           "data": null
@@ -153,9 +387,9 @@
         "platform": "Amazon",
         "discount": "54",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0846KMRRT?ascsubtag=1302935&linkCode=ll1&tag=hotdealsbazaar-21&linkId=4bd0da847eab390bf41f5bfb4e86b9b8&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:18:06.925Z",
-        "updatedAt": "2023-11-06T05:18:06.925Z",
+        "updatedAt": "2023-11-06T05:47:20.359Z",
         "ProductImgUrl": "uploads/Just Herbs Ayurvedic Glow Boosting Trial Kit.jpg",
         "productimage": {
           "data": null
@@ -9960,7 +10194,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 553
+      "total": 566
     }
   }
 }
