@@ -159,7 +159,7 @@ function ProductList({ platform }) {
                     <span>
                       <i className="fa fa-clock" aria-hidden="true"></i>
                     </span>
-                    {getTimeAgo(product.attributes.updatedAt)}
+                    {getTimeAgo(product.attributes.createdAt)}
                   </div>
                   <div className={styles.products_img}>
                     {product.attributes.ProductImgUrl ? (
