@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": 1397,
+      "attributes": {
+        "title": "[For ICICI Card] Samsung Galaxy S22 Ultra 5G (Burgundy, 12GB, 256GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "dealPrice": "₹ 74249",
+        "originalPrice": "₹ 131999",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": "https://www.amazon.in/dp/B09SH7FDKT?tag=thuttu-21&ascsubtag=1302943",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:26:10.211Z",
+        "updatedAt": "2023-11-06T05:26:10.211Z",
+        "ProductImgUrl": "uploads/For ICICI Card Samsung Galaxy S22 Ultra 5G Burgundy 12GB 256GB Storage with No Cost EMIAdditional Exchange Offers.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1396,
       "attributes": {
         "title": "Kozicare Skin Lightening Facial Kit | 3 Soap + 1 Cream Pack | For Lightening & Brightening Skin | Contains Goodness of Kojic Acid, Arbutin, Glutathione",
@@ -153,9 +171,9 @@
         "platform": "Amazon",
         "discount": "48",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08L7P7RZ4?ascsubtag=1302934&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8581f0caff88743213c229d62332023b&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:16:09.559Z",
-        "updatedAt": "2023-11-06T05:16:09.559Z",
+        "updatedAt": "2023-11-06T05:25:21.777Z",
         "ProductImgUrl": "uploads/Anchor Red Cooling Fresh Gel Toothpaste 300Ggm 150gx2.jpg",
         "productimage": {
           "data": null
@@ -173,7 +191,7 @@
         "productLink": "https://www.flipkart.com/flipkart/p/item?pid=SMPGSAVYMSZMJGZF",
         "affiliate_product_link": "https://www.flipkart.com/flipkart/p/item?pid=SMPGSAVYMSZMJGZF&affid=mithunvel",
         "createdAt": "2023-11-06T05:15:09.571Z",
-        "updatedAt": "2023-11-06T05:15:35.192Z",
+        "updatedAt": "2023-11-06T05:27:37.461Z",
         "ProductImgUrl": "uploads/BAJAJ Almond Drops Anti Hairfall Shampoo and Conditioner Combo Kit 515 ml.jpg",
         "productimage": {
           "data": null
@@ -189,9 +207,9 @@
         "platform": "Amazon",
         "discount": "27",
         "productLink": null,
-        "affiliate_product_link": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07F6JG77B?ascsubtag=1302932&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5f9e851125eeda43fa782849c71e2495&language=en_IN&ref_=as_li_ss_tl",
         "createdAt": "2023-11-06T05:15:08.656Z",
-        "updatedAt": "2023-11-06T05:15:08.656Z",
+        "updatedAt": "2023-11-06T05:24:24.419Z",
         "ProductImgUrl": "uploads/Cadbury Celebrations Chocolate Gift Pack 1788 g Pack of 2.jpg",
         "productimage": {
           "data": null
@@ -9942,7 +9960,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 552
+      "total": 553
     }
   }
 }
