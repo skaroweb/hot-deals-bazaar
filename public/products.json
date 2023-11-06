@@ -1,6 +1,492 @@
 {
   "data": [
     {
+      "id": 1396,
+      "attributes": {
+        "title": "Kozicare Skin Lightening Facial Kit | 3 Soap + 1 Cream Pack | For Lightening & Brightening Skin | Contains Goodness of Kojic Acid, Arbutin, Glutathione",
+        "dealPrice": "₹ 196",
+        "originalPrice": "₹ 470",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://www.amazon.in/dp/B00TTM6TYG?tag=thuttu-21&ascsubtag=1302942",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:22:07.639Z",
+        "updatedAt": "2023-11-06T05:22:07.639Z",
+        "ProductImgUrl": "uploads/Kozicare Skin Lightening Facial Kit 3 Soap 1 Cream Pack For Lightening Brightening Skin Contains Goodness of Kojic Acid Arbutin Glutathione.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1395,
+      "attributes": {
+        "title": "Surya 6W Moon PRO LED DOWNLIGHTER, Recessed LED Downlight for Ceiling, LED Ceiling Light",
+        "dealPrice": "₹ 260",
+        "originalPrice": "₹ 700",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": "https://amazon.in/dp/B0BFXKCRSY/?tag=thuttu-21&ascsubtag=1302941",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:21:08.657Z",
+        "updatedAt": "2023-11-06T05:21:08.657Z",
+        "ProductImgUrl": "uploads/Surya 6W Moon PRO LED DOWNLIGHTER Recessed LED Downlight for Ceiling LED Ceiling Light.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1394,
+      "attributes": {
+        "title": "Zebronics Zeb-200HM Wired On Ear Headphone with Mic, Dual 3.5mm Connectors, Adjustable Headband",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B08CHPGTSF?tag=thuttu-21&ascsubtag=1302940",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:21:07.775Z",
+        "updatedAt": "2023-11-06T05:21:07.775Z",
+        "ProductImgUrl": "uploads/Zebronics Zeb 200HM Wired On Ear Headphone with Mic Dual 35mm Connectors Adjustable Headband.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1393,
+      "attributes": {
+        "title": "Pigeon by Stovekraft 3 Litre Special Aluminium Inner Lid Non-Induction base Pressure Cooker (Silver) BIS Certified",
+        "dealPrice": "₹ 659",
+        "originalPrice": "₹ 1395",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://www.amazon.in/dp/B08RW8VRGX?tag=thuttu-21&ascsubtag=1302939",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:21:06.901Z",
+        "updatedAt": "2023-11-06T05:21:06.901Z",
+        "ProductImgUrl": "uploads/Pigeon by Stovekraft 3 Litre Special Aluminium Inner Lid Non Induction base Pressure Cooker Silver BIS Certified.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1392,
+      "attributes": {
+        "title": "Biotique Pineapple Oil Control Foaming Face Wash | Hydrates dry skin | Eliminates Excess Oil | Evens Skin Tone | 100% Botanical Extracts | Suitable",
+        "dealPrice": "₹ 76",
+        "originalPrice": "₹ 130",
+        "platform": "Amazon",
+        "discount": "42",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:20:08.504Z",
+        "updatedAt": "2023-11-06T05:20:08.504Z",
+        "ProductImgUrl": "uploads/Biotique Pineapple Oil Control Foaming Face Wash Hydrates dry skin Eliminates Excess Oil Evens Skin Tone 100 Botanical Extracts Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1391,
+      "attributes": {
+        "title": "Aramusk Force Soap",
+        "dealPrice": "₹ 250",
+        "originalPrice": "₹ 480",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:19:07.870Z",
+        "updatedAt": "2023-11-06T05:19:07.870Z",
+        "ProductImgUrl": "uploads/Aramusk Force Soap.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1390,
+      "attributes": {
+        "title": "PHILIPS Starfit 7 watt Concealed JB LED downlighter",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 700",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://www.amazon.in/dp/B09N3KLC2F?tag=thuttu-21&ascsubtag=1302936",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:19:07.042Z",
+        "updatedAt": "2023-11-06T05:19:07.042Z",
+        "ProductImgUrl": "uploads/PHILIPS Starfit 7 watt Concealed JB LED downlighter.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1389,
+      "attributes": {
+        "title": "Just Herbs Ayurvedic Glow Boosting Trial Kit",
+        "dealPrice": "₹ 229",
+        "originalPrice": "₹ 495",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:18:06.925Z",
+        "updatedAt": "2023-11-06T05:18:06.925Z",
+        "ProductImgUrl": "uploads/Just Herbs Ayurvedic Glow Boosting Trial Kit.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1388,
+      "attributes": {
+        "title": "Anchor Red Cooling Fresh Gel Toothpaste 300Ggm (150gx2)",
+        "dealPrice": "₹ 115",
+        "originalPrice": "₹ 220",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:16:09.559Z",
+        "updatedAt": "2023-11-06T05:16:09.559Z",
+        "ProductImgUrl": "uploads/Anchor Red Cooling Fresh Gel Toothpaste 300Ggm 150gx2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1387,
+      "attributes": {
+        "title": "BAJAJ Almond Drops Anti Hairfall Shampoo and Conditioner Combo Kit  (515 ml)",
+        "dealPrice": "₹ 156",
+        "originalPrice": "₹ 520",
+        "platform": "Flipkart",
+        "discount": "70",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=SMPGSAVYMSZMJGZF",
+        "affiliate_product_link": "https://www.flipkart.com/flipkart/p/item?pid=SMPGSAVYMSZMJGZF&affid=mithunvel",
+        "createdAt": "2023-11-06T05:15:09.571Z",
+        "updatedAt": "2023-11-06T05:15:35.192Z",
+        "ProductImgUrl": "uploads/BAJAJ Almond Drops Anti Hairfall Shampoo and Conditioner Combo Kit 515 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1386,
+      "attributes": {
+        "title": "Cadbury Celebrations Chocolate Gift Pack, 178.8 g (Pack of 2)",
+        "dealPrice": "₹ 292",
+        "originalPrice": "₹ 398",
+        "platform": "Amazon",
+        "discount": "27",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-06T05:15:08.656Z",
+        "updatedAt": "2023-11-06T05:15:08.656Z",
+        "ProductImgUrl": "uploads/Cadbury Celebrations Chocolate Gift Pack 1788 g Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1385,
+      "attributes": {
+        "title": "SERY Colorflirt Nail Paint | Glossy, Quick Dry, High Coverage, Chip Resistant, Long Lasting | Nail Polish",
+        "dealPrice": "₹ 79",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B08W5CLS6V?tag=thuttu_a-21&ascsubtag=1302931",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08W5CLS6V?ascsubtag=1302931&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=07cc8534720606d20a22513895af3640&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:16.504Z",
+        "updatedAt": "2023-11-06T05:23:56.034Z",
+        "ProductImgUrl": "uploads/SERY Colorflirt Nail Paint Glossy Quick Dry High Coverage Chip Resistant Long Lasting Nail Polish.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1384,
+      "attributes": {
+        "title": "amazon basics Laptop Stand, Height-Adjustable, Foldable, Portable, Ventilated, Fits Up to 15.6-Inch Laptops (Aluminium Alloy, Silver) Tabletop",
+        "dealPrice": "₹ 224",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "78",
+        "productLink": "https://amazon.in/dp/B0BSXDGL49/?tag=thuttu_a-21&ascsubtag=1302930",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BSXDGL49?ascsubtag=1302930&linkCode=ll1&tag=hotdealsbazaar-21&linkId=858d669f8bdd11627e65c4da363ad8b0&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:15.610Z",
+        "updatedAt": "2023-11-06T05:23:37.269Z",
+        "ProductImgUrl": "uploads/amazon basics Laptop Stand Height Adjustable Foldable Portable Ventilated Fits Up to 156 Inch Laptops Aluminium Alloy Silver Tabletop.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1383,
+      "attributes": {
+        "title": "Love Beauty & Planet Cherry Blossom & Tea Tree Body Lotion",
+        "dealPrice": "₹ 152",
+        "originalPrice": "₹ 325",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://amazon.in/dp/B0B5V9ZWXQ/?tag=thuttu-21&ascsubtag=1302929",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B5V9ZWXQ?ascsubtag=1302929&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d6acfb6a6a5eb3f265a0041e779b7a0d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:14.686Z",
+        "updatedAt": "2023-11-06T05:23:16.327Z",
+        "ProductImgUrl": "uploads/Love Beauty Planet Cherry Blossom Tea Tree Body Lotion.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1382,
+      "attributes": {
+        "title": "Tefal Simply Chef Appachetty, 20 CM - AP-101 (Red/ Black)",
+        "dealPrice": "₹ 342",
+        "originalPrice": "₹ 1229",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://www.amazon.in/dp/B0854RSHD6?tag=thuttu_a-21&ascsubtag=1302928",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0854RSHD6?ascsubtag=1302928&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6efee581a7f1524c32befc5797cc776c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:13.537Z",
+        "updatedAt": "2023-11-06T05:22:58.104Z",
+        "ProductImgUrl": "uploads/Tefal Simply Chef Appachetty 20 CM AP 101 Red Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1381,
+      "attributes": {
+        "title": "Dollar Innerwears Upto 60% off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Flipkart",
+        "discount": "",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/clothing-and-accessories/innerwear-and-swimwear/pr?p%5B%5D=facets.discount_range_v1%255B%255D%3D50%2525%2Bor%2Bmore&p%5B%5D=facets.brand%255B%255D%3DDollar&p%5B%5D=facets.brand%255B%255D%3DDollar%2BBigboss&p%5B%5D=facets.ideal_for%255B%255D%3DMen&affid=mithunvel&sort=price_asc&sid=clo%2Cqfl",
+        "createdAt": "2023-11-06T05:13:12.519Z",
+        "updatedAt": "2023-11-06T05:15:23.017Z",
+        "ProductImgUrl": "uploads/Dollar Innerwears Upto 60 off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1380,
+      "attributes": {
+        "title": "Klick n shop 2-in-1 Bathroom Cleaning Brush with Floor Scrubber & Wiper 120° Rotating Head Long Handle",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://amazon.in/dp/B0CJ5FG8GX/?tag=thuttu_a-21&ascsubtag=1302924",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CJ5FG8GX?ascsubtag=1302924&linkCode=ll1&tag=hotdealsbazaar-21&linkId=81ffa1c092140d022ad3003326f5e9c8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:11.587Z",
+        "updatedAt": "2023-11-06T05:22:39.829Z",
+        "ProductImgUrl": "uploads/Klick n shop 2 in 1 Bathroom Cleaning Brush with Floor Scrubber Wiper 120 Rotating Head Long Handle.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1379,
+      "attributes": {
+        "title": "999store 3D White Stones Wall and Horse cart Mural Wallpaper (Non Woven_3x4 Feet_White)",
+        "dealPrice": "₹ 260",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "87",
+        "productLink": "https://www.amazon.in/dp/B07Q3LG923?tag=thuttu-21&ascsubtag=1302923",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07Q3LG923?ascsubtag=1302923&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2c37a78434c82540a78d6f6fa05ecb1b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:10.717Z",
+        "updatedAt": "2023-11-06T05:22:21.285Z",
+        "ProductImgUrl": "uploads/999store 3D White Stones Wall and Horse cart Mural Wallpaper Non Woven_3x4 Feet_White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1378,
+      "attributes": {
+        "title": "Amazon Brand - Presto! Toilet Cleaner,Original 1 L (Pack of 3)|Kills 99.9% Germs",
+        "dealPrice": "₹ 256",
+        "originalPrice": "₹ 555",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09VLQMQQ5?ascsubtag=1302922&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=47f923c0f5606f82c1cc289f3241df09&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:09.654Z",
+        "updatedAt": "2023-11-06T05:22:03.009Z",
+        "ProductImgUrl": "uploads/Amazon Brand Presto Toilet CleanerOriginal 1 L Pack of 3Kills 999 Germs.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1377,
+      "attributes": {
+        "title": "amazon basics - Rechargeable 9W LED Emergency Inverter Bulb, Cool White (Base B22, Pack of 2)",
+        "dealPrice": "₹ 489",
+        "originalPrice": "₹ 1499",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://amazon.in/dp/B0BBMTDD8G/?tag=thuttu-21&ascsubtag=1302921",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BBMTDD8G?ascsubtag=1302921&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=238fbe62ba4e3b090950ce8225083197&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:08.739Z",
+        "updatedAt": "2023-11-06T05:21:37.711Z",
+        "ProductImgUrl": "uploads/amazon basics Rechargeable 9W LED Emergency Inverter Bulb Cool White Base B22 Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1376,
+      "attributes": {
+        "title": "Rexona Powder Dry Underarm Roll On Deodorant For Women (PO3) Deodorant Roll-on - For Women  (50 ml, Pack of 3)",
+        "dealPrice": "₹ 255",
+        "originalPrice": "₹ 510",
+        "platform": "Flipkart",
+        "discount": "50",
+        "productLink": "https://www.flipkart.com/rexona-powder-dry-underarm-roll-deodorant-women-po3-roll-on/p/itm47023d3b90ded?pid=DEOGSEK7ZPW9HSF8",
+        "affiliate_product_link": "https://www.flipkart.com/rexona-powder-dry-underarm-roll-deodorant-women-po3-roll-on/p/itm47023d3b90ded?pid=DEOGSEK7ZPW9HSF8&affid=mithunvel",
+        "createdAt": "2023-11-06T05:13:07.852Z",
+        "updatedAt": "2023-11-06T05:14:37.748Z",
+        "ProductImgUrl": "uploads/Rexona Powder Dry Underarm Roll On Deodorant For Women PO3 Deodorant Roll on For Women 50 ml Pack of 3.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1375,
+      "attributes": {
+        "title": "Ant Esports Alpha 360 Oscillation Electric Toothbrush with 2 Brush Heads, Sonic Toothbrushes 28,000 VPM, IPX7, Ergonomic Designs, last long",
+        "dealPrice": "₹ 315",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "84",
+        "productLink": "https://amazon.in/dp/B0C6QW69S1/?tag=thuttu-21&ascsubtag=1302919",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C6QW69S1?ascsubtag=1302919&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9bf10fd5abf615dcad9aaec749864bc4&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:06.925Z",
+        "updatedAt": "2023-11-06T05:21:17.739Z",
+        "ProductImgUrl": "uploads/Ant Esports Alpha 360 Oscillation Electric Toothbrush with 2 Brush Heads Sonic Toothbrushes 28000 VPM IPX7 Ergonomic Designs last long.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1374,
+      "attributes": {
+        "title": "Aristocrat Cadet Polyester 52 Cms Wheel Travel Duffle Bag (Blue)",
+        "dealPrice": "₹ 999",
+        "originalPrice": "₹ 2950",
+        "platform": "Amazon",
+        "discount": "66",
+        "productLink": "https://www.amazon.in/dp/B07S9GSXVQ?tag=thuttu-21&ascsubtag=1302917",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07S9GSXVQ?ascsubtag=1302917&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1e0214c8d1293cac48e19b86856cbb29&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:05.835Z",
+        "updatedAt": "2023-11-06T05:20:57.189Z",
+        "ProductImgUrl": "uploads/Aristocrat Cadet Polyester 52 Cms Wheel Travel Duffle Bag Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1373,
+      "attributes": {
+        "title": "ORIKA Shahi Paneer Masala, Chana Masala, Rajma Masala, Dal Makhani Masala (Pack of 4, 100gms Each)",
+        "dealPrice": "₹ 139",
+        "originalPrice": "₹ 295",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://www.amazon.in/dp/B08CBQ7KJQ?tag=thuttu-21&ascsubtag=1302915",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08CBQ7KJQ?ascsubtag=1302915&linkCode=ll1&tag=hotdealsbazaar-21&linkId=72fac4a516b3c20018809c9f1952f85c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:04.955Z",
+        "updatedAt": "2023-11-06T05:17:16.882Z",
+        "ProductImgUrl": "uploads/ORIKA Shahi Paneer Masala Chana Masala Rajma Masala Dal Makhani Masala Pack of 4 100gms Each.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1372,
+      "attributes": {
+        "title": "Parker Profile Ball Pen Combo with Swiss Knife - Blue",
+        "dealPrice": "₹ 669",
+        "originalPrice": "₹ 1899",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://www.amazon.in/dp/B08JLKLCGX?tag=thuttu-21&ascsubtag=1302914",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08JLKLCGX?ascsubtag=1302914&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7e91fa7afeefe2a11ef922425ec53715&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:03.737Z",
+        "updatedAt": "2023-11-06T05:16:59.337Z",
+        "ProductImgUrl": "uploads/Parker Profile Ball Pen Combo with Swiss Knife Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1371,
+      "attributes": {
+        "title": "Orika Smokey Garlic Marinade (Pack of 2, 75 g Each)",
+        "dealPrice": "₹ 119",
+        "originalPrice": "₹ 270",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://www.amazon.in/dp/B08CBN3YHV?tag=thuttu-21&ascsubtag=1302913",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08CBN3YHV?ascsubtag=1302913&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a0cb3c0dfcff6fa30d505e198683bc66&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:02.865Z",
+        "updatedAt": "2023-11-06T05:16:38.883Z",
+        "ProductImgUrl": "uploads/Orika Smokey Garlic Marinade Pack of 2 75 g Each.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1370,
+      "attributes": {
+        "title": "Orika Kitchen King Masala Powder (Pack of 3, 100 g Each)",
+        "dealPrice": "₹ 109",
+        "originalPrice": "₹ 237",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": "https://www.amazon.in/dp/B08CBPWX28?tag=thuttu-21&ascsubtag=1302912",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08CBPWX28?ascsubtag=1302912&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2ab3fb9da1c0e0afb37d05bbf8bb758d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-06T05:13:01.882Z",
+        "updatedAt": "2023-11-06T05:16:18.724Z",
+        "ProductImgUrl": "uploads/Orika Kitchen King Masala Powder Pack of 3 100 g Each.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1369,
       "attributes": {
         "title": "Kesh King Ayurvedic Onion Hair Growth Shampoo Reduces Split Ends & Frizz, Repairs Dry & Damaged Hair With The Goodness Of Onion, Amla, And Bhringraj (600 Ml)",
@@ -9456,7 +9942,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 525
+      "total": 552
     }
   }
 }
