@@ -19,7 +19,7 @@ function ProductList({ platform }) {
   const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
 
   useEffect(() => {
-    const apiUrl = `${StrapiCMSURL + "/products.json"}`;
+    const apiUrl = `${"http://192.168.151.46:3000" + "/products.json"}`;
 
     axios
       .get(apiUrl)

@@ -1,6 +1,348 @@
 {
   "data": [
     {
+      "id": 1429,
+      "attributes": {
+        "title": "TEX-RO 3 Compartment Lunch Box for Office Men and Lunch Box",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 599",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://amazon.in/dp/B0BNXNY8QX/?tag=thuttu-21&ascsubtag=1303469",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BNXNY8QX?ascsubtag=1303469&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2e6f25171ff134f9f2840e8ff585e424&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:12:08.742Z",
+        "updatedAt": "2023-11-07T05:38:45.672Z",
+        "ProductImgUrl": "uploads/TEX RO 3 Compartment Lunch Box for Office Men and Lunch Box.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1428,
+      "attributes": {
+        "title": "Amazon Brand - Symbol Women Sweatshirt",
+        "dealPrice": "₹ 159",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://www.amazon.in/dp/B07TQ8JM7M?tag=thuttu-21&ascsubtag=1303468",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07TQ8JM7M?ascsubtag=1303468&linkCode=ll1&tag=hotdealsbazaar-21&linkId=e3bd2200df760c367054f150b8c69350&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:12:07.890Z",
+        "updatedAt": "2023-11-07T05:37:41.199Z",
+        "ProductImgUrl": "uploads/Amazon Brand Symbol Women Sweatshirt.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1427,
+      "attributes": {
+        "title": "HORLICKS Chocolate Delight Flavor  (1 kg)",
+        "dealPrice": "₹ 313",
+        "originalPrice": "₹ 499",
+        "platform": "Flipkart",
+        "discount": "37",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/horlicks-chocolate-delight-flavor/p/itm26d535f9a746b?pid=MDMETGN5U9FHGNWE&affid=mithunvel",
+        "createdAt": "2023-11-07T05:09:08.346Z",
+        "updatedAt": "2023-11-07T05:22:17.172Z",
+        "ProductImgUrl": "uploads/HORLICKS Chocolate Delight Flavor 1 kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1426,
+      "attributes": {
+        "title": "Bagsy Malone Women's Vegan Leather Stylish Tote Bag Pack of 5 | Ladies Purse Handbag",
+        "dealPrice": "₹ 289",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "86",
+        "productLink": "https://amazon.in/dp/B0C341BKM5/?tag=thuttu-21&ascsubtag=1303467",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C341BKM5?ascsubtag=1303467&linkCode=ll1&tag=hotdealsbazaar-21&linkId=82446f9b0faa067698e677e8c7b6e40a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:17.773Z",
+        "updatedAt": "2023-11-07T05:36:06.448Z",
+        "ProductImgUrl": "uploads/Bagsy Malone Womens Vegan Leather Stylish Tote Bag Pack of 5 Ladies Purse Handbag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1425,
+      "attributes": {
+        "title": "Silver's Flex Combo-5 (2 Badminton Rackets + 2 Pcs Plastic Shuttle) Multicolor",
+        "dealPrice": "₹ 268",
+        "originalPrice": "₹ 479",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": "https://www.amazon.in/dp/B083GYCM7S?tag=thuttu-21&ascsubtag=1303466",
+        "affiliate_product_link": "https://www.amazon.in/dp/B083GYCM7S?ascsubtag=1303466&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=4308b7180c773c69eda81588b48a7ef7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:16.742Z",
+        "updatedAt": "2023-11-07T05:35:19.603Z",
+        "ProductImgUrl": "uploads/Silvers Flex Combo 5 2 Badminton Rackets 2 Pcs Plastic Shuttle Multicolor.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1424,
+      "attributes": {
+        "title": "AGARO Insignia Handheld Percussion Massage Gun, Portable, Brush Motor, Rechargeable, 4 Heads, 32 Speed Settings",
+        "dealPrice": "₹ 1349",
+        "originalPrice": "₹ 4999",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09TXLSWZ1?ascsubtag=1303465&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ddc767177f554ed6caa60b12ab58da96&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:15.700Z",
+        "updatedAt": "2023-11-07T05:33:27.030Z",
+        "ProductImgUrl": "uploads/AGARO Insignia Handheld Percussion Massage Gun Portable Brush Motor Rechargeable 4 Heads 32 Speed Settings.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1423,
+      "attributes": {
+        "title": "AGARO MT 8001 Beard Trimmer",
+        "dealPrice": "₹ 512",
+        "originalPrice": "₹ 1395",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08VW7LWCK?ascsubtag=1303464&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b9f88f1065d62609c0d78dd720333ab3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:14.722Z",
+        "updatedAt": "2023-11-07T05:32:28.160Z",
+        "ProductImgUrl": "uploads/AGARO MT 8001 Beard Trimmer.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1422,
+      "attributes": {
+        "title": "Crompton 5 L Instant Water Geyser (AIWH-5LJUNO3KW5Y (Juno 5L), White)",
+        "dealPrice": "₹ 2999",
+        "originalPrice": "₹ 7299",
+        "platform": "Flipkart",
+        "discount": "59",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=WGYGGBQ6ZM255CZP",
+        "affiliate_product_link": "https://www.flipkart.com/flipkart/p/item?pid=WGYGGBQ6ZM255CZP&affid=mithunvel",
+        "createdAt": "2023-11-07T05:06:13.525Z",
+        "updatedAt": "2023-11-07T05:06:56.872Z",
+        "ProductImgUrl": "uploads/Crompton 5 L Instant Water Geyser AIWH 5LJUNO3KW5Y Juno 5L White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1421,
+      "attributes": {
+        "title": "L'Oréal Paris Total Repair 5 Shampoo 650ml + Conditioner 180ml + Serum 40ml  (3 Items in the set)",
+        "dealPrice": "₹ 526",
+        "originalPrice": "₹ 1317",
+        "platform": "Flipkart",
+        "discount": "60",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=CBKFJQGGDTPWF3GT",
+        "affiliate_product_link": "https://www.flipkart.com/flipkart/p/item?pid=CBKFJQGGDTPWF3GT&affid=mithunvel",
+        "createdAt": "2023-11-07T05:06:12.599Z",
+        "updatedAt": "2023-11-07T05:07:16.414Z",
+        "ProductImgUrl": "uploads/LOral Paris Total Repair 5 Shampoo 650ml Conditioner 180ml Serum 40ml 3 Items in the set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1420,
+      "attributes": {
+        "title": "Dove Men+Care Extra Fresh Dry Spray Antiperspirant Deodorant, Up To 48 hrs Protection From Sweat & Odour, Instantly Dry",
+        "dealPrice": "₹ 412",
+        "originalPrice": "₹ 825",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0C5D5LMJL/?tag=thuttu-21&ascsubtag=1302321",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C5D5LMJL?ascsubtag=1302321&linkCode=ll1&tag=hotdealsbazaar-21&linkId=82a750d3acaa22883e42c72fe1171814&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:11.565Z",
+        "updatedAt": "2023-11-07T05:31:20.352Z",
+        "ProductImgUrl": "uploads/Dove MenCare Extra Fresh Dry Spray Antiperspirant Deodorant Up To 48 hrs Protection From Sweat Odour Instantly Dry.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1419,
+      "attributes": {
+        "title": "Vega Salon Smooth Hair Straightener",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 1199",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0CCVMSQS5/?tag=thuttu-21&ascsubtag=1303461",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CCVMSQS5?ascsubtag=1303461&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ac454128cbc0c8a874225952d86ba3bb&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:10.571Z",
+        "updatedAt": "2023-11-07T05:29:57.749Z",
+        "ProductImgUrl": "uploads/Vega Salon Smooth Hair Straightener.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1418,
+      "attributes": {
+        "title": "Polycab Aery 400 mm Pedestal Fan(White)",
+        "dealPrice": "₹ 1825",
+        "originalPrice": "₹ 3290",
+        "platform": "Amazon",
+        "discount": "45",
+        "productLink": "https://amazon.in/dp/B0BQWDJRNT/?tag=thuttu_i-21&ascsubtag=1303459",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BQWDJRNT?ascsubtag=1303459&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d157f853fd09a288225f7bfc2b64df56&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:09.604Z",
+        "updatedAt": "2023-11-07T05:29:04.003Z",
+        "ProductImgUrl": "uploads/Polycab Aery 400 mm Pedestal FanWhite.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1417,
+      "attributes": {
+        "title": "Unibic Foods India Pvt LTD Choco Kiss Cookies 250g, Filled with Chocolate, Rich & Indulgent Snack Delicious Creamy Flavors, Crunchy and Choco Cream Centred Biscuits Made",
+        "dealPrice": "₹ 72",
+        "originalPrice": "₹ 160",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B00C665BWI?ascsubtag=1302313&linkCode=ll1&tag=hotdealsbazaar-21&linkId=84ac07150ccb61c0496704dfa1d69214&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:08.573Z",
+        "updatedAt": "2023-11-07T05:26:37.551Z",
+        "ProductImgUrl": "uploads/Unibic Foods India Pvt LTD Choco Kiss Cookies 250g Filled with Chocolate Rich Indulgent Snack Delicious Creamy Flavors Crunchy and Choco Cream Centred Biscuits Made.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1416,
+      "attributes": {
+        "title": "UNIBIC FOODS Snappers Potato Crackers - Indi Spice- 300gm",
+        "dealPrice": "₹ 69",
+        "originalPrice": "₹ 150",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09MLCBQ6V?ascsubtag=1280412&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bca9b9f3fc72808278388ef13140235d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:07.569Z",
+        "updatedAt": "2023-11-07T05:25:49.084Z",
+        "ProductImgUrl": "uploads/UNIBIC FOODS Snappers Potato Crackers Indi Spice 300gm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1415,
+      "attributes": {
+        "title": "VEGA Insta Glam Foldable 1000 Watts Hair Dryer With 2 Heat & Speed Settings, VHDH-20, (Made In India)",
+        "dealPrice": "₹ 485",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "46",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07YCXRZWM?ascsubtag=1303457&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a68fb14cb1e05aa5bb64e72b8e2f0815&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:06.553Z",
+        "updatedAt": "2023-11-07T05:24:55.373Z",
+        "ProductImgUrl": "uploads/VEGA Insta Glam Foldable 1000 Watts Hair Dryer With 2 Heat Speed Settings VHDH 20 Made In India.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1414,
+      "attributes": {
+        "title": "Farmley Premium Date Bites Dry Fruit Barfi Healthy and Delicious Sweets Indian mithai Gift Pack 180g/200g | Made with Dates, Pistachios, Cashewnuts, Almonds, Honey and Pure Ghee",
+        "dealPrice": "₹ 346",
+        "originalPrice": "₹ 400",
+        "platform": "Amazon",
+        "discount": "14",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BSXC1Z63?ascsubtag=1303456&linkCode=ll1&tag=hotdealsbazaar-21&linkId=20907fb4071a08ceac3f2e209fb39c64&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:05.535Z",
+        "updatedAt": "2023-11-07T05:23:47.380Z",
+        "ProductImgUrl": "uploads/Farmley Premium Date Bites Dry Fruit Barfi Healthy and Delicious Sweets Indian mithai Gift Pack 180g200g Made with Dates Pistachios Cashewnuts Almonds Honey and Pure Ghee.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1413,
+      "attributes": {
+        "title": "CAMPUS From Rs.499",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Flipkart",
+        "discount": "",
+        "productLink": "https://tinyurl.com/ykkqyszg",
+        "affiliate_product_link": "https://www.flipkart.com/osp/cil/~cs-ry5pd4h8nd/pr?p%5B%5D=facets.discount_range_v1%255B%255D%3D40%2525+or+more&p%5B%5D=facets.fulfilled_by%255B%255D%3DPlus+%2528FAssured%2529&p%5B%5D=facets.brand%255B%255D%3DCAMPUS&affid=mithunvel&sort=price_asc&pageUID=1699199094889&sid=osp%2Ccil",
+        "createdAt": "2023-11-07T05:06:04.528Z",
+        "updatedAt": "2023-11-07T05:07:58.387Z",
+        "ProductImgUrl": "uploads/CAMPUS From Rs499.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1412,
+      "attributes": {
+        "title": "Butterfly Rapid Plus Induction Cooktop  (Black, Push Button)",
+        "dealPrice": "₹ 1149",
+        "originalPrice": "₹ 3399",
+        "platform": "Flipkart",
+        "discount": "66",
+        "productLink": "https://www.flipkart.com/a/p/itm903ae51379147?pid=ICTG8MY8VZKZWYDY",
+        "affiliate_product_link": "https://www.flipkart.com/a/p/itm903ae51379147?pid=ICTG8MY8VZKZWYDY&affid=mithunvel",
+        "createdAt": "2023-11-07T05:06:03.237Z",
+        "updatedAt": "2023-11-07T05:06:45.485Z",
+        "ProductImgUrl": "uploads/Butterfly Rapid Plus Induction Cooktop Black Push Button.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1411,
+      "attributes": {
+        "title": "Suzec Heavy Home and Kitchen Cleaning Plastic Hand Wiper Squeegee",
+        "dealPrice": "₹ 50",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "95",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B2X48JQ9?ascsubtag=1303453&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a38e12dc513d5bac44e31e5f28172eff&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-07T05:06:02.209Z",
+        "updatedAt": "2023-11-07T05:22:21.567Z",
+        "ProductImgUrl": "uploads/Suzec Heavy Home and Kitchen Cleaning Plastic Hand Wiper Squeegee.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1410,
       "attributes": {
         "title": "[Size 30] Diverse Men Casual Shorts",
@@ -10194,7 +10536,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 566
+      "total": 585
     }
   }
 }
