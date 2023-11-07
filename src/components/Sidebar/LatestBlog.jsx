@@ -26,7 +26,7 @@ const LatestBlog = ({ blogExcept }) => {
   }
 
   useEffect(() => {
-    const apiUrl = `${"http://192.168.151.46:3000" + "/blogs.json"}`;
+    const apiUrl = `${StrapiCMSURL + "/blogs.json"}`;
     axios
       .get(apiUrl)
       .then((response) => {
