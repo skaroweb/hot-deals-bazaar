@@ -15,5 +15,7 @@
 .single_post_para img {
   margin-bottom: 20px;
   margin-top: 10px;
-  width: 100%;
+}
+div > img {
+  text-align: center;
 }
