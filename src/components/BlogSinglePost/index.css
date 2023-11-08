@@ -16,6 +16,6 @@
   margin-bottom: 20px;
   margin-top: 10px;
 }
-.single_post_para > div {
+.single_post_para > div.strapi_img {
   text-align: center;
 }
