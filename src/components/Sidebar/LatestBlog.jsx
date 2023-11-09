@@ -55,13 +55,18 @@ const LatestBlog = ({ blogExcept }) => {
       });
   }, []); // The empty dependency array means this effect runs once after the initial render
 
+  // Scroll to the top when a Link is clicked
+  const handleLinkClick = () => {
+    window.scrollTo(0, 0);
+  };
+
   return (
     <>
       {blogs.length > 0 && (
         <div className="sidebar2">
           <div className="panel panel-default shopsList">
             <div className="panel-heading">
-              <h2 className="panel-title">Latest Blog</h2>
+              <div className="panel-title">Latest Blog</div>
             </div>
             <div
               id="collapseTwo"
@@ -77,6 +82,7 @@ const LatestBlog = ({ blogExcept }) => {
                           to={`/blog/${sanitizeTitleForURL(
                             blog.attributes.Title
                           )}`}
+                          onClick={handleLinkClick} // Scroll to top when Link is clicked
                         >
                           {blog.attributes.Title}
                         </Link>

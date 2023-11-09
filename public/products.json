@@ -1,6 +1,330 @@
 {
   "data": [
     {
+      "id": 1468,
+      "attributes": {
+        "title": "Fire-Boltt Ninja 2 Max 1.5\" Full Touch Display, SpO2, Heart Rate, 20 Sports Mode & Sleep Monitor, Gesture,Camera & Music Control, IP68 Dust & Sweat Resistance (Black)",
+        "dealPrice": "₹ 999",
+        "originalPrice": "₹ 5999",
+        "platform": "Amazon",
+        "discount": "83",
+        "productLink": "https://www.amazon.in/dp/B09PRGXJJF?tag=thuttu-21&ascsubtag=1304589",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09PRGXJJF?ascsubtag=1304589&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2e1410366bc903e8e017f602857fc4de&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T05:05:10.917Z",
+        "updatedAt": "2023-11-09T05:12:28.245Z",
+        "ProductImgUrl": "uploads/Fire Boltt Ninja 2 Max 15 Full Touch Display SpO2 Heart Rate 20 Sports Mode Sleep Monitor GestureCamera Music Control IP68 Dust Sweat Resistance Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1467,
+      "attributes": {
+        "title": "wipro Garnet 9W B22D Inverter/Emergency LED Bulb (White, NE9001_2, Pack of 2)",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 1580",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://www.amazon.in/dp/B08BJN85LZ?tag=thuttu-21&ascsubtag=1300991",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08BJN85LZ?ascsubtag=1300991&linkCode=ll1&tag=hotdealsbazaar-21&linkId=79716044a989a51b65d3ee01daa529ab&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:58:10.150Z",
+        "updatedAt": "2023-11-09T05:11:47.096Z",
+        "ProductImgUrl": "uploads/wipro Garnet 9W B22D InverterEmergency LED Bulb White NE9001_2 Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1466,
+      "attributes": {
+        "title": "BLUE HEAVEN Bridal Makeup kit",
+        "dealPrice": "₹ 405",
+        "originalPrice": "₹ 1350",
+        "platform": "Flipkart",
+        "discount": "70",
+        "productLink": "https://www.flipkart.com/blue-heaven-bridal-makeup-kit-women-55-6g-53-ml/p/itm8c6a5babdf231?pid=MKTG25YYCRHD3JPD",
+        "affiliate_product_link": "https://www.flipkart.com/blue-heaven-bridal-makeup-kit-women-55-6g-53-ml/p/itm8c6a5babdf231?pid=MKTG25YYCRHD3JPD&affid=mithunvel",
+        "createdAt": "2023-11-09T04:58:08.952Z",
+        "updatedAt": "2023-11-09T05:05:41.724Z",
+        "ProductImgUrl": "uploads/BLUE HEAVEN Bridal Makeup kit.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1465,
+      "attributes": {
+        "title": "[For ICICI Debit & Credit Cards /IDFC /BOB Credit Card] WHP Jewellers 24kt (999) 2 gram Goddess Lakshmi Yellow Gold Lakshmi Pendant",
+        "dealPrice": "₹ 12049",
+        "originalPrice": "₹ 19993",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B099DTKV1V?ascsubtag=1304585&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b303269f2f1ab0753011025481a95702&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:57:10.100Z",
+        "updatedAt": "2023-11-09T05:11:00.119Z",
+        "ProductImgUrl": "uploads/For ICICI Debit Credit Cards IDFC BOB Credit Card WHP Jewellers 24kt 999 2 gram Goddess Lakshmi Yellow Gold Lakshmi Pendant.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1464,
+      "attributes": {
+        "title": "Sri Sri Tattva Honey, 500g  (2 x 250 g)",
+        "dealPrice": "₹ 168",
+        "originalPrice": "₹ 280",
+        "platform": "Flipkart",
+        "discount": "40",
+        "productLink": "https://www.flipkart.com/sri-tattva-honey-500g/p/itm3869e40abbd5d?pid=HNYGS5D3C7BEJPQZ",
+        "affiliate_product_link": "https://www.flipkart.com/sri-tattva-honey-500g/p/itm3869e40abbd5d?pid=HNYGS5D3C7BEJPQZ&affid=mithunvel",
+        "createdAt": "2023-11-09T04:46:19.209Z",
+        "updatedAt": "2023-11-09T04:47:20.132Z",
+        "ProductImgUrl": "uploads/Sri Sri Tattva Honey 500g 2 x 250 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1463,
+      "attributes": {
+        "title": "Upto 80% Off On Clothing",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Myntra",
+        "discount": "",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-09T04:46:18.106Z",
+        "updatedAt": "2023-11-09T04:46:18.106Z",
+        "ProductImgUrl": "uploads/Upto 80 Off On Clothing.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1462,
+      "attributes": {
+        "title": "Amazon Brand Upto 90% Off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/s?i=kitchen&bbn=976442031&rh=n%3A976442031%2Cp_89%3AAmazon+Brand+-+Solimo%7Camazon+basics%2Cp_n_pct-off-with-tax%3A27060457031&dc=&ds=v1%3AnDrMxeTGrSNmRoDruIrHXxzXFSTILes70Rc%2F3HF%2FAtk&ascsubtag=1304582&qid=1699502684&rnid=2665398031&linkCode=ll2&tag=hotdealsbazaar-21&linkId=a1f2801fd616c9d58a682a8783fbf66d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:16.704Z",
+        "updatedAt": "2023-11-09T05:09:51.678Z",
+        "ProductImgUrl": "uploads/Amazon Brand Upto 90 Off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1461,
+      "attributes": {
+        "title": "[For ICICI Credit Card] Toshiba 139 cm (55 inches) 4K Ultra HD Smart QLED Google TV 55M550LP (Black)",
+        "dealPrice": "₹ 33990",
+        "originalPrice": "₹ 79990",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B61756PY?ascsubtag=1304581&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=03efbeb35c85429cdb805eddf6a46030&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:15.416Z",
+        "updatedAt": "2023-11-09T05:09:01.692Z",
+        "ProductImgUrl": "uploads/For ICICI Credit Card Toshiba 139 cm 55 inches 4K Ultra HD Smart QLED Google TV 55M550LP Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1460,
+      "attributes": {
+        "title": "Pigeon by Stovekraft Gleam LED Rechargeable Emergency Lamp with 1600 mAH and 50 Hours of Backup time (Red)",
+        "dealPrice": "₹ 589",
+        "originalPrice": "₹ 1195",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": "https://www.amazon.in/dp/B01HZC05I2?tag=thuttu-21&ascsubtag=1304580",
+        "affiliate_product_link": "https://www.amazon.in/dp/B01HZC05I2?ascsubtag=1304580&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1a2f7f885f36405ca1463b2aa2e3d6e8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:14.360Z",
+        "updatedAt": "2023-11-09T05:07:59.611Z",
+        "ProductImgUrl": "uploads/Pigeon by Stovekraft Gleam LED Rechargeable Emergency Lamp with 1600 mAH and 50 Hours of Backup time Red.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1459,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Set Of 4 Photo Frames With Mount Paper & 4 Butterfly Plaque (6 X 8 Inch - 4), Black, Rectangular, wall mount",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 770",
+        "platform": "Amazon",
+        "discount": "74",
+        "productLink": "https://www.amazon.in/dp/B08GD25LTZ?tag=thuttu-21&ascsubtag=1304579",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08GD25LTZ?ascsubtag=1304579&linkCode=ll1&tag=hotdealsbazaar-21&linkId=02be801738d129e5dcde13824889240a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:13.227Z",
+        "updatedAt": "2023-11-09T05:07:08.593Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Set Of 4 Photo Frames With Mount Paper 4 Butterfly Plaque 6 X 8 Inch 4 Black Rectangular wall mount.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1458,
+      "attributes": {
+        "title": "[For ICICI Credit Card] Logitech G102 Light Sync Gaming Wired Mouse with Customizable RGB Lighting, 6 Programmable Buttons, Gaming Grade Sensor, 8K DPI Tracking,16.8mn Color, Light Weight - White",
+        "dealPrice": "₹ 995",
+        "originalPrice": "₹ 2295",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://www.amazon.in/dp/B0895DY6F5?tag=thuttu-21&ascsubtag=1304577",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0895DY6F5?ascsubtag=1304577&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a398721206f07441e14e4c46180ed175&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:11.081Z",
+        "updatedAt": "2023-11-09T05:06:31.645Z",
+        "ProductImgUrl": "uploads/For ICICI Credit Card Logitech G102 Light Sync Gaming Wired Mouse with Customizable RGB Lighting 6 Programmable Buttons Gaming Grade Sensor 8K DPI Tracking168mn Color Light Weight White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1457,
+      "attributes": {
+        "title": "PHILIPS 25-watt LED Batten/Tubelight | Slimline Superbright Compact 4-ft LED Batten",
+        "dealPrice": "₹ 209",
+        "originalPrice": "₹ 849",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": "https://amazon.in/gp/product/B0BPXSK3P7/?tag=thuttu_i-21&ascsubtag=1304576",
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B0BPXSK3P7?ascsubtag=1304576&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c05b1b8d7fd257c7c90c30288ee975ba&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:09.943Z",
+        "updatedAt": "2023-11-09T05:05:47.982Z",
+        "ProductImgUrl": "uploads/PHILIPS 25 watt LED BattenTubelight Slimline Superbright Compact 4 ft LED Batten.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1456,
+      "attributes": {
+        "title": "Wipro Compact Downlight 3W, Red",
+        "dealPrice": "₹ 69",
+        "originalPrice": "₹ 240",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": "https://www.amazon.in/dp/B09TKK8FBH?tag=thuttu-21&ascsubtag=1304575",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09TKK8FBH?ascsubtag=1304575&linkCode=ll1&tag=hotdealsbazaar-21&linkId=38416e7e6d5088f382578ce2f3ebd09d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:08.896Z",
+        "updatedAt": "2023-11-09T05:04:53.895Z",
+        "ProductImgUrl": "uploads/Wipro Compact Downlight 3W Red.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1455,
+      "attributes": {
+        "title": "Yardley London Imperial Jasmine Perfumed Deo For Women, 150ml",
+        "dealPrice": "₹ 93",
+        "originalPrice": "₹ 225",
+        "platform": "Amazon",
+        "discount": "59",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B00G4UBANQ?ascsubtag=1304574&linkCode=ll1&tag=hotdealsbazaar-21&linkId=039662e5f6c7e4acaa3bbc7a8a4affe5&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:07.908Z",
+        "updatedAt": "2023-11-09T05:03:08.131Z",
+        "ProductImgUrl": "uploads/Yardley London Imperial Jasmine Perfumed Deo For Women 150ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1454,
+      "attributes": {
+        "title": "Barbie Teacher Doll (12 inches) with Cute School Supply Print Fashion, Pink Ballet Flat Shoes & Notebook Accessory, Great Gift",
+        "dealPrice": "₹ 241",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": "https://amazon.in/dp/B0BMTGV81L/?tag=thuttu-21&ascsubtag=1304573",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BMTGV81L?ascsubtag=1304573&linkCode=ll1&tag=hotdealsbazaar-21&linkId=52503ab21506d59ee0bd39c5addfd649&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:06.810Z",
+        "updatedAt": "2023-11-09T05:02:03.082Z",
+        "ProductImgUrl": "uploads/Barbie Teacher Doll 12 inches with Cute School Supply Print Fashion Pink Ballet Flat Shoes Notebook Accessory Great Gift.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1453,
+      "attributes": {
+        "title": "Halonix Air Purifier Ionizer table top - 12 Million Negative Ions - 90% reduction in air pollution, Anti becterial, Made in India",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 1199",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://amazon.in/dp/B0BHZKVTPZ/?tag=thuttu_a-21&ascsubtag=1304572",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BHZKVTPZ?ascsubtag=1304572&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1c249d3c4115ba34bc2b7faa905c5851&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:05.534Z",
+        "updatedAt": "2023-11-09T04:56:16.121Z",
+        "ProductImgUrl": "uploads/Halonix Air Purifier Ionizer table top 12 Million Negative Ions 90 reduction in air pollution Anti becterial Made in India.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1452,
+      "attributes": {
+        "title": "HP v150w 64 GB USB 2.0 Flash Drive (Blue)",
+        "dealPrice": "₹ 319",
+        "originalPrice": "₹ 1400",
+        "platform": "Amazon",
+        "discount": "77",
+        "productLink": "https://www.amazon.in/dp/B01M0GSKNR?tag=thuttu-21&ascsubtag=1304571",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-09T04:46:04.229Z",
+        "updatedAt": "2023-11-09T04:46:04.229Z",
+        "ProductImgUrl": "uploads/HP v150w 64 GB USB 20 Flash Drive Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1451,
+      "attributes": {
+        "title": "[For IDFC FIRST BANK CC EMI] Acer 80 cm (32 inches) V Series HD Ready Smart QLED Google TV AR32GR2841VQD (Black)",
+        "dealPrice": "₹ 13499",
+        "originalPrice": "₹ 23999",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": "https://amazon.in/dp/B0C7VWZJJH/?tag=thuttu-21&ascsubtag=1304570",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C7VWZJJH?ascsubtag=1304570&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=531929dfe4c8d7d01a21018029ebf9f1&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-09T04:46:02.876Z",
+        "updatedAt": "2023-11-09T04:52:45.002Z",
+        "ProductImgUrl": "uploads/For IDFC FIRST BANK CC EMI Acer 80 cm 32 inches V Series HD Ready Smart QLED Google TV AR32GR2841VQD Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1450,
       "attributes": {
         "title": "VGRASSP Soft Plush Baby Rattle Ball Stuffed Toy - Multicolour",
@@ -10914,7 +11238,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 606
+      "total": 624
     }
   }
 }

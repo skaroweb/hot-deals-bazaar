@@ -71,7 +71,7 @@ const TopProducts = () => {
       <div className="sidebar">
         <div className="panel panel-default shopsList">
           <div className="panel-heading">
-            <h2 className="panel-title">Recent Products</h2>
+            <div className="panel-title">Recent Products</div>
           </div>
           <div
             id="collapseTwo"

@@ -5,12 +5,22 @@ import "./index.css";
 import { HelmetProvider } from "react-helmet-async";
 import SEO from "../Util/Helmet";
 import Breadcrumb from "../Util/Breadcrumb";
+import TableOfContents from "../Util/TableOfContents";
 
 function BlogSinglePost({ setBlogExcept }) {
   const [post, setPost] = useState(null);
   const StrapiCMSURL = process.env.REACT_APP_SERVER_URL;
 
   const { id } = useParams();
+
+  // Function to convert a title to a URL-friendly format
+  function convertTitleToURL(title) {
+    title = title
+      .replace(/\s+/g, "-")
+      .replace(/[^a-zA-Z0-9-]/g, "")
+      .toLowerCase();
+    return title;
+  }
 
   function sanitizeTitleForURL(title) {
     // Replace any whitespace with a hyphen
@@ -34,10 +44,7 @@ function BlogSinglePost({ setBlogExcept }) {
     axios
       .get(apiUrl)
       .then((response) => {
-        // Access the "data" array from the response
         const blogData = response.data.data;
-
-        // Find the post with the matching title (assuming the title is unique)
         const matchingPost = blogData.find(
           (post) => sanitizeTitleForURL(post.attributes.Title) === id
         );
@@ -52,9 +59,32 @@ function BlogSinglePost({ setBlogExcept }) {
   const breadcrumbItems = [
     { label: "Home", path: "/" },
     { label: "Blog", path: "/blog" },
-    { label: `${post?.attributes.Title}`, path: `/blog/${id}` }, // Dynamic breadcrumb
+    { label: `${post?.attributes.Title}`, path: `/blog/${id}` },
   ];
   const currentURL = window.location.href;
+
+  // Function to add dynamic id attributes to h2 elements
+  function addIdsToH2Elements(content) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(content, "text/html");
+
+    const h2Elements = doc.querySelectorAll("h2");
+
+    h2Elements.forEach((h2, index) => {
+      let textContent = h2.textContent;
+
+      // Replace & with a single hyphen
+      textContent = textContent.replace(/&/g, "-");
+
+      // Replace double hyphens with a single hyphen
+      textContent = textContent.replace(/--/g, "-");
+
+      const id = `${sanitizeTitleForURL(textContent)}`;
+      h2.setAttribute("id", id);
+    });
+
+    return doc.body.innerHTML;
+  }
 
   return (
     <HelmetProvider>
@@ -69,6 +99,9 @@ function BlogSinglePost({ setBlogExcept }) {
               canonical_url={currentURL}
             />
             <Breadcrumb items={breadcrumbItems} />
+            {post.attributes.ClassicEditor && (
+              <TableOfContents content={post.attributes.ClassicEditor} />
+            )}
             <article id="content">
               <div className="post-detail">
                 <h1 className="heading3">
@@ -93,7 +126,9 @@ function BlogSinglePost({ setBlogExcept }) {
                   <div
                     className="single_post_para"
                     dangerouslySetInnerHTML={{
-                      __html: post.attributes.ClassicEditor || "", // Make sure to handle the case where ClassicEditor is null
+                      __html: post.attributes.ClassicEditor
+                        ? addIdsToH2Elements(post.attributes.ClassicEditor)
+                        : "",
                     }}
                   />
                 </div>
