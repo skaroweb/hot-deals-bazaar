@@ -99,9 +99,9 @@ function BlogSinglePost({ setBlogExcept }) {
               canonical_url={currentURL}
             />
             <Breadcrumb items={breadcrumbItems} />
-            {post.attributes.ClassicEditor && (
+            {/* {post.attributes.ClassicEditor && (
               <TableOfContents content={post.attributes.ClassicEditor} />
-            )}
+            )} */}
             <article id="content">
               <div className="post-detail">
                 <h1 className="heading3">
