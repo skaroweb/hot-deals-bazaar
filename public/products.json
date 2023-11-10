@@ -1,6 +1,384 @@
 {
   "data": [
     {
+      "id": 1489,
+      "attributes": {
+        "title": "[For SBI Credit Card] Thomson Alpha 80 cm (32 inch) HD Ready LED Smart Linux TV 2022 Edition with 30 W Sound Output & Bezel-Less Design  (32Alpha007BL)",
+        "dealPrice": "₹ 6569",
+        "originalPrice": "₹ 14999",
+        "platform": "Flipkart",
+        "discount": "56",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=TVSGEMQV7R4CMTGA",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-10T05:13:09.553Z",
+        "updatedAt": "2023-11-10T05:13:09.553Z",
+        "ProductImgUrl": "uploads/For SBI Credit Card Thomson Alpha 80 cm 32 inch HD Ready LED Smart Linux TV 2022 Edition with 30 W Sound Output Bezel Less Design 32Alpha007BL.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1488,
+      "attributes": {
+        "title": "Pasabahce Karat Whisky Glass Set, Set of 6, Transparent",
+        "dealPrice": "₹ 265",
+        "originalPrice": "₹ 768",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://www.amazon.in/dp/B00M31IQ64?tag=thuttu-21&ascsubtag=1305023",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-10T05:12:09.363Z",
+        "updatedAt": "2023-11-10T05:12:09.363Z",
+        "ProductImgUrl": "uploads/Pasabahce Karat Whisky Glass Set Set of 6 Transparent.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1487,
+      "attributes": {
+        "title": "Eveready 9W LED Light Bulb| Cool Day Light (6500K) |Pack of 2|Energy Efficient| 4kv Surge Protection |100 Lumens per watt",
+        "dealPrice": "₹ 114",
+        "originalPrice": "₹ 300",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://www.amazon.in/dp/B07438SX12?tag=thuttu-21&ascsubtag=1305020",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07438SX12?ascsubtag=1305020&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2f86496a0b93af6cadfd3b85d52bd94b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T05:06:08.695Z",
+        "updatedAt": "2023-11-10T05:19:59.960Z",
+        "ProductImgUrl": "uploads/Eveready 9W LED Light Bulb Cool Day Light 6500K Pack of 2Energy Efficient 4kv Surge Protection 100 Lumens per watt.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1486,
+      "attributes": {
+        "title": "Havells AHLGWXW063 6A 3Pin Flat Plugtop with Indicator, white (Model: AHLGWXW063-Pk1)",
+        "dealPrice": "₹ 59",
+        "originalPrice": "₹ 94",
+        "platform": "Amazon",
+        "discount": "37",
+        "productLink": "https://www.amazon.in/dp/B093ZYWZQZ?tag=thuttu-21&ascsubtag=1305019",
+        "affiliate_product_link": "https://www.amazon.in/dp/B093ZYWZQZ?ascsubtag=1305019&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5f66d81496489cd87c1123f15c666ea4&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T05:05:11.684Z",
+        "updatedAt": "2023-11-10T05:19:06.081Z",
+        "ProductImgUrl": "uploads/Havells AHLGWXW063 6A 3Pin Flat Plugtop with Indicator white Model AHLGWXW063 Pk1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1485,
+      "attributes": {
+        "title": "[For ICICI Credit Card] Samsung 138 cm (55 inches) 4K Ultra HD Smart NEO QLED TV QA55QN85BAKLXL (Bright Silver) | With 3 Years Warranty",
+        "dealPrice": "₹ 80640",
+        "originalPrice": "₹ 199900",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B09Y66S2J8?tag=thuttu-21&ascsubtag=1305018",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09Y66S2J8?ascsubtag=1305018&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d3eedeb611c486b97ad22449c6d7890f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T05:05:10.394Z",
+        "updatedAt": "2023-11-10T05:18:07.012Z",
+        "ProductImgUrl": "uploads/For ICICI Credit Card Samsung 138 cm 55 inches 4K Ultra HD Smart NEO QLED TV QA55QN85BAKLXL Bright Silver With 3 Years Warranty.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1484,
+      "attributes": {
+        "title": "Cadbury Dairy Milk Chocolate Bar, 55 g Maha Pack (Pack of 15)",
+        "dealPrice": "₹ 573",
+        "originalPrice": "₹ 750",
+        "platform": "Amazon",
+        "discount": "24",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0758P9JW6?ascsubtag=1305017&linkCode=ll1&tag=hotdealsbazaar-21&linkId=f4c4a57dff18f5f573b809ec879a0f55&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:18.715Z",
+        "updatedAt": "2023-11-10T05:17:09.308Z",
+        "ProductImgUrl": "uploads/Cadbury Dairy Milk Chocolate Bar 55 g Maha Pack Pack of 15.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1483,
+      "attributes": {
+        "title": "Desidiya® USB 5V 5050 RGB LED Flexible Strip Light Multi-Color Changing Lighting Kit, TV Background Lighting with Mini Controller for TV PC Laptop Bias Lighting (1 Meter",
+        "dealPrice": "₹ 148",
+        "originalPrice": "₹ 1199",
+        "platform": "Amazon",
+        "discount": "88",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BBB1Q46M?ascsubtag=1305016&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=851ed253837d50e2ee46e3f99e8fdf2e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:17.523Z",
+        "updatedAt": "2023-11-10T05:16:23.642Z",
+        "ProductImgUrl": "uploads/Desidiya USB 5V 5050 RGB LED Flexible Strip Light Multi Color Changing Lighting Kit TV Background Lighting with Mini Controller for TV PC Laptop Bias Lighting 1 Meter.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1482,
+      "attributes": {
+        "title": "[For Amazon Pay ICICI Bank Credit Card] Samsung Galaxy A23 5G, Silver (6GB, 128GB Storage) with Offer",
+        "dealPrice": "₹ 16486",
+        "originalPrice": "₹ 28990",
+        "platform": "Amazon",
+        "discount": "43",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BS1673FT?ascsubtag=1305014&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6a095148ce02d4e36541e14c50580e17&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:16.376Z",
+        "updatedAt": "2023-11-10T05:15:27.374Z",
+        "ProductImgUrl": "uploads/For Amazon Pay ICICI Bank Credit Card Samsung Galaxy A23 5G Silver 6GB 128GB Storage with Offer.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1481,
+      "attributes": {
+        "title": "SYSKA Ssk-Srl Base B22D 9-Watt Led Bulb (Pack Of 10, Cool White)",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 1590",
+        "platform": "Amazon",
+        "discount": "69",
+        "productLink": "https://www.amazon.in/dp/B00W94GPTU?tag=thuttu-21&ascsubtag=1305013",
+        "affiliate_product_link": "https://www.amazon.in/dp/B00W94GPTU?ascsubtag=1305013&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8a53d69e92e98aa996b0baa7c3994c07&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:15.346Z",
+        "updatedAt": "2023-11-10T05:14:26.020Z",
+        "ProductImgUrl": "uploads/SYSKA Ssk Srl Base B22D 9 Watt Led Bulb Pack Of 10 Cool White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1480,
+      "attributes": {
+        "title": "Flipkart SmartBuy Portable Mini Electric Sewing Machine with Foot Pedal & Multi Built-in Stitches Electric Sewing Machine  ( Built-in Stitches 1)",
+        "dealPrice": "₹ 849",
+        "originalPrice": "₹ 2499",
+        "platform": "Flipkart",
+        "discount": "66",
+        "productLink": "https://www.flipkart.com/flipkart-smartbuy-portable-mini-electric-sewing-machine-foot-pedal-multi-built-in-stitches/p/itm77e38b4a8e3c1?pid=SMCGTVXGMHPMJFXG",
+        "affiliate_product_link": "https://www.flipkart.com/flipkart-smartbuy-portable-mini-electric-sewing-machine-foot-pedal-multi-built-in-stitches/p/itm77e38b4a8e3c1?pid=SMCGTVXGMHPMJFXG&affid=mithunvel",
+        "createdAt": "2023-11-10T04:58:14.297Z",
+        "updatedAt": "2023-11-10T04:59:29.441Z",
+        "ProductImgUrl": "uploads/Flipkart SmartBuy Portable Mini Electric Sewing Machine with Foot Pedal Multi Built in Stitches Electric Sewing Machine Built in Stitches 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1479,
+      "attributes": {
+        "title": "Impex CLAIR-220 Juice/Water Glassware Set (Set of 6 Glasses 220 ml,Transparent)",
+        "dealPrice": "₹ 310",
+        "originalPrice": "₹ 530",
+        "platform": "Amazon",
+        "discount": "42",
+        "productLink": "https://www.amazon.in/dp/B083FRMPGY?tag=thuttu_a-21&ascsubtag=1305011",
+        "affiliate_product_link": "https://www.amazon.in/dp/B083FRMPGY?ascsubtag=1305011&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bf552d9bd6da333d1a04432805161b82&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:12.906Z",
+        "updatedAt": "2023-11-10T05:13:34.558Z",
+        "ProductImgUrl": "uploads/Impex CLAIR 220 JuiceWater Glassware Set Set of 6 Glasses 220 mlTransparent.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1478,
+      "attributes": {
+        "title": "Karachi Bakery Kaju Katli 200gm",
+        "dealPrice": "₹ 165",
+        "originalPrice": "₹ 405",
+        "platform": "Amazon",
+        "discount": "59",
+        "productLink": "https://amazon.in/dp/B0C7GH3Y8R/?tag=thuttu-21&ascsubtag=1305010",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C7GH3Y8R?ascsubtag=1305010&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b1c91ecdb1d509b90cbed69e792bfd04&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:11.916Z",
+        "updatedAt": "2023-11-10T05:12:44.168Z",
+        "ProductImgUrl": "uploads/Karachi Bakery Kaju Katli 200gm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1477,
+      "attributes": {
+        "title": "Bikano Chana Almond Bite 350gram Sweets Mithai",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://amazon.in/dp/B0CJ9HSBD9/?tag=thuttu-21&ascsubtag=1305009",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CJ9HSBD9?ascsubtag=1305009&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a8c8eef5f9ee4316617cc5d7e2a4adc3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:10.901Z",
+        "updatedAt": "2023-11-10T05:11:19.721Z",
+        "ProductImgUrl": "uploads/Bikano Chana Almond Bite 350gram Sweets Mithai.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1476,
+      "attributes": {
+        "title": "BigPlayer Drain Hair Catcher Drain Clog Remover Cleaner Sink Stopper",
+        "dealPrice": "₹ 34",
+        "originalPrice": "₹ 99",
+        "platform": "Amazon",
+        "discount": "66",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CD7GWNKR?ascsubtag=1305008&linkCode=ll1&tag=hotdealsbazaar-21&linkId=86e818cd5e94bdb44266f2c690ab4b1a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:09.909Z",
+        "updatedAt": "2023-11-10T05:09:54.684Z",
+        "ProductImgUrl": "uploads/BigPlayer Drain Hair Catcher Drain Clog Remover Cleaner Sink Stopper.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1475,
+      "attributes": {
+        "title": "Wipro Vesta Electric Egg Boiler, 360 Watts, 3 Boiling Modes, Stainless Steel Body and Heating Plate, Boils up to 7 Eggs at a time, Automatic Shut Down, White, Standard (VB021070)",
+        "dealPrice": "₹ 973",
+        "originalPrice": "₹ 1790",
+        "platform": "Amazon",
+        "discount": "46",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B099Z83VRC?ascsubtag=1305007&linkCode=ll1&tag=hotdealsbazaar-21&linkId=11d9115f3bb2f7af3647baae82ce27a7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:08.951Z",
+        "updatedAt": "2023-11-10T05:08:29.373Z",
+        "ProductImgUrl": "uploads/Wipro Vesta Electric Egg Boiler 360 Watts 3 Boiling Modes Stainless Steel Body and Heating Plate Boils up to 7 Eggs at a time Automatic Shut Down White Standard VB021070.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1474,
+      "attributes": {
+        "title": "[Size 6 - 7 Years] MINITATU Boys Hooded Sweatshirt",
+        "dealPrice": "₹ 125",
+        "originalPrice": "₹ 929",
+        "platform": "Amazon",
+        "discount": "87",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09F3N5VM7?ascsubtag=1305006&linkCode=ll1&tag=hotdealsbazaar-21&linkId=135023956ffecf234390dbbf5c3bdb32&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:07.830Z",
+        "updatedAt": "2023-11-10T05:07:07.828Z",
+        "ProductImgUrl": "uploads/Size 6 7 Years MINITATU Boys Hooded Sweatshirt.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1473,
+      "attributes": {
+        "title": "Amazon Brand - Symactive Leakproof Unbreakable Squeezable Sports Sipper Water Bottle with Push/Pull Cap, Anti-Slip Grip, LDPE Material, BPA-Free (Color: Lime Green, 800 ml)",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 600",
+        "platform": "Amazon",
+        "discount": "84",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C23RCD9X?ascsubtag=1305005&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9d14a6f69fe7de90d8fa9d462904451a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:06.576Z",
+        "updatedAt": "2023-11-10T05:06:09.097Z",
+        "ProductImgUrl": "uploads/Amazon Brand Symactive Leakproof Unbreakable Squeezable Sports Sipper Water Bottle with PushPull Cap Anti Slip Grip LDPE Material BPA Free Color Lime Green 800 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1472,
+      "attributes": {
+        "title": "Encasa Homes Printed + Solid Window Curtains with Tie Back (5 ft, Chevron 1 Beige + Cream Combo) Pack of 3",
+        "dealPrice": "₹ 698",
+        "originalPrice": "₹ 1950",
+        "platform": "Amazon",
+        "discount": "64",
+        "productLink": "https://amazon.in/dp/B0BRVG21XT/?tag=thuttu-21&ascsubtag=1305004",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BRVG21XT?ascsubtag=1305004&linkCode=ll1&tag=hotdealsbazaar-21&linkId=07f9ca9ccb755325ebac0b51e88e243f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:05.527Z",
+        "updatedAt": "2023-11-10T05:05:23.522Z",
+        "ProductImgUrl": "uploads/Encasa Homes Printed Solid Window Curtains with Tie Back 5 ft Chevron 1 Beige Cream Combo Pack of 3.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1471,
+      "attributes": {
+        "title": "[For ICICI Bank credit card] Samsung Galaxy A54 5G (Awesome Violet, 8GB, 256GB Storage) | 50 MP No Shake Cam (OIS) | IP67 | Gorilla Glass 5 | Voice Focus | Without Charger",
+        "dealPrice": "₹ 32054",
+        "originalPrice": "₹ 45999",
+        "platform": "Amazon",
+        "discount": "30",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BXD3CDP8?ascsubtag=1305003&linkCode=ll1&tag=hotdealsbazaar-21&linkId=852256eb8b463b2cdb48954a949798eb&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:04.302Z",
+        "updatedAt": "2023-11-10T05:04:29.155Z",
+        "ProductImgUrl": "uploads/For ICICI Bank credit card Samsung Galaxy A54 5G Awesome Violet 8GB 256GB Storage 50 MP No Shake Cam OIS IP67 Gorilla Glass 5 Voice Focus Without Charger.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1470,
+      "attributes": {
+        "title": "KARACHI BAKERY KARACHI HALWA,200g",
+        "dealPrice": "₹ 69",
+        "originalPrice": "₹ 150",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08N6L611N?ascsubtag=1305002&linkCode=ll1&tag=hotdealsbazaar-21&linkId=51bfe807d42c8d7ad357bef0f0027c8a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-10T04:58:03.235Z",
+        "updatedAt": "2023-11-10T05:03:30.179Z",
+        "ProductImgUrl": "uploads/KARACHI BAKERY KARACHI HALWA200g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1469,
+      "attributes": {
+        "title": "Urban Classic Luggage Bag 55 L Hand Duffel Bag - Travellers luggage New Model Duffel Luggage Travel Bag Heavy Duty - Multicolor - Large Capacity",
+        "dealPrice": "₹ 249",
+        "originalPrice": "₹ 2499",
+        "platform": "Flipkart",
+        "discount": "90",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=DFBGBWXPHWMHXTHW",
+        "affiliate_product_link": "https://www.flipkart.com/flipkart/p/item?pid=DFBGBWXPHWMHXTHW&affid=mithunvel",
+        "createdAt": "2023-11-10T04:58:02.141Z",
+        "updatedAt": "2023-11-10T04:59:17.301Z",
+        "ProductImgUrl": "uploads/Urban Classic Luggage Bag 55 L Hand Duffel Bag Travellers luggage New Model Duffel Luggage Travel Bag Heavy Duty Multicolor Large Capacity.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1468,
       "attributes": {
         "title": "Fire-Boltt Ninja 2 Max 1.5\" Full Touch Display, SpO2, Heart Rate, 20 Sports Mode & Sleep Monitor, Gesture,Camera & Music Control, IP68 Dust & Sweat Resistance (Black)",
@@ -11238,7 +11616,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 624
+      "total": 645
     }
   }
 }
