@@ -1,6 +1,294 @@
 {
   "data": [
     {
+      "id": 1514,
+      "attributes": {
+        "title": "Society Premium Leaf Tea 1Kg Pouch",
+        "dealPrice": "₹ 480",
+        "originalPrice": "₹ 600",
+        "platform": "Amazon",
+        "discount": "20",
+        "productLink": "https://amazon.in/gp/product/B017ICN80G/?tag=thuttu-21&ascsubtag=1306595",
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B017ICN80G?ascsubtag=1306595&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ea2cf76db77192d95e7e26d77c636dcd&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:16.019Z",
+        "updatedAt": "2023-11-14T05:28:50.216Z",
+        "ProductImgUrl": "uploads/Society Premium Leaf Tea 1Kg Pouch.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1513,
+      "attributes": {
+        "title": "Wipro 9 W Standard B22 LED Bulb  (White, Pack of 6)",
+        "dealPrice": "₹ 379",
+        "originalPrice": "₹ 1050",
+        "platform": "Flipkart",
+        "discount": "64",
+        "productLink": "https://www.flipkart.com/wipro-9-w-standard-b22-led-bulb/p/itmf6h6mekzcmaxk?pid=BLBF2BT2JYB5EYCM",
+        "affiliate_product_link": "https://www.flipkart.com/wipro-9-w-standard-b22-led-bulb/p/itmf6h6mekzcmaxk?pid=BLBF2BT2JYB5EYCM&affid=mithunvel",
+        "createdAt": "2023-11-14T05:21:15.209Z",
+        "updatedAt": "2023-11-14T05:23:12.580Z",
+        "ProductImgUrl": "uploads/Wipro 9 W Standard B22 LED Bulb White Pack of 6.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1512,
+      "attributes": {
+        "title": "Wild Stone Iron Perfume Body Spray",
+        "dealPrice": "₹ 225",
+        "originalPrice": "₹ 450",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B09MY8QN7G?tag=thuttu-21&ascsubtag=1306591",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09MY8QN7G?ascsubtag=1306591&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2df2481ce2adb1883d93c8abd201e7d7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:14.298Z",
+        "updatedAt": "2023-11-14T05:28:34.592Z",
+        "ProductImgUrl": "uploads/Wild Stone Iron Perfume Body Spray.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1511,
+      "attributes": {
+        "title": "[For IndusInd Card] Muthoot Pappachan Swarnavarsham Hallmarked 24KT 999 Gold Coin (2 Gm)",
+        "dealPrice": "₹ 11989",
+        "originalPrice": "₹ 15854",
+        "platform": "Amazon",
+        "discount": "24",
+        "productLink": "https://amazon.in/gp/product/B0C9R54GP4/?tag=thuttu-21&ascsubtag=1306590",
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B0C9R54GP4?ascsubtag=1306590&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8bc6fed098f2124c809b36d40745bd30&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:13.354Z",
+        "updatedAt": "2023-11-14T05:28:16.640Z",
+        "ProductImgUrl": "uploads/For IndusInd Card Muthoot Pappachan Swarnavarsham Hallmarked 24KT 999 Gold Coin 2 Gm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1510,
+      "attributes": {
+        "title": "Nayasa Funk Square DLX 2 Pcs Bathroom Set (Bucket 25 L+Mug 1.5 L) Black, Plastic",
+        "dealPrice": "₹ 425",
+        "originalPrice": "₹ 850",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B074PMS13D?tag=thuttu-21&ascsubtag=1306588",
+        "affiliate_product_link": "https://www.amazon.in/dp/B074PMS13D?ascsubtag=1306588&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=99da5c4df4d688e0d26bd5091ba4d271&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:12.284Z",
+        "updatedAt": "2023-11-14T05:28:00.043Z",
+        "ProductImgUrl": "uploads/Nayasa Funk Square DLX 2 Pcs Bathroom Set Bucket 25 LMug 15 L Black Plastic.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1509,
+      "attributes": {
+        "title": "alt Regal, 1.28\" Single Chip Bluetooth Calling 300 Watchfaces Stainless Steel Luxury Smartwatch  (Silver Premium Strap, Free Size)",
+        "dealPrice": "₹ 1499",
+        "originalPrice": "₹ 19999",
+        "platform": "Flipkart",
+        "discount": "93",
+        "productLink": "https://www.flipkart.com/alt-regal-1-28-single-chip-bluetooth-calling-300-watchfaces-stainless-steel-luxury-smartwatch/p/itm6ecadf4aa390b?",
+        "affiliate_product_link": "https://www.flipkart.com/alt-regal-1-28-single-chip-bluetooth-calling-300-watchfaces-stainless-steel-luxury-smartwatch/p/itm6ecadf4aa390b?affid=mithunvel",
+        "createdAt": "2023-11-14T05:21:11.257Z",
+        "updatedAt": "2023-11-14T05:22:34.841Z",
+        "ProductImgUrl": "uploads/alt Regal 128 Single Chip Bluetooth Calling 300 Watchfaces Stainless Steel Luxury Smartwatch Silver Premium Strap Free Size.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1508,
+      "attributes": {
+        "title": "SanDisk SDDD3-032G-I35GW Ultra Dual 32GB USB 3.0 OTG Pen Drive (Gold)",
+        "dealPrice": "₹ 404",
+        "originalPrice": "₹ 850",
+        "platform": "Amazon",
+        "discount": "52",
+        "productLink": "https://www.amazon.in/dp/B0734VLDTC?tag=thuttu-21&ascsubtag=1306585",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0734VLDTC?ascsubtag=1306585&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=4d5d732495b2647723355aab082bedf3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:10.411Z",
+        "updatedAt": "2023-11-14T05:27:34.555Z",
+        "ProductImgUrl": "uploads/SanDisk SDDD3 032G I35GW Ultra Dual 32GB USB 30 OTG Pen Drive Gold.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1507,
+      "attributes": {
+        "title": "Goldmedal 240V Gio 2 Pin 2.5 Mtr Cable Extension Cords (White And Red)",
+        "dealPrice": "₹ 255",
+        "originalPrice": "₹ 610",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://www.amazon.in/dp/B07NZ31S87?tag=thuttu-21&ascsubtag=1306584",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07NZ31S87?ascsubtag=1306584&linkCode=ll1&tag=hotdealsbazaar-21&linkId=897f3e37aef3ab493a311e7894cc8818&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:09.565Z",
+        "updatedAt": "2023-11-14T05:27:16.088Z",
+        "ProductImgUrl": "uploads/Goldmedal 240V Gio 2 Pin 25 Mtr Cable Extension Cords White And Red.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1506,
+      "attributes": {
+        "title": "Panasonic 9W LED Bulb | LED Bulb 9 watt with B22 Base | 4kV Surge Protection 9 Watt Bulb (Cool Day Light, Pack of 2)",
+        "dealPrice": "₹ 115",
+        "originalPrice": "₹ 340",
+        "platform": "Amazon",
+        "discount": "66",
+        "productLink": "https://amazon.in/dp/B0CCL6ML79/?tag=thuttu-21&ascsubtag=1306582",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CCL6ML79?ascsubtag=1306582&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7eb491200a322956159ef1f30e4c3a51&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:08.656Z",
+        "updatedAt": "2023-11-14T05:26:59.143Z",
+        "ProductImgUrl": "uploads/Panasonic 9W LED Bulb LED Bulb 9 watt with B22 Base 4kV Surge Protection 9 Watt Bulb Cool Day Light Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1505,
+      "attributes": {
+        "title": "ZEBSTER Dude Stereo Earphone with 10Mm Driver,in-Line Mic,Tangle Free Cable,Deep Bass(Red),in-Ear,Wired",
+        "dealPrice": "₹ 77",
+        "originalPrice": "₹ 299",
+        "platform": "Amazon",
+        "discount": "74",
+        "productLink": "https://amazon.in/dp/B0C5JQ57K9/?tag=thuttu-21&ascsubtag=1306581",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C5JQ57K9?ascsubtag=1306581&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b61e06f700f98ed034519d27e910a3d1&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:07.642Z",
+        "updatedAt": "2023-11-14T05:26:41.356Z",
+        "ProductImgUrl": "uploads/ZEBSTER Dude Stereo Earphone with 10Mm Driverin Line MicTangle Free CableDeep BassRedin EarWired.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1504,
+      "attributes": {
+        "title": "STRIFF 20 Pieces Highly Flexible Silicone Micro USB Protector, Mouse Cable Protector, Suit",
+        "dealPrice": "₹ 63",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "87",
+        "productLink": "https://amazon.in/dp/B0CJCDB66J/?tag=thuttu-21&ascsubtag=1306580",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CJCDB66J?ascsubtag=1306580&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7eb10fefcf9233e567b0dad355eb2f81&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:06.822Z",
+        "updatedAt": "2023-11-14T05:26:23.272Z",
+        "ProductImgUrl": "uploads/STRIFF 20 Pieces Highly Flexible Silicone Micro USB Protector Mouse Cable Protector Suit.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1503,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Stainless Steel Insulated Flask 24 Hours Hot And Cold Bottle (Silver,750 Ml)",
+        "dealPrice": "₹ 400",
+        "originalPrice": "₹ 1250",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://www.amazon.in/dp/B08FXP565F?tag=thuttu-21&ascsubtag=1306579",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08FXP565F?ascsubtag=1306579&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=90cffa6e5711e01f9372c14055b744a5&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:05.984Z",
+        "updatedAt": "2023-11-14T05:26:05.009Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Stainless Steel Insulated Flask 24 Hours Hot And Cold Bottle Silver750 Ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1502,
+      "attributes": {
+        "title": "WONDERLAND FOODS (DEVICE)Dry Fruits American California Roasted & Salted Jumbo Pistachios (Pista) 500g Jar | Super Crunchy & Delicious Healthy Snack | Vitamins & Minerals Rich | Immunity Booster",
+        "dealPrice": "₹ 549",
+        "originalPrice": "₹ 1199",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": "https://www.amazon.in/dp/B09N9BY4DC?tag=thuttu-21&ascsubtag=1306578",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09N9BY4DC?ascsubtag=1306578&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bbac92ad3ab4f26e0e17dc37b54741d6&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:05.050Z",
+        "updatedAt": "2023-11-14T05:25:43.216Z",
+        "ProductImgUrl": "uploads/WONDERLAND FOODS DEVICEDry Fruits American California Roasted Salted Jumbo Pistachios Pista 500g Jar Super Crunchy Delicious Healthy Snack Vitamins Minerals Rich Immunity Booster.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1501,
+      "attributes": {
+        "title": "Vedaka Jaggery Powder, 1kg Jar.",
+        "dealPrice": "₹ 128",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/dp/B08CSF9HC5?tag=thuttu-21&ascsubtag=1306577",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08CSF9HC5?ascsubtag=1306577&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=f26d42fb7898c809ea011204fc3a5bf3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:04.005Z",
+        "updatedAt": "2023-11-14T05:25:01.841Z",
+        "ProductImgUrl": "uploads/Vedaka Jaggery Powder 1kg Jar.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1500,
+      "attributes": {
+        "title": "Umbrella 1 Blue Umbrella, Umbrellas for Rain Big Size, Wind proof Umbrellas Large",
+        "dealPrice": "₹ 301",
+        "originalPrice": "₹ 850",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B52F3D66?ascsubtag=1306576&linkCode=ll1&tag=hotdealsbazaar-21&linkId=455dc057670c77e964b5283a25701004&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:03.071Z",
+        "updatedAt": "2023-11-14T05:24:37.668Z",
+        "ProductImgUrl": "uploads/Umbrella 1 Blue Umbrella Umbrellas for Rain Big Size Wind proof Umbrellas Large.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1499,
+      "attributes": {
+        "title": "Vector X Sports Clothing Min 50% to 80% off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?i=sporting&bbn=1984443031&rh=n%3A1984443031%2Cp_89%3AVector+X%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&tag=thuttu-21&ascsubtag=1306575",
+        "affiliate_product_link": "https://www.amazon.in/s?i=sporting&bbn=1984443031&rh=n%3A1984443031%2Cp_89%3AVector+X%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&ascsubtag=1306575&linkCode=ll2&tag=hotdealsbazaar-21&linkId=e961afbbe99bfa9c7f037a335f813367&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-14T05:21:02.089Z",
+        "updatedAt": "2023-11-14T05:23:43.463Z",
+        "ProductImgUrl": "uploads/Vector X Sports Clothing Min 50 to 80 off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1498,
       "attributes": {
         "title": "Sp Silicon Power Silicon Power Ddr4 16Gb (8Gbx2) Xpower Rgb Ram Turbine Gaming 3200Mhz (Pc4 25600) 288-Pin C16 1.35V Udimm Desktop Memory Module - Low Voltage (Sp016Gxlzu320Bdb)",
@@ -11778,7 +12066,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 654
+      "total": 670
     }
   }
 }
