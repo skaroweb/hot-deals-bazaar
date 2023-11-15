@@ -1,6 +1,492 @@
 {
   "data": [
     {
+      "id": 1568,
+      "attributes": {
+        "title": "Levis Men Pack Of 3 Assorted Smartskin Technology Cotton Briefs with Tag Free Comfort-100",
+        "dealPrice": "₹ 359",
+        "originalPrice": "₹ 719",
+        "platform": "Myntra",
+        "discount": "50",
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Fbriefs%2Flevis%2Flevis-men-pack-of-3-assorted-smartskin-technology-cotton-briefs-with-tag-free-comfort-100%2F20369332%2Fbuy",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-15T04:57:07.548Z",
+        "updatedAt": "2023-11-15T04:57:07.548Z",
+        "ProductImgUrl": "uploads/Levis Men Pack Of 3 Assorted Smartskin Technology Cotton Briefs with Tag Free Comfort 100.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1567,
+      "attributes": {
+        "title": "Levis Men Pack of 3 Assorted Smartskin Technology Cotton Briefs with Tag Free Comfort #065",
+        "dealPrice": "₹ 364",
+        "originalPrice": "₹ 729",
+        "platform": "Myntra",
+        "discount": "50",
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Fbriefs%2Flevis%2Flevis-men-pack-of-3-assorted-smartskin-technology-cotton-briefs-with-tag-free-comfort-065%2F20369330%2Fbuy",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-15T04:57:06.711Z",
+        "updatedAt": "2023-11-15T04:57:06.711Z",
+        "ProductImgUrl": "uploads/Levis Men Pack of 3 Assorted Smartskin Technology Cotton Briefs with Tag Free Comfort 065.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1566,
+      "attributes": {
+        "title": "Nature Prime 100% Natural Premium Mix Dry Fruits 1kg with Almonds | Cashew | Kishmish | Apricot | Black Raisins | Dried Kiwi | Nuts and Dry Fruits 1 Kg (Jar pack)",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BN1VK9CF?ascsubtag=1305161&linkCode=ll1&tag=hotdealsbazaar-21&linkId=e53b6e2ec66e05d70ffdbed58e1bdae5&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:55:07.176Z",
+        "updatedAt": "2023-11-15T05:14:16.988Z",
+        "ProductImgUrl": "uploads/Nature Prime 100 Natural Premium Mix Dry Fruits 1kg with Almonds Cashew Kishmish Apricot Black Raisins Dried Kiwi Nuts and Dry Fruits 1 Kg Jar pack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1565,
+      "attributes": {
+        "title": "Transcend USD300S A1 128GB UHS-I U3 with V30 Micro SD Memory Card up to 100/40 MB/s with Adapter (TS128GUSD300S-A)",
+        "dealPrice": "₹ 807",
+        "originalPrice": "₹ 1599",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B07DYML2S1?tag=thuttu-21&ascsubtag=1306946",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07DYML2S1?ascsubtag=1306946&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1554c65486ccdfee6b657ce6e5a813b2&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:54:08.964Z",
+        "updatedAt": "2023-11-15T05:13:18.198Z",
+        "ProductImgUrl": "uploads/Transcend USD300S A1 128GB UHS I U3 with V30 Micro SD Memory Card up to 10040 MBs with Adapter TS128GUSD300S A.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1564,
+      "attributes": {
+        "title": "[For Tataneu HDFC Card on Neu App] HAVELLS Momenta NV 750 Watt 4 Jars Mixer Grinder (21000 RPM, Built-in Overload Protection, Blue)",
+        "dealPrice": "₹ 2742",
+        "originalPrice": "₹ 7995",
+        "platform": "Croma",
+        "discount": "66",
+        "productLink": "https://www.ad.admitad.com/g/rjmwpd17fqb011728c7821602b7160/?ulp=https%3A%2F%2Fwww.croma.com%2Fhavells-momenta-nv-750-watt-4-jars-mixer-grinder-21000-rpm-built-in-overload-protection-blue-%2Fp%2F228954",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-15T04:54:08.075Z",
+        "updatedAt": "2023-11-15T04:54:08.075Z",
+        "ProductImgUrl": "uploads/For Tataneu HDFC Card on Neu App HAVELLS Momenta NV 750 Watt 4 Jars Mixer Grinder 21000 RPM Built in Overload Protection Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1563,
+      "attributes": {
+        "title": "Red Tape Quilted Bomber Hooded Jacket",
+        "dealPrice": "₹ 1168",
+        "originalPrice": "₹ 7299",
+        "platform": "Ajio",
+        "discount": "84",
+        "productLink": "https://ad.admitad.com/g/gobb106sd9b011728c78a663530cb9/?ulp=https%3A%2F%2Fwww.ajio.com%2Findia-desire-ajio%2Fp%2F460973875_green%3FclickID%3D65544d714579870001032dc9%26pid%3D4%26sub2%3DENKR20231115A680765654%26clickid%3D65544d714579870001032dc9",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-15T04:50:06.764Z",
+        "updatedAt": "2023-11-15T04:50:06.764Z",
+        "ProductImgUrl": "uploads/Red Tape Quilted Bomber Hooded Jacket.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1562,
+      "attributes": {
+        "title": "Maharaja Whiteline Lava Quartz Adjustable Room Heater, 3 Quartz Heating Elements, 1200 watt - 1 Year Warranty (White)",
+        "dealPrice": "₹ 1806",
+        "originalPrice": "₹ 3599",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0CKYNY521/?tag=thuttu-21&ascsubtag=1306942",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CKYNY521?ascsubtag=1306942&linkCode=ll1&tag=hotdealsbazaar-21&linkId=75b647679a39f2a12838239c12527034&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:49:08.373Z",
+        "updatedAt": "2023-11-15T05:12:12.882Z",
+        "ProductImgUrl": "uploads/Maharaja Whiteline Lava Quartz Adjustable Room Heater 3 Quartz Heating Elements 1200 watt 1 Year Warranty White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1561,
+      "attributes": {
+        "title": "amazon basics Foldable Metal Pet Dog Exercise Fence Pen With Gate - 60 x 60 x 42 Inches",
+        "dealPrice": "₹ 3324",
+        "originalPrice": "₹ 5500",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0758FQTV7?ascsubtag=1306941&linkCode=ll1&tag=hotdealsbazaar-21&linkId=cdcde3ed599c4aa538d1fbfed78e242e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:49:07.535Z",
+        "updatedAt": "2023-11-15T05:11:15.226Z",
+        "ProductImgUrl": "uploads/amazon basics Foldable Metal Pet Dog Exercise Fence Pen With Gate 60 x 60 x 42 Inches.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1560,
+      "attributes": {
+        "title": "Anchor by Panasonic Penta Turbo High Speed BLDC Ceiling Fan with Remote | 5 Star Rated 1200mm (48 Inch) Ceiling Fan",
+        "dealPrice": "₹ 2165",
+        "originalPrice": "₹ 4625",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BWDK6DWB?ascsubtag=1306940&linkCode=ll1&tag=hotdealsbazaar-21&linkId=65be1f80543ba883d78b8d4a20b2c25a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:49:06.714Z",
+        "updatedAt": "2023-11-15T05:09:17.296Z",
+        "ProductImgUrl": "uploads/Anchor by Panasonic Penta Turbo High Speed BLDC Ceiling Fan with Remote 5 Star Rated 1200mm 48 Inch Ceiling Fan.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1559,
+      "attributes": {
+        "title": "HP V220 OTG 2IN 1 FREE 128 GB Pen Drive  (Silver)",
+        "dealPrice": "₹ 499",
+        "originalPrice": "₹ 1299",
+        "platform": "Flipkart",
+        "discount": "62",
+        "productLink": "https://www.flipkart.com/hp-v220-otg-2in-1-free-128-gb-pen-drive/p/itm4f26f10117fcf?pid=ACCGSRCSDMFFRFYG",
+        "affiliate_product_link": "https://www.flipkart.com/hp-v220-otg-2in-1-free-128-gb-pen-drive/p/itm4f26f10117fcf?pid=ACCGSRCSDMFFRFYG&affid=mithunvel",
+        "createdAt": "2023-11-15T04:48:08.071Z",
+        "updatedAt": "2023-11-15T05:10:50.179Z",
+        "ProductImgUrl": "uploads/HP V220 OTG 2IN 1 FREE 128 GB Pen Drive Silver.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1558,
+      "attributes": {
+        "title": "Avita Domus 10W LED 5CH RGB Smart Bulb",
+        "dealPrice": "₹ 269",
+        "originalPrice": "₹ 1299",
+        "platform": "Flipkart",
+        "discount": "79",
+        "productLink": "https://www.flipkart.com/avita-domus-10w-led-5ch-rgb-smart-bulb/p/itme7f7f0be94b45?pid=LLSGF5H4PCYD7HUS",
+        "affiliate_product_link": "https://www.flipkart.com/avita-domus-10w-led-5ch-rgb-smart-bulb/p/itme7f7f0be94b45?pid=LLSGF5H4PCYD7HUS&affid=mithunvel",
+        "createdAt": "2023-11-15T04:47:07.144Z",
+        "updatedAt": "2023-11-15T05:11:02.440Z",
+        "ProductImgUrl": "uploads/Avita Domus 10W LED 5CH RGB Smart Bulb.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1557,
+      "attributes": {
+        "title": "Dabur Gulabari Rose Oil & Vitamin C Face Toner Mist with Niacinamide - 200ml | Toner",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0CJML6RR9/?tag=thuttu-21&ascsubtag=1306937",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CJML6RR9?ascsubtag=1306937&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=cb6b39b4e8ff6a575deb53f36deec679&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:15.863Z",
+        "updatedAt": "2023-11-15T05:07:43.208Z",
+        "ProductImgUrl": "uploads/Dabur Gulabari Rose Oil Vitamin C Face Toner Mist with Niacinamide 200ml Toner.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1556,
+      "attributes": {
+        "title": "Dynotrek Mile Black Messenger Bag Sling Bag Crossbody Shoulder Bag",
+        "dealPrice": "₹ 449",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "78",
+        "productLink": "https://amazon.in/dp/B0CHK2MX9B/?tag=thuttu-21&ascsubtag=1306935",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CHK2MX9B?ascsubtag=1306935&linkCode=ll1&tag=hotdealsbazaar-21&linkId=54cd769f216883ab8a71d4a8df8a0ca0&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:15.095Z",
+        "updatedAt": "2023-11-15T05:06:28.960Z",
+        "ProductImgUrl": "uploads/Dynotrek Mile Black Messenger Bag Sling Bag Crossbody Shoulder Bag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1555,
+      "attributes": {
+        "title": "Mivi Commando Z9,13mm Bass,72H Playtime,Quad Mic ENC,35ms Low Latency,TypeC,5.3 Bluetooth Headset  (Grey, Black, True Wireless)",
+        "dealPrice": "₹ 1299",
+        "originalPrice": "₹ 3999",
+        "platform": "Flipkart",
+        "discount": "68",
+        "productLink": "https://www.flipkart.com/btwin-chauds-7-neoprene-cycling-gloves-s-black-white/p/itmeae5f2t5xexy2?pid=ACCGPKY9G5S8YTZH",
+        "affiliate_product_link": "https://www.flipkart.com/btwin-chauds-7-neoprene-cycling-gloves-s-black-white/p/itmeae5f2t5xexy2?pid=ACCGPKY9G5S8YTZH&affid=mithunvel",
+        "createdAt": "2023-11-15T04:46:14.300Z",
+        "updatedAt": "2023-11-15T05:10:37.093Z",
+        "ProductImgUrl": "uploads/Mivi Commando Z913mm Bass72H PlaytimeQuad Mic ENC35ms Low LatencyTypeC53 Bluetooth Headset Grey Black True Wireless.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1554,
+      "attributes": {
+        "title": "BERGNER Ultimate ILag Marble Non Stick Kadai/Kadhai with Glass Lid 24 cm, 2 litres, Induction Base, Wooden Soft Touch Handle, Food Safe (PFOA Free), Thickness 3.5mm, 1 Year Warranty, Grey",
+        "dealPrice": "₹ 700",
+        "originalPrice": "₹ 2195",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://amazon.in/dp/B0CDV22PLR/?tag=thuttu-21&ascsubtag=1306933",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CDV22PLR?ascsubtag=1306933&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6e70de7c17f3e092df7d35e8054ae8c9&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:13.576Z",
+        "updatedAt": "2023-11-15T05:05:16.426Z",
+        "ProductImgUrl": "uploads/BERGNER Ultimate ILag Marble Non Stick KadaiKadhai with Glass Lid 24 cm 2 litres Induction Base Wooden Soft Touch Handle Food Safe PFOA Free Thickness 35mm 1 Year Warranty Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1553,
+      "attributes": {
+        "title": "HP v236w USB 2.0 64GB Pen Drive, Metal, Silver",
+        "dealPrice": "₹ 377",
+        "originalPrice": "₹ 850",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://www.amazon.in/dp/B01L8ZNWN2?tag=thuttu-21&ascsubtag=1306932",
+        "affiliate_product_link": "https://www.amazon.in/dp/B01L8ZNWN2?ascsubtag=1306932&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b08f4630d3833447f8beaa066a5cb332&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:12.531Z",
+        "updatedAt": "2023-11-15T05:03:45.930Z",
+        "ProductImgUrl": "uploads/HP v236w USB 20 64GB Pen Drive Metal Silver.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1552,
+      "attributes": {
+        "title": "Microfiber Feather Duster Bendable & Extendable Fan Cleaning Duster with 100 inches Expandable Pole Handle Washable Duster",
+        "dealPrice": "₹ 239",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": "https://amazon.in/dp/B0CFVSH14P/?tag=thuttu-21&ascsubtag=1306931",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CFVSH14P?ascsubtag=1306931&linkCode=ll1&tag=hotdealsbazaar-21&linkId=db86c8c216977e1bccf01fe45664a2dc&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:11.747Z",
+        "updatedAt": "2023-11-15T05:01:32.264Z",
+        "ProductImgUrl": "uploads/Microfiber Feather Duster Bendable Extendable Fan Cleaning Duster with 100 inches Expandable Pole Handle Washable Duster.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1551,
+      "attributes": {
+        "title": "PROVOGUE Women Solid Quilted Jacket",
+        "dealPrice": "₹ 649",
+        "originalPrice": "₹ 3278",
+        "platform": "Flipkart",
+        "discount": "80",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/provogue-full-sleeve-solid-women-jacket/p/itm4498d7c47c1ca?pid=JCKFU2NZRJAFFPUV&affid=mithunvel",
+        "createdAt": "2023-11-15T04:46:10.919Z",
+        "updatedAt": "2023-11-15T05:10:21.418Z",
+        "ProductImgUrl": "uploads/PROVOGUE Women Solid Quilted Jacket.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1550,
+      "attributes": {
+        "title": "Eveready 9W B22D LED Cool White Bulb, Pack of 10 (8901691018034)",
+        "dealPrice": "₹ 549",
+        "originalPrice": "₹ 1500",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": "https://www.amazon.in/dp/B0743BLWWD?tag=thuttu-21&ascsubtag=1297988",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0743BLWWD?ascsubtag=1297988&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=179b1c10e9b6b975c99bf952841b0e99&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:10.131Z",
+        "updatedAt": "2023-11-15T05:00:11.879Z",
+        "ProductImgUrl": "uploads/Eveready 9W B22D LED Cool White Bulb Pack of 10 8901691018034.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1549,
+      "attributes": {
+        "title": "in base Urban Play Smartwatch (Bluetooth 5.0, 33.02 mm) (IPX68 Water Proof Resistance,",
+        "dealPrice": "₹ 994",
+        "originalPrice": "₹ 7999",
+        "platform": "Croma",
+        "discount": "88",
+        "productLink": "https://www.ad.admitad.com/g/rjmwpd17fqb011728c7821602b7160/?ulp=https%3A%2F%2Fwww.croma.com%2Fin-base-urban-play-smartwatch-bluetooth-5-0-33-02-mm-ipx68-water-proof-resistance-ib-1076-black-zinc-alloy-%2Fp%2F241041",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-15T04:46:09.118Z",
+        "updatedAt": "2023-11-15T04:46:09.118Z",
+        "ProductImgUrl": "uploads/in base Urban Play Smartwatch Bluetooth 50 3302 mm IPX68 Water Proof Resistance.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1548,
+      "attributes": {
+        "title": "GOQii Smart Vital Lite SpO2 1.4\" HD, Smart Notification Waterproof Smart Watch",
+        "dealPrice": "₹ 866.11",
+        "originalPrice": "₹ 5499",
+        "platform": "Amazon",
+        "discount": "84",
+        "productLink": "https://www.amazon.in/dp/B09HHDFWL3?tag=thuttu-21&ascsubtag=1280835",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09HHDFWL3?ascsubtag=1280835&linkCode=ll1&tag=hotdealsbazaar-21&linkId=81a3e6c7ec59ffdbd35cd3a2783e310a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:08.373Z",
+        "updatedAt": "2023-11-15T04:58:58.535Z",
+        "ProductImgUrl": "uploads/GOQii Smart Vital Lite SpO2 14 HD Smart Notification Waterproof Smart Watch.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1547,
+      "attributes": {
+        "title": "Zebronics-NS1500 Laptop Stand Featuring Foldable Design, Anti-Slip Silicone Rubber Pads, Supports Maximum of 5kgs Weight",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 699",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://amazon.in/dp/B0C36YRMLQ/?tag=thuttu-21&ascsubtag=1224100",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C36YRMLQ?ascsubtag=1224100&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1108d4e6ed22f7ff57c977e95f48eb39&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:07.551Z",
+        "updatedAt": "2023-11-15T04:57:58.031Z",
+        "ProductImgUrl": "uploads/Zebronics NS1500 Laptop Stand Featuring Foldable Design Anti Slip Silicone Rubber Pads Supports Maximum of 5kgs Weight.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1546,
+      "attributes": {
+        "title": "Samsung 27-inch(68.6cm) FHD 1920 x 1080 PixelsMonitor, IPS, 75 Hz, Bezel Less Design, AMD FreeSync, Flicker Free, HDMI, D-sub, (LS27R354FHWXXL, Dark Blue Gray)",
+        "dealPrice": "₹ 11099",
+        "originalPrice": "₹ 20000",
+        "platform": "Amazon",
+        "discount": "45",
+        "productLink": "https://amazon.in/dp/B0BVG245KW/?tag=thuttu-21&ascsubtag=1300103",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BVG245KW?ascsubtag=1300103&linkCode=ll1&tag=hotdealsbazaar-21&linkId=568d71a5851a7101b9913a82fbd792f5&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:06.485Z",
+        "updatedAt": "2023-11-15T04:56:33.314Z",
+        "ProductImgUrl": "uploads/Samsung 27 inch686cm FHD 1920 x 1080 PixelsMonitor IPS 75 Hz Bezel Less Design AMD FreeSync Flicker Free HDMI D sub LS27R354FHWXXL Dark Blue Gray.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1545,
+      "attributes": {
+        "title": "FURR By Pee Safe Natural Body Wash | Ayurvedic and Natural | For Smooth and Glowing Skin  (200 ml)",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 499",
+        "platform": "Flipkart",
+        "discount": "60",
+        "productLink": "https://www.flipkart.com/furr-pee-safe-natural-body-wash-ayurvedic-smooth-glowing-skin/p/itmd662007fd9298?pid=BWSG7BBVAVZ2PJBS",
+        "affiliate_product_link": "https://www.flipkart.com/furr-pee-safe-natural-body-wash-ayurvedic-smooth-glowing-skin/p/itmd662007fd9298?pid=BWSG7BBVAVZ2PJBS&affid=mithunvel",
+        "createdAt": "2023-11-15T04:46:05.587Z",
+        "updatedAt": "2023-11-15T05:09:28.230Z",
+        "ProductImgUrl": "uploads/FURR By Pee Safe Natural Body Wash Ayurvedic and Natural For Smooth and Glowing Skin 200 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1544,
+      "attributes": {
+        "title": "Yogabar 21g High Protein Muesli 850g | Choco Almond & Cranberry | Protein Breakfast Cereals | Premium Whey Protein Isolate | Added Almonds & Probiotics with Dark Chocolate Muesli, Nuts, Seeds & Dry Fruits | No Preservatives",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 825",
+        "platform": "Amazon",
+        "discount": "52",
+        "productLink": "https://amazon.in/dp/B0BB1P6RTL/?tag=thuttu_a-21&ascsubtag=1306926",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B6JDK378?ascsubtag=1306925&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1d5ece64c304ec3d68301c5d646093a0&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:04.740Z",
+        "updatedAt": "2023-11-15T04:54:51.642Z",
+        "ProductImgUrl": "uploads/Yogabar 21g High Protein Muesli 850g Choco Almond Cranberry Protein Breakfast Cereals Premium Whey Protein Isolate Added Almonds Probiotics with Dark Chocolate Muesli Nuts Seeds Dry Fruits No Preservatives.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1543,
+      "attributes": {
+        "title": "HIKER S3 Cell Phone Holder Mini Mobile Stand",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0B6JDK378/?tag=thuttu-21&ascsubtag=1306925",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B6JDK378?ascsubtag=1306925&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1d5ece64c304ec3d68301c5d646093a0&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:03.780Z",
+        "updatedAt": "2023-11-15T04:49:42.555Z",
+        "ProductImgUrl": "uploads/HIKER S3 Cell Phone Holder Mini Mobile Stand.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1542,
+      "attributes": {
+        "title": "Storehaus Stainless Steel 2 pc Glass Set, Ideal For Home, Restaurants and Family Use, Kitchenware, Silver",
+        "dealPrice": "₹ 66",
+        "originalPrice": "₹ 269",
+        "platform": "Amazon",
+        "discount": "75",
+        "productLink": "https://amazon.in/dp/B0C3VR5YVK/?tag=thuttu-21&ascsubtag=1306924",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C3VR5YVK?ascsubtag=1306924&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6cf12eb8e4c87e2d39f26da519af8e52&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-15T04:46:02.475Z",
+        "updatedAt": "2023-11-15T04:48:20.663Z",
+        "ProductImgUrl": "uploads/Storehaus Stainless Steel 2 pc Glass Set Ideal For Home Restaurants and Family Use Kitchenware Silver.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1541,
       "attributes": {
         "title": "Crackles Orange Metallic Balloons For Happy Birthday Decorations,Baby Shower,Party Supplies,Bachelorette Bride To be 50 PC",
@@ -12552,7 +13038,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 697
+      "total": 724
     }
   }
 }
