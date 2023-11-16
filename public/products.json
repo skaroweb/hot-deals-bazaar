@@ -1,6 +1,672 @@
 {
   "data": [
     {
+      "id": 1605,
+      "attributes": {
+        "title": "[For ICICI/HDFC Credit Card] iQOO Z7 Pro 5G (Blue Lagoon, 8GB RAM, 128GB Storage) | 3D Curved AMOLED Display | 4nm MediaTek Dimesity 7200 5G Processor | 64MP Aura Light OIS Camera | Segment's Slimmest & Lightest Smartphone",
+        "dealPrice": "₹ 21999",
+        "originalPrice": "₹ 26999",
+        "platform": "Amazon",
+        "discount": "19",
+        "productLink": "https://www.amazon.in/dp/B07WGPKLFL?tag=thuttu-21&ascsubtag=1307357",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07WGPKLFL?ascsubtag=1307357&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bd028c1804b1d8199f6051324865491e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:38:15.773Z",
+        "updatedAt": "2023-11-16T05:41:29.448Z",
+        "ProductImgUrl": "uploads/For ICICIHDFC Credit Card iQOO Z7 Pro 5G Blue Lagoon 8GB RAM 128GB Storage 3D Curved AMOLED Display 4nm MediaTek Dimesity 7200 5G Processor 64MP Aura Light OIS Camera Segments Slimmest Lightest Smartphone.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1604,
+      "attributes": {
+        "title": "Etechnic Flip Covers Min 90% off from Rs.89",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?k=Etechnic+flip+covers&rh=p_36%3A-9000&crid=1EEVLG1WGAF12&qid=1700107290&rnid=1318502031&sprefix=etechnic+flip+covers%2Caps%2C285&tag=thuttu-21&ascsubtag=1307355",
+        "affiliate_product_link": "https://www.amazon.in/s?k=Etechnic+flip+covers&rh=p_36%3A-9000&ascsubtag=1307355&crid=1EEVLG1WGAF12&qid=1700107290&rnid=1318502031&sprefix=etechnic+flip+covers%2Caps%2C285&linkCode=ll2&tag=hotdealsbazaar-21&linkId=e404ca8db5d7e3e12a886234331e4128&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:31:10.576Z",
+        "updatedAt": "2023-11-16T05:40:46.542Z",
+        "ProductImgUrl": "uploads/Etechnic Flip Covers Min 90 off from Rs89.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1603,
+      "attributes": {
+        "title": "Panasonic 0.5 Watt Night Light Spherical LED Bulb Base B22 (Blue, Pack of 10)",
+        "dealPrice": "₹ 237",
+        "originalPrice": "₹ 550",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://www.amazon.in/dp/B086XSXS4Z?tag=thuttu-21&ascsubtag=1307353",
+        "affiliate_product_link": "https://www.amazon.in/dp/B086XSXS4Z?ascsubtag=1307353&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a2b05dd8733b6e1a9e867371991a0274&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:27:10.120Z",
+        "updatedAt": "2023-11-16T05:39:50.934Z",
+        "ProductImgUrl": "uploads/Panasonic 05 Watt Night Light Spherical LED Bulb Base B22 Blue Pack of 10.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1602,
+      "attributes": {
+        "title": "Urban Terrain Rio with Complete Accessories & Mobile Tracking App 26 T Hybrid Cycle/City Bike  (Single Speed, Yellow, Black)",
+        "dealPrice": "₹ 4999",
+        "originalPrice": "₹ 8999",
+        "platform": "Flipkart",
+        "discount": "44",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-16T05:26:11.589Z",
+        "updatedAt": "2023-11-16T05:26:11.589Z",
+        "ProductImgUrl": "uploads/Urban Terrain Rio with Complete Accessories Mobile Tracking App 26 T Hybrid CycleCity Bike Single Speed Yellow Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1601,
+      "attributes": {
+        "title": "[Size 11] DUKE Running Shoes For Men  (Navy)",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 1399",
+        "platform": "Flipkart",
+        "discount": "57",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-16T05:25:10.844Z",
+        "updatedAt": "2023-11-16T05:25:10.844Z",
+        "ProductImgUrl": "uploads/Size 11 DUKE Running Shoes For Men Navy.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1600,
+      "attributes": {
+        "title": "[For Tataneu HDFC Card Via Tataneu App] realme 11 Pro Plus 5G (12GB RAM, 256GB, Sunrise Beige)",
+        "dealPrice": "₹ 24899",
+        "originalPrice": "₹ 32999",
+        "platform": "Croma",
+        "discount": "25",
+        "productLink": "https://www.ad.admitad.com/g/rjmwpd17fqb011728c7821602b7160/?ulp=https%3A%2F%2Fwww.croma.com%2Frealme-11-pro-plus-5g-12gb-ram-256gb-sunrise-beige-%2Fp%2F273454",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-16T05:25:09.627Z",
+        "updatedAt": "2023-11-16T05:25:09.627Z",
+        "ProductImgUrl": "uploads/For Tataneu HDFC Card Via Tataneu App realme 11 Pro Plus 5G 12GB RAM 256GB Sunrise Beige.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1599,
+      "attributes": {
+        "title": "Coco Soul Dandruff Control Hair Oil with Virgin Coconut | Amla | Shatavari & Karanja Oil - Makers of Parachute Advansed | 95ml",
+        "dealPrice": "₹ 81",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://amazon.in/dp/B0B1YBNSKQ/?tag=thuttu-21&ascsubtag=1273958",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B1YBNSKQ?ascsubtag=1273958&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5e8e688ec6fe3f86147d33a7794a10fa&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:20:21.143Z",
+        "updatedAt": "2023-11-16T05:38:16.694Z",
+        "ProductImgUrl": "uploads/Coco Soul Dandruff Control Hair Oil with Virgin Coconut Amla Shatavari Karanja Oil Makers of Parachute Advansed 95ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1598,
+      "attributes": {
+        "title": "Lavie Sport Lino Large Size 63 cms Wheel Duffle Bag",
+        "dealPrice": "₹ 1049",
+        "originalPrice": "₹ 3895",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": "https://www.amazon.in/dp/B097RJ22Q3?tag=thuttu_a-21&ascsubtag=1307347",
+        "affiliate_product_link": "https://www.amazon.in/dp/B097RJ22Q3?ascsubtag=1307347&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5bb943bddff3116e1a9ab2d8eabf6f7f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:20:20.023Z",
+        "updatedAt": "2023-11-16T05:37:12.936Z",
+        "ProductImgUrl": "uploads/Lavie Sport Lino Large Size 63 cms Wheel Duffle Bag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1597,
+      "attributes": {
+        "title": "Ustraa Anti-Dandruff Shampoo 250ml - With Climbazole, Ginger & Tea Tree Oil, Controls Dandruff, No Sulphates, No Parabens, No Silicone, No Mineral Oil",
+        "dealPrice": "₹ 195",
+        "originalPrice": "₹ 349",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07GXT3QVN?ascsubtag=1307346&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6a9def8426f912e95b4462ebaf56ff08&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:20:18.133Z",
+        "updatedAt": "2023-11-16T05:36:07.888Z",
+        "ProductImgUrl": "uploads/Ustraa Anti Dandruff Shampoo 250ml With Climbazole Ginger Tea Tree Oil Controls Dandruff No Sulphates No Parabens No Silicone No Mineral Oil.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1596,
+      "attributes": {
+        "title": "Sorrentina Spaghetti Pasta 500g,100% Durum Wheat (500 Grams each, Pack of 1)",
+        "dealPrice": "₹ 125",
+        "originalPrice": "₹ 250",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0BRT9G64L/?tag=thuttu-21&ascsubtag=1307345",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BRT9G64L?ascsubtag=1307345&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9db78c784a3bd04649b2a5d0b1182992&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:20:16.587Z",
+        "updatedAt": "2023-11-16T05:35:02.110Z",
+        "ProductImgUrl": "uploads/Sorrentina Spaghetti Pasta 500g100 Durum Wheat 500 Grams each Pack of 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1595,
+      "attributes": {
+        "title": "Impulse IMP linear 45L Laptop Backpack",
+        "dealPrice": "₹ 510",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": "https://amazon.in/dp/B0CJHKDZPY/?tag=thuttu_a-21&ascsubtag=1304020",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CJHKDZPY?ascsubtag=1304020&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b63b8f4d1ccbe952bdcc1a314c87aee2&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:20:15.441Z",
+        "updatedAt": "2023-11-16T05:34:08.949Z",
+        "ProductImgUrl": "uploads/Impulse IMP linear 45L Laptop Backpack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1594,
+      "attributes": {
+        "title": "Del Monte FoodCraft Spaghetti Pasta, 100% Durum Wheat Semolina, 500 grams",
+        "dealPrice": "₹ 79",
+        "originalPrice": "₹ 190",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C9JP5C27?ascsubtag=1307344&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9466b512fadf6617b4b3a20281ff2c3e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:16:10.309Z",
+        "updatedAt": "2023-11-16T05:33:15.571Z",
+        "ProductImgUrl": "uploads/Del Monte FoodCraft Spaghetti Pasta 100 Durum Wheat Semolina 500 grams.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1593,
+      "attributes": {
+        "title": "Beco Bamboo Toothbrush with Charcoal Activated Soft Bristles – 100% Eco-friendly – Pack of 2",
+        "dealPrice": "₹ 58",
+        "originalPrice": "₹ 180",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": "https://www.amazon.in/dp/B08GSSJ1FG?tag=thuttu-21&ascsubtag=1307343",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08GSSJ1FG?ascsubtag=1307343&linkCode=ll1&tag=hotdealsbazaar-21&linkId=93fa50b940bab657963c6ecca5793276&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:16:09.349Z",
+        "updatedAt": "2023-11-16T05:32:03.449Z",
+        "ProductImgUrl": "uploads/Beco Bamboo Toothbrush with Charcoal Activated Soft Bristles 100 Eco friendly Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1592,
+      "attributes": {
+        "title": "Toyzone Pocket Travel Baby Stroller/Pram",
+        "dealPrice": "₹ 2206",
+        "originalPrice": "₹ 10999",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://www.amazon.in/dp/B07DR9BKY2?tag=thuttu-21&ascsubtag=1307342",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07DR9BKY2?ascsubtag=1307342&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a746cc7e406ba4d42c6ab003f97fd8e0&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:14:10.680Z",
+        "updatedAt": "2023-11-16T05:30:24.282Z",
+        "ProductImgUrl": "uploads/Toyzone Pocket Travel Baby StrollerPram.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1591,
+      "attributes": {
+        "title": "Apsara Small size Softbound Notebook 19x15.5 Pages 92Broad Line",
+        "dealPrice": "₹ 241",
+        "originalPrice": "₹ 480",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0C4Y3G3TS/?tag=thuttu-21&ascsubtag=1307341",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C4Y3G3TS?ascsubtag=1307341&linkCode=ll1&tag=hotdealsbazaar-21&linkId=cddc9421c7fc8606089afbba10f84a2a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:14:09.412Z",
+        "updatedAt": "2023-11-16T05:29:36.059Z",
+        "ProductImgUrl": "uploads/Apsara Small size Softbound Notebook 19x155 Pages 92Broad Line.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1590,
+      "attributes": {
+        "title": "Friends Premium Underpads, Large 60 X 90 cm, Super Absorbent Polymer & Soft Surface, 60s Value Pack",
+        "dealPrice": "₹ 1200",
+        "originalPrice": "₹ 3600",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://www.amazon.in/dp/B07T7P5XS4?tag=thuttu_a-21&ascsubtag=1307340",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07T7P5XS4?ascsubtag=1307340&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=fe6faa216193f8ea16a0d4bccc87d390&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:14:08.400Z",
+        "updatedAt": "2023-11-16T05:28:42.147Z",
+        "ProductImgUrl": "uploads/Friends Premium Underpads Large 60 X 90 cm Super Absorbent Polymer Soft Surface 60s Value Pack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1589,
+      "attributes": {
+        "title": "Hershey's Exotic Dark Pomegranate Chocolate, 200g",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 400",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B08R9FYC7X?tag=thuttu_a-21&ascsubtag=1307339",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08R9FYC7X?ascsubtag=1307339&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7186aa7df0644d2cd0505dca02426f27&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:14:07.313Z",
+        "updatedAt": "2023-11-16T05:27:13.926Z",
+        "ProductImgUrl": "uploads/Hersheys Exotic Dark Pomegranate Chocolate 200g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1588,
+      "attributes": {
+        "title": "Park Avenue Good Morning Perfume Intense Body Spray, 100 g/120 ml (Pack of 3)",
+        "dealPrice": "₹ 336",
+        "originalPrice": "₹ 675",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0CBKJFXRQ/?tag=thuttu-21&ascsubtag=1307338",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CBKJFXRQ?ascsubtag=1307338&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2a2e345d3940cba0ec71b7a1c91ca72d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:12:12.252Z",
+        "updatedAt": "2023-11-16T05:26:09.973Z",
+        "ProductImgUrl": "uploads/Park Avenue Good Morning Perfume Intense Body Spray 100 g120 ml Pack of 3.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1587,
+      "attributes": {
+        "title": "Coco Soul Hair Oil",
+        "dealPrice": "₹ 89",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "78",
+        "productLink": "https://amazon.in/dp/B0B1Y88S7D/?tag=thuttu-21&ascsubtag=1307336",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B1Y88S7D?ascsubtag=1307336&linkCode=ll1&tag=hotdealsbazaar-21&linkId=74f63d6ae5f6be6126eabd8c6a61af01&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:12:10.951Z",
+        "updatedAt": "2023-11-16T05:25:09.476Z",
+        "ProductImgUrl": "uploads/Coco Soul Hair Oil.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1586,
+      "attributes": {
+        "title": "PIBU Pack of 3 Women Hipster Multicolor Panty",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 880",
+        "platform": "Flipkart",
+        "discount": "89",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-16T05:12:09.671Z",
+        "updatedAt": "2023-11-16T05:12:09.671Z",
+        "ProductImgUrl": "uploads/PIBU Pack of 3 Women Hipster Multicolor Panty.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1585,
+      "attributes": {
+        "title": "Zoff Whole Spices Pack of 13 | 25 gm Green Cardamom, Ajwain, Black pepper, Cloves, Big Cardamom, Bay Leaves, Kasoori Methi | 50 g Methi dana, Saunf , Jeera whole, Red Mustard, Red Chilli Whole, Cassia 100% Natural | Net Weight 475gm",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 716",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://amazon.in/gp/product/B0CJK25H8M/?tag=thuttu_a-21&ascsubtag=1307333",
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B0CJK25H8M?ascsubtag=1307333&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c794043dcd20433e701f1dcad253bc39&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T05:12:08.529Z",
+        "updatedAt": "2023-11-16T05:23:58.786Z",
+        "ProductImgUrl": "uploads/Zoff Whole Spices Pack of 13 25 gm Green Cardamom Ajwain Black pepper Cloves Big Cardamom Bay Leaves Kasoori Methi 50 g Methi dana Saunf Jeera whole Red Mustard Red Chilli Whole Cassia 100 Natural Net Weight 475gm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1584,
+      "attributes": {
+        "title": "LUX International Creamy Perfection Plus For Smooth Fragrant Skin with White Rose And Swiss Moisturizer bathing Soap | For Glowing Skin | 500 g (4 x 125 g)",
+        "dealPrice": "₹ 246",
+        "originalPrice": "₹ 330",
+        "platform": "Amazon",
+        "discount": "25",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09JFYPQMV?ascsubtag=1307332&linkCode=ll1&tag=hotdealsbazaar-21&linkId=921deca9ad048936003520ec473fed06&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:44:09.996Z",
+        "updatedAt": "2023-11-16T05:22:57.532Z",
+        "ProductImgUrl": "uploads/LUX International Creamy Perfection Plus For Smooth Fragrant Skin with White Rose And Swiss Moisturizer bathing Soap For Glowing Skin 500 g 4 x 125 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1583,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Wax Tealight Candles, 2-Hour Burn Time, Smokeless, No Residue (Set of 50, Multicoloured, Unscented)",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": "https://amazon.in/dp/B0C594ZB2H/?tag=thuttu-21&ascsubtag=1307331",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C594ZB2H?ascsubtag=1307331&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b4ec50107676b1ef8d6c27f714d20732&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:19.523Z",
+        "updatedAt": "2023-11-16T05:21:20.544Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Wax Tealight Candles 2 Hour Burn Time Smokeless No Residue Set of 50 Multicoloured Unscented.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1582,
+      "attributes": {
+        "title": "Inalsa Oven MasterChef 10BK OTG (10Liters) with Temperature Selection 800 W, Powder Coated Finish, Includes Baking Pan, SS Grill Tray, Hand Glove (Black;Silver)",
+        "dealPrice": "₹ 2325",
+        "originalPrice": "₹ 4495",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": "https://www.amazon.in/dp/B07SKTZXH2?tag=thuttu-21&ascsubtag=1307330",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07SKTZXH2?ascsubtag=1307330&linkCode=ll1&tag=hotdealsbazaar-21&linkId=4694de7f4b04d4ef87d3800ab95bf18c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:18.372Z",
+        "updatedAt": "2023-11-16T05:19:57.377Z",
+        "ProductImgUrl": "uploads/Inalsa Oven MasterChef 10BK OTG 10Liters with Temperature Selection 800 W Powder Coated Finish Includes Baking Pan SS Grill Tray Hand Glove BlackSilver.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1581,
+      "attributes": {
+        "title": "Halonix Polycarbonate Glitter 1W Rechargeable Led Emergency Cum Pocket Flashlight Torch, with USB Charging, High Brightness",
+        "dealPrice": "₹ 252",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": "https://amazon.in/dp/B0B9LGTW7P/?tag=thuttu-21&ascsubtag=1305396",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B9LGTW7P?ascsubtag=1305396&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8362aba39eb70f13032ff892106e8c0e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:17.380Z",
+        "updatedAt": "2023-11-16T05:16:06.831Z",
+        "ProductImgUrl": "uploads/Halonix Polycarbonate Glitter 1W Rechargeable Led Emergency Cum Pocket Flashlight Torch with USB Charging High Brightness.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1580,
+      "attributes": {
+        "title": "KOLORR Jolly Plastic Basket with Handle",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 300",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0C8V5Z8MG/?tag=thuttu-21&ascsubtag=1307329",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C8V5Z8MG?ascsubtag=1307329&linkCode=ll1&tag=hotdealsbazaar-21&linkId=aa3bdbba5dfd90aa8fb362f0255e704f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:16.333Z",
+        "updatedAt": "2023-11-16T05:14:18.179Z",
+        "ProductImgUrl": "uploads/KOLORR Jolly Plastic Basket with Handle.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1579,
+      "attributes": {
+        "title": "Mobil 1 0W-40 API SN Advanced Full Synthetic Engine Oil (4L)",
+        "dealPrice": "₹ 3165",
+        "originalPrice": "₹ 6000",
+        "platform": "Amazon",
+        "discount": "47",
+        "productLink": "https://www.amazon.in/dp/B00SFNO0UK?tag=thuttu-21&ascsubtag=1307328",
+        "affiliate_product_link": "https://www.amazon.in/dp/B00SFNO0UK?ascsubtag=1307328&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a5001bedad9abe50d772ab191d0d84a8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:15.338Z",
+        "updatedAt": "2023-11-16T05:12:55.036Z",
+        "ProductImgUrl": "uploads/Mobil 1 0W 40 API SN Advanced Full Synthetic Engine Oil 4L.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1578,
+      "attributes": {
+        "title": "Shell Helix HX8 5W-30 API SN Plus Fully Synthetic Engine Oil",
+        "dealPrice": "₹ 1759",
+        "originalPrice": "₹ 2604",
+        "platform": "Amazon",
+        "discount": "32",
+        "productLink": "https://www.amazon.in/dp/B07SBF8QGB?tag=thuttu-21&ascsubtag=1307327",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07SBF8QGB?ascsubtag=1307327&linkCode=ll1&tag=hotdealsbazaar-21&linkId=3f08e1d341ed0c56c47ff78a373af574&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:14.267Z",
+        "updatedAt": "2023-11-16T05:11:44.838Z",
+        "ProductImgUrl": "uploads/Shell Helix HX8 5W 30 API SN Plus Fully Synthetic Engine Oil.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1577,
+      "attributes": {
+        "title": "Nayasa Tuckins Delux 14 Plastic Drawers (Grey)",
+        "dealPrice": "₹ 990",
+        "originalPrice": "₹ 2999",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://amazon.in/dp/B0BR3QRSZ3/?tag=thuttu_i-21&ascsubtag=1307326",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BR3QRSZ3?ascsubtag=1307326&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a21c2cd0f632c345618f7b1b53bd4bd3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:12.831Z",
+        "updatedAt": "2023-11-16T05:04:09.649Z",
+        "ProductImgUrl": "uploads/Nayasa Tuckins Delux 14 Plastic Drawers Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1576,
+      "attributes": {
+        "title": "Cello Crown Grind-N-Mix Mixer Grinder 500Watt with 3 Stainless Steel Jars, Black",
+        "dealPrice": "₹ 1700",
+        "originalPrice": "₹ 3795",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://amazon.in/dp/B0BTP111QN/?tag=thuttu-21&ascsubtag=1307324",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BTP111QN?ascsubtag=1307324&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7ba4476efe61b95636aee227ef995155&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:11.216Z",
+        "updatedAt": "2023-11-16T05:01:58.845Z",
+        "ProductImgUrl": "uploads/Cello Crown Grind N Mix Mixer Grinder 500Watt with 3 Stainless Steel Jars Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1575,
+      "attributes": {
+        "title": "Urban Terrain BOLT UT5001S27.5 Steel MTB-Disc Brakes, and Mobile Tracking App 27.5 T Mountain Cycle  (Single Speed, Black)",
+        "dealPrice": "₹ 6599",
+        "originalPrice": "₹ 12500",
+        "platform": "Flipkart",
+        "discount": "47",
+        "productLink": "https://www.flipkart.com/urban-terrain-bolt-ut5001s27-5-steel-mtb-disc-brakes-mobile-tracking-app-27-5-t-mountain-cycle/p/itm430100877f94b?pid=CCEG6N4YKKPFWRSH",
+        "affiliate_product_link": "https://www.flipkart.com/urban-terrain-bolt-ut5001s27-5-steel-mtb-disc-brakes-mobile-tracking-app-27-5-t-mountain-cycle/p/itm430100877f94b?pid=CCEG6N4YKKPFWRSH&affid=mithunvel",
+        "createdAt": "2023-11-16T04:43:10.175Z",
+        "updatedAt": "2023-11-16T04:44:12.721Z",
+        "ProductImgUrl": "uploads/Urban Terrain BOLT UT5001S275 Steel MTB Disc Brakes and Mobile Tracking App 275 T Mountain Cycle Single Speed Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1574,
+      "attributes": {
+        "title": "20% - 50% off on Bikano & Haldiram",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?i=grocery&bbn=2454178031&rh=n%3A2454178031%2Cp_85%3A10440599031%2Cp_89%3ABIKANO+Haldiram%E2%80%99s%2Cp_n_pct-off-with-tax%3A10-&s=popularity-rank&tag=thuttu-21&ascsubtag=1248347",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-16T04:43:09.232Z",
+        "updatedAt": "2023-11-16T04:43:09.232Z",
+        "ProductImgUrl": "uploads/20 50 off on Bikano Haldiram.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1573,
+      "attributes": {
+        "title": "Havells Led 12W Inverter Bulb B22D Cdl",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 649",
+        "platform": "Amazon",
+        "discount": "39",
+        "productLink": "https://www.amazon.in/dp/B09TH2B549?tag=thuttu-21&ascsubtag=1307321",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09TH2B549?ascsubtag=1307321&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d14bf2a7e9b8e65a59503115084efa76&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:08.203Z",
+        "updatedAt": "2023-11-16T04:59:59.040Z",
+        "ProductImgUrl": "uploads/Havells Led 12W Inverter Bulb B22D Cdl.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1572,
+      "attributes": {
+        "title": "WOODLAND 50% off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Flipkart",
+        "discount": "",
+        "productLink": "https://www.flipkart.com/mens-footwear/pr?sid=osp%2Ccil&marketplace=FLIPKART&p%5B0%5D=facets.brand%5B%5D%3DWOODLAND&p%5B1%5D=facets.fulfilled_by%5B%5D%3DPlus+%28FAssured%29&sort=price_asc",
+        "affiliate_product_link": "https://www.flipkart.com/mens-footwear/pr?marketplace=FLIPKART&p%5B0%5D=facets.brand%5B%5D%3DWOODLAND&p%5B1%5D=facets.fulfilled_by%5B%5D%3DPlus+%28FAssured%29&affid=mithunvel&sort=price_asc&sid=osp%2Ccil",
+        "createdAt": "2023-11-16T04:43:06.927Z",
+        "updatedAt": "2023-11-16T04:43:54.446Z",
+        "ProductImgUrl": "uploads/WOODLAND 50 off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1571,
+      "attributes": {
+        "title": "Priority Achiever 001 35 Liters Mint Green Polyester Stylish College Bag | Printed Backpack Unisex Bag for College Office Suitable",
+        "dealPrice": "₹ 233",
+        "originalPrice": "₹ 1099",
+        "platform": "Amazon",
+        "discount": "79",
+        "productLink": "https://amazon.in/dp/B0C1H2DYRF/?tag=thuttu-21&ascsubtag=1307319",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C1H2DYRF?ascsubtag=1307319&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7f43e6f5d2fbd66fb14fbcd2f7f08385&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:05.680Z",
+        "updatedAt": "2023-11-16T04:58:51.329Z",
+        "ProductImgUrl": "uploads/Priority Achiever 001 35 Liters Mint Green Polyester Stylish College Bag Printed Backpack Unisex Bag for College Office Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1570,
+      "attributes": {
+        "title": "Kleeno by Cello Nature Care Compostable Dry & Wet Garbage Bag Roll Large (45L) (Set of 4, 10 bags each, Blue and Green)",
+        "dealPrice": "₹ 188",
+        "originalPrice": "₹ 1004",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": "https://www.amazon.in/dp/B095CRHNPR?tag=thuttu_a-21&ascsubtag=1307317",
+        "affiliate_product_link": "https://www.amazon.in/dp/B095CRHNPR?ascsubtag=1307317&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5edb917995163fdd2d93f21845b536aa&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:04.332Z",
+        "updatedAt": "2023-11-16T04:57:50.765Z",
+        "ProductImgUrl": "uploads/Kleeno by Cello Nature Care Compostable Dry Wet Garbage Bag Roll Large 45L Set of 4 10 bags each Blue and Green.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1569,
+      "attributes": {
+        "title": "Havells Carlo 3 Litre 3000 kw Instant Water Heater (White Blue)",
+        "dealPrice": "₹ 2698",
+        "originalPrice": "₹ 5575",
+        "platform": "Amazon",
+        "discount": "52",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08GM68XW4?ascsubtag=1307316&linkCode=ll1&tag=hotdealsbazaar-21&linkId=159f3bcdb518d6b02d99b909386e7e30&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-16T04:43:02.892Z",
+        "updatedAt": "2023-11-16T04:56:41.792Z",
+        "ProductImgUrl": "uploads/Havells Carlo 3 Litre 3000 kw Instant Water Heater White Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1568,
       "attributes": {
         "title": "Levis Men Pack Of 3 Assorted Smartskin Technology Cotton Briefs with Tag Free Comfort-100",
@@ -13038,7 +13704,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 724
+      "total": 761
     }
   }
 }
