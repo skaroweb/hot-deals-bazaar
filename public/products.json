@@ -1,6 +1,258 @@
 {
   "data": [
     {
+      "id": 1619,
+      "attributes": {
+        "title": "Clovia Women's Cotton Print Me Pretty Short Nightdress with Pocket",
+        "dealPrice": "₹ 432",
+        "originalPrice": "₹ 1899",
+        "platform": "Amazon",
+        "discount": "77",
+        "productLink": "https://amazon.in/dp/B0BC811SDS/?tag=thuttu_a-21&ascsubtag=1308979",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BC811SDS?ascsubtag=1308979&linkCode=ll1&tag=hotdealsbazaar-21&linkId=08188834240ecdda1d84014cf9a7f96b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:15.618Z",
+        "updatedAt": "2023-11-20T05:49:02.358Z",
+        "ProductImgUrl": "uploads/Clovia Womens Cotton Print Me Pretty Short Nightdress with Pocket.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1618,
+      "attributes": {
+        "title": "Duracell 38W Fast Car Charger Adapter with Dual Output. Quick Charge, Type C PD 20W & Qualcomm Certified 3.0 Compatible",
+        "dealPrice": "₹ 869",
+        "originalPrice": "₹ 1699",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": "https://www.amazon.in/dp/B09FFK1PQG?tag=thuttu-21&ascsubtag=1308978",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09FFK1PQG?ascsubtag=1308978&linkCode=ll1&tag=hotdealsbazaar-21&linkId=1329307528800dd6f8c046a1101a5ad6&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:14.427Z",
+        "updatedAt": "2023-11-20T05:43:33.060Z",
+        "ProductImgUrl": "uploads/Duracell 38W Fast Car Charger Adapter with Dual Output Quick Charge Type C PD 20W Qualcomm Certified 30 Compatible.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1617,
+      "attributes": {
+        "title": "AXE 10 ML - Axe Brand Universal Oil Instant Pain/Cold/Headache Relief!",
+        "dealPrice": "₹ 219",
+        "originalPrice": "₹ 500",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B00RCLIH1O?ascsubtag=1308977&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bc4b586e5455e2572d35b0117f5962db&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:13.424Z",
+        "updatedAt": "2023-11-20T05:42:24.534Z",
+        "ProductImgUrl": "uploads/AXE 10 ML Axe Brand Universal Oil Instant PainColdHeadache Relief.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1616,
+      "attributes": {
+        "title": "Bombae Vitamin C Face Wash and Facial Hair Removal Razor (Set of 3) Combo",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 678",
+        "platform": "Flipkart",
+        "discount": "71",
+        "productLink": "https://www.flipkart.com/bombae-vitamin-c-face-wash-facial-hair-removal-razor-set-3-combo/p/itm23d009d510037?pid=FCWGPZZCES9GCSDA",
+        "affiliate_product_link": "https://www.flipkart.com/bombae-vitamin-c-face-wash-facial-hair-removal-razor-set-3-combo/p/itm23d009d510037?pid=FCWGPZZCES9GCSDA&affid=mithunvel",
+        "createdAt": "2023-11-20T05:22:12.351Z",
+        "updatedAt": "2023-11-20T05:23:03.014Z",
+        "ProductImgUrl": "uploads/Bombae Vitamin C Face Wash and Facial Hair Removal Razor Set of 3 Combo.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1615,
+      "attributes": {
+        "title": "The Old Natural Orthoil Ortho Pain Relief Ayurvedic Medicine Oil 50ml Roll On I For Joint Pain Relief I 100% Herbal Oil With No Stickiness I Easy To Carry (Pack of 1-50ml))",
+        "dealPrice": "₹ 160",
+        "originalPrice": "₹ 350",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B2DWVSC9?ascsubtag=1308973&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a927044fd9cee23e04e7de1222808fed&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:10.862Z",
+        "updatedAt": "2023-11-20T05:40:57.654Z",
+        "ProductImgUrl": "uploads/The Old Natural Orthoil Ortho Pain Relief Ayurvedic Medicine Oil 50ml Roll On I For Joint Pain Relief I 100 Herbal Oil With No Stickiness I Easy To Carry Pack of 1 50ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1614,
+      "attributes": {
+        "title": "Anandi Daily Use Liners 160mm | Biodegradable Compostable Organic Pantyliner  (Pack of 40)",
+        "dealPrice": "₹ 122",
+        "originalPrice": "₹ 249",
+        "platform": "Flipkart",
+        "discount": "51",
+        "productLink": "https://www.flipkart.com/anandi-daily-use-liners-160mm-biodegradable-compostable-organic-pantyliner/p/itma0df52ddc1745?pid=SPPGD4A5HAJHUKHH",
+        "affiliate_product_link": "https://www.flipkart.com/anandi-daily-use-liners-160mm-biodegradable-compostable-organic-pantyliner/p/itma0df52ddc1745?pid=SPPGD4A5HAJHUKHH&affid=mithunvel",
+        "createdAt": "2023-11-20T05:22:09.967Z",
+        "updatedAt": "2023-11-20T05:23:30.373Z",
+        "ProductImgUrl": "uploads/Anandi Daily Use Liners 160mm Biodegradable Compostable Organic Pantyliner Pack of 40.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1613,
+      "attributes": {
+        "title": "Godrej Protekt masterchef's Handwash Refill, Lime - 725ml, 99.9% Germ Protection, With Glycerin",
+        "dealPrice": "₹ 94",
+        "originalPrice": "₹ 189",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-20T05:22:09.055Z",
+        "updatedAt": "2023-11-20T05:22:09.055Z",
+        "ProductImgUrl": "uploads/Godrej Protekt masterchefs Handwash Refill Lime 725ml 999 Germ Protection With Glycerin.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1612,
+      "attributes": {
+        "title": "Polycab 5 Watt LED Down Light Scintillate Integral Slim Round Smart Panel Offers Bright Lumination Long Lifespan No Harmful Radiation (Blue, 1 PC, Cut Out: 3.14 inches)",
+        "dealPrice": "₹ 167",
+        "originalPrice": "₹ 395",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": "https://amazon.in/gp/product/B09XJ56F42/?tag=thuttu-21&ascsubtag=1308967",
+        "affiliate_product_link": "https://www.amazon.in/gp/product/B09XJ56F42?ascsubtag=1308967&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=0b294df9c6cb6883908dac744f8c5410&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:08.079Z",
+        "updatedAt": "2023-11-20T05:38:35.690Z",
+        "ProductImgUrl": "uploads/Polycab 5 Watt LED Down Light Scintillate Integral Slim Round Smart Panel Offers Bright Lumination Long Lifespan No Harmful Radiation Blue 1 PC Cut Out 314 inches.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1611,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Premium Plastic Water Bottle Set | Square Body | Set of 3 |Multi Color | 1000 ml",
+        "dealPrice": "₹ 169",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "58",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BV9F8F53?ascsubtag=1308965&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d662a470a06fd191f439f6e32f5c1090&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:07.257Z",
+        "updatedAt": "2023-11-20T05:37:18.740Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Premium Plastic Water Bottle Set Square Body Set of 3 Multi Color 1000 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1610,
+      "attributes": {
+        "title": "VI-JOHN Feather Touch Rose & Aloevera Hair Removal Cream, for Sensitive Skin, Suitable",
+        "dealPrice": "₹ 231",
+        "originalPrice": "₹ 700",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07S688WSX?ascsubtag=1308964&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8ffe62bf8ed71df136f366f91baa489c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:06.307Z",
+        "updatedAt": "2023-11-20T05:35:57.587Z",
+        "ProductImgUrl": "uploads/VI JOHN Feather Touch Rose Aloevera Hair Removal Cream for Sensitive Skin Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1609,
+      "attributes": {
+        "title": "Crompton Gracee 5-L Instant Water Heater (Geyser), Wall Mounting",
+        "dealPrice": "₹ 3199",
+        "originalPrice": "₹ 5299",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://amazon.in/dp/B0B3X2BY3M/?tag=thuttu-21&ascsubtag=1308963",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B3X2BY3M?ascsubtag=1308963&linkCode=ll1&tag=hotdealsbazaar-21&linkId=89223fe38e419ca2c1e75715ed4da7a4&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:05.214Z",
+        "updatedAt": "2023-11-20T05:34:14.620Z",
+        "ProductImgUrl": "uploads/Crompton Gracee 5 L Instant Water Heater Geyser Wall Mounting.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1608,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Shower Gel, Cool Menthol - 250 ml (Pack of 2)",
+        "dealPrice": "₹ 131",
+        "originalPrice": "₹ 349",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://www.amazon.in/dp/B081T5JTXM?tag=thuttu_a-21&ascsubtag=1308962",
+        "affiliate_product_link": "https://www.amazon.in/dp/B081T5JTXM?ascsubtag=1308962&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8f3e5ca67a3b33de1e143c767b74376c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:04.210Z",
+        "updatedAt": "2023-11-20T05:33:14.856Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Shower Gel Cool Menthol 250 ml Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1607,
+      "attributes": {
+        "title": "Bombay Shaving Company Activated Bamboo Charcoal Bath Soap",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 345",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://www.amazon.in/dp/B07QXNYW9C?tag=thuttu-21&ascsubtag=1286881",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07QXNYW9C?ascsubtag=1286881&linkCode=ll1&tag=hotdealsbazaar-21&linkId=da3d7ee932f3780f141a440282fe9293&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:03.360Z",
+        "updatedAt": "2023-11-20T05:31:22.799Z",
+        "ProductImgUrl": "uploads/Bombay Shaving Company Activated Bamboo Charcoal Bath Soap.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1606,
+      "attributes": {
+        "title": "MILTON Medical Box, 1 Piece, White | Emergency Medical Box | Medicine Storage Box | Emergency Cabinet Organizer | Detachable Tray Medical Box | Medicine Organizer | Indoor Outdoor Medical Utility",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 290",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": "https://www.amazon.in/dp/B00Y6EHHQ6?tag=thuttu-21&ascsubtag=1304646",
+        "affiliate_product_link": "https://www.amazon.in/dp/B00Y6EHHQ6?ascsubtag=1304646&linkCode=ll1&tag=hotdealsbazaar-21&linkId=57d1c2d89275fcaf52e843b7fb49aa3c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-20T05:22:02.088Z",
+        "updatedAt": "2023-11-20T05:29:44.379Z",
+        "ProductImgUrl": "uploads/MILTON Medical Box 1 Piece White Emergency Medical Box Medicine Storage Box Emergency Cabinet Organizer Detachable Tray Medical Box Medicine Organizer Indoor Outdoor Medical Utility.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1605,
       "attributes": {
         "title": "[For ICICI/HDFC Credit Card] iQOO Z7 Pro 5G (Blue Lagoon, 8GB RAM, 128GB Storage) | 3D Curved AMOLED Display | 4nm MediaTek Dimesity 7200 5G Processor | 64MP Aura Light OIS Camera | Segment's Slimmest & Lightest Smartphone",
@@ -13704,7 +13956,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 761
+      "total": 775
     }
   }
 }
