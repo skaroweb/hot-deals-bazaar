@@ -1,6 +1,294 @@
 {
   "data": [
     {
+      "id": 1635,
+      "attributes": {
+        "title": "Fruit of the Loom Men's Brief (Pack of 2)",
+        "dealPrice": "₹ 169",
+        "originalPrice": "₹ 419",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B076DNQJBN?tag=thuttu-21&ascsubtag=1309336",
+        "affiliate_product_link": "https://www.amazon.in/dp/B076DNQJBN?ascsubtag=1309336&linkCode=ll1&tag=hotdealsbazaar-21&linkId=15632742eef50340c83998eaf86d5ce8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:20.525Z",
+        "updatedAt": "2023-11-21T05:12:25.054Z",
+        "ProductImgUrl": "uploads/Fruit of the Loom Mens Brief Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1634,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Copper Water Bottle | 100% Pure Copper Water Bottle I Leak Proof & Rust Proof I Copper Bottle",
+        "dealPrice": "₹ 999",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BRBB5H7L?ascsubtag=1309335&linkCode=ll1&tag=hotdealsbazaar-21&linkId=52fde3d17a7326ab6315a80fe497e4c9&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:19.259Z",
+        "updatedAt": "2023-11-21T05:11:28.991Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Copper Water Bottle 100 Pure Copper Water Bottle I Leak Proof Rust Proof I Copper Bottle.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1633,
+      "attributes": {
+        "title": "Parle Nutricrunch Classic Digestive Cookies, 1000g",
+        "dealPrice": "₹ 135",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/dp/B08KR6MGFL?tag=thuttu-21&ascsubtag=1309334",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08KR6MGFL?ascsubtag=1309334&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2659d0294cad882c56c5d412f3207001&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:18.106Z",
+        "updatedAt": "2023-11-21T05:10:36.744Z",
+        "ProductImgUrl": "uploads/Parle Nutricrunch Classic Digestive Cookies 1000g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1632,
+      "attributes": {
+        "title": "youth first Men Regular Fit Checkered Spread Collar Casual Shirt  (Pack of 2)",
+        "dealPrice": "₹ 479",
+        "originalPrice": "₹ 1199",
+        "platform": "Flipkart",
+        "discount": "60",
+        "productLink": "https://www.flipkart.com/youth-first-men-checkered-casual-multicolor-shirt/p/itmf7e331bf1bc66?pid=SHTGHY7HZCETV8NE&lid=LSTSHTGHY7HZCETV8NEO8CQP9&marketplace=FLIPKART&sattr%5B0%5D=color&sattr%5B1%5D=size&st=size",
+        "affiliate_product_link": "https://www.flipkart.com/youth-first-men-checkered-casual-multicolor-shirt/p/itmf7e331bf1bc66?st=size&marketplace=FLIPKART&sattr%5B1%5D=size&lid=LSTSHTGHY7HZCETV8NEO8CQP9&sattr%5B0%5D=color&pid=SHTGHY7HZCETV8NE&affid=mithunvel",
+        "createdAt": "2023-11-21T04:29:17.024Z",
+        "updatedAt": "2023-11-21T04:56:12.448Z",
+        "ProductImgUrl": "uploads/youth first Men Regular Fit Checkered Spread Collar Casual Shirt Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1631,
+      "attributes": {
+        "title": "brij gwala Desi Cow Ghee |Made Traditionally from Curd |for Better Digestion Ghee 1 L Tetrapack",
+        "dealPrice": "₹ 375",
+        "originalPrice": "₹ 580",
+        "platform": "Flipkart",
+        "discount": "35",
+        "productLink": "https://www.flipkart.com/brij-gwala-desi-cow-ghee-made-traditionally-curd-for-better-digestion-1-l-tetrapack/p/itmdc956e063cf30?pid=GHEGTSFKYGETJ3CA",
+        "affiliate_product_link": "https://www.flipkart.com/brij-gwala-desi-cow-ghee-made-traditionally-curd-for-better-digestion-1-l-tetrapack/p/itmdc956e063cf30?pid=GHEGTSFKYGETJ3CA&affid=mithunvel",
+        "createdAt": "2023-11-21T04:29:15.913Z",
+        "updatedAt": "2023-11-21T04:56:26.278Z",
+        "ProductImgUrl": "uploads/brij gwala Desi Cow Ghee Made Traditionally from Curd for Better Digestion Ghee 1 L Tetrapack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1630,
+      "attributes": {
+        "title": "Quzal Lipstick, Finish, Sticky and Non-Drying, Sensational Liquid Matte, Pixie Dust, 6ml",
+        "dealPrice": "₹ 270",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "73",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CJWH2X6Q?ascsubtag=1309331&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ad127fbb9541baf7275bde431e11085d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:14.731Z",
+        "updatedAt": "2023-11-21T05:09:09.197Z",
+        "ProductImgUrl": "uploads/Quzal Lipstick Finish Sticky and Non Drying Sensational Liquid Matte Pixie Dust 6ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1629,
+      "attributes": {
+        "title": "DiSano Apple Cider Vinegar (ACV), Filtered, 500ml",
+        "dealPrice": "₹ 116",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07KPG2BGZ?ascsubtag=1309330&linkCode=ll1&tag=hotdealsbazaar-21&linkId=41d12ec8356f0aee65e4c224d34f2b04&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:13.611Z",
+        "updatedAt": "2023-11-21T05:08:02.526Z",
+        "ProductImgUrl": "uploads/DiSano Apple Cider Vinegar ACV Filtered 500ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1628,
+      "attributes": {
+        "title": "Lapcare Optical Mouse L-60 Plus (IND) 1000 DPI, Black",
+        "dealPrice": "₹ 119",
+        "originalPrice": "₹ 279",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://amazon.in/dp/B0C7W44RP7/?tag=thuttu-21&ascsubtag=1309329",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C7W44RP7?ascsubtag=1309329&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a0bb8b1ce646aeb6d239a3684c6a31e8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:12.511Z",
+        "updatedAt": "2023-11-21T05:06:42.633Z",
+        "ProductImgUrl": "uploads/Lapcare Optical Mouse L 60 Plus IND 1000 DPI Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1627,
+      "attributes": {
+        "title": "Dynore Stainless Steel Ice Tong, Ice Picker",
+        "dealPrice": "₹ 39",
+        "originalPrice": "₹ 325",
+        "platform": "Amazon",
+        "discount": "88",
+        "productLink": "https://www.amazon.in/dp/B01F7B2LDA?tag=thuttu-21&ascsubtag=1309328",
+        "affiliate_product_link": "https://www.amazon.in/dp/B01F7B2LDA?ascsubtag=1309328&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ebe8ad39e48514e870cccebdb5672b18&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:11.455Z",
+        "updatedAt": "2023-11-21T05:05:47.458Z",
+        "ProductImgUrl": "uploads/Dynore Stainless Steel Ice Tong Ice Picker.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1626,
+      "attributes": {
+        "title": "ZEBRONICS Zeb-Smart Bot 5W Wi-Fi Smart Speaker with Ir Blaster, Alexa Built-in, Works with iOS and Android Smartphones (Black)",
+        "dealPrice": "₹ 1799",
+        "originalPrice": "₹ 5999",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": "https://www.amazon.in/dp/B08SM7SS1H?tag=thuttu-21&ascsubtag=1309327",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08SM7SS1H?ascsubtag=1309327&linkCode=ll1&tag=hotdealsbazaar-21&linkId=542d7b132ffdd7a066e63008f00a0cd7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:10.269Z",
+        "updatedAt": "2023-11-21T05:03:54.242Z",
+        "ProductImgUrl": "uploads/ZEBRONICS Zeb Smart Bot 5W Wi Fi Smart Speaker with Ir Blaster Alexa Built in Works with iOS and Android Smartphones Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1625,
+      "attributes": {
+        "title": "Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast Charging, Pro+ Calling, IPX5 Bluetooth Headset  (Black, True Wireless)",
+        "dealPrice": "₹ 799",
+        "originalPrice": "₹ 5499",
+        "platform": "Flipkart",
+        "discount": "85",
+        "productLink": "https://www.flipkart.com/boult-audio-y1-zen-enc-mic-40hrs-playtime-fast-charging-pro-calling-ipx5-bluetooth-headset/p/itme4d24273ffaeb?pid=ACCG9J7FQC4UP3WM",
+        "affiliate_product_link": "https://www.flipkart.com/boult-audio-y1-zen-enc-mic-40hrs-playtime-fast-charging-pro-calling-ipx5-bluetooth-headset/p/itme4d24273ffaeb?pid=ACCG9J7FQC4UP3WM&affid=mithunvel",
+        "createdAt": "2023-11-21T04:29:09.175Z",
+        "updatedAt": "2023-11-21T04:56:40.274Z",
+        "ProductImgUrl": "uploads/Boult Audio Y1 with Zen ENC Mic 40Hrs Playtime Fast Charging Pro Calling IPX5 Bluetooth Headset Black True Wireless.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1624,
+      "attributes": {
+        "title": "Mistri Office Table for Home/Writing Desk for Office/Folding Table",
+        "dealPrice": "₹ 389",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "61",
+        "productLink": "https://amazon.in/dp/B0CGF4WRVW/?tag=thuttu_a-21&ascsubtag=1309325",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CGF4WRVW?ascsubtag=1309325&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=0d6dee11c6bebb4bf86976ae4afda92b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:08.065Z",
+        "updatedAt": "2023-11-21T05:00:23.627Z",
+        "ProductImgUrl": "uploads/Mistri Office Table for HomeWriting Desk for OfficeFolding Table.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1623,
+      "attributes": {
+        "title": "Smartees Men Printed, Typography Round Neck Cotton Blend Black T-Shirt",
+        "dealPrice": "₹ 100",
+        "originalPrice": "₹ 1299",
+        "platform": "Flipkart",
+        "discount": "92",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/smartees-printed-typography-men-round-neck-black-t-shirt/p/itmab101c0494f65?pid=TSHGGEGTTXXRUBZD&affid=mithunvel",
+        "createdAt": "2023-11-21T04:29:06.928Z",
+        "updatedAt": "2023-11-21T04:57:11.278Z",
+        "ProductImgUrl": "uploads/Smartees Men Printed Typography Round Neck Cotton Blend Black T Shirt.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1622,
+      "attributes": {
+        "title": "BRUTON Modern Trendy Shoes Sneakers For Men  (Orange, Grey)",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 1299",
+        "platform": "Flipkart",
+        "discount": "77",
+        "productLink": "https://www.flipkart.com/bruton-modern-trendy-sneakers-shoes-men/p/itm6036f913ec47f?pid=SHOG293HVNGZFYYG&lid=LSTSHOG293HVNGZFYYGKWCPDF&marketplace=FLIPKART&sattr%5B0%5D=color&sattr%5B1%5D=size&st=size",
+        "affiliate_product_link": "https://www.flipkart.com/bruton-modern-trendy-sneakers-shoes-men/p/itm6036f913ec47f?st=size&marketplace=FLIPKART&sattr%5B1%5D=size&lid=LSTSHOG293HVNGZFYYGKWCPDF&sattr%5B0%5D=color&pid=SHOG293HVNGZFYYG&affid=mithunvel",
+        "createdAt": "2023-11-21T04:29:05.744Z",
+        "updatedAt": "2023-11-21T04:57:27.491Z",
+        "ProductImgUrl": "uploads/BRUTON Modern Trendy Shoes Sneakers For Men Orange Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1621,
+      "attributes": {
+        "title": "Pepsodent G Gumcare Expert Protection- 140 g",
+        "dealPrice": "₹ 125",
+        "originalPrice": "₹ 250",
+        "platform": "Jiomart",
+        "discount": "50",
+        "productLink": "https://www.jiomart.com/p/groceries/pepsodent-expert-protection-gumcare-toothpaste-140-g-pack-of-2/490916885",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-21T04:29:04.668Z",
+        "updatedAt": "2023-11-21T04:29:04.668Z",
+        "ProductImgUrl": "uploads/Pepsodent G Gumcare Expert Protection 140 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1620,
+      "attributes": {
+        "title": "Liril Lemon & Tea Tree Natural Bathing Soap For Body 125 g (Combo Pack of 6) Refreshing Bath Soap Bar",
+        "dealPrice": "₹ 213",
+        "originalPrice": "₹ 445",
+        "platform": "Amazon",
+        "discount": "52",
+        "productLink": "https://www.amazon.in/dp/B093TJD298?tag=thuttu-21&ascsubtag=1307845",
+        "affiliate_product_link": "https://www.amazon.in/dp/B093TJD298?ascsubtag=1307845&linkCode=ll1&tag=hotdealsbazaar-21&linkId=831a2b2dbc7008d20d5fd377b57bc51a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-21T04:29:03.361Z",
+        "updatedAt": "2023-11-21T04:58:17.877Z",
+        "ProductImgUrl": "uploads/Liril Lemon Tea Tree Natural Bathing Soap For Body 125 g Combo Pack of 6 Refreshing Bath Soap Bar.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1619,
       "attributes": {
         "title": "Clovia Women's Cotton Print Me Pretty Short Nightdress with Pocket",
@@ -13956,7 +14244,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 775
+      "total": 791
     }
   }
 }
