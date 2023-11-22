@@ -1,6 +1,330 @@
 {
   "data": [
     {
+      "id": 1653,
+      "attributes": {
+        "title": "Sunfeast YiPPee! Magic Masala, Instant Noodles 720g/810g/840g (Pack of 12) ( weight may vary )",
+        "dealPrice": "₹ 131",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/dp/B08GY5DRXB?tag=thuttu-21&ascsubtag=1309629",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08GY5DRXB?ascsubtag=1309629&linkCode=ll1&tag=hotdealsbazaar-21&linkId=3b17f7b89593ebe6e445166c23b3fd07&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:31:08.883Z",
+        "updatedAt": "2023-11-22T05:22:58.535Z",
+        "ProductImgUrl": "uploads/Sunfeast YiPPee Magic Masala Instant Noodles 720g810g840g Pack of 12 weight may vary.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1652,
+      "attributes": {
+        "title": "PrettyKrafts 45 Ltr Folding Laundry Basket for Clothes, Freestanding Laundry Hamper, Collapsible Clothes Hamper with Handles, Round Storage Basket",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B083RC4WFJ?ascsubtag=1309628&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=92ba6578c8461ef76db2e85962982d88&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:30:07.898Z",
+        "updatedAt": "2023-11-22T05:22:05.064Z",
+        "ProductImgUrl": "uploads/PrettyKrafts 45 Ltr Folding Laundry Basket for Clothes Freestanding Laundry Hamper Collapsible Clothes Hamper with Handles Round Storage Basket.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1651,
+      "attributes": {
+        "title": "REDBUILD™ Premium Series | Inverter Stand",
+        "dealPrice": "₹ 1699",
+        "originalPrice": "₹ 3899",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://amazon.in/dp/B0BNGL1QMT/?tag=thuttu-21&ascsubtag=1309627",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BNGL1QMT?ascsubtag=1309627&linkCode=ll1&tag=hotdealsbazaar-21&linkId=201439b96cc0ced64974e8ba65624e52&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:18.226Z",
+        "updatedAt": "2023-11-22T05:21:08.730Z",
+        "ProductImgUrl": "uploads/REDBUILD Premium Series Inverter Stand.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1650,
+      "attributes": {
+        "title": "Vissco Spro Knee Cap Plus (Mild Support) XL (Black)",
+        "dealPrice": "₹ 218",
+        "originalPrice": "₹ 430",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": "https://www.amazon.in/dp/B071LTSHZD?tag=thuttu-21&ascsubtag=1309626",
+        "affiliate_product_link": "https://www.amazon.in/dp/B071LTSHZD?ascsubtag=1309626&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=3c5b3b4a69c7f2dad5c700d5939689f3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:17.180Z",
+        "updatedAt": "2023-11-22T05:19:59.083Z",
+        "ProductImgUrl": "uploads/Vissco Spro Knee Cap Plus Mild Support XL Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1649,
+      "attributes": {
+        "title": "Rafels Modern Cycle/Bicycle With Inbuilt Carrier 24 T Road Cycle  (Single Speed, Black)",
+        "dealPrice": "₹ 2999",
+        "originalPrice": "₹ 7499",
+        "platform": "Flipkart",
+        "discount": "60",
+        "productLink": "https://www.flipkart.com/rafels-modern-24t-cycle-bicycle-inbuilt-carrier-24-t-road-cycle/p/itm28a8a3bae3409?pid=CCEGDZEJ96KPPR38",
+        "affiliate_product_link": "https://www.flipkart.com/rafels-modern-24t-cycle-bicycle-inbuilt-carrier-24-t-road-cycle/p/itm28a8a3bae3409?pid=CCEGDZEJ96KPPR38&affid=mithunvel",
+        "createdAt": "2023-11-22T04:28:16.050Z",
+        "updatedAt": "2023-11-22T05:27:19.016Z",
+        "ProductImgUrl": "uploads/Rafels Modern CycleBicycle With Inbuilt Carrier 24 T Road Cycle Single Speed Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1648,
+      "attributes": {
+        "title": "Just Herbs Travel Touch Up Kit Included Lip Gloss, Perfume, Liquid Lipstick & Cheek Tint  (4 Items in the set)",
+        "dealPrice": "₹ 221",
+        "originalPrice": "₹ 1475",
+        "platform": "Flipkart",
+        "discount": "85",
+        "productLink": "https://www.flipkart.com/just-herbs-travel-touch-up-kit-included-lip-gloss-perfume-liquid-lipstick-cheek-tint/p/itm0c71b6abe4e4e?pid=CBKGSF67M7BGHVD7",
+        "affiliate_product_link": "https://www.flipkart.com/just-herbs-travel-touch-up-kit-included-lip-gloss-perfume-liquid-lipstick-cheek-tint/p/itm0c71b6abe4e4e?pid=CBKGSF67M7BGHVD7&affid=mithunvel",
+        "createdAt": "2023-11-22T04:28:14.948Z",
+        "updatedAt": "2023-11-22T05:27:48.512Z",
+        "ProductImgUrl": "uploads/Just Herbs Travel Touch Up Kit Included Lip Gloss Perfume Liquid Lipstick Cheek Tint 4 Items in the set.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1647,
+      "attributes": {
+        "title": "Pamworld Polyester Adults Washable Foldable For Single Bed - (200*130*120 CM) Mosquito Net  (Blue, Tent)",
+        "dealPrice": "₹ 372",
+        "originalPrice": "₹ 1085",
+        "platform": "Flipkart",
+        "discount": "66",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/pamworld-polyester-adults-washable-foldable-single-bed-200-130-120-cm-mosquito-net/p/itm1479fcfbd47af?pid=MNTG69KN8ZGE3HBJ&affid=mithunvel",
+        "createdAt": "2023-11-22T04:28:13.818Z",
+        "updatedAt": "2023-11-22T05:28:31.828Z",
+        "ProductImgUrl": "uploads/Pamworld Polyester Adults Washable Foldable For Single Bed 200130120 CM Mosquito Net Blue Tent.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1646,
+      "attributes": {
+        "title": "Lifelong 1200 Watts Steam Iron (Triple Precision Tip, LLSI02, Blue)",
+        "dealPrice": "₹ 659",
+        "originalPrice": "₹ 2000",
+        "platform": "Croma",
+        "discount": "67",
+        "productLink": "https://www.ad.admitad.com/g/rjmwpd17fqb011728c7821602b7160/?ulp=https%3A%2F%2Fwww.croma.com%2Flifelong-1200-watts-steam-iron-triple-precision-tip-llsi02-blue-%2Fp%2F266442",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-22T04:28:12.798Z",
+        "updatedAt": "2023-11-22T04:28:12.798Z",
+        "ProductImgUrl": "uploads/Lifelong 1200 Watts Steam Iron Triple Precision Tip LLSI02 Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1645,
+      "attributes": {
+        "title": "GO DESi Diwali Gift Hamper Box | Assorted Gift Hamper | Desi Popz | Coconut Laddoos | Meetha Paan | Choco Meetha Paan",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 299",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0CHVTJMJH/?tag=thuttu-21&ascsubtag=1289335",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CHVTJMJH?ascsubtag=1289335&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d2b3a11ec873cde4579c265006e11676&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:11.809Z",
+        "updatedAt": "2023-11-22T05:19:01.991Z",
+        "ProductImgUrl": "uploads/GO DESi Diwali Gift Hamper Box Assorted Gift Hamper Desi Popz Coconut Laddoos Meetha Paan Choco Meetha Paan.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1644,
+      "attributes": {
+        "title": "CIR Adult Diaper Pants Style | Adult Diaper Medium Size (M)|Waist (75-100 cm|30”- 40”) |10 hr Absorption-Protection | Unisex with Wetness Indicator | Odour Control | Goodness of Aloe Vera | 10 Units",
+        "dealPrice": "₹ 269",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "46",
+        "productLink": "https://amazon.in/dp/B0BJ24ZKR7/?tag=thuttu_a-21&ascsubtag=1309622",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BJ24ZKR7?ascsubtag=1309622&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bce474d33d2a2490071c4dad8e9163b5&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:10.863Z",
+        "updatedAt": "2023-11-22T05:17:08.524Z",
+        "ProductImgUrl": "uploads/CIR Adult Diaper Pants Style Adult Diaper Medium Size MWaist 75 100 cm30 40 10 hr Absorption Protection Unisex with Wetness Indicator Odour Control Goodness of Aloe Vera 10 Units.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1643,
+      "attributes": {
+        "title": "boAt Aavante Bar 610 Bluetooth Soundbar with 25W RMS Signature Sound, 2.0 Channel with Dual Passive Radiators, Upto 7 Hours Playback & Multi Connectivity(Charcoal Black)",
+        "dealPrice": "₹ 1999",
+        "originalPrice": "₹ 5990",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://amazon.in/dp/B0BZ4DJ7GZ/?tag=thuttu-21&ascsubtag=1261940",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BZ4DJ7GZ?ascsubtag=1261940&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=398026306681c24a5c45c7eacf75b53c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:09.742Z",
+        "updatedAt": "2023-11-22T05:16:20.687Z",
+        "ProductImgUrl": "uploads/boAt Aavante Bar 610 Bluetooth Soundbar with 25W RMS Signature Sound 20 Channel with Dual Passive Radiators Upto 7 Hours Playback Multi ConnectivityCharcoal Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1642,
+      "attributes": {
+        "title": "pTron Newly Launched Fusion Concert 24W Bluetooth 5.3 Speaker, Powerful Sound, RGB Lights, Soundbar",
+        "dealPrice": "₹ 1499",
+        "originalPrice": "₹ 4599",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://amazon.in/dp/B0CG6FXLJM/?tag=thuttu-21&ascsubtag=1309620",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CG6FXLJM?ascsubtag=1309620&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a625f355bd37281a384b1f456b04acb6&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:08.786Z",
+        "updatedAt": "2023-11-22T05:15:28.037Z",
+        "ProductImgUrl": "uploads/pTron Newly Launched Fusion Concert 24W Bluetooth 53 Speaker Powerful Sound RGB Lights Soundbar.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1641,
+      "attributes": {
+        "title": "Selleys RP7 (105 Ml, Clear) Multipurpose Lubricant,Cleaner",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 300",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C6K18WJQ?ascsubtag=1307792&linkCode=ll1&tag=hotdealsbazaar-21&linkId=eba14520ed91833fca05f20a53936382&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:07.700Z",
+        "updatedAt": "2023-11-22T05:13:40.812Z",
+        "ProductImgUrl": "uploads/Selleys RP7 105 Ml Clear Multipurpose LubricantCleaner.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1640,
+      "attributes": {
+        "title": "Baidyanath Nagpur Chyawan-Fit Sugarfree Chyawanprash(1 Kg)",
+        "dealPrice": "₹ 288",
+        "originalPrice": "₹ 415",
+        "platform": "Amazon",
+        "discount": "31",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B085GGWZ4H?ascsubtag=1309619&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d4a1484a3f53f3ae535ef266689953f7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:06.752Z",
+        "updatedAt": "2023-11-22T05:12:52.428Z",
+        "ProductImgUrl": "uploads/Baidyanath Nagpur Chyawan Fit Sugarfree Chyawanprash1 Kg.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1639,
+      "attributes": {
+        "title": "Cello Croma Four Seat Deluxe Dining Table (Plastic ,Red)",
+        "dealPrice": "₹ 2471",
+        "originalPrice": "₹ 4745",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": "https://www.amazon.in/dp/B01BHPPFQA?tag=thuttu_a-21&ascsubtag=1309618",
+        "affiliate_product_link": "https://www.amazon.in/dp/B01BHPPFQA?ascsubtag=1309618&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7e22e09fa1f8601fde97222f0b777b08&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:05.787Z",
+        "updatedAt": "2023-11-22T05:11:05.915Z",
+        "ProductImgUrl": "uploads/Cello Croma Four Seat Deluxe Dining Table Plastic Red.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1638,
+      "attributes": {
+        "title": "PowerMax X Marvel BCA-145 Spider-Man Edition Digital Bathroom Weight Scale",
+        "dealPrice": "₹ 554",
+        "originalPrice": "₹ 6000",
+        "platform": "Amazon",
+        "discount": "91",
+        "productLink": "https://amazon.in/dp/B0B5RMDY9C/?tag=thuttu-21&ascsubtag=1309617",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B5RMDY9C?ascsubtag=1309617&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ff3b7290f9b48d737219e863e6af76d1&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:04.828Z",
+        "updatedAt": "2023-11-22T05:10:13.973Z",
+        "ProductImgUrl": "uploads/PowerMax X Marvel BCA 145 Spider Man Edition Digital Bathroom Weight Scale.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1637,
+      "attributes": {
+        "title": "Yogabar Organic Roasted Flax Seeds - Organic Flax Seeds that helps regulate Blood Sugar - High in Fibre, Omega-3 & Antioxidants - Healthy Snacks for Weight Loss, Alsi Seeds",
+        "dealPrice": "₹ 69",
+        "originalPrice": "₹ 199",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B09JZ8FL28?ascsubtag=1309616&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7721943c3c4f1f9b448cafec352af253&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:03.726Z",
+        "updatedAt": "2023-11-22T05:04:46.039Z",
+        "ProductImgUrl": "uploads/Yogabar Organic Roasted Flax Seeds Organic Flax Seeds that helps regulate Blood Sugar High in Fibre Omega 3 Antioxidants Healthy Snacks for Weight Loss Alsi Seeds.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1636,
+      "attributes": {
+        "title": "Horlicks Protein Plus Chocolate Carton, 200 g",
+        "dealPrice": "₹ 210",
+        "originalPrice": "₹ 350",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://www.amazon.in/dp/B078J9MR7G?tag=thuttu_a-21&ascsubtag=1306456",
+        "affiliate_product_link": "https://www.amazon.in/dp/B078J9MR7G?ascsubtag=1306456&linkCode=ll1&tag=hotdealsbazaar-21&linkId=fb22014b514d561cfd84c904b2389f8b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-22T04:28:02.564Z",
+        "updatedAt": "2023-11-22T05:03:27.775Z",
+        "ProductImgUrl": "uploads/Horlicks Protein Plus Chocolate Carton 200 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1635,
       "attributes": {
         "title": "Fruit of the Loom Men's Brief (Pack of 2)",
@@ -14244,7 +14568,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 791
+      "total": 809
     }
   }
 }
