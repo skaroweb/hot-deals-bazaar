@@ -1,6 +1,582 @@
 {
   "data": [
     {
+      "id": 1700,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Executive Lunch Box Set | Stainless Steel Containers - Set of 3 (250 ML + 400 ML + 550 ML) & Insulated Easy-to-Carry Lunch Bag",
+        "dealPrice": "₹ 334",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://amazon.in/dp/B0BVW1GG68/?tag=thuttu_a-21&ascsubtag=1311856",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BVW1GG68?ascsubtag=1311856&linkCode=ll1&tag=paisavasoo049-21&linkId=ddeeda59c8d38e2bbcefc320263c5a79&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:18.144Z",
+        "updatedAt": "2023-11-28T05:09:51.041Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Executive Lunch Box Set Stainless Steel Containers Set of 3 250 ML 400 ML 550 ML Insulated Easy to Carry Lunch Bag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1699,
+      "attributes": {
+        "title": "PHILIPS 5W Square AP Plus UltraGlow LED DL Recessed LED Panel Ceiling Light (Pack of 1, Natural White)",
+        "dealPrice": "₹ 309",
+        "originalPrice": "₹ 615",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B096B48GPK?tag=thuttu-21&ascsubtag=1311855",
+        "affiliate_product_link": "https://www.amazon.in/dp/B096B48GPK?ascsubtag=1311855&linkCode=ll1&tag=paisavasoo049-21&linkId=a40b9cda0ab754e7f14e08ea825af1d7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:17.188Z",
+        "updatedAt": "2023-11-28T05:10:06.918Z",
+        "ProductImgUrl": "uploads/PHILIPS 5W Square AP Plus UltraGlow LED DL Recessed LED Panel Ceiling Light Pack of 1 Natural White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1698,
+      "attributes": {
+        "title": "Portronics My Buddy J Portable/Foldable Laptop Table with Laminated MDF Board, Aluminium Legs, Anti-Skid Grip, Supports Upto 17 inch Laptop(Black)",
+        "dealPrice": "₹ 699",
+        "originalPrice": "₹ 1499",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://amazon.in/dp/B0BQZWXRGP/?tag=thuttu-21&ascsubtag=1311853",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BQZWXRGP?ascsubtag=1311853&linkCode=ll1&tag=paisavasoo049-21&linkId=2648ef70716a307f2dbe9cf242901ead&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:16.269Z",
+        "updatedAt": "2023-11-28T05:10:38.163Z",
+        "ProductImgUrl": "uploads/Portronics My Buddy J PortableFoldable Laptop Table with Laminated MDF Board Aluminium Legs Anti Skid Grip Supports Upto 17 inch LaptopBlack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1697,
+      "attributes": {
+        "title": "PHILIPS 9-watt Diffused LED Glass Light Bulb | Bulb Base: B22, 600 Lumen Full Glow Frosted Diffused LED Bulb",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 330",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://amazon.in/dp/B0BT21PD6C/?tag=thuttu_a-21&ascsubtag=1311852",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BT21PD6C?ascsubtag=1311852&linkCode=ll1&tag=paisavasoo049-21&linkId=f4c7c5bebcae43672a6201702bf5503d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:15.304Z",
+        "updatedAt": "2023-11-28T05:11:21.646Z",
+        "ProductImgUrl": "uploads/PHILIPS 9 watt Diffused LED Glass Light Bulb Bulb Base B22 600 Lumen Full Glow Frosted Diffused LED Bulb.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1696,
+      "attributes": {
+        "title": "Boroplus Body Lotion Provides 24Hrs Moisturisation 100% Ayurvedic Lotion, Vitamin E For Dry And Normal Skin With Goodness Of Dhoodh, Badam & Kesar, 400Ml (Pack of 2)",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 750",
+        "platform": "Amazon",
+        "discount": "47",
+        "productLink": "https://amazon.in/dp/B0CBKH1G1P/?tag=thuttu-21&ascsubtag=1311851",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CBKH1G1P?ascsubtag=1311851&linkCode=ll1&tag=paisavasoo049-21&linkId=012e8731cd415024be30da68971e7d76&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:14.147Z",
+        "updatedAt": "2023-11-28T05:11:40.326Z",
+        "ProductImgUrl": "uploads/Boroplus Body Lotion Provides 24Hrs Moisturisation 100 Ayurvedic Lotion Vitamin E For Dry And Normal Skin With Goodness Of Dhoodh Badam Kesar 400Ml Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1695,
+      "attributes": {
+        "title": "VI-JOHN Feather Touch Lime & Aloevera Hair Removal Cream, for Dry Skin, Suitable",
+        "dealPrice": "₹ 70",
+        "originalPrice": "₹ 175",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BS9FBSNB?ascsubtag=1311850&linkCode=ll1&tag=paisavasoo049-21&linkId=518b08afc00c3f620a51b84e159b1ff0&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:13.094Z",
+        "updatedAt": "2023-11-28T05:12:04.005Z",
+        "ProductImgUrl": "uploads/VI JOHN Feather Touch Lime Aloevera Hair Removal Cream for Dry Skin Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1694,
+      "attributes": {
+        "title": "E-COSMOS Hair Scalp Massager Shampoo Brush with Soft Silicone Bristles Kitchen for Anti Dandruff Removal Head Massager Prevents Hair loss",
+        "dealPrice": "₹ 58",
+        "originalPrice": "₹ 149",
+        "platform": "Amazon",
+        "discount": "61",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CGZQNY77?ascsubtag=1311849&linkCode=ll1&tag=paisavasoo049-21&linkId=a3058ea6b81042b3921627f6d2ca94c1&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:12.126Z",
+        "updatedAt": "2023-11-28T05:12:28.120Z",
+        "ProductImgUrl": "uploads/E COSMOS Hair Scalp Massager Shampoo Brush with Soft Silicone Bristles Kitchen for Anti Dandruff Removal Head Massager Prevents Hair loss.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1693,
+      "attributes": {
+        "title": "PEATOP 7-in-1 USB C Hub Docking Station",
+        "dealPrice": "₹ 1399",
+        "originalPrice": "₹ 5999",
+        "platform": "Amazon",
+        "discount": "77",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BF7WV2MX?ascsubtag=1311848&th=1&linkCode=ll1&tag=paisavasoo049-21&linkId=ec5ae47368202546786fc5d99ee52f17&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:11.184Z",
+        "updatedAt": "2023-11-28T05:12:48.188Z",
+        "ProductImgUrl": "uploads/PEATOP 7 in 1 USB C Hub Docking Station.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1692,
+      "attributes": {
+        "title": "Type-C & USB 3.0 to 7 Ports HUB Type-c+ USB3.0 & 7 Ports USB High Speed Converter",
+        "dealPrice": "₹ 569",
+        "originalPrice": "₹ 2999",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CHMQ4176?ascsubtag=1311847&linkCode=ll1&tag=paisavasoo049-21&linkId=3eacae74aa9418ce38e43854cdf5aca8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:10.249Z",
+        "updatedAt": "2023-11-28T05:13:09.715Z",
+        "ProductImgUrl": "uploads/Type C USB 30 to 7 Ports HUB Type c USB30 7 Ports USB High Speed Converter.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1691,
+      "attributes": {
+        "title": "Pigeon Inox Hydra Plus Curve 700ml",
+        "dealPrice": "₹ 157",
+        "originalPrice": "₹ 395",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://amazon.in/dp/B0BYZMQ47H/?tag=thuttu-21&ascsubtag=1311846",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BYZMQ47H?ascsubtag=1311846&linkCode=ll1&tag=paisavasoo049-21&linkId=5f1388473fc8e716e77235c0da59918f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:09.400Z",
+        "updatedAt": "2023-11-28T05:13:27.241Z",
+        "ProductImgUrl": "uploads/Pigeon Inox Hydra Plus Curve 700ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1690,
+      "attributes": {
+        "title": "Silver's Sb-414 Badminton Rackets Set with 3 Plastic Shuttlecock",
+        "dealPrice": "₹ 213",
+        "originalPrice": "₹ 379",
+        "platform": "Amazon",
+        "discount": "44",
+        "productLink": "https://amazon.in/dp/B0BCGQXR32/?tag=thuttu_a-21&ascsubtag=1311845",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BCGQXR32?ascsubtag=1311845&linkCode=ll1&tag=paisavasoo049-21&linkId=bfac4260be6e799ed8d7e3ca9aa69a6a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:08.515Z",
+        "updatedAt": "2023-11-28T05:13:49.699Z",
+        "ProductImgUrl": "uploads/Silvers Sb 414 Badminton Rackets Set with 3 Plastic Shuttlecock.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1689,
+      "attributes": {
+        "title": "Acer Nitro VG240YS 23.8 Inch (60.45 Cm) IPS Full HD 1920 X 1080 Pixels, Gaming LCD Monitor with LED Backlight I AMD Freesync I 0.5 MS Response time I 165Hz Refresh Rate I Dp, 2 X Hdmi, Black",
+        "dealPrice": "₹ 9699",
+        "originalPrice": "₹ 24000",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B088FLG41L?tag=thuttu_a-21&ascsubtag=1311844",
+        "affiliate_product_link": "https://www.amazon.in/dp/B088FLG41L?ascsubtag=1311844&th=1&linkCode=ll1&tag=paisavasoo049-21&linkId=f5443a194d57ef1a76e7388c5bdb1c77&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:07.524Z",
+        "updatedAt": "2023-11-28T05:14:08.519Z",
+        "ProductImgUrl": "uploads/Acer Nitro VG240YS 238 Inch 6045 Cm IPS Full HD 1920 X 1080 Pixels Gaming LCD Monitor with LED Backlight I AMD Freesync I 05 MS Response time I 165Hz Refresh Rate I Dp 2 X Hdmi Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1688,
+      "attributes": {
+        "title": "Mancode Shea Butter Body Wash For Men | For Body & Face | Refreshing Fragrance Deep Cleansing | Removes Dirt & Impurities | Oil Control | Odor Protection | 450Ml Shower Gel For Men (Pack Of 1)",
+        "dealPrice": "₹ 195",
+        "originalPrice": "₹ 499",
+        "platform": "Amazon",
+        "discount": "61",
+        "productLink": "https://www.amazon.in/dp/B09KXS2WJS?tag=thuttu-21&ascsubtag=1311843",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09KXS2WJS?ascsubtag=1311843&linkCode=ll1&tag=paisavasoo049-21&linkId=34b572078237a155bf65c01268bc4349&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:06.449Z",
+        "updatedAt": "2023-11-28T05:14:37.471Z",
+        "ProductImgUrl": "uploads/Mancode Shea Butter Body Wash For Men For Body Face Refreshing Fragrance Deep Cleansing Removes Dirt Impurities Oil Control Odor Protection 450Ml Shower Gel For Men Pack Of 1.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1687,
+      "attributes": {
+        "title": "Rejusure Under Arm Cream - Brightens | Pores & Dark Spots | Warts | Underarm Care - 50 gm",
+        "dealPrice": "₹ 104",
+        "originalPrice": "₹ 300",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://www.amazon.in/dp/B08HJZGCR4?tag=thuttu-21&ascsubtag=1311841",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08HJZGCR4?ascsubtag=1311841&linkCode=ll1&tag=paisavasoo049-21&linkId=f9c60d7710677ec039efc743bffbef06&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:05.295Z",
+        "updatedAt": "2023-11-28T05:14:57.198Z",
+        "ProductImgUrl": "uploads/Rejusure Under Arm Cream Brightens Pores Dark Spots Warts Underarm Care 50 gm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1686,
+      "attributes": {
+        "title": "PUMA Rapid Runner Running Shoes For Men  (Blue)",
+        "dealPrice": "₹ 903",
+        "originalPrice": "₹ 3999",
+        "platform": "Flipkart",
+        "discount": "77",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/puma-rapid-runner-running-shoes-men/p/itmfhusupsqxztxg?pid=SHOFHURNGDRN2MRP&affid=mithunvel",
+        "createdAt": "2023-11-28T04:50:04.323Z",
+        "updatedAt": "2023-11-28T05:17:27.462Z",
+        "ProductImgUrl": "uploads/PUMA Rapid Runner Running Shoes For Men Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1685,
+      "attributes": {
+        "title": "Polycab Aery 400 MM Wall Fan (Sky Blue)",
+        "dealPrice": "₹ 1452",
+        "originalPrice": "₹ 3300",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://amazon.in/dp/B0BQWBWPXK/?tag=thuttu-21&ascsubtag=1311839",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BQWBWPXK?ascsubtag=1311839&linkCode=ll1&tag=paisavasoo049-21&linkId=b1f5f9dad51df0be19a02883555e473e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-28T04:50:02.952Z",
+        "updatedAt": "2023-11-28T05:15:22.543Z",
+        "ProductImgUrl": "uploads/Polycab Aery 400 MM Wall Fan Sky Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1684,
+      "attributes": {
+        "title": "Surya 4W Aura Prime Led Downlighter, Recessed Led Downlight for Ceiling, Led Ceiling Light",
+        "dealPrice": "₹ 497",
+        "originalPrice": "₹ 1800",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://amazon.in/dp/B0BFXZ83S4/?tag=thuttu-21&ascsubtag=1311250",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BFXZ83S4?ascsubtag=1311250&linkCode=ll1&tag=paisavasoo049-21&linkId=5defa15bf19f0cdbe6e2a9562b7913e8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-26T06:56:53.988Z",
+        "updatedAt": "2023-11-28T05:15:45.133Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001613/product-images/uhqmdbp85dqrqlrmoola.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1683,
+      "attributes": {
+        "title": "SOLEFIT Men's Regular Fit Cotton Blend Track Pant",
+        "dealPrice": "₹ 259",
+        "originalPrice": "₹ 699",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": "https://www.amazon.in/dp/B08CTTTDZZ?tag=thuttu-21&ascsubtag=1311249",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08CTTTDZZ?ascsubtag=1311249&linkCode=ll1&tag=paisavasoo049-21&linkId=fc0bc8d32848a6c7375c4dcf437b1091&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-26T06:56:51.433Z",
+        "updatedAt": "2023-11-28T05:15:59.624Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001610/product-images/ctwuxsnja4a0cw9hahxk.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1682,
+      "attributes": {
+        "title": "Vector X Python-C Men's Polo Neck T-Shirt",
+        "dealPrice": "₹ 170",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://amazon.in/dp/B0B5DKGMK8/?tag=thuttu-21&ascsubtag=1311248",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B5DKGMK8?ascsubtag=1311248&linkCode=ll1&tag=paisavasoo049-21&linkId=057bf21d923440f4104467dd767cab84&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-26T06:56:47.939Z",
+        "updatedAt": "2023-11-28T05:16:15.202Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001607/product-images/dj3amhg6ssvmotmmrw0f.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1681,
+      "attributes": {
+        "title": "Jaquline USA Liquid Lipstick (Matte)",
+        "dealPrice": "₹ 128",
+        "originalPrice": "₹ 599",
+        "platform": "Amazon",
+        "discount": "79",
+        "productLink": "https://amazon.in/dp/B0BVFJSVND/?tag=thuttu-21&ascsubtag=1311247",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BVFJSVND?ascsubtag=1311247&linkCode=ll1&tag=paisavasoo049-21&linkId=22d0b15cbde316f0b374c431465a6e23&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-26T06:56:45.211Z",
+        "updatedAt": "2023-11-28T05:16:36.236Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001604/product-images/ojufdpnulejfymxvtmlm.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1680,
+      "attributes": {
+        "title": "Amazon Basics Cookware Set with Lids and Removable Handle -10 Piece (Without Induction Base)",
+        "dealPrice": "₹ 1325",
+        "originalPrice": "₹ 5500",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://www.amazon.in/dp/B07D3ZWGFL?tag=thuttu-21&ascsubtag=1311246",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:42.146Z",
+        "updatedAt": "2023-11-26T06:56:42.146Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001601/product-images/or59iw0qxcfakog1rahn.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1679,
+      "attributes": {
+        "title": "Park Avenue Voyage Obsession Eau De Parfum For Men, 50 ml & Park Avenue Voyage Amazon Woods Perfume, 120ml",
+        "dealPrice": "₹ 373",
+        "originalPrice": "₹ 729",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": "https://amazon.in/dp/B0C5D87DG4/?tag=thuttu-21&ascsubtag=1311245",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:39.295Z",
+        "updatedAt": "2023-11-26T06:56:39.295Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001598/product-images/ginfhfsueuixky7i21sf.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1678,
+      "attributes": {
+        "title": "Head Graphene 360 Speed 25 Junior Tennis Racquet (Strung)",
+        "dealPrice": "₹ 3885",
+        "originalPrice": "₹ 11299",
+        "platform": "Amazon",
+        "discount": "66",
+        "productLink": "https://www.amazon.in/dp/B07DNCKW8W?tag=thuttu-21&ascsubtag=1311244",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:35.393Z",
+        "updatedAt": "2023-11-26T06:56:35.393Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001594/product-images/q4vsejeus2hqxcq44gag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1677,
+      "attributes": {
+        "title": "LaOpala Dew Dinner Set, 21-Pieces, White/Lavender",
+        "dealPrice": "₹ 1450",
+        "originalPrice": "₹ 3195",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://www.amazon.in/dp/B017F9QVA6?tag=thuttu-21&ascsubtag=1311243",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:32.559Z",
+        "updatedAt": "2023-11-26T06:56:32.559Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001591/product-images/pglhfokjhpfkowalju1a.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1676,
+      "attributes": {
+        "title": "WishCare Hair Growth Serum Concentrate - 3% Redensyl, 4% Anagain, 2% Baicapil, Caffeine, Biotin, Plant Keratin & Rice Water - Hair Growth Serum",
+        "dealPrice": "₹ 594",
+        "originalPrice": "₹ 999",
+        "platform": "Amazon",
+        "discount": "41",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:29.480Z",
+        "updatedAt": "2023-11-26T06:56:29.480Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001589/product-images/wpqg2mqivwf4nas55nrf.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1675,
+      "attributes": {
+        "title": "Ant Esports MP290 Gaming Mouse Pad-L- Large with Stitched Edges, Waterproof Non-Slip Base",
+        "dealPrice": "₹ 174",
+        "originalPrice": "₹ 299",
+        "platform": "Amazon",
+        "discount": "42",
+        "productLink": "https://amazon.in/dp/B0B9HDXBTR/?tag=thuttu-21&ascsubtag=1311241",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:26.796Z",
+        "updatedAt": "2023-11-26T06:56:26.796Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001586/product-images/qdvxfqlzunlmgjw8ssaa.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1674,
+      "attributes": {
+        "title": "ELDURO Adult Diaper Tape Style, Large 101-139 cm (40''-55''), 10 Count, Unisex With Wetness Indicator, Leakproof, 14 hrs Overnight Protection, Aloe Vera, Pack of 1",
+        "dealPrice": "₹ 249",
+        "originalPrice": "₹ 549",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": "https://www.amazon.in/dp/B08BFW6H3N?tag=thuttu-21&ascsubtag=1311240",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:23.134Z",
+        "updatedAt": "2023-11-26T06:56:23.134Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001581/product-images/h85vd0xjbhrrrkljkrqa.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1673,
+      "attributes": {
+        "title": "LA' French Party Girl Perfume For Women | Eau De Parfum | Long Lasting Luxurious Scent | Classic French Fragrance | Gift Set (10 ml (Pack of 1))",
+        "dealPrice": "₹ 69",
+        "originalPrice": "₹ 149",
+        "platform": "Amazon",
+        "discount": "54",
+        "productLink": "https://amazon.in/dp/B0C1GZ3C8Q/?tag=thuttu-21&ascsubtag=1311239",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:19.295Z",
+        "updatedAt": "2023-11-26T06:56:19.295Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001578/product-images/pii5ksucwxp6m2d1mukw.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1672,
+      "attributes": {
+        "title": "Marks & Spencer Boy's Top",
+        "dealPrice": "₹ 162",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://amazon.in/dp/B0BSFBK11V/?tag=thuttu-21&ascsubtag=1311238",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:16.515Z",
+        "updatedAt": "2023-11-26T06:56:16.515Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001575/product-images/vcaabpkudxstlawblcls.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1671,
+      "attributes": {
+        "title": "Van Heusen Girls T-Shirt",
+        "dealPrice": "₹ 141",
+        "originalPrice": "₹ 509",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://amazon.in/dp/B0BPQQTX9D/?tag=thuttu-21&ascsubtag=1311237",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:13.364Z",
+        "updatedAt": "2023-11-26T06:56:13.364Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001572/product-images/pawpfng7xugu9qdinwq4.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1670,
+      "attributes": {
+        "title": "GRITSTONES Men's Regular Fit Shirt",
+        "dealPrice": "₹ 265",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "87",
+        "productLink": "https://www.amazon.in/dp/B09H4FKB3T?tag=thuttu-21&ascsubtag=1311236",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:10.442Z",
+        "updatedAt": "2023-11-26T06:56:10.442Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001569/product-images/d1yae7ya3puxuewt7yle.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1669,
+      "attributes": {
+        "title": "VERO MODA Women Sweatshirt",
+        "dealPrice": "₹ 397",
+        "originalPrice": "₹ 1999",
+        "platform": "Amazon",
+        "discount": "80",
+        "productLink": "https://www.amazon.in/dp/B09BVJRWL2?tag=thuttu-21&ascsubtag=1311234",
+        "affiliate_product_link": null,
+        "createdAt": "2023-11-26T06:56:07.447Z",
+        "updatedAt": "2023-11-26T06:56:07.447Z",
+        "ProductImgUrl": "https://res.cloudinary.com/dmkttselw/image/upload/v1701001566/product-images/jvez0qlbyg6yt3gpic2m.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1668,
       "attributes": {
         "title": "Upto 70% Off on Branded Beauty Products",
@@ -14838,7 +15414,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 824
+      "total": 856
     }
   }
 }
