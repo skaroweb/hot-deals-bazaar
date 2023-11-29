@@ -1,6 +1,276 @@
 {
   "data": [
     {
+      "id": 1715,
+      "attributes": {
+        "title": "Lenovo Tab M10 HD Tablet (10.1-inch(25cm), 2GB, 32GB, Wi-Fi + 4G LTE, Volte Calling), Slate Black",
+        "dealPrice": "₹ 9500",
+        "originalPrice": "₹ 21000",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/d/B07XTPXKJ6?ascsubtag=1312176&linkCode=ll1&tag=hotdealsbazaar-21&linkId=f7fa7bf331c285f373e23b0ca499546d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:22.975Z",
+        "updatedAt": "2023-11-29T04:49:12.223Z",
+        "ProductImgUrl": "uploads/Lenovo Tab M10 HD Tablet 101 inch25cm 2GB 32GB Wi Fi 4G LTE Volte Calling Slate Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1714,
+      "attributes": {
+        "title": "Audio Array Premium USB Condenser Mics (Pro MultiPolar USB Condenser Mic(AM-C29))",
+        "dealPrice": "₹ 3849",
+        "originalPrice": "₹ 5999",
+        "platform": "Amazon",
+        "discount": "36",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BPMN89NG?ascsubtag=1312175&linkCode=ll1&tag=hotdealsbazaar-21&linkId=ddea5aede457ee3aed625e613a371fde&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:20.453Z",
+        "updatedAt": "2023-11-29T04:48:19.107Z",
+        "ProductImgUrl": "uploads/Audio Array Premium USB Condenser Mics Pro MultiPolar USB Condenser MicAM C29.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1713,
+      "attributes": {
+        "title": "PTron Newly Launched Bassbuds Neo in-Ear TWS Earbuds, HD Mic & TruTalk ENC Calls, Game/Music Modes, 35Hrs Playtime, Bluetooth 5.3 Headphones, Type-C Fast Charging & IPX5 Water Resistant (Black)",
+        "dealPrice": "₹ 759",
+        "originalPrice": "₹ 3199",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://amazon.in/dp/B0C1PLZ2PN/?tag=thuttu-21&ascsubtag=1312174",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C1PLZ2PN?ascsubtag=1312174&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=633188b29cd3905d6ba77f8ce4d5e875&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:17.352Z",
+        "updatedAt": "2023-11-29T04:47:24.649Z",
+        "ProductImgUrl": "uploads/PTron Newly Launched Bassbuds Neo in Ear TWS Earbuds HD Mic TruTalk ENC Calls GameMusic Modes 35Hrs Playtime Bluetooth 53 Headphones Type C Fast Charging IPX5 Water Resistant Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1712,
+      "attributes": {
+        "title": "Corsair Premium Individually Sleeved PCIe (Dual Connector) Cables Type 4 Gen 4 – Red/Black (CP-8920254)",
+        "dealPrice": "₹ 1223",
+        "originalPrice": "₹ 3800",
+        "platform": "Amazon",
+        "discount": "68",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07L67R7TG?ascsubtag=1312173&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=2fd513db0b79634715632270bad71819&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:15.534Z",
+        "updatedAt": "2023-11-29T04:46:21.808Z",
+        "ProductImgUrl": "uploads/Corsair Premium Individually Sleeved PCIe Dual Connector Cables Type 4 Gen 4 RedBlack CP 8920254.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1711,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Oil Pourer with Leak-proof and Spill-proof Plastic Closure, and Measurements; Microwave-safe, Freezer-safe, and Dishwasher-safe, Borosilicate Glass, 500 ml",
+        "dealPrice": "₹ 268",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "66",
+        "productLink": "https://amazon.in/dp/B0BVQQ5WYV/?tag=thuttu-21&ascsubtag=1312170",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BVQQ5WYV?ascsubtag=1312170&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c2177e9393caeb23128385d41e25d511&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:14.552Z",
+        "updatedAt": "2023-11-29T04:45:26.866Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Oil Pourer with Leak proof and Spill proof Plastic Closure and Measurements Microwave safe Freezer safe and Dishwasher safe Borosilicate Glass 500 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1710,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Twister Airtight Plastic Jar, Set of 6 (Geometric Pattern) with Woven Basket Holder (Black)",
+        "dealPrice": "₹ 269",
+        "originalPrice": "₹ 550",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07P94VJVS?ascsubtag=1312169&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c95dc4197a2d52c3072873ad12cf694c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:13.400Z",
+        "updatedAt": "2023-11-29T04:44:33.695Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Twister Airtight Plastic Jar Set of 6 Geometric Pattern with Woven Basket Holder Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1709,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Square Glass Storage Container Set, Set of 2, Transparent -450ml & 900ml",
+        "dealPrice": "₹ 281",
+        "originalPrice": "₹ 1000",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B07H2DGBX8?ascsubtag=1312167&linkCode=ll1&tag=hotdealsbazaar-21&linkId=01079df57fcad27706ab8a618e32acc6&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:11.755Z",
+        "updatedAt": "2023-11-29T04:43:37.217Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Square Glass Storage Container Set Set of 2 Transparent 450ml 900ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1708,
+      "attributes": {
+        "title": "Protecta Bolt 30 L Backpack",
+        "dealPrice": "₹ 411",
+        "originalPrice": "₹ 2199",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B096TXMJYS?ascsubtag=1312166&linkCode=ll1&tag=hotdealsbazaar-21&linkId=fe6fd2be679aea9da8e7eb8ebec644dd&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:10.758Z",
+        "updatedAt": "2023-11-29T04:42:44.348Z",
+        "ProductImgUrl": "uploads/Protecta Bolt 30 L Backpack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1707,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Plastic Storage Jar and Container Set I Air Tight & BPA Free Containers",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://amazon.in/dp/B0CCVFZNTQ/?tag=thuttu-21&ascsubtag=1312165",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0CCVFZNTQ?ascsubtag=1312165&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bf49e52d15f945c8740e9c890b6a8c3e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:09.736Z",
+        "updatedAt": "2023-11-29T04:41:15.803Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Plastic Storage Jar and Container Set I Air Tight BPA Free Containers.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1706,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Polyester Polka Print Window Curtain (Pack of 2, 5 Feet, Brown)",
+        "dealPrice": "₹ 309",
+        "originalPrice": "₹ 1099",
+        "platform": "Amazon",
+        "discount": "72",
+        "productLink": "https://amazon.in/dp/B0BRKPN5D8/?tag=thuttu-21&ascsubtag=1312164",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BRKPN5D8?ascsubtag=1312164&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c1dd9e5c48ea29e108cdebd104518f48&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:08.298Z",
+        "updatedAt": "2023-11-29T04:40:23.665Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Polyester Polka Print Window Curtain Pack of 2 5 Feet Brown.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1705,
+      "attributes": {
+        "title": "Philips Joy Vision Deco Mini 929000253444 0.5-Watt LED Bulb (Yellow, Pack of 6)",
+        "dealPrice": "₹ 278",
+        "originalPrice": "₹ 720",
+        "platform": "Amazon",
+        "discount": "61",
+        "productLink": "https://www.amazon.in/dp/B00MGGBTVK?tag=thuttu-21&ascsubtag=1312163",
+        "affiliate_product_link": "https://www.amazon.in/dp/B00MGGBTVK?ascsubtag=1312163&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b102e609e5f42b8e15f4aa1405b8fdb6&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:07.271Z",
+        "updatedAt": "2023-11-29T04:39:31.436Z",
+        "ProductImgUrl": "uploads/Philips Joy Vision Deco Mini 929000253444 05 Watt LED Bulb Yellow Pack of 6.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1704,
+      "attributes": {
+        "title": "PHILIPS 8 watt LED Deco Ring Bulb - Blue",
+        "dealPrice": "₹ 206",
+        "originalPrice": "₹ 375",
+        "platform": "Amazon",
+        "discount": "45",
+        "productLink": "https://www.amazon.in/dp/B07JBDFG3C?tag=thuttu-21&ascsubtag=1312162",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07JBDFG3C?ascsubtag=1312162&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=bc9bea6f8a06541b6f9bf3d2699b670c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:06.207Z",
+        "updatedAt": "2023-11-29T04:38:30.620Z",
+        "ProductImgUrl": "uploads/PHILIPS 8 watt LED Deco Ring Bulb Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1703,
+      "attributes": {
+        "title": "Creative Sound BlasterX H3 Portable Analog Gaming Headset",
+        "dealPrice": "₹ 2999",
+        "originalPrice": "₹ 6999",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B013S3UY2E?ascsubtag=1312161&linkCode=ll1&tag=hotdealsbazaar-21&linkId=75b167c33b359e6250e1d9063c287087&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:05.144Z",
+        "updatedAt": "2023-11-29T04:37:35.009Z",
+        "ProductImgUrl": "uploads/Creative Sound BlasterX H3 Portable Analog Gaming Headset.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1702,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Silicone Ice Cube Tray with 24 Cavities (Set of 3)",
+        "dealPrice": "₹ 199",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://amazon.in/dp/B0C53LYLQY/?tag=thuttu-21&ascsubtag=1312157",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C53LYLQY?ascsubtag=1312157&linkCode=ll1&tag=hotdealsbazaar-21&linkId=4be7aa464aa1f2b1265ae51085a5da0d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:03.752Z",
+        "updatedAt": "2023-11-29T04:36:36.361Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Silicone Ice Cube Tray with 24 Cavities Set of 3.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1701,
+      "attributes": {
+        "title": "HAVELLS LED Pride Essential 20W 3000K Batten",
+        "dealPrice": "₹ 172",
+        "originalPrice": "₹ 320",
+        "platform": "Amazon",
+        "discount": "46",
+        "productLink": "https://amazon.in/dp/B0BZV3266G/?tag=thuttu_a-21&ascsubtag=1312156",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BZV3266G?ascsubtag=1312156&linkCode=ll1&tag=hotdealsbazaar-21&linkId=40fb1d63ff97585d2ecb26ed44e4e433&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-11-29T04:21:02.243Z",
+        "updatedAt": "2023-11-29T04:35:53.308Z",
+        "ProductImgUrl": "uploads/HAVELLS LED Pride Essential 20W 3000K Batten.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1700,
       "attributes": {
         "title": "Amazon Brand - Solimo Executive Lunch Box Set | Stainless Steel Containers - Set of 3 (250 ML + 400 ML + 550 ML) & Insulated Easy-to-Carry Lunch Bag",
@@ -15414,7 +15684,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 856
+      "total": 871
     }
   }
 }
