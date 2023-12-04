@@ -1,6 +1,276 @@
 {
   "data": [
     {
+      "id": 1756,
+      "attributes": {
+        "title": "Amazon Brand - Solimo 100% Pure Coconut Oil, 600 ml",
+        "dealPrice": "₹ 135",
+        "originalPrice": "₹ 249",
+        "platform": "Amazon",
+        "discount": "46",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BR7L8F4R?ascsubtag=1314277&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d1d090d9a7903363ddf32f0105d878ed&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:18.837Z",
+        "updatedAt": "2023-12-04T05:13:47.651Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo 100 Pure Coconut Oil 600 ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1755,
+      "attributes": {
+        "title": "Vaseline Sun Protect & Cooling SPF 15 Body Serum Lotion 180ml, For Non-Sticky & Matte Sun Protected Skin",
+        "dealPrice": "₹ 224",
+        "originalPrice": "₹ 449",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B09V7LD4HF?tag=thuttu_a-21&ascsubtag=1314275",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09V7LD4HF?ascsubtag=1314275&linkCode=ll1&tag=hotdealsbazaar-21&linkId=304df7f9fc4e2261d4b6c7bd85d88b5f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:17.813Z",
+        "updatedAt": "2023-12-04T05:10:47.584Z",
+        "ProductImgUrl": "uploads/Vaseline Sun Protect Cooling SPF 15 Body Serum Lotion 180ml For Non Sticky Matte Sun Protected Skin.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1754,
+      "attributes": {
+        "title": "Coco Soul Hair Oil For Long Strong Black Hair with Virgin Coconut | Amla | Bhringraj | Meethi & Black Deeds - Makers of Parachute Advansed | 95ml",
+        "dealPrice": "₹ 75",
+        "originalPrice": "₹ 399",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": "https://amazon.in/dp/B0B1Y88S7D/?tag=thuttu-21&ascsubtag=1314274",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B1Y88S7D?ascsubtag=1314274&linkCode=ll1&tag=hotdealsbazaar-21&linkId=226d4a72586e797d5f9a791c9c9a453a&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:16.761Z",
+        "updatedAt": "2023-12-04T05:09:46.133Z",
+        "ProductImgUrl": "uploads/Coco Soul Hair Oil For Long Strong Black Hair with Virgin Coconut Amla Bhringraj Meethi Black Deeds Makers of Parachute Advansed 95ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1753,
+      "attributes": {
+        "title": "E-COSMOS 18 Pcs - 3 Different Size Plastic Food Snack Bag Pouch Clip Sealer Large, Medium, Small Plastic Snack Seal Sealing Bag Clips Vacuum Sealer (Set of 18, Multi-Color), Mix Size",
+        "dealPrice": "₹ 39",
+        "originalPrice": "₹ 99",
+        "platform": "Amazon",
+        "discount": "61",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B099NH2WYX?ascsubtag=1314273&linkCode=ll1&tag=hotdealsbazaar-21&linkId=4dbeb294ed3bf235f23dba397e54c1bd&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:15.655Z",
+        "updatedAt": "2023-12-04T05:08:42.261Z",
+        "ProductImgUrl": "uploads/E COSMOS 18 Pcs 3 Different Size Plastic Food Snack Bag Pouch Clip Sealer Large Medium Small Plastic Snack Seal Sealing Bag Clips Vacuum Sealer Set of 18 Multi Color Mix Size.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1752,
+      "attributes": {
+        "title": "Aula F812 Wired Gaming Mouse, Macro - Hexagonal Computer Mice with RGB Backlit |7 Customized Marco Keys with Light Effect, Adjustable 4800 DPI Optical Sensor (Black)",
+        "dealPrice": "₹ 379",
+        "originalPrice": "₹ 1699",
+        "platform": "Amazon",
+        "discount": "78",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BBSXW95D?ascsubtag=1314272&linkCode=ll1&tag=hotdealsbazaar-21&linkId=d28465738eaf581a031ef111eed19da9&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:14.434Z",
+        "updatedAt": "2023-12-04T05:06:50.096Z",
+        "ProductImgUrl": "uploads/Aula F812 Wired Gaming Mouse Macro Hexagonal Computer Mice with RGB Backlit 7 Customized Marco Keys with Light Effect Adjustable 4800 DPI Optical Sensor Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1751,
+      "attributes": {
+        "title": "DZert Kids Soft Plush Backpacks Cartoon Boys Girls Baby (2-5 Years) (Penguin) - Black",
+        "dealPrice": "₹ 132",
+        "originalPrice": "₹ 1290",
+        "platform": "Amazon",
+        "discount": "90",
+        "productLink": "https://www.amazon.in/dp/B0994N9BDC?tag=thuttu-21&ascsubtag=1314271",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0994N9BDC?ascsubtag=1314271&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6a8dc7ee00270492c6d1f81d466c3260&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:13.351Z",
+        "updatedAt": "2023-12-04T05:05:21.288Z",
+        "ProductImgUrl": "uploads/DZert Kids Soft Plush Backpacks Cartoon Boys Girls Baby 2 5 Years Penguin Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1750,
+      "attributes": {
+        "title": "Brunte Kids Swing Car, Twister Swing Car with PU LED Wheels, Push Ride on Magic Swing Car for Kids Suitable",
+        "dealPrice": "₹ 872",
+        "originalPrice": "₹ 3699",
+        "platform": "Amazon",
+        "discount": "76",
+        "productLink": "https://amazon.in/dp/B0BZC9DGWM/?tag=thuttu-21&ascsubtag=1314270",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BZC9DGWM?ascsubtag=1314270&linkCode=ll1&tag=hotdealsbazaar-21&linkId=60a464a51de49c32b4c939005ad42765&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:12.318Z",
+        "updatedAt": "2023-12-04T05:03:50.913Z",
+        "ProductImgUrl": "uploads/Brunte Kids Swing Car Twister Swing Car with PU LED Wheels Push Ride on Magic Swing Car for Kids Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1749,
+      "attributes": {
+        "title": "Revlon (Color Silk Hair Color (3D Color Gel Technology) with Keratin), Soft Black 1WN,",
+        "dealPrice": "₹ 243",
+        "originalPrice": "₹ 449",
+        "platform": "Amazon",
+        "discount": "46",
+        "productLink": "https://www.amazon.in/dp/B08CFW2NGL?tag=thuttu-21&ascsubtag=1314268",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08CFW2NGL?ascsubtag=1314268&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b24fbd5c976d58d9b0a509b45676e756&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:10.763Z",
+        "updatedAt": "2023-12-04T05:01:34.518Z",
+        "ProductImgUrl": "uploads/Revlon Color Silk Hair Color 3D Color Gel Technology with Keratin Soft Black 1WN.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1748,
+      "attributes": {
+        "title": "Safari Spartan 21 Ltrs Water Resistant Backpack - Blue, S (SPARTAN19CBBLU)",
+        "dealPrice": "₹ 599",
+        "originalPrice": "₹ 2010",
+        "platform": "Amazon",
+        "discount": "70",
+        "productLink": "https://www.amazon.in/dp/B09B26MB5M?tag=thuttu-21&ascsubtag=1314267",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09B26MB5M?ascsubtag=1314267&th=1&psc=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=a36a0823544b9935836abe6ec70f0eaf&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:09.834Z",
+        "updatedAt": "2023-12-04T04:58:06.367Z",
+        "ProductImgUrl": "uploads/Safari Spartan 21 Ltrs Water Resistant Backpack Blue S SPARTAN19CBBLU.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1747,
+      "attributes": {
+        "title": "WAHL WCHD4-1024 Hair Dryer  (1200 W, White)",
+        "dealPrice": "₹ 459",
+        "originalPrice": "₹ 1000",
+        "platform": "Flipkart",
+        "discount": "54",
+        "productLink": "https://www.flipkart.com/wahl-wchd4-1024-hair-dryer/p/itmf8y3gfyhxtyn6?pid=HDRF8XJQTC6GBHFX",
+        "affiliate_product_link": "https://www.flipkart.com/wahl-wchd4-1024-hair-dryer/p/itmf8y3gfyhxtyn6?pid=HDRF8XJQTC6GBHFX&affid=mithunvel",
+        "createdAt": "2023-12-04T04:45:08.740Z",
+        "updatedAt": "2023-12-04T04:49:46.468Z",
+        "ProductImgUrl": "uploads/WAHL WCHD4 1024 Hair Dryer 1200 W White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1746,
+      "attributes": {
+        "title": "Cello Texas Plastic Pet Bottle, 1 Litre, Set of 6, Black",
+        "dealPrice": "₹ 159",
+        "originalPrice": "₹ 275",
+        "platform": "Amazon",
+        "discount": "42",
+        "productLink": "https://www.amazon.in/dp/B01KJZSCK0?tag=thuttu-21&ascsubtag=1314265",
+        "affiliate_product_link": "https://www.amazon.in/dp/B01KJZSCK0?ascsubtag=1314265&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=e6d8d422f345bb5a9e6bffaa390c5f7d&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:07.834Z",
+        "updatedAt": "2023-12-04T04:56:29.726Z",
+        "ProductImgUrl": "uploads/Cello Texas Plastic Pet Bottle 1 Litre Set of 6 Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1745,
+      "attributes": {
+        "title": "Lux Essence of Himalayas Rose & Aloe Vera Gel Body Scrub - 300g",
+        "dealPrice": "₹ 200",
+        "originalPrice": "₹ 500",
+        "platform": "Myntra",
+        "discount": "60",
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Fbody-scrub-and-exfoliator%2Flux%2Flux-essence-of-himalayas-rose--aloe-vera-gel-body-scrub---300g%2F21687076%2Fbuy",
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-04T04:45:06.862Z",
+        "updatedAt": "2023-12-04T04:45:06.862Z",
+        "ProductImgUrl": "uploads/Lux Essence of Himalayas Rose Aloe Vera Gel Body Scrub 300g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1744,
+      "attributes": {
+        "title": "Clovia Women's Snug Fit High-Rise Active Tights",
+        "dealPrice": "₹ 399",
+        "originalPrice": "₹ 1299",
+        "platform": "Amazon",
+        "discount": "69",
+        "productLink": "https://amazon.in/dp/B0BR3PNKQD/?tag=thuttu-21&ascsubtag=1314263",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BR3PNKQD?ascsubtag=1314263&linkCode=ll1&tag=hotdealsbazaar-21&linkId=656e115fe310585cbf1630a32d0ed5af&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:05.854Z",
+        "updatedAt": "2023-12-04T04:55:28.163Z",
+        "ProductImgUrl": "uploads/Clovia Womens Snug Fit High Rise Active Tights.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1743,
+      "attributes": {
+        "title": "Ant Esports GM270W Optical Wired Gaming Mouse with 7 Programmable Buttons and 3200 Adjustable DPI - Black - USB",
+        "dealPrice": "₹ 294",
+        "originalPrice": "₹ 799",
+        "platform": "Amazon",
+        "discount": "63",
+        "productLink": "https://www.amazon.in/dp/B08B5Z93JQ?tag=thuttu-21&ascsubtag=1309285",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08B5Z93JQ?ascsubtag=1309285&linkCode=ll1&tag=hotdealsbazaar-21&linkId=949aabecf217ba994a7daecfd36d7207&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:04.709Z",
+        "updatedAt": "2023-12-04T04:54:41.802Z",
+        "ProductImgUrl": "uploads/Ant Esports GM270W Optical Wired Gaming Mouse with 7 Programmable Buttons and 3200 Adjustable DPI Black USB.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1742,
+      "attributes": {
+        "title": "Real Fruit Juice, Masala Pomegranate, 1L Box (Pack of 2)",
+        "dealPrice": "₹ 145",
+        "originalPrice": "₹ 280",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": "https://www.amazon.in/dp/B07H5F96VN?tag=thuttu-21&ascsubtag=1314262",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07H5F96VN?ascsubtag=1314262&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=9690e6ac52482a315fdafde3e00048c3&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-04T04:45:02.631Z",
+        "updatedAt": "2023-12-04T04:53:49.877Z",
+        "ProductImgUrl": "uploads/Real Fruit Juice Masala Pomegranate 1L Box Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1741,
       "attributes": {
         "title": "Hungama HiLife Newly Launched Bounce 301 HiLife Wireless Earbuds with BT V5.1, Up to 60Hours Playback, IPX4 Water Resistance, with 1 Year Free Subscription of Hungama Music & Hungama Play, Black",
@@ -16152,7 +16422,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 897
+      "total": 912
     }
   }
 }
