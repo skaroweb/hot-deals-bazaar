@@ -1,6 +1,348 @@
 {
   "data": [
     {
+      "id": 1790,
+      "attributes": {
+        "title": "[For HDFC CC With 18 Month No Cost EMI] Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74K (Black)",
+        "dealPrice": "₹ 41719",
+        "originalPrice": "₹ 69900",
+        "platform": "Amazon",
+        "discount": "40",
+        "productLink": "https://www.amazon.in/dp/B09WN26DG5?tag=thuttu-21&ascsubtag=1315177",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09WN26DG5?ascsubtag=1315177&linkCode=ll1&tag=hotdealsbazaar-21&linkId=20c8d41b0b40ea807323d3f2678e15d8&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:52:11.342Z",
+        "updatedAt": "2023-12-06T05:12:50.162Z",
+        "ProductImgUrl": "uploads/For HDFC CC With 18 Month No Cost EMI Sony Bravia 139 cm 55 inches 4K Ultra HD Smart LED Google TV KD 55X74K Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1789,
+      "attributes": {
+        "title": "Wrangler Men's Clothing Starts at Rs.279",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Amazon",
+        "discount": "",
+        "productLink": "https://www.amazon.in/s?i=apparel&rh=n%3A1571271031%2Cp_4%3AWrangler%2Cp_n_feature_nineteen_browse-bin%3A11301357031&s=price-asc-rank&tag=thuttu-21&ascsubtag=1315176",
+        "affiliate_product_link": "https://www.amazon.in/s?i=apparel&rh=n%3A1571271031%2Cp_4%3AWrangler%2Cp_n_feature_nineteen_browse-bin%3A11301357031&s=price-asc-rank&ascsubtag=1315176&linkCode=ll2&tag=hotdealsbazaar-21&linkId=c7f4983244537a90c18b74476aa9fea7&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:51:10.758Z",
+        "updatedAt": "2023-12-06T05:11:48.297Z",
+        "ProductImgUrl": "uploads/Wrangler Mens Clothing Starts at Rs279.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1788,
+      "attributes": {
+        "title": "TOS™ Jute Printed Cushion Cover (Pack of 5, 40 cm*40 cm, Dark Blue Colour)",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 599",
+        "platform": "Amazon",
+        "discount": "50",
+        "productLink": "https://www.amazon.in/dp/B09648FL7N?tag=thuttu_a-21&ascsubtag=1315175",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09648FL7N?ascsubtag=1315175&linkCode=ll1&tag=hotdealsbazaar-21&linkId=22d149a9155a9ec2c81543d695114c88&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:51:09.736Z",
+        "updatedAt": "2023-12-06T05:10:59.299Z",
+        "ProductImgUrl": "uploads/TOS Jute Printed Cushion Cover Pack of 5 40 cm40 cm Dark Blue Colour.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1787,
+      "attributes": {
+        "title": "Lavie Sport Hype 1 36 litres Casual Backpack | School College Bag",
+        "dealPrice": "₹ 645",
+        "originalPrice": "₹ 1499",
+        "platform": "Amazon",
+        "discount": "57",
+        "productLink": "https://www.amazon.in/dp/B07VFNNT6M?tag=thuttu-21&ascsubtag=1315174",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07VFNNT6M?ascsubtag=1315174&linkCode=ll1&tag=hotdealsbazaar-21&linkId=8a2f038cf66e6a3a60374171de5cdd53&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:18.917Z",
+        "updatedAt": "2023-12-06T05:10:03.870Z",
+        "ProductImgUrl": "uploads/Lavie Sport Hype 1 36 litres Casual Backpack School College Bag.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1786,
+      "attributes": {
+        "title": "F Gear Castle Black 22 Ltrs Casual Backpack (3227)",
+        "dealPrice": "₹ 358",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://www.amazon.in/dp/B07WS19ZRW?tag=thuttu-21&ascsubtag=1315173",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07WS19ZRW?ascsubtag=1315173&linkCode=ll1&tag=hotdealsbazaar-21&linkId=fc7774df4b5475dc40292cf0deb73cb5&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:17.757Z",
+        "updatedAt": "2023-12-06T05:09:18.748Z",
+        "ProductImgUrl": "uploads/F Gear Castle Black 22 Ltrs Casual Backpack 3227.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1785,
+      "attributes": {
+        "title": "Parachute Advansed Soft Touch Body Lotion",
+        "dealPrice": "₹ 102",
+        "originalPrice": "₹ 225",
+        "platform": "Amazon",
+        "discount": "55",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B00CBRHUEO?ascsubtag=1315172&linkCode=ll1&tag=hotdealsbazaar-21&linkId=b56d61876fc1f1a6e9da020eaa1cd0f6&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:16.668Z",
+        "updatedAt": "2023-12-06T05:08:31.023Z",
+        "ProductImgUrl": "uploads/Parachute Advansed Soft Touch Body Lotion.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1784,
+      "attributes": {
+        "title": "VI-JOHN Feather Touch Aloevera & Cucumber Hair Removal Cream, for Sensitive Skin, Suitable",
+        "dealPrice": "₹ 370",
+        "originalPrice": "₹ 897",
+        "platform": "Amazon",
+        "discount": "59",
+        "productLink": "https://amazon.in/dp/B0B33XXBZR/?tag=thuttu-21&ascsubtag=1315171",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0B33XXBZR?ascsubtag=1315171&linkCode=ll1&tag=hotdealsbazaar-21&linkId=7d6ef99ae38bc1be063fea489fb9e5ed&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:15.592Z",
+        "updatedAt": "2023-12-06T05:07:26.579Z",
+        "ProductImgUrl": "uploads/VI JOHN Feather Touch Aloevera Cucumber Hair Removal Cream for Sensitive Skin Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1783,
+      "attributes": {
+        "title": "Amazon Brand - Solimo Makeup Brushes, Set of 6",
+        "dealPrice": "₹ 225",
+        "originalPrice": "₹ 1035",
+        "platform": "Amazon",
+        "discount": "78",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08GLHJRTZ?ascsubtag=1315169&linkCode=ll1&tag=hotdealsbazaar-21&linkId=863df64ff2e1d7987af2fdff45d70027&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:14.605Z",
+        "updatedAt": "2023-12-06T05:05:25.584Z",
+        "ProductImgUrl": "uploads/Amazon Brand Solimo Makeup Brushes Set of 6.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1782,
+      "attributes": {
+        "title": "wipro Garnet 3W LED Mini Downlight | Warm White (2700K) | Compact Design with 120° Beam Angle | Recessed Down Light",
+        "dealPrice": "₹ 119",
+        "originalPrice": "₹ 270",
+        "platform": "Amazon",
+        "discount": "56",
+        "productLink": "https://www.amazon.in/dp/B09TDWNT9Z?tag=thuttu-21&ascsubtag=1315168",
+        "affiliate_product_link": "https://www.amazon.in/dp/B09TDWNT9Z?ascsubtag=1315168&linkCode=ll1&tag=hotdealsbazaar-21&linkId=432e264f69810266d3b1a675be811528&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:13.596Z",
+        "updatedAt": "2023-12-06T05:04:13.457Z",
+        "ProductImgUrl": "uploads/wipro Garnet 3W LED Mini Downlight Warm White 2700K Compact Design with 120 Beam Angle Recessed Down Light.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1781,
+      "attributes": {
+        "title": "Halonix 9-Watt LED Bulb Astron Plus Base B22  (Cool Day Light) Pack of 4",
+        "dealPrice": "₹ 351",
+        "originalPrice": "₹ 715",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": "https://www.amazon.in/dp/B01N4FQ2Y5?tag=thuttu-21&ascsubtag=1315167",
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-06T04:44:12.119Z",
+        "updatedAt": "2023-12-06T04:44:12.119Z",
+        "ProductImgUrl": "uploads/Halonix 9 Watt LED Bulb Astron Plus Base B22 Cool Day Light Pack of 4.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1780,
+      "attributes": {
+        "title": "Dabur Shilajit Gold - 10 Capsules | 100% Ayurvedic Capsules",
+        "dealPrice": "₹ 150",
+        "originalPrice": "₹ 275",
+        "platform": "Amazon",
+        "discount": "45",
+        "productLink": "https://www.amazon.in/dp/B002M8GHSC?tag=thuttu-21&ascsubtag=1315166",
+        "affiliate_product_link": "https://www.amazon.in/dp/B002M8GHSC?ascsubtag=1315166&linkCode=ll1&tag=hotdealsbazaar-21&linkId=497dbd36053708f3f274e66fb9dc7b4b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:10.944Z",
+        "updatedAt": "2023-12-06T05:00:55.401Z",
+        "ProductImgUrl": "uploads/Dabur Shilajit Gold 10 Capsules 100 Ayurvedic Capsules.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1779,
+      "attributes": {
+        "title": "Himalaya Reosto Tablets, Green, 30 Count, Pack of 2",
+        "dealPrice": "₹ 183",
+        "originalPrice": "₹ 360",
+        "platform": "Amazon",
+        "discount": "49",
+        "productLink": "https://www.amazon.in/dp/B00FJ4K5F2?tag=thuttu-21&ascsubtag=1315165",
+        "affiliate_product_link": "https://www.amazon.in/dp/B00FJ4K5F2?ascsubtag=1315165&linkCode=ll1&tag=hotdealsbazaar-21&linkId=720e82b5899b1c6ece6633ad527f4d88&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:09.870Z",
+        "updatedAt": "2023-12-06T04:59:29.450Z",
+        "ProductImgUrl": "uploads/Himalaya Reosto Tablets Green 30 Count Pack of 2.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1778,
+      "attributes": {
+        "title": "Himalaya Menosan Tablets, Gree, 30 Count, Pack of 2, Green (123456)",
+        "dealPrice": "₹ 179",
+        "originalPrice": "₹ 380",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://www.amazon.in/dp/B00JHLIQ0E?tag=thuttu-21&ascsubtag=1315164",
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-06T04:44:08.829Z",
+        "updatedAt": "2023-12-06T04:44:08.829Z",
+        "ProductImgUrl": "uploads/Himalaya Menosan Tablets Gree 30 Count Pack of 2 Green 123456.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1777,
+      "attributes": {
+        "title": "Cortina Grey & Black Geometric Printed Chair Cover",
+        "dealPrice": "₹ 98",
+        "originalPrice": "₹ 898",
+        "platform": "Myntra",
+        "discount": "89",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-06T04:44:07.731Z",
+        "updatedAt": "2023-12-06T04:44:07.731Z",
+        "ProductImgUrl": "uploads/Cortina Grey Black Geometric Printed Chair Cover.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1776,
+      "attributes": {
+        "title": "Yogabar Yogababy 100% Powder Jaggery  (300 g)",
+        "dealPrice": "₹ 99",
+        "originalPrice": "₹ 249",
+        "platform": "Flipkart",
+        "discount": "60",
+        "productLink": "https://www.flipkart.com/yogabar-yogababy-100-powder-jaggery/p/itm4c1a299b2f44b?pid=JGRGUM6G7YVHQVYU",
+        "affiliate_product_link": "https://www.flipkart.com/yogabar-yogababy-100-powder-jaggery/p/itm4c1a299b2f44b?pid=JGRGUM6G7YVHQVYU&affid=mithunvel",
+        "createdAt": "2023-12-06T04:44:06.663Z",
+        "updatedAt": "2023-12-06T04:53:26.256Z",
+        "ProductImgUrl": "uploads/Yogabar Yogababy 100 Powder Jaggery 300 g.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1775,
+      "attributes": {
+        "title": "FTX Men's T-Shirt",
+        "dealPrice": "₹ 100",
+        "originalPrice": "₹ 625",
+        "platform": "Amazon",
+        "discount": "84",
+        "productLink": "https://www.amazon.in/dp/B097TNWYVF?tag=thuttu-21&ascsubtag=1309913",
+        "affiliate_product_link": "https://www.amazon.in/dp/B097TNWYVF?ascsubtag=1309913&linkCode=ll1&tag=hotdealsbazaar-21&linkId=c6e267106c5511a8ea13a360fdde0033&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:05.522Z",
+        "updatedAt": "2023-12-06T04:56:57.513Z",
+        "ProductImgUrl": "uploads/FTX Mens T Shirt.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1774,
+      "attributes": {
+        "title": "Havells Ventil Air DSP 230mm Exhaust Fan| Cut Out Size: Ø9.5| Watt: 40| RPM: 1350| Air Delivery: 510| Suitable",
+        "dealPrice": "₹ 1125",
+        "originalPrice": "₹ 2315",
+        "platform": "Amazon",
+        "discount": "51",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B091FBFFMM?ascsubtag=1315161&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=853c814e18fb218652da210e208aee4c&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:04.365Z",
+        "updatedAt": "2023-12-06T04:56:12.237Z",
+        "ProductImgUrl": "uploads/Havells Ventil Air DSP 230mm Exhaust Fan Cut Out Size 95 Watt 40 RPM 1350 Air Delivery 510 Suitable.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1773,
+      "attributes": {
+        "title": "WONDERLAND FOODS Plain Seedless Green Raisin (Kishmish) Dried Grapes 1Kg (500g X 2) Jar | Nutritious | Rich in Iron & Vitamin B | Healthy Sweet Treats",
+        "dealPrice": "₹ 299",
+        "originalPrice": "₹ 898",
+        "platform": "Amazon",
+        "discount": "67",
+        "productLink": "https://www.amazon.in/dp/B08VGDWJRM?tag=thuttu-21&ascsubtag=1315160",
+        "affiliate_product_link": "https://www.amazon.in/dp/B08VGDWJRM?ascsubtag=1315160&linkCode=ll1&tag=hotdealsbazaar-21&linkId=0ca0a5e54e60407f473c9951235a10df&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-06T04:44:03.360Z",
+        "updatedAt": "2023-12-06T04:54:36.027Z",
+        "ProductImgUrl": "uploads/WONDERLAND FOODS Plain Seedless Green Raisin Kishmish Dried Grapes 1Kg 500g X 2 Jar Nutritious Rich in Iron Vitamin B Healthy Sweet Treats.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1772,
+      "attributes": {
+        "title": "Red Tape Men's Clothing Min.80% Off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Myntra",
+        "discount": "",
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Fmen-apparel%3Ff%3DBrand%253ARed%2BTape%26rawQuery%3DMen%2BApparel%26rf%3DDiscount%2BRange%253A80.0_100.0_80.0%2BTO%2B100.0%26sort%3Dprice_asc",
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-06T04:44:02.219Z",
+        "updatedAt": "2023-12-06T04:44:02.219Z",
+        "ProductImgUrl": "uploads/Red Tape Mens Clothing Min80 Off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1771,
       "attributes": {
         "title": "Reynolds D FINE BALLPEN - BLUE | PACK OF 50 | Ball Point Pen Set With Comfortable Grip | Pens For Writing | School and Office Stationery | Pens For Students | 0.7 mm Tip Size",
@@ -16692,7 +17034,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 927
+      "total": 946
     }
   }
 }
