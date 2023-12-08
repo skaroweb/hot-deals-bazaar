@@ -1,6 +1,420 @@
 {
   "data": [
     {
+      "id": 1813,
+      "attributes": {
+        "title": "[Size 6] PUMA Puma Men White Black Colourblocked IDP Sneakers Sneakers For Men  (White)",
+        "dealPrice": "₹ 550",
+        "originalPrice": "₹ 4499",
+        "platform": "Flipkart",
+        "discount": "88",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/puma-men-white-black-colourblocked-idp-sneakers/p/itm30c126827ae10?pid=SHOGG8DG5HA2GZUH&lid=LSTSHOGG8DG5HA2GZUHIINRV2&marketplace=FLIPKART&sattr%5B0%5D=size&st=size",
+        "createdAt": "2023-12-08T05:03:13.045Z",
+        "updatedAt": "2023-12-08T05:14:48.055Z",
+        "ProductImgUrl": "uploads/Size 6 PUMA Puma Men White Black Colourblocked IDP Sneakers Sneakers For Men White.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1812,
+      "attributes": {
+        "title": "Aristocrat Set Of 3 Trigon 4W Trolley Suitcases",
+        "dealPrice": "₹ 5899",
+        "originalPrice": "₹ 25550",
+        "platform": "Myntra",
+        "discount": "77",
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Ftrolley-bag%2Faristocrat%2Faristocrat-set-of-3-trigon-4w-trolley-suitcases%2F24113318%2Fbuy",
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-08T05:03:11.755Z",
+        "updatedAt": "2023-12-08T05:03:11.755Z",
+        "ProductImgUrl": "uploads/Aristocrat Set Of 3 Trigon 4W Trolley Suitcases.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1811,
+      "attributes": {
+        "title": "Duosoft Black 014 Men 's Ortho Comfit Flip-Flops Slippers",
+        "dealPrice": "₹ 149",
+        "originalPrice": "₹ 798",
+        "platform": "Amazon",
+        "discount": "81",
+        "productLink": "https://amazon.in/dp/B0BDRS729S/?tag=thuttu-21&ascsubtag=1316024",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BDRS729S?ascsubtag=1316024&linkCode=ll1&tag=hotdealsbazaar-21&linkId=170a0ca82ad9ce12ecef79184283a588&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:52:10.056Z",
+        "updatedAt": "2023-12-08T05:01:35.777Z",
+        "ProductImgUrl": "uploads/Duosoft Black 014 Men s Ortho Comfit Flip Flops Slippers.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1810,
+      "attributes": {
+        "title": "Morphy Richards Kingsman Pro 12-in-1 Body Groomer|3Months of Trimming*| Fast USB Charging| Multi-Grooming Kit|5Face Nose Ear Hair blades|7Beard Combs| PrivatePart Shaving|2-Yr Warranty by Brand|Black",
+        "dealPrice": "₹ 1549",
+        "originalPrice": "₹ 2995",
+        "platform": "Amazon",
+        "discount": "48",
+        "productLink": "https://amazon.in/dp/B0C2HT1YB6/?tag=thuttu-21&ascsubtag=1316022",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C2HT1YB6?ascsubtag=1316022&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=6dc0299bef3e4c64e792a2c1bfa3c1aa&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:46:10.831Z",
+        "updatedAt": "2023-12-08T04:58:10.857Z",
+        "ProductImgUrl": "uploads/Morphy Richards Kingsman Pro 12 in 1 Body Groomer3Months of Trimming Fast USB Charging Multi Grooming Kit5Face Nose Ear Hair blades7Beard Combs PrivatePart Shaving2 Yr Warranty by BrandBlack.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1809,
+      "attributes": {
+        "title": "PUMA Willow Walking Shoes For Men  (Blue, Grey)",
+        "dealPrice": "₹ 802",
+        "originalPrice": "₹ 3999",
+        "platform": "Flipkart",
+        "discount": "80",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/puma-willow-walking-shoes-men/p/itmfd87swmgph8ey?pid=SHOFD86WKFPYGDFZ&affid=mithunvel",
+        "createdAt": "2023-12-08T04:44:12.236Z",
+        "updatedAt": "2023-12-08T05:15:12.701Z",
+        "ProductImgUrl": "uploads/PUMA Willow Walking Shoes For Men Blue Grey.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1808,
+      "attributes": {
+        "title": "Lakme@ 60% Off",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Myntra",
+        "discount": "",
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Flakme%3Frf%3DDiscount%2BRange%253A60.0_100.0_60.0%2BTO%2B100.0%26sort%3Ddiscount",
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-08T04:44:11.129Z",
+        "updatedAt": "2023-12-08T04:44:11.129Z",
+        "ProductImgUrl": "uploads/Lakme 60 Off.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1807,
+      "attributes": {
+        "title": "Roadster Men Solid Jacket",
+        "dealPrice": "₹ 264",
+        "originalPrice": "₹ 2799",
+        "platform": "Flipkart",
+        "discount": "91",
+        "productLink": "https://www.flipkart.com/flipkart/p/item?pid=JCKFEQ8ZFBBG7TMG",
+        "affiliate_product_link": "https://www.flipkart.com/flipkart/p/item?pid=JCKFEQ8ZFBBG7TMG&affid=mithunvel",
+        "createdAt": "2023-12-08T04:42:13.493Z",
+        "updatedAt": "2023-12-08T05:15:28.929Z",
+        "ProductImgUrl": "uploads/Roadster Men Solid Jacket.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1806,
+      "attributes": {
+        "title": "KamaSutra UltraThin+ Condoms for Men for Closest Feel",
+        "dealPrice": "₹ 100",
+        "originalPrice": "₹ 250",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": null,
+        "affiliate_product_link": "https://www.amazon.in/dp/B08YYS5161?ascsubtag=1316019&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=cd65259c15bf1648b6f1fd5b660943a9&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:41:21.650Z",
+        "updatedAt": "2023-12-08T04:56:40.272Z",
+        "ProductImgUrl": "uploads/KamaSutra UltraThin Condoms for Men for Closest Feel.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1805,
+      "attributes": {
+        "title": "Morphy Richards AstonX BT1110 beard trimmer",
+        "dealPrice": "₹ 561",
+        "originalPrice": "₹ 1195",
+        "platform": "Amazon",
+        "discount": "53",
+        "productLink": "https://amazon.in/dp/B0C2HTG43G/?tag=thuttu-21&ascsubtag=1316018",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C2HTG43G?ascsubtag=1316018&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=014206d8679b467696adfe04f441589f&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:41:20.445Z",
+        "updatedAt": "2023-12-08T04:54:59.203Z",
+        "ProductImgUrl": "uploads/Morphy Richards AstonX BT1110 beard trimmer.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1804,
+      "attributes": {
+        "title": "Spotzero By Milton Dry Mop Cotton, Aqua Green",
+        "dealPrice": "₹ 160",
+        "originalPrice": "₹ 550",
+        "platform": "Amazon",
+        "discount": "71",
+        "productLink": "https://www.amazon.in/dp/B07735K5JG?tag=thuttu-21&ascsubtag=1314717",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07735K5JG?ascsubtag=1314717&linkCode=ll1&tag=hotdealsbazaar-21&linkId=04a7719710335273c0bf5dea9d5c2c2e&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:41:19.283Z",
+        "updatedAt": "2023-12-08T04:53:20.390Z",
+        "ProductImgUrl": "uploads/Spotzero By Milton Dry Mop Cotton Aqua Green.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1803,
+      "attributes": {
+        "title": "Livon Set of 2 Heat Protect Hair Serum & Syska Hair Dryer",
+        "dealPrice": "₹ 472",
+        "originalPrice": "₹ 1749",
+        "platform": "Myntra",
+        "discount": "73",
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Fhair-serum%2Flivon%2Flivon-set-of-2-heat-protect-hair-serum--syska-hair-dryer%2F12974254%2Fbuy",
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-08T04:41:18.006Z",
+        "updatedAt": "2023-12-08T04:41:18.006Z",
+        "ProductImgUrl": "uploads/Livon Set of 2 Heat Protect Hair Serum Syska Hair Dryer.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1802,
+      "attributes": {
+        "title": "Morphy Richards Idazzle Hd121Dc 1200W Hair Dryer|1200 Watt|Aqua Blue & Black",
+        "dealPrice": "₹ 598",
+        "originalPrice": "₹ 1495",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://amazon.in/dp/B0C6MQ3F9S/?tag=thuttu-21&ascsubtag=1316016",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C6MQ3F9S?ascsubtag=1316016&linkCode=ll1&tag=hotdealsbazaar-21&linkId=e1865021ff0a637781ec49c638a6eb9b&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:41:16.811Z",
+        "updatedAt": "2023-12-08T04:52:14.273Z",
+        "ProductImgUrl": "uploads/Morphy Richards Idazzle Hd121Dc 1200W Hair Dryer1200 WattAqua Blue Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1801,
+      "attributes": {
+        "title": "[For Axis Card] nfinix Zero 30 5G (Rome Green, 256 GB)  (8 GB RAM)",
+        "dealPrice": "₹ 20799",
+        "originalPrice": "₹ 27999",
+        "platform": "Flipkart",
+        "discount": "26",
+        "productLink": "https://www.flipkart.com/infinix-zero-30-5g-rome-green-256-gb/p/itm38408251441a4?",
+        "affiliate_product_link": "https://www.flipkart.com/infinix-zero-30-5g-rome-green-256-gb/p/itm38408251441a4?affid=mithunvel",
+        "createdAt": "2023-12-08T04:41:15.644Z",
+        "updatedAt": "2023-12-08T05:15:41.656Z",
+        "ProductImgUrl": "uploads/For Axis Card nfinix Zero 30 5G Rome Green 256 GB 8 GB RAM.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1800,
+      "attributes": {
+        "title": "Fire-Boltt Ninja Fit Smartwatch With Full Touch Display & 120+ Sports Modes",
+        "dealPrice": "₹ 899",
+        "originalPrice": "₹ 2599",
+        "platform": "Myntra",
+        "discount": "65",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-08T04:41:14.536Z",
+        "updatedAt": "2023-12-08T04:41:14.536Z",
+        "ProductImgUrl": "uploads/Fire Boltt Ninja Fit Smartwatch With Full Touch Display 120 Sports Modes.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1799,
+      "attributes": {
+        "title": "Nova NHT 1076 Cordless: 30 Minutes Runtime Trimmer For Men (Black)",
+        "dealPrice": "₹ 314",
+        "originalPrice": "₹ 899",
+        "platform": "Amazon",
+        "discount": "65",
+        "productLink": "https://www.amazon.in/dp/B07JLBFYX7?tag=thuttu_a-21&ascsubtag=1316013",
+        "affiliate_product_link": "https://www.amazon.in/dp/B07JLBFYX7?ascsubtag=1316013&th=1&linkCode=ll1&tag=hotdealsbazaar-21&linkId=5520d793ff790cddec6a322344839254&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:41:12.782Z",
+        "updatedAt": "2023-12-08T04:50:26.938Z",
+        "ProductImgUrl": "uploads/Nova NHT 1076 Cordless 30 Minutes Runtime Trimmer For Men Black.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1798,
+      "attributes": {
+        "title": "Flying Machine Men's T- Shirt Starts From Rs.174",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Myntra",
+        "discount": "",
+        "productLink": "https://www.ad.admitad.com/g/s56leml8ckb011728c7823d5247706/?ulp=https%3A%2F%2Fwww.myntra.com%2Fmen-clothing%3Ff%3DBrand%253AFlying%2BMachine%253A%253ACategories%253AJackets%252CJeans%252CShirts%252CShorts%252CSweaters%252CSweatshirts%252CTrousers%252CTshirts%26rawQuery%3DMen%2BClothing%26rf%3DDiscount%2BRange%253A65.0_100.0_65.0%2BTO%2B100.0%26sort%3Dprice_asc",
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-08T04:41:11.574Z",
+        "updatedAt": "2023-12-08T04:41:11.574Z",
+        "ProductImgUrl": "uploads/Flying Machine Mens T Shirt Starts From Rs174.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1797,
+      "attributes": {
+        "title": "Ambrane 120W, 2.1 Channel Home Theatre with Remote,Subwoofer",
+        "dealPrice": "₹ 4999",
+        "originalPrice": "₹ 12999",
+        "platform": "Amazon",
+        "discount": "62",
+        "productLink": "https://amazon.in/dp/B0C3RCWHKK/?tag=thuttu-21&ascsubtag=1316011",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0C3RCWHKK?ascsubtag=1316011&linkCode=ll1&tag=hotdealsbazaar-21&linkId=e583864d0e7b43a79b27ab2d27e92368&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:41:10.472Z",
+        "updatedAt": "2023-12-08T04:48:57.338Z",
+        "ProductImgUrl": "uploads/Ambrane 120W 21 Channel Home Theatre with RemoteSubwoofer.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1796,
+      "attributes": {
+        "title": "Asian Paints Wall Paper Wallpapers From Rs.99",
+        "dealPrice": "",
+        "originalPrice": "",
+        "platform": "Flipkart",
+        "discount": "",
+        "productLink": "https://tinyurl.com/yke6gq96",
+        "affiliate_product_link": "https://www.flipkart.com/home-decor/stickers-wallpapers/stickers/asian-paints~brand/pr?p%255B%255D=facets.discount_range_v1%25255B%25255D%253D80%252525%252Bor%252Bmore&p%255B%255D=facets.size%25255B%25255D%253DLarge&affExtParam2=f3b15404319926042d5f192ebe5a4d35&affExtParam1=1323002&affid=mithunvel&sort=price_asc&sid=arb%252Cyod%252Csi0",
+        "createdAt": "2023-12-08T04:41:09.511Z",
+        "updatedAt": "2023-12-08T05:16:21.599Z",
+        "ProductImgUrl": "uploads/Asian Paints Wall Paper Wallpapers From Rs99.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1795,
+      "attributes": {
+        "title": "PROVOGUE Medium 25 L Laptop Backpack Premium laptop messenger bag upto 18 inches capacity Navy  (Blue)",
+        "dealPrice": "₹ 460",
+        "originalPrice": "₹ 2199",
+        "platform": "Flipkart",
+        "discount": "79",
+        "productLink": "https://www.flipkart.com/provogue-premium-laptop-messenger-bag-upto-18-inches-capacity-navy-25-l-backpack/p/itmabbfbb4ec1f21?pid=BKPGBWS2CQR3DCSD",
+        "affiliate_product_link": "https://www.flipkart.com/provogue-premium-laptop-messenger-bag-upto-18-inches-capacity-navy-25-l-backpack/p/itmabbfbb4ec1f21?pid=BKPGBWS2CQR3DCSD&affid=mithunvel",
+        "createdAt": "2023-12-08T04:41:08.495Z",
+        "updatedAt": "2023-12-08T05:15:54.733Z",
+        "ProductImgUrl": "uploads/PROVOGUE Medium 25 L Laptop Backpack Premium laptop messenger bag upto 18 inches capacity Navy Blue.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1794,
+      "attributes": {
+        "title": "Dove Dryness Care Bodywash infused with Jojoba Oil to deeply nourish your skin, 100% gentle cleansers, paraben free/sulphate free cleansers, 100% plant- based moisturisers, 800ml",
+        "dealPrice": "₹ 200",
+        "originalPrice": "₹ 500",
+        "platform": "Amazon",
+        "discount": "60",
+        "productLink": "https://amazon.in/dp/B0BNNLCG3Q/?tag=thuttu-21&ascsubtag=1313546",
+        "affiliate_product_link": "https://www.amazon.in/dp/B0BNNLCG3Q?ascsubtag=1313546&linkCode=ll1&tag=hotdealsbazaar-21&linkId=275d1f82838479a056ff9e0df1ec5b42&language=en_IN&ref_=as_li_ss_tl",
+        "createdAt": "2023-12-08T04:41:06.861Z",
+        "updatedAt": "2023-12-08T04:47:40.908Z",
+        "ProductImgUrl": "uploads/Dove Dryness Care Bodywash infused with Jojoba Oil to deeply nourish your skin 100 gentle cleansers paraben freesulphate free cleansers 100 plant based moisturisers 800ml.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1793,
+      "attributes": {
+        "title": "Aristocrat Unisex Turquoise Blue Solid TRIUMPH 55 Cabin Trolley Suitcase",
+        "dealPrice": "₹ 1299",
+        "originalPrice": "₹ 8370",
+        "platform": "Myntra",
+        "discount": "84",
+        "productLink": null,
+        "affiliate_product_link": null,
+        "createdAt": "2023-12-08T04:41:05.745Z",
+        "updatedAt": "2023-12-08T04:41:05.745Z",
+        "ProductImgUrl": "uploads/Aristocrat Unisex Turquoise Blue Solid TRIUMPH 55 Cabin Trolley Suitcase.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1792,
+      "attributes": {
+        "title": "Parachute Advansed Baby Care Gift Set, Perfect baby gift box",
+        "dealPrice": "₹ 575",
+        "originalPrice": "₹ 1200",
+        "platform": "Flipkart",
+        "discount": "52",
+        "productLink": "https://www.flipkart.com/parachute-advansed-baby-care-gift-set-perfect-box-newborn-baby-safe-toy-medium/p/itmf76f3e624ad5b?pid=CAGGRF452UVCMPPA",
+        "affiliate_product_link": "https://www.flipkart.com/parachute-advansed-baby-care-gift-set-perfect-box-newborn-baby-safe-toy-medium/p/itmf76f3e624ad5b?pid=CAGGRF452UVCMPPA&affid=mithunvel",
+        "createdAt": "2023-12-08T04:41:04.364Z",
+        "updatedAt": "2023-12-08T05:17:16.632Z",
+        "ProductImgUrl": "uploads/Parachute Advansed Baby Care Gift Set Perfect baby gift box.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 1791,
+      "attributes": {
+        "title": "Wildcraft Women Full Sleeve Solid Sweatshirt",
+        "dealPrice": "₹ 614",
+        "originalPrice": "₹ 2049",
+        "platform": "Flipkart",
+        "discount": "70",
+        "productLink": null,
+        "affiliate_product_link": "https://www.flipkart.com/wildcraft-full-sleeve-solid-women-sweatshirt/p/itm60e9d68b6862e?pid=SWSFVB9NZYABK5U4&affid=mithunvel",
+        "createdAt": "2023-12-08T04:41:03.000Z",
+        "updatedAt": "2023-12-08T05:16:55.386Z",
+        "ProductImgUrl": "uploads/Wildcraft Women Full Sleeve Solid Sweatshirt.jpg",
+        "productimage": {
+          "data": null
+        }
+      }
+    },
+    {
       "id": 1790,
       "attributes": {
         "title": "[For HDFC CC With 18 Month No Cost EMI] Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74K (Black)",
@@ -17034,7 +17448,7 @@
       "page": 1,
       "pageSize": 10000000,
       "pageCount": 1,
-      "total": 946
+      "total": 969
     }
   }
 }
